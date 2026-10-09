@@ -1,4 +1,5 @@
-name: Noticias de streamers colombianos
+
+name: Radar de creadores colombianos
 
 on:
   schedule:
@@ -8,9 +9,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: radar-creadores-colombianos
+  cancel-in-progress: false
+
 jobs:
   recopilar-noticias:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Descargar repositorio
@@ -21,11 +27,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Recopilar noticias recientes
+      - name: Ejecutar radar de creadores
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          TWITCH_BROADCASTER_IDS: ${{ vars.TWITCH_BROADCASTER_IDS }}
         run: python scripts/noticias.py
 
       - name: Guardar informe en GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualizar borrador de noticias"
+          commit_message: "Actualizar radar de creadores"
           file_pattern: "borradores/*.md"
