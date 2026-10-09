@@ -1,17 +1,17 @@
-
-name: Recopilar noticias de streamers
+name: Noticias de streamers colombianos
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  recopilar:
+  recopilar-noticias:
     runs-on: ubuntu-latest
+
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -21,15 +21,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Recopilar noticias
+      - name: Recopilar noticias recientes
         run: python scripts/noticias.py
 
-      - name: Guardar resultados
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add borradores/
-          if ! git diff --cached --quiet; then
-            git commit -m "Actualizar borradores de noticias"
-            git push
-          fi
+      - name: Guardar informe en GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar borrador de noticias"
+          file_pattern: "borradores/*.md"
