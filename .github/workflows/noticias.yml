@@ -4,7 +4,7 @@ name: Radar de creadores y TikTok
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
 
 permissions:
   contents: write
@@ -12,6 +12,7 @@ permissions:
 jobs:
   generar-radares:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Descargar repositorio
@@ -22,74 +23,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Instalar dependencias actualizadas
+      - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
           python -m pip install --upgrade requests yt-dlp
-
-      - name: Comprobar conexión con YouTube
-        continue-on-error: true
-        run: |
-          python - <<'PY'
-          import json
-          import subprocess
-          import sys
-
-          print("VERSION DE YT-DLP")
-          version = subprocess.run(
-              [sys.executable, "-m", "yt_dlp", "--version"],
-              capture_output=True,
-              text=True
-          )
-          print(version.stdout.strip() or version.stderr.strip())
-
-          print("\nPROBANDO BUSQUEDA DE YOUTUBE")
-          comando = [
-              sys.executable,
-              "-m", "yt_dlp",
-              "--dump-single-json",
-              "--skip-download",
-              "--no-warnings",
-              "--playlist-end", "3",
-              "ytsearch3:Westcol"
-          ]
-
-          try:
-              resultado = subprocess.run(
-                  comando,
-                  capture_output=True,
-                  text=True,
-                  timeout=90
-              )
-
-              print("Codigo de salida:", resultado.returncode)
-
-              if resultado.stderr.strip():
-                  print("Mensajes de yt-dlp:")
-                  print(resultado.stderr[-4000:])
-
-              if resultado.stdout.strip():
-                  datos = json.loads(resultado.stdout)
-                  videos = datos.get("entries", []) or []
-
-                  print("Resultados recibidos:", len(videos))
-
-                  for video in videos:
-                      if video:
-                          print(
-                              "-",
-                              video.get("title", "Sin titulo"),
-                              "| fecha:",
-                              video.get("upload_date", "No disponible"),
-                              "| ID:",
-                              video.get("id", "No disponible")
-                          )
-              else:
-                  print("YouTube no devolvio datos de video.")
-
-          except Exception as error:
-              print("ERROR EN LA PRUEBA:", repr(error))
-          PY
 
       - name: Ejecutar radar principal
         run: python scripts/noticias.py
