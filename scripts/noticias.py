@@ -15,62 +15,71 @@ MAX_TITULARES = 25
 HORAS_MAXIMAS = 48
 REINTENTOS = 3
 
-# Búsquedas centradas en creadores concretos y en su actividad.
-TEMAS = [
-    '"Westcol"',
-    '"La Liendra"',
-    '"Yeferson Cossio"',
-    '"Aida Victoria Merlano"',
-    '"Epa Colombia"',
-    '"Luisa Fernanda W"',
-    '"Dani Duke"',
-    '"Andrea Valdiri"',
-    '"Mr Stiven"',
-    '"Pelicanger"',
-    '"Juan Guarnizo" streamer',
-    'streamers colombianos Twitch Kick',
-    'influencers colombianos redes sociales',
-    'creadores de contenido Colombia polémica',
-]
-
+# Nombres conocidos: son un punto de partida, no una lista cerrada.
 CREADORES = [
-    "westcol",
-    "la liendra",
-    "yeferson cossio",
-    "aida victoria",
-    "epa colombia",
-    "luisa fernanda w",
-    "dani duke",
-    "andrea valdiri",
-    "mr stiven",
-    "pelicanger",
-    "juan guarnizo",
+    "Westcol",
+    "La Liendra",
+    "Yeferson Cossio",
+    "Aida Victoria",
+    "Epa Colombia",
+    "Luisa Fernanda W",
+    "Dani Duke",
+    "Andrea Valdiri",
+    "Mr Stiven",
+    "Pelicanger",
+    "Juan Guarnizo",
 ]
 
-PALABRAS_RELEVANTES = [
-    "streamer",
-    "streamers",
-    "influencer",
-    "influencers",
-    "youtuber",
-    "youtubers",
-    "creador de contenido",
-    "creadora de contenido",
-    "creadores de contenido",
-    "creadoras de contenido",
-    "twitch",
-    "kick",
-    "tiktok",
-    "youtube",
-    "directo",
-    "directos",
-    "transmision en vivo",
-    "redes sociales",
-    "viral",
-    "polémica",
-    "polemica",
-    "colaboracion",
-    "colaboraciones",
+# Búsquedas para descubrir creadores que todavía no conocemos.
+BUSQUEDAS = [
+    ("Streamers colombianos", '"streamer colombiano"'),
+    ("Streamers emergentes", '"nuevo streamer colombiano"'),
+    ("Streamers virales", '"streamer colombiano viral"'),
+    ("Streamers de Kick", 'streamer colombiano Kick'),
+    ("Streamers de Twitch", 'streamer colombiano Twitch'),
+    ("Streamers de YouTube", 'streamer colombiano YouTube'),
+    ("Directos y polémicas", 'streamer colombiano polémica'),
+    ("Nuevos creadores", '"creador de contenido colombiano"'),
+    ("Influencers colombianos", '"influencer colombiano"'),
+    ("Influencers virales", 'influencer colombiano viral'),
+    ("TikTok colombiano", 'tiktoker colombiano viral'),
+    ("YouTubers colombianos", 'youtuber colombiano viral'),
+    ("Creadores de Medellín", 'streamer creador Medellín Colombia'),
+    ("Creadores de Bogotá", 'streamer creador Bogotá Colombia'),
+    ("Creadores de Cali", 'streamer creador Cali Colombia'),
+    ("Creadores de Barranquilla", 'streamer creador Barranquilla Colombia'),
+    ("Colaboraciones", 'streamer influencer colombiano colaboración'),
+    ("Noticias de Westcol", '"Westcol"'),
+    ("Noticias de La Liendra", '"La Liendra"'),
+    ("Noticias de Yeferson Cossio", '"Yeferson Cossio"'),
+    ("Noticias de Aida Victoria", '"Aida Victoria"'),
+    ("Noticias de Epa Colombia", '"Epa Colombia"'),
+    ("Noticias de Luisa Fernanda W", '"Luisa Fernanda W"'),
+    ("Noticias de Dani Duke", '"Dani Duke"'),
+    ("Noticias de Andrea Valdiri", '"Andrea Valdiri"'),
+    ("Noticias de Mr Stiven", '"Mr Stiven"'),
+    ("Noticias de Pelicanger", '"Pelicanger"'),
+    ("Noticias de Juan Guarnizo", '"Juan Guarnizo"'),
+]
+
+PALABRAS_CREADORES = [
+    "streamer", "streamers", "influencer", "influencers",
+    "creador de contenido", "creadora de contenido",
+    "creadores de contenido", "creadoras de contenido",
+    "tiktoker", "youtuber", "youtubers",
+    "twitch", "kick", "youtube", "tiktok",
+    "transmision en vivo", "directo", "directos",
+    "redes sociales", "creador digital",
+]
+
+INDICIOS_COLOMBIA = [
+    "colombia", "colombiano", "colombiana",
+    "colombianos", "colombianas",
+    "bogota", "medellin", "cali", "barranquilla",
+    "bucaramanga", "cartagena", "pereira",
+    "manizales", "cucuta", "villavicencio",
+    "santa marta", "ibague", "pasto", "monteria",
+    "neiva", "armenia", "valledupar", "sincelejo",
 ]
 
 
@@ -87,19 +96,26 @@ def limpiar(texto):
     return re.sub(r"\s+", " ", texto or "").strip()
 
 
-def es_relevante(titulo, descripcion=""):
+def es_relevante(titulo, descripcion):
     texto = normalizar(titulo + " " + descripcion)
 
-    # Aceptar noticias que mencionen directamente a estos creadores.
+    # Si menciona a un creador conocido, aceptar el resultado.
     if any(normalizar(nombre) in texto for nombre in CREADORES):
         return True
 
-    # En búsquedas generales, exigir términos relacionados
-    # con streamers, influencers o sus plataformas.
-    return any(
+    # Para descubrir nombres nuevos, exigir señales de Colombia
+    # y términos relacionados con creadores o plataformas.
+    es_colombiano = any(
         normalizar(palabra) in texto
-        for palabra in PALABRAS_RELEVANTES
+        for palabra in INDICIOS_COLOMBIA
     )
+
+    es_creador = any(
+        normalizar(palabra) in texto
+        for palabra in PALABRAS_CREADORES
+    )
+
+    return es_colombiano and es_creador
 
 
 def obtener_fecha(texto):
@@ -118,12 +134,12 @@ def obtener_fecha(texto):
         return None
 
 
-def obtener_noticias(tema):
-    busqueda = tema + " when:2d"
+def consultar(tema):
+    consulta = tema + " when:2d"
 
     url = (
         "https://news.google.com/rss/search?q="
-        + urllib.parse.quote(busqueda)
+        + urllib.parse.quote(consulta)
         + "&hl=es-419&gl=CO&ceid=CO:es-419"
     )
 
@@ -132,32 +148,32 @@ def obtener_noticias(tema):
         headers={"User-Agent": "Mozilla/5.0"},
     )
 
-    raiz = None
-
     for intento in range(REINTENTOS):
         try:
             with urllib.request.urlopen(
                 solicitud, timeout=30
             ) as respuesta:
-                raiz = ET.fromstring(respuesta.read())
-            break
+                return ET.fromstring(respuesta.read())
 
         except urllib.error.HTTPError as error:
-            if error.code == 503 and intento < REINTENTOS - 1:
-                espera = 3 * (intento + 1)
-                print(f"Error 503. Reintento en {espera} segundos.")
-                time.sleep(espera)
-            else:
+            if error.code != 503 or intento == REINTENTOS - 1:
                 raise
+
+            espera = 3 * (intento + 1)
+            print(f"Error 503. Reintento en {espera} segundos.")
+            time.sleep(espera)
 
         except (urllib.error.URLError, TimeoutError):
             if intento == REINTENTOS - 1:
                 raise
+
             time.sleep(3 * (intento + 1))
 
-    if raiz is None:
-        raise RuntimeError("No se obtuvo respuesta de Google Noticias")
+    raise RuntimeError("No se pudo consultar Google Noticias")
 
+
+def obtener_noticias(tema):
+    raiz = consultar(tema)
     limite = datetime.now(timezone.utc) - timedelta(
         hours=HORAS_MAXIMAS
     )
@@ -171,11 +187,10 @@ def obtener_noticias(tema):
         descripcion = limpiar(item.findtext("description"))
         fecha = obtener_fecha(fecha_texto)
 
-        # Descartar noticias viejas, sin fecha o irrelevantes.
-        if fecha is None or fecha < limite:
+        if not titulo or not enlace:
             continue
 
-        if not titulo or not enlace:
+        if fecha is None or fecha < limite:
             continue
 
         if not es_relevante(titulo, descripcion):
@@ -185,7 +200,6 @@ def obtener_noticias(tema):
             "titulo": titulo,
             "enlace": enlace,
             "fecha": fecha_texto,
-            "fecha_utc": fecha,
         })
 
         if len(resultados) >= MAX_TITULARES:
@@ -195,23 +209,24 @@ def obtener_noticias(tema):
 
 
 def main():
-    fecha_hoy = datetime.now(
+    hoy = datetime.now(
         ZoneInfo("America/Bogota")
     ).strftime("%Y-%m-%d")
 
     lineas = [
-        f"# Noticias de streamers e influencers — {fecha_hoy}",
+        f"# Radar de creadores colombianos — {hoy}",
         "",
-        f"> Antigüedad máxima: {HORAS_MAXIMAS} horas.",
-        f"> Máximo: {MAX_TITULARES} titulares por búsqueda.",
-        "> Verifica cada noticia antes de publicarla.",
+        f"> Noticias de las últimas {HORAS_MAXIMAS} horas.",
+        f"> Hasta {MAX_TITULARES} titulares por búsqueda.",
+        "> Se priorizan streamers y se incluyen otros influencers.",
+        "> Verifica la información antes de publicar.",
         "",
     ]
 
     vistos = set()
 
-    for tema in TEMAS:
-        lineas.extend([f"## Búsqueda: {tema}", ""])
+    for categoria, tema in BUSQUEDAS:
+        lineas.extend([f"## {categoria}", ""])
 
         try:
             noticias = obtener_noticias(tema)
@@ -236,15 +251,16 @@ def main():
 
             if nuevas == 0:
                 lineas.extend([
-                    "No se encontraron noticias relevantes recientes.",
+                    "No se encontraron resultados nuevos.",
                     "",
                 ])
 
-            print(f"{tema}: {nuevas} noticias relevantes.")
+            print(f"{categoria}: {nuevas} noticias.")
 
         except Exception as error:
             mensaje = f"{type(error).__name__}: {error}"
-            print(f"Error en {tema}: {mensaje}")
+            print(f"Error en {categoria}: {mensaje}")
+
             lineas.extend([
                 f"No se pudo consultar esta búsqueda: {mensaje}",
                 "",
@@ -253,7 +269,7 @@ def main():
     carpeta = Path("borradores")
     carpeta.mkdir(parents=True, exist_ok=True)
 
-    destino = carpeta / f"noticias-{fecha_hoy}.md"
+    destino = carpeta / f"noticias-{hoy}.md"
     destino.write_text(
         "\n".join(lineas) + "\n",
         encoding="utf-8",
