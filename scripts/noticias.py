@@ -1,32 +1,79 @@
-name: Recopilar noticias de streamers
+import re
+import urllib.request
+import urllib.parse
+import xml.etree.ElementTree as ET
+from datetime import datetime
+from zoneinfo import ZoneInfo
+from pathlib import Path
 
-on:
-workflow_dispatch:
-schedule:
-- cron: “0 13 * * *”
+TEMAS = [
+    "Westcol",
+    "streamers Colombia",
+    "polémica streamer",
+    "Kick streamer Colombia",
+    "Twitch streamer Colombia",
+]
 
-permissions:
-contents: write
+def limpiar(texto):
+    return re.sub(r"\s+", " ", texto or "").strip()
 
-jobs:
-recopilar:
-runs-on: ubuntu-latest
-steps:
-- name: Descargar repositorio
-uses: actions/checkout@v4
+def obtener_noticias(tema):
+    url = (
+        "https://news.google.com/rss/search?q="
+        + urllib.parse.quote(tema)
+        + "&hl=es-419&gl=CO&ceid=CO:es-419"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as respuesta:
+        raiz = ET.fromstring(respuesta.read())
+    resultados = []
+    for item in raiz.findall("./channel/item")[:8]:
+        resultados.append({
+            "titulo": limpiar(item.findtext("title")),
+            "enlace": limpiar(item.findtext("link")),
+            "fecha": limpiar(item.findtext("pubDate")),
+        })
+    return resultados
 
-  - name: Configurar Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.12"
-  - name: Recopilar noticias
-    run: python scripts/noticias.py
-  - name: Guardar resultados
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add borradores/
-      if ! git diff --cached --quiet; then
-        git commit -m "Actualizar borradores de noticias"
-        git push
-      fi
+def main():
+    fecha = datetime.now(ZoneInfo("America/Bogota")).strftime("%Y-%m-%d")
+    lineas = [
+        f"# Noticias para revisar — {fecha}",
+        "",
+        "> Borrador automático: verifica cada noticia antes de publicar.",
+        "",
+    ]
+    vistos = set()
+    for tema in TEMAS:
+        lineas.extend([f"## Búsqueda: {tema}", ""])
+        try:
+            noticias = obtener_noticias(tema)
+            nuevas = 0
+            for noticia in noticias:
+                enlace = noticia["enlace"]
+                if not enlace or enlace in vistos:
+                    continue
+                vistos.add(enlace)
+                nuevas += 1
+                lineas.extend([
+                    "### " + noticia["titulo"],
+                    "- Fecha de la fuente: " + noticia["fecha"],
+                    "- Enlace: " + enlace,
+                    "- Estado: pendiente de verificación",
+                    "",
+                ])
+            if nuevas == 0:
+                lineas.extend(["No se encontraron resultados nuevos.", ""])
+        except Exception as error:
+            lineas.extend([
+                f"No se pudo consultar esta búsqueda: {error}",
+                "",
+            ])
+    carpeta = Path("borradores")
+    carpeta.mkdir(parents=True, exist_ok=True)
+    destino = carpeta / f"noticias-{fecha}.md"
+    destino.write_text("\n".join(lineas), encoding="utf-8")
+    print(f"Informe generado: {destino}")
+
+if __name__ == "__main__":
+    main()
