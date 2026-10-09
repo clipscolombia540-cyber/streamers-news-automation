@@ -1,14 +1,14 @@
-
 import html
+import json
 import re
-import time
+import subprocess
+import sys
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from difflib import SequenceMatcher
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -19,7 +19,8 @@ from zoneinfo import ZoneInfo
 HORAS_MAXIMAS = 48
 MAX_RESULTADOS = 25
 MAX_WESTCOL = 2
-MAX_POR_CREADOR = 3
+MAX_POR_CANAL = 2
+RESULTADOS_POR_BUSQUEDA = 8
 
 CARPETA = Path("borradores")
 ZONA = ZoneInfo("America/Bogota")
@@ -27,7 +28,7 @@ ZONA = ZoneInfo("America/Bogota")
 CATEGORIAS = [
     "1. Grandes de Kick",
     "2. Amigos y círculo de Westcol",
-    "3. Emergentes y pequeños de Kick",
+    "3. Emergentes y descubrimientos de Kick",
     "4. Otros streamers",
     "5. Influencers y creadores",
     "6. Clips virales, humor y polémicas",
@@ -41,89 +42,85 @@ CANALES_KICK = {
     "Lonche": "https://kick.com/lonche",
 }
 
-CREADORES_CONOCIDOS = [
-    "Westcol", "La Sapaaaaa", "Chanty", "Samulx", "Lonche",
-    "Pelicanger", "Mr Stiven", "Juan Guarnizo", "Spreen",
-    "La Liendra", "Yeferson Cossio", "Dani Duke",
-    "Luisa Fernanda W", "Aida Victoria Merlano",
-    "Kika Nieto", "Pautips", "Ami Rodriguez",
-    "Calle y Poche", "TheDonato", "Cristorata",
-]
-
-# Las búsquedas se separan por tema para que el informe
-# no quede dominado por un solo streamer.
-
+# Las búsquedas son puntos de partida, no una lista cerrada
+# de los únicos creadores que puede descubrir el radar.
 BUSQUEDAS_YOUTUBE = [
-    ("1. Grandes de Kick", "Westcol Kick"),
-    ("1. Grandes de Kick", "LaSapaaaaa Kick"),
-    ("1. Grandes de Kick", "Chanty Kick"),
+    ("1. Grandes de Kick", "Westcol Kick Colombia"),
+    ("1. Grandes de Kick", "La Sapaaaaa Kick"),
+    ("1. Grandes de Kick", "Chanty Kick Colombia"),
     ("1. Grandes de Kick", "Samulx Kick"),
-    ("1. Grandes de Kick", "Lonche Kick"),
-    ("1. Grandes de Kick", "streamers grandes colombianos Kick"),
+    ("1. Grandes de Kick", "Lonche Kick Colombia"),
+    ("1. Grandes de Kick", "streamer colombiano Kick directo"),
 
-    ("2. Amigos y círculo de Westcol", "Westcol amigos streamers"),
-    ("2. Amigos y círculo de Westcol", "Westcol con otros streamers"),
-    ("2. Amigos y círculo de Westcol", "parceros de Westcol directo"),
-    ("2. Amigos y círculo de Westcol", "colaboraciones Westcol streamers"),
-    ("2. Amigos y círculo de Westcol", "Westcol invitados Kick"),
+    ("2. Amigos y círculo de Westcol", "Westcol colaboración streamer"),
+    ("2. Amigos y círculo de Westcol", "Westcol invitados directo"),
+    ("2. Amigos y círculo de Westcol", "Westcol con otros creadores"),
 
-    ("3. Emergentes y pequeños de Kick", "streamer colombiano emergente Kick"),
-    ("3. Emergentes y pequeños de Kick", "streamer pequeño Kick Colombia"),
-    ("3. Emergentes y pequeños de Kick", "nuevo streamer colombiano Kick"),
-    ("3. Emergentes y pequeños de Kick", "clips streamer Kick colombiano"),
-    ("3. Emergentes y pequeños de Kick", "streamer colombiano creciendo Kick"),
-    ("3. Emergentes y pequeños de Kick", "directo Kick colombiano"),
+    ("3. Emergentes y descubrimientos de Kick",
+     "streamer colombiano Kick pequeño"),
+    ("3. Emergentes y descubrimientos de Kick",
+     "nuevo streamer colombiano Kick"),
+    ("3. Emergentes y descubrimientos de Kick",
+     "Kick Colombia directo streamer"),
+    ("3. Emergentes y descubrimientos de Kick",
+     "clips de streamers colombianos Kick"),
+    ("3. Emergentes y descubrimientos de Kick",
+     "streamer colombiano desconocido Kick"),
+    ("3. Emergentes y descubrimientos de Kick",
+     "streamer latino Kick Colombia"),
 
-    ("4. Otros streamers", "streamers colombianos Twitch"),
-    ("4. Otros streamers", "streamers colombianos YouTube Gaming"),
-    ("4. Otros streamers", "clips streamers colombianos"),
-    ("4. Otros streamers", "streamer colombiano en directo"),
+    ("4. Otros streamers", "streamer colombiano Twitch"),
+    ("4. Otros streamers", "streamer colombiano YouTube Gaming"),
+    ("4. Otros streamers", "clips de streamers colombianos"),
+    ("4. Otros streamers", "streamers colombianos en directo"),
 
-    ("5. Influencers y creadores", "influencers colombianos"),
-    ("5. Influencers y creadores", "tiktokers colombianos virales"),
+    ("5. Influencers y creadores", "influencer colombiano viral"),
+    ("5. Influencers y creadores", "tiktoker colombiano viral"),
     ("5. Influencers y creadores", "creadores de contenido Colombia"),
-    ("5. Influencers y creadores", "influencers colombianos Instagram"),
-    ("5. Influencers y creadores", "youtubers colombianos tendencias"),
+    ("5. Influencers y creadores", "youtubers colombianos recientes"),
 
-    ("6. Clips virales, humor y polémicas", "momentos graciosos streamers colombianos"),
-    ("6. Clips virales, humor y polémicas", "peleas discusiones streamers colombianos"),
-    ("6. Clips virales, humor y polémicas", "reacciones polémicas creadores colombianos"),
-    ("6. Clips virales, humor y polémicas", "clips virales Colombia streamer"),
-    ("6. Clips virales, humor y polémicas", "momentos inesperados Kick Colombia"),
-    ("6. Clips virales, humor y polémicas", "memes influencers colombianos"),
+    ("6. Clips virales, humor y polémicas",
+     "momentos graciosos streamers colombianos"),
+    ("6. Clips virales, humor y polémicas",
+     "discusión pelea streamer colombiano"),
+    ("6. Clips virales, humor y polémicas",
+     "clips virales streamer Colombia"),
+    ("6. Clips virales, humor y polémicas",
+     "reacciones polémicas influencers colombianos"),
+    ("6. Clips virales, humor y polémicas",
+     "momentos inesperados directo streamer"),
 ]
 
 BUSQUEDAS_NOTICIAS = [
     ("1. Grandes de Kick", '"Westcol"'),
-    ("1. Grandes de Kick", '"La Sapaaaaa" streamer'),
+    ("1. Grandes de Kick", '"La Sapaaaaa" Kick'),
     ("1. Grandes de Kick", '"Chanty" streamer Colombia'),
     ("1. Grandes de Kick", '"Samulx" streamer'),
     ("1. Grandes de Kick", '"Lonche" streamer Colombia'),
-    ("1. Grandes de Kick", '"streamer colombiano" Kick'),
 
-    ("2. Amigos y círculo de Westcol", '"Westcol" amigos streamers'),
-    ("2. Amigos y círculo de Westcol", '"Westcol" colaboración streamer'),
-    ("2. Amigos y círculo de Westcol", '"Westcol" invitado directo'),
-    ("2. Amigos y círculo de Westcol", '"Westcol" creadores de contenido'),
+    ("2. Amigos y círculo de Westcol", '"Westcol" colaboración'),
+    ("2. Amigos y círculo de Westcol", '"Westcol" invitados streamer'),
 
-    ("3. Emergentes y pequeños de Kick", '"nuevo streamer" Colombia Kick'),
-    ("3. Emergentes y pequeños de Kick", '"streamer colombiano" emergente'),
-    ("3. Emergentes y pequeños de Kick", 'streamer pequeño colombiano viral'),
+    ("3. Emergentes y descubrimientos de Kick",
+     '"streamer colombiano" Kick'),
+    ("3. Emergentes y descubrimientos de Kick",
+     '"nuevo streamer" Colombia'),
+    ("3. Emergentes y descubrimientos de Kick",
+     '"streamer emergente" Colombia'),
 
     ("4. Otros streamers", '"streamer colombiano" Twitch'),
     ("4. Otros streamers", '"streamer colombiano" YouTube'),
-    ("4. Otros streamers", 'directos streamers Colombia'),
 
     ("5. Influencers y creadores", '"influencer colombiano"'),
-    ("5. Influencers y creadores", '"tiktoker colombiano" viral'),
+    ("5. Influencers y creadores", '"tiktoker colombiano"'),
     ("5. Influencers y creadores", '"creador de contenido colombiano"'),
-    ("5. Influencers y creadores", 'influencer colombiano Instagram TikTok'),
 
-    ("6. Clips virales, humor y polémicas", 'streamer colombiano pelea polémica'),
-    ("6. Clips virales, humor y polémicas", 'streamer colombiano discusión viral'),
-    ("6. Clips virales, humor y polémicas", 'momentos graciosos streamer colombiano'),
-    ("6. Clips virales, humor y polémicas", 'video viral influencer colombiano'),
-    ("6. Clips virales, humor y polémicas", 'reacción polémica streamer Colombia'),
+    ("6. Clips virales, humor y polémicas",
+     'streamer colombiano polémica viral'),
+    ("6. Clips virales, humor y polémicas",
+     'streamer colombiano discusión'),
+    ("6. Clips virales, humor y polémicas",
+     'influencer colombiano video viral'),
 ]
 
 
@@ -150,7 +147,7 @@ def parsear_fecha(valor):
 
     try:
         fecha = datetime.fromisoformat(
-            valor.strip().replace("Z", "+00:00")
+            str(valor).replace("Z", "+00:00")
         )
         if fecha.tzinfo is None:
             fecha = fecha.replace(tzinfo=timezone.utc)
@@ -171,37 +168,20 @@ def descargar(url):
     solicitud = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "Mozilla/5.0 (compatible; RadarCreadores/1.0)",
+            "User-Agent": "Mozilla/5.0 RadarCreadores/2.0",
             "Accept": "application/rss+xml, application/xml, text/xml",
         },
     )
-
-    with urllib.request.urlopen(solicitud, timeout=20) as respuesta:
+    with urllib.request.urlopen(solicitud, timeout=25) as respuesta:
         return respuesta.read()
 
 
-def detectar_creador(titulo, canal=""):
-    texto = normalizar(f"{titulo} {canal}")
+def fecha_valida(fecha):
+    if not fecha:
+        return False
 
-    for nombre in sorted(CREADORES_CONOCIDOS, key=len, reverse=True):
-        if normalizar(nombre) in texto:
-            return nombre
-
-    return "Por descubrir"
-
-
-def detectar_categoria(titulo, categoria_original):
-    texto = normalizar(titulo)
-
-    # No asignamos amistades como hechos confirmados:
-    # solo clasificamos contenido relacionado con Westcol.
-    if categoria_original == "2. Amigos y círculo de Westcol":
-        return categoria_original
-
-    if categoria_original == "1. Grandes de Kick":
-        return categoria_original
-
-    return categoria_original
+    ahora = datetime.now(timezone.utc)
+    return ahora - timedelta(hours=HORAS_MAXIMAS) <= fecha <= ahora
 
 
 def crear_registro(
@@ -209,62 +189,110 @@ def crear_registro(
 ):
     titulo = limpiar(titulo)
     url = limpiar(url)
+    canal = limpiar(canal)
 
-    if not titulo or not url or not fecha:
+    if not titulo or not url or not fecha_valida(fecha):
         return None
 
-    ahora = datetime.now(timezone.utc)
-    limite = ahora - timedelta(hours=HORAS_MAXIMAS)
-
-    if not limite <= fecha <= ahora:
-        return None
+    # IMPORTANTE:
+    # La identidad se basa primero en el canal que publicó el video.
+    # Que un título mencione a Westcol NO convierte automáticamente
+    # al autor del video en Westcol.
+    creador = canal or "Por identificar"
 
     return {
         "titulo": titulo,
         "url": url,
         "fecha": fecha,
         "fuente": fuente,
-        "categoria": detectar_categoria(titulo, categoria),
-        "canal": limpiar(canal),
-        "creador": detectar_creador(titulo, canal),
+        "categoria": categoria,
+        "canal": canal or "No identificado",
+        "creador": creador,
     }
 
 
 # =====================================================
-# YOUTUBE RSS
+# YOUTUBE: BÚSQUEDA REAL MEDIANTE yt-dlp
 # =====================================================
 
 def buscar_youtube():
     resultados = []
 
     for categoria, consulta in BUSQUEDAS_YOUTUBE:
-        url = (
-            "https://www.youtube.com/feeds/videos.xml?"
-            + urllib.parse.urlencode({"search_query": consulta})
-        )
+        comando = [
+            sys.executable, "-m", "yt_dlp",
+            "--dump-single-json",
+            "--flat-playlist",
+            "--no-warnings",
+            "--ignore-errors",
+            f"ytsearch{RESULTADOS_POR_BUSQUEDA}:{consulta}",
+        ]
 
         try:
-            raiz = ET.fromstring(descargar(url))
-            ns = {"atom": "http://www.w3.org/2005/Atom"}
+            proceso = subprocess.run(
+                comando,
+                capture_output=True,
+                text=True,
+                timeout=70,
+                check=False,
+            )
 
-            for item in raiz.findall("atom:entry", ns):
-                titulo = item.findtext("atom:title", "", ns)
-                canal = item.findtext(
-                    "atom:author/atom:name", "", ns
+            if proceso.returncode != 0 and not proceso.stdout.strip():
+                print(
+                    f"YouTube sin resultados para '{consulta}': "
+                    f"{proceso.stderr[-300:]}"
                 )
-                fecha = parsear_fecha(
-                    item.findtext("atom:published", "", ns)
-                )
-                enlace = item.find("atom:link", ns)
+                continue
 
-                if enlace is None:
+            datos = json.loads(proceso.stdout)
+            entradas = datos.get("entries") or []
+
+            for video in entradas:
+                if not video:
                     continue
+
+                titulo = video.get("title", "")
+                canal = (
+                    video.get("channel")
+                    or video.get("uploader")
+                    or video.get("channel_id")
+                    or ""
+                )
+
+                fecha = None
+                timestamp = video.get("release_timestamp")
+                if timestamp is None:
+                    timestamp = video.get("timestamp")
+
+                if timestamp:
+                    try:
+                        fecha = datetime.fromtimestamp(
+                            float(timestamp), timezone.utc
+                        )
+                    except (ValueError, TypeError, OverflowError, OSError):
+                        fecha = None
+
+                if not fecha:
+                    fecha_texto = video.get("upload_date", "")
+                    if re.fullmatch(r"\d{8}", str(fecha_texto)):
+                        try:
+                            fecha = datetime.strptime(
+                                fecha_texto, "%Y%m%d"
+                            ).replace(tzinfo=timezone.utc)
+                        except ValueError:
+                            fecha = None
+
+                enlace = video.get("url") or video.get("webpage_url") or ""
+                video_id = video.get("id", "")
+
+                if video_id and not enlace.startswith("http"):
+                    enlace = f"https://www.youtube.com/watch?v={video_id}"
 
                 registro = crear_registro(
                     titulo=titulo,
-                    url=enlace.get("href", ""),
+                    url=enlace,
                     fecha=fecha,
-                    fuente="YouTube RSS",
+                    fuente="YouTube",
                     categoria=categoria,
                     canal=canal,
                 )
@@ -272,11 +300,17 @@ def buscar_youtube():
                 if registro:
                     resultados.append(registro)
 
-            print(f"YouTube consultado: {consulta}")
-            time.sleep(1)
+            print(
+                f"YouTube: '{consulta}' -> "
+                f"{len(entradas)} candidatos"
+            )
 
+        except subprocess.TimeoutExpired:
+            print(f"YouTube agotó el tiempo: {consulta}")
+        except json.JSONDecodeError:
+            print(f"YouTube devolvió datos no válidos: {consulta}")
         except Exception as error:
-            print(f"YouTube RSS falló ({consulta}): {error}")
+            print(f"Error en YouTube ({consulta}): {error}")
 
     return resultados
 
@@ -290,7 +324,7 @@ def buscar_noticias():
 
     for categoria, consulta in BUSQUEDAS_NOTICIAS:
         parametros = urllib.parse.urlencode({
-            "q": consulta,
+            "q": f"{consulta} when:2d",
             "hl": "es-419",
             "gl": "CO",
             "ceid": "CO:es-419",
@@ -304,9 +338,7 @@ def buscar_noticias():
             for item in raiz.findall(".//item"):
                 titulo = item.findtext("title", "")
                 enlace = item.findtext("link", "")
-                fecha = parsear_fecha(
-                    item.findtext("pubDate", "")
-                )
+                fecha = parsear_fecha(item.findtext("pubDate", ""))
 
                 fuente_xml = item.find("source")
                 fuente = (
@@ -315,19 +347,21 @@ def buscar_noticias():
                     else "Google News"
                 )
 
+                # Google News no siempre indica el autor original.
+                # No inferimos que el creador del artículo sea Westcol.
                 registro = crear_registro(
                     titulo=titulo,
                     url=enlace,
                     fecha=fecha,
                     fuente=f"Google News — {fuente}",
                     categoria=categoria,
+                    canal="",
                 )
 
                 if registro:
                     resultados.append(registro)
 
             print(f"Google News consultado: {consulta}")
-            time.sleep(1)
 
         except Exception as error:
             print(f"Google News falló ({consulta}): {error}")
@@ -336,7 +370,7 @@ def buscar_noticias():
 
 
 # =====================================================
-# DEDUPLICACIÓN
+# CLASIFICACIÓN Y DEDUPLICACIÓN
 # =====================================================
 
 def clave_url(url):
@@ -356,56 +390,62 @@ def clave_url(url):
     return host + partes.path.rstrip("/").lower()
 
 
-def son_duplicados(a, b):
-    if clave_url(a["url"]) == clave_url(b["url"]):
-        return True
-
-    titulo_a = normalizar(a["titulo"])
-    titulo_b = normalizar(b["titulo"])
-
-    if not titulo_a or not titulo_b:
-        return False
-
-    return SequenceMatcher(
-        None, titulo_a, titulo_b
-    ).ratio() >= 0.88
-
-
 def quitar_duplicados(resultados):
     resultados = sorted(
         resultados,
-        key=lambda x: x["fecha"],
+        key=lambda item: item["fecha"],
         reverse=True,
     )
 
     unicos = []
+    urls = set()
 
     for item in resultados:
-        if any(son_duplicados(item, otro) for otro in unicos):
+        clave = clave_url(item["url"])
+
+        if clave in urls:
             continue
+
+        urls.add(clave)
         unicos.append(item)
 
     return unicos
 
 
-# =====================================================
-# SELECCIÓN EQUILIBRADA POR CATEGORÍA
-# =====================================================
+def es_mencion_westcol(item):
+    texto = normalizar(
+        item["titulo"] + " " + item["canal"]
+    )
+    return "westcol" in texto
+
 
 def seleccionar_resultados(resultados):
     grupos = {categoria: [] for categoria in CATEGORIAS}
 
-    for item in sorted(
-        resultados,
-        key=lambda x: x["fecha"],
-        reverse=True,
-    ):
-        grupos.setdefault(item["categoria"], []).append(item)
+    for item in resultados:
+        categoria = item["categoria"]
+
+        # No colocar automáticamente toda mención de Westcol
+        # en la categoría de grandes de Kick.
+        if (
+            categoria == "2. Amigos y círculo de Westcol"
+            and not es_mencion_westcol(item)
+        ):
+            continue
+
+        grupos.setdefault(categoria, []).append(item)
+
+    for categoria in grupos:
+        grupos[categoria].sort(
+            key=lambda item: item["fecha"],
+            reverse=True,
+        )
 
     seleccionados = []
-    conteo = {}
+    conteo_canal = {}
+    conteo_westcol = 0
 
-    # Una ronda por categoría para repartir los resultados.
+    # Rondas por categoría para dar oportunidades a todas.
     while len(seleccionados) < MAX_RESULTADOS:
         hubo_cambio = False
 
@@ -417,19 +457,28 @@ def seleccionar_resultados(resultados):
 
             while grupo:
                 item = grupo.pop(0)
-                creador = item["creador"].lower()
 
-                maximo = (
-                    MAX_WESTCOL
-                    if creador == "westcol"
-                    else MAX_POR_CREADOR
-                )
+                # No se conoce la identidad del autor en Google News.
+                # Se usa el título como clave temporal para evitar
+                # que todos los artículos cuenten como un solo creador.
+                canal = normalizar(item["canal"])
+                clave_canal = canal or normalizar(item["titulo"])
 
-                if conteo.get(creador, 0) >= maximo:
+                if "westcol" in normalizar(item["creador"]):
+                    if conteo_westcol >= MAX_WESTCOL:
+                        continue
+
+                if conteo_canal.get(clave_canal, 0) >= MAX_POR_CANAL:
                     continue
 
                 seleccionados.append(item)
-                conteo[creador] = conteo.get(creador, 0) + 1
+                conteo_canal[clave_canal] = (
+                    conteo_canal.get(clave_canal, 0) + 1
+                )
+
+                if "westcol" in normalizar(item["creador"]):
+                    conteo_westcol += 1
+
                 hubo_cambio = True
                 break
 
@@ -438,10 +487,9 @@ def seleccionar_resultados(resultados):
 
     return sorted(
         seleccionados,
-        key=lambda x: (
-            CATEGORIAS.index(x["categoria"])
-            if x["categoria"] in CATEGORIAS else 99,
-            -x["fecha"].timestamp(),
+        key=lambda item: (
+            CATEGORIAS.index(item["categoria"]),
+            -item["fecha"].timestamp(),
         ),
     )
 
@@ -463,10 +511,9 @@ def generar_informe(resultados):
         "",
         f"Generado: {ahora:%d/%m/%Y %H:%M} (hora Colombia)",
         "",
-        f"- Ventana: últimas {HORAS_MAXIMAS} horas.",
+        f"- Periodo: últimas {HORAS_MAXIMAS} horas.",
         f"- Resultados: {len(resultados)} de máximo {MAX_RESULTADOS}.",
-        f"- Máximo por creador: {MAX_POR_CREADOR}.",
-        f"- Máximo de Westcol: {MAX_WESTCOL}.",
+        f"- Máximo de Westcol: {MAX_WESTCOL} cuando se identifica el canal.",
         "",
         "## Canales principales de Kick",
         "",
@@ -477,10 +524,10 @@ def generar_informe(resultados):
 
     lineas.extend([
         "",
-        "> Las fuentes gratuitas no garantizan acceso directo a todos",
-        "> los clips o transmisiones de cada plataforma.",
-        "> Las búsquedas de amistades y colaboraciones no confirman",
-        "> por sí solas relaciones personales.",
+        "> Los resultados son candidatos encontrados en búsquedas,",
+        "> no una lista exhaustiva de todos los directos o clips.",
+        "> Las búsquedas de emergentes no verifican por sí solas",
+        "> el número de seguidores ni la popularidad del canal.",
         "",
     ])
 
@@ -507,8 +554,7 @@ def generar_informe(resultados):
             lineas.extend([
                 f"## {item['titulo']}",
                 "",
-                f"- **Creador:** {item['creador']}",
-                f"- **Canal:** {item['canal'] or 'No identificado'}",
+                f"- **Canal o autor:** {item['canal']}",
                 f"- **Fuente:** {item['fuente']}",
                 f"- **Fecha:** {fecha} (Colombia)",
                 f"- **Enlace:** {item['url']}",
@@ -518,16 +564,17 @@ def generar_informe(resultados):
     lineas.extend([
         "---",
         "",
-        "# Búsquedas manuales",
+        "# Búsquedas directas",
         "",
         "- [Kick](https://kick.com/)",
-        "- [Buscar streamers colombianos en Kick](https://www.google.com/search?q=site%3Akick.com+streamer+colombiano)",
+        "- [Kick Colombia en Google](https://www.google.com/search?q=site%3Akick.com+Colombia+streamer)",
         "- [Twitch](https://www.twitch.tv/directory)",
-        "- [TikTok: creadores colombianos](https://www.tiktok.com/search?q=creadores%20colombianos)",
+        "- [TikTok](https://www.tiktok.com/search?q=streamer%20colombiano)",
         "- [Instagram](https://www.instagram.com/)",
-        "- [YouTube: clips de streamers colombianos](https://www.youtube.com/results?search_query=clips+streamers+colombianos)",
+        "- [YouTube: clips colombianos](https://www.youtube.com/results?search_query=clips+streamers+colombianos)",
         "",
-        "Los enlaces manuales no son resultados recopilados automáticamente.",
+        "Los enlaces de esta sección son búsquedas manuales,",
+        "no resultados recopilados automáticamente.",
         "",
     ])
 
@@ -549,10 +596,10 @@ def main():
     resultados.extend(buscar_youtube())
     resultados.extend(buscar_noticias())
 
-    print(f"Resultados recopilados: {len(resultados)}")
+    print(f"Candidatos recopilados: {len(resultados)}")
 
     resultados = quitar_duplicados(resultados)
-    print(f"Tras quitar duplicados: {len(resultados)}")
+    print(f"Tras deduplicar: {len(resultados)}")
 
     resultados = seleccionar_resultados(resultados)
     print(f"Resultados seleccionados: {len(resultados)}")
