@@ -1,0 +1,35 @@
+
+name: Recopilar noticias de streamers
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  recopilar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recopilar noticias
+        run: python scripts/noticias.py
+
+      - name: Guardar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add borradores/
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar borradores de noticias"
+            git push
+          fi
