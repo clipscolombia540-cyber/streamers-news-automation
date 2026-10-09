@@ -6,97 +6,115 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote_plus
 
 ARCHIVO_SALIDA = "borradores/clips_tiktok.md"
 HORAS = 48
 MAX_RESULTADOS = 25
 
-CREADORES = [
-    "Westcol", "Chanty streamer", "La Sapa streamer",
-    "MrStivenTC", "Pelicanger", "Samulx", "Jeanki streamer",
-    "Spreen", "Komanche", "JuanSGuarnizo", "Coscu",
-    "Rivers streamer", "TheDonato",
-    "streamer colombiano viral", "nuevo streamer colombiano"
-]
+FEEDS = {
+    "Westcol": "https://rss.app/feeds/sf6KmIdBp9qAeT52.xml",
+}
 
-def buscar_google_news(consulta):
-    url = (
-        "https://news.google.com/rss/search?q="
-        + quote_plus(consulta)
-        + "+when%3A2d&hl=es-419&gl=CO&ceid=CO%3Aes-419"
-    )
+def fecha_publicacion(texto):
+    if not texto:
+        return None
+
+    try:
+        fecha = parsedate_to_datetime(texto)
+        if fecha.tzinfo is None:
+            fecha = fecha.replace(tzinfo=timezone.utc)
+        return fecha.astimezone(timezone.utc)
+    except (TypeError, ValueError, OverflowError):
+        return None
+
+def leer_feed(creador, url):
+    resultados = []
 
     try:
         respuesta = requests.get(
             url,
-            timeout=20,
+            timeout=25,
             headers={"User-Agent": "Mozilla/5.0"}
         )
         respuesta.raise_for_status()
         raiz = ET.fromstring(respuesta.content)
-        resultados = []
 
         for item in raiz.findall(".//item"):
-            titulo = item.findtext("title", "").strip()
-            enlace = item.findtext("link", "").strip()
-            fecha_texto = item.findtext("pubDate", "").strip()
-            fuente = item.findtext("source", "").strip()
+            titulo = html.unescape(
+                (item.findtext("title") or "").strip()
+            )
+            enlace = (item.findtext("link") or "").strip()
+            fecha_texto = (
+                item.findtext("pubDate")
+                or item.findtext("{http://www.w3.org/2005/Atom}published")
+                or item.findtext("{http://www.w3.org/2005/Atom}updated")
+                or ""
+            ).strip()
 
-            if not titulo or not enlace:
+            if not enlace:
                 continue
 
-            try:
-                fecha = parsedate_to_datetime(fecha_texto)
-                if fecha.tzinfo is None:
-                    fecha = fecha.replace(tzinfo=timezone.utc)
-                fecha = fecha.astimezone(timezone.utc)
-            except (TypeError, ValueError):
-                fecha = None
+            fecha = fecha_publicacion(fecha_texto)
 
             resultados.append({
-                "titulo": html.unescape(titulo),
+                "creador": creador,
+                "titulo": titulo or f"Publicación de {creador}",
                 "enlace": enlace,
                 "fecha": fecha,
-                "fuente": fuente or "Google News"
             })
 
-        return resultados
+        # Algunos feeds utilizan el formato Atom en lugar de RSS.
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        if not resultados:
+            for item in raiz.findall(".//atom:entry", ns):
+                titulo = item.findtext("atom:title", "", ns).strip()
+                enlace_elemento = item.find("atom:link", ns)
+                enlace = (
+                    enlace_elemento.get("href", "")
+                    if enlace_elemento is not None else ""
+                )
+                fecha_texto = (
+                    item.findtext("atom:published", "", ns)
+                    or item.findtext("atom:updated", "", ns)
+                ).strip()
+
+                if enlace:
+                    resultados.append({
+                        "creador": creador,
+                        "titulo": html.unescape(
+                            titulo or f"Publicación de {creador}"
+                        ),
+                        "enlace": enlace,
+                        "fecha": fecha_publicacion(fecha_texto),
+                    })
 
     except Exception as error:
-        print(f"Error buscando {consulta}: {error}")
-        return []
+        print(f"Error leyendo feed de {creador}: {error}")
 
-def parece_tiktok(item):
-    texto = (item["titulo"] + " " + item["enlace"]).lower()
-    menciona_tiktok = "tiktok.com" in texto or "tiktok" in texto
-    es_video = any(
-        palabra in texto
-        for palabra in ["clip", "video", "viral", "directo", "streamer"]
-    )
-    return menciona_tiktok and es_video
+    return resultados
 
 def crear_informe():
     ahora = datetime.now(timezone.utc)
     limite = ahora - timedelta(hours=HORAS)
     encontrados = {}
 
-    for creador in CREADORES:
-        consulta = f'"{creador}" TikTok clip OR viral'
-        print(f"Buscando: {creador}")
-        for item in buscar_google_news(consulta):
+    for creador, url in FEEDS.items():
+        print(f"Consultando feed de {creador}...")
+        for item in leer_feed(creador, url):
             fecha = item["fecha"]
 
-            if fecha is None or fecha < limite or fecha > ahora:
+            # No asumir que una fecha desconocida es reciente.
+            if fecha is None:
+                print(f"Publicación sin fecha verificable: {item['titulo']}")
                 continue
 
-            if not parece_tiktok(item):
+            if fecha < limite or fecha > ahora:
                 continue
 
             clave = re.sub(
                 r"[^a-z0-9]",
                 "",
-                item["titulo"].lower()
+                item["enlace"].lower().rstrip("/")
             )
 
             if clave not in encontrados:
@@ -111,39 +129,41 @@ def crear_informe():
     lineas = [
         "# Radar de clips virales de TikTok",
         "",
-        f"**Actualizado:** {ahora.astimezone().strftime('%d/%m/%Y %H:%M UTC')}",
+        f"**Actualizado:** {ahora.strftime('%d/%m/%Y %H:%M UTC')}",
         f"**Ventana:** últimas {HORAS} horas",
+        f"**Fuentes configuradas:** {len(FEEDS)}",
         "",
-        "> Esta búsqueda usa resultados públicos de Google News. "
-        "No representa una búsqueda completa de TikTok. "
-        "Los enlaces se deben comprobar antes de publicar.",
+        "> Fuente: feeds RSS configurados. La disponibilidad y las fechas "
+        "dependen de la información publicada por cada feed. "
+        "Verifica cada enlace antes de publicar.",
         "",
     ]
 
     if not lista:
-        lineas += [
-            "No se encontraron resultados verificables en esta ejecución.",
+        lineas.extend([
+            "No se encontraron publicaciones con fecha verificable "
+            "dentro de las últimas 48 horas.",
             "",
-            "Esto no significa que no existan clips nuevos en TikTok.",
+            "Esto no significa que no existan videos nuevos.",
             ""
-        ]
+        ])
     else:
-        for i, item in enumerate(lista, start=1):
+        for numero, item in enumerate(lista, start=1):
             fecha = item["fecha"].strftime("%d/%m/%Y %H:%M UTC")
-            lineas += [
-                f"## {i}. {item['titulo']}",
+            lineas.extend([
+                f"## {numero}. {item['titulo']}",
+                f"- **Creador:** {item['creador']}",
                 f"- **Fecha reportada:** {fecha}",
-                f"- **Fuente:** {item['fuente']}",
-                f"- **Enlace para revisar:** {item['enlace']}",
+                f"- **Enlace:** {item['enlace']}",
                 ""
-            ]
+            ])
 
     os.makedirs(os.path.dirname(ARCHIVO_SALIDA), exist_ok=True)
     with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as archivo:
         archivo.write("\n".join(lineas))
 
     print(f"Informe guardado en {ARCHIVO_SALIDA}")
-    print(f"Resultados encontrados: {len(lista)}")
+    print(f"Publicaciones incluidas: {len(lista)}")
 
 if __name__ == "__main__":
     crear_informe()
