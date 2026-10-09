@@ -1,158 +1,147 @@
+
 import html
 import json
 import re
-import subprocess
-import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from zoneinfo import ZoneInfo
 
-# =====================================================
-# CONFIGURACIÓN
-# =====================================================
+try:
+    from zoneinfo import ZoneInfo
+    ZONA = ZoneInfo("America/Bogota")
+except Exception:
+    ZONA = timezone(timedelta(hours=-5))
+
+try:
+    import yt_dlp
+except ImportError:
+    yt_dlp = None
+
+
+# =========================================================
+# CONFIGURACION
+# =========================================================
 
 HORAS_MAXIMAS = 48
 MAX_RESULTADOS = 25
 MAX_WESTCOL = 2
-MAX_POR_CANAL = 2
-RESULTADOS_POR_BUSQUEDA = 8
+MAX_POR_CREADOR = 3
+RESULTADOS_POR_BUSQUEDA = 10
 
-CARPETA = Path("borradores")
-ZONA = ZoneInfo("America/Bogota")
+CARPETA_SALIDA = Path("borradores")
+ARCHIVO_SALIDA = CARPETA_SALIDA / "radar_creadores.md"
 
-CATEGORIAS = [
-    "1. Grandes de Kick",
-    "2. Amigos y círculo de Westcol",
-    "3. Emergentes y descubrimientos de Kick",
-    "4. Otros streamers",
-    "5. Influencers y creadores",
-    "6. Clips virales, humor y polémicas",
-]
+AHORA = datetime.now(timezone.utc)
+LIMITE = AHORA - timedelta(hours=HORAS_MAXIMAS)
 
-CANALES_KICK = {
-    "Westcol": "https://kick.com/westcol",
-    "La Sapaaaaa": "https://kick.com/lasapaaaaa",
-    "Chanty": "https://kick.com/chanty",
-    "Samulx": "https://kick.com/samulx",
-    "Lonche": "https://kick.com/lonche",
+# Consultas separadas por categoría.
+# Se usan varias frases para no depender de una única búsqueda.
+
+BUSQUEDAS = {
+    "Grandes de Kick": [
+        "WestCOL directo Kick Colombia",
+        "La Sapaaaaa directo Kick",
+        "Chanty streamer Colombia Kick",
+        "Samulx streamer Kick",
+        "Lonche streamer Kick Colombia",
+    ],
+
+    "Circulo de Westcol": [
+        "Westcol amigos streamers Colombia",
+        "Westcol colaboradores streamers",
+        "streamers con Westcol Colombia",
+        "clip Westcol amigos directo",
+        "Westcol invitados directo reciente",
+    ],
+
+    "Creadores emergentes": [
+        "streamer colombiano Kick directo pequeño",
+        "nuevo streamer colombiano Kick",
+        "streamer emergente Colombia directo",
+        "clips streamer colombiano desconocido",
+        "streamer colombiano jugando Kick",
+        "pequeño streamer colombiano viral",
+        "nuevo creador de contenido Colombia streaming",
+        "streamer colombiano directo hoy",
+        "clips Kick Colombia streamer",
+        "streamer latino Kick Colombia reciente",
+    ],
+
+    "Otros streamers": [
+        "streamer colombiano directo reciente",
+        "streamers colombianos Twitch clips",
+        "streamer colombiano YouTube Gaming",
+        "clips de streamers colombianos recientes",
+        "directo streamer Colombia gaming",
+        "streamer latinoamericano Colombia clips",
+        "creadores gaming colombianos recientes",
+        "streamer colombiano reacciones directo",
+        "streamer colombiano jugando en vivo",
+        "clips virales streamers Colombia",
+    ],
+
+    "Influencers y creadores": [
+        "influencer colombiano reciente",
+        "creadores de contenido Colombia polémica",
+        "influencers colombianos entrevista reciente",
+        "creador colombiano video viral",
+        "influencer colombiano redes sociales noticia",
+    ],
+
+    "Clips virales y polémicas": [
+        "pelea streamer colombiano clip",
+        "discusión streamer Colombia directo",
+        "momento viral streamer colombiano",
+        "polémica influencer colombiano reciente",
+        "clip gracioso streamer colombiano",
+        "reacción streamer colombiano viral",
+        "streamer colombiano discusión en vivo",
+    ],
 }
 
-# Las búsquedas son puntos de partida, no una lista cerrada
-# de los únicos creadores que puede descubrir el radar.
-BUSQUEDAS_YOUTUBE = [
-    ("1. Grandes de Kick", "Westcol Kick Colombia"),
-    ("1. Grandes de Kick", "La Sapaaaaa Kick"),
-    ("1. Grandes de Kick", "Chanty Kick Colombia"),
-    ("1. Grandes de Kick", "Samulx Kick"),
-    ("1. Grandes de Kick", "Lonche Kick Colombia"),
-    ("1. Grandes de Kick", "streamer colombiano Kick directo"),
 
-    ("2. Amigos y círculo de Westcol", "Westcol colaboración streamer"),
-    ("2. Amigos y círculo de Westcol", "Westcol invitados directo"),
-    ("2. Amigos y círculo de Westcol", "Westcol con otros creadores"),
-
-    ("3. Emergentes y descubrimientos de Kick",
-     "streamer colombiano Kick pequeño"),
-    ("3. Emergentes y descubrimientos de Kick",
-     "nuevo streamer colombiano Kick"),
-    ("3. Emergentes y descubrimientos de Kick",
-     "Kick Colombia directo streamer"),
-    ("3. Emergentes y descubrimientos de Kick",
-     "clips de streamers colombianos Kick"),
-    ("3. Emergentes y descubrimientos de Kick",
-     "streamer colombiano desconocido Kick"),
-    ("3. Emergentes y descubrimientos de Kick",
-     "streamer latino Kick Colombia"),
-
-    ("4. Otros streamers", "streamer colombiano Twitch"),
-    ("4. Otros streamers", "streamer colombiano YouTube Gaming"),
-    ("4. Otros streamers", "clips de streamers colombianos"),
-    ("4. Otros streamers", "streamers colombianos en directo"),
-
-    ("5. Influencers y creadores", "influencer colombiano viral"),
-    ("5. Influencers y creadores", "tiktoker colombiano viral"),
-    ("5. Influencers y creadores", "creadores de contenido Colombia"),
-    ("5. Influencers y creadores", "youtubers colombianos recientes"),
-
-    ("6. Clips virales, humor y polémicas",
-     "momentos graciosos streamers colombianos"),
-    ("6. Clips virales, humor y polémicas",
-     "discusión pelea streamer colombiano"),
-    ("6. Clips virales, humor y polémicas",
-     "clips virales streamer Colombia"),
-    ("6. Clips virales, humor y polémicas",
-     "reacciones polémicas influencers colombianos"),
-    ("6. Clips virales, humor y polémicas",
-     "momentos inesperados directo streamer"),
-]
-
-BUSQUEDAS_NOTICIAS = [
-    ("1. Grandes de Kick", '"Westcol"'),
-    ("1. Grandes de Kick", '"La Sapaaaaa" Kick'),
-    ("1. Grandes de Kick", '"Chanty" streamer Colombia'),
-    ("1. Grandes de Kick", '"Samulx" streamer'),
-    ("1. Grandes de Kick", '"Lonche" streamer Colombia'),
-
-    ("2. Amigos y círculo de Westcol", '"Westcol" colaboración'),
-    ("2. Amigos y círculo de Westcol", '"Westcol" invitados streamer'),
-
-    ("3. Emergentes y descubrimientos de Kick",
-     '"streamer colombiano" Kick'),
-    ("3. Emergentes y descubrimientos de Kick",
-     '"nuevo streamer" Colombia'),
-    ("3. Emergentes y descubrimientos de Kick",
-     '"streamer emergente" Colombia'),
-
-    ("4. Otros streamers", '"streamer colombiano" Twitch'),
-    ("4. Otros streamers", '"streamer colombiano" YouTube'),
-
-    ("5. Influencers y creadores", '"influencer colombiano"'),
-    ("5. Influencers y creadores", '"tiktoker colombiano"'),
-    ("5. Influencers y creadores", '"creador de contenido colombiano"'),
-
-    ("6. Clips virales, humor y polémicas",
-     'streamer colombiano polémica viral'),
-    ("6. Clips virales, humor y polémicas",
-     'streamer colombiano discusión'),
-    ("6. Clips virales, humor y polémicas",
-     'influencer colombiano video viral'),
-]
-
-
-# =====================================================
+# =========================================================
 # UTILIDADES
-# =====================================================
+# =========================================================
 
-def limpiar(texto):
-    texto = html.unescape(str(texto or ""))
-    texto = re.sub(r"<[^>]*>", " ", texto)
-    return re.sub(r"\s+", " ", texto).strip()
-
-
-def normalizar(texto):
-    texto = limpiar(texto).lower()
-    texto = re.sub(r"https?://\S+", " ", texto)
-    texto = re.sub(r"[^a-z0-9áéíóúüñ ]", " ", texto)
-    return " ".join(texto.split())
-
-
-def parsear_fecha(valor):
+def limpiar_texto(valor):
     if not valor:
+        return ""
+    valor = html.unescape(str(valor))
+    return re.sub(r"\s+", " ", valor).strip()
+
+
+def normalizar(valor):
+    valor = limpiar_texto(valor).lower()
+    valor = re.sub(r"[^a-z0-9áéíóúñü ]", " ", valor)
+    return re.sub(r"\s+", " ", valor).strip()
+
+
+def convertir_fecha(valor):
+    """Convierte fechas ISO, RFC822 o timestamps a UTC."""
+    if valor is None or valor == "":
         return None
 
+    if isinstance(valor, (int, float)):
+        try:
+            return datetime.fromtimestamp(valor, tz=timezone.utc)
+        except (ValueError, OverflowError, OSError):
+            return None
+
+    valor = str(valor).strip()
+
     try:
-        fecha = datetime.fromisoformat(
-            str(valor).replace("Z", "+00:00")
-        )
+        fecha = datetime.fromisoformat(valor.replace("Z", "+00:00"))
         if fecha.tzinfo is None:
             fecha = fecha.replace(tzinfo=timezone.utc)
         return fecha.astimezone(timezone.utc)
-    except (ValueError, TypeError):
+    except ValueError:
         pass
 
     try:
@@ -160,403 +149,391 @@ def parsear_fecha(valor):
         if fecha.tzinfo is None:
             fecha = fecha.replace(tzinfo=timezone.utc)
         return fecha.astimezone(timezone.utc)
-    except (ValueError, TypeError, OverflowError):
-        return None
+    except (TypeError, ValueError, OverflowError):
+        pass
+
+    # yt-dlp puede devolver YYYYMMDD, sin hora exacta.
+    if re.fullmatch(r"\d{8}", valor):
+        try:
+            fecha = datetime.strptime(valor, "%Y%m%d")
+            # El mediodía evita tratar todos los videos como publicados
+            # exactamente a medianoche. Sigue siendo una fecha aproximada.
+            fecha = fecha.replace(hour=12, tzinfo=timezone.utc)
+            return fecha
+        except ValueError:
+            return None
+
+    return None
 
 
-def descargar(url):
-    solicitud = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 RadarCreadores/2.0",
-            "Accept": "application/rss+xml, application/xml, text/xml",
-        },
-    )
-    with urllib.request.urlopen(solicitud, timeout=25) as respuesta:
-        return respuesta.read()
-
-
-def fecha_valida(fecha):
+def fecha_reciente(fecha):
     if not fecha:
         return False
+    return LIMITE <= fecha <= AHORA + timedelta(minutes=10)
 
-    ahora = datetime.now(timezone.utc)
-    return ahora - timedelta(hours=HORAS_MAXIMAS) <= fecha <= ahora
+
+def formatear_fecha(fecha):
+    if not fecha:
+        return "Fecha no disponible"
+    return fecha.astimezone(ZONA).strftime("%d/%m/%Y %I:%M %p")
 
 
 def crear_registro(
-    titulo, url, fecha, fuente, categoria, canal=""
+    titulo,
+    url,
+    creador,
+    fuente,
+    fecha,
+    categoria,
+    fecha_aproximada=False,
 ):
-    titulo = limpiar(titulo)
-    url = limpiar(url)
-    canal = limpiar(canal)
+    titulo = limpiar_texto(titulo)
+    url = limpiar_texto(url)
+    creador = limpiar_texto(creador) or "Canal por identificar"
+    fuente = limpiar_texto(fuente) or "Fuente desconocida"
 
-    if not titulo or not url or not fecha_valida(fecha):
+    if not titulo or not url or not fecha:
         return None
 
-    # IMPORTANTE:
-    # La identidad se basa primero en el canal que publicó el video.
-    # Que un título mencione a Westcol NO convierte automáticamente
-    # al autor del video en Westcol.
-    creador = canal or "Por identificar"
+    if not fecha_reciente(fecha):
+        return None
 
     return {
         "titulo": titulo,
         "url": url,
-        "fecha": fecha,
-        "fuente": fuente,
-        "categoria": categoria,
-        "canal": canal or "No identificado",
         "creador": creador,
+        "fuente": fuente,
+        "fecha": fecha,
+        "categoria": categoria,
+        "fecha_aproximada": fecha_aproximada,
     }
 
 
-# =====================================================
-# YOUTUBE: BÚSQUEDA REAL MEDIANTE yt-dlp
-# =====================================================
+def es_contenido_westcol(item):
+    texto = normalizar(
+        item["creador"] + " " + item["titulo"]
+    )
+    return "westcol" in texto or "west col" in texto
 
-def buscar_youtube():
-    resultados = []
-
-    for categoria, consulta in BUSQUEDAS_YOUTUBE:
-        comando = [
-            sys.executable, "-m", "yt_dlp",
-            "--dump-single-json",
-            "--flat-playlist",
-            "--no-warnings",
-            "--ignore-errors",
-            f"ytsearch{RESULTADOS_POR_BUSQUEDA}:{consulta}",
-        ]
-
-        try:
-            proceso = subprocess.run(
-                comando,
-                capture_output=True,
-                text=True,
-                timeout=70,
-                check=False,
-            )
-
-            if proceso.returncode != 0 and not proceso.stdout.strip():
-                print(
-                    f"YouTube sin resultados para '{consulta}': "
-                    f"{proceso.stderr[-300:]}"
-                )
-                continue
-
-            datos = json.loads(proceso.stdout)
-            entradas = datos.get("entries") or []
-
-            for video in entradas:
-                if not video:
-                    continue
-
-                titulo = video.get("title", "")
-                canal = (
-                    video.get("channel")
-                    or video.get("uploader")
-                    or video.get("channel_id")
-                    or ""
-                )
-
-                fecha = None
-                timestamp = video.get("release_timestamp")
-                if timestamp is None:
-                    timestamp = video.get("timestamp")
-
-                if timestamp:
-                    try:
-                        fecha = datetime.fromtimestamp(
-                            float(timestamp), timezone.utc
-                        )
-                    except (ValueError, TypeError, OverflowError, OSError):
-                        fecha = None
-
-                if not fecha:
-                    fecha_texto = video.get("upload_date", "")
-                    if re.fullmatch(r"\d{8}", str(fecha_texto)):
-                        try:
-                            fecha = datetime.strptime(
-                                fecha_texto, "%Y%m%d"
-                            ).replace(tzinfo=timezone.utc)
-                        except ValueError:
-                            fecha = None
-
-                enlace = video.get("url") or video.get("webpage_url") or ""
-                video_id = video.get("id", "")
-
-                if video_id and not enlace.startswith("http"):
-                    enlace = f"https://www.youtube.com/watch?v={video_id}"
-
-                registro = crear_registro(
-                    titulo=titulo,
-                    url=enlace,
-                    fecha=fecha,
-                    fuente="YouTube",
-                    categoria=categoria,
-                    canal=canal,
-                )
-
-                if registro:
-                    resultados.append(registro)
-
-            print(
-                f"YouTube: '{consulta}' -> "
-                f"{len(entradas)} candidatos"
-            )
-
-        except subprocess.TimeoutExpired:
-            print(f"YouTube agotó el tiempo: {consulta}")
-        except json.JSONDecodeError:
-            print(f"YouTube devolvió datos no válidos: {consulta}")
-        except Exception as error:
-            print(f"Error en YouTube ({consulta}): {error}")
-
-    return resultados
-
-
-# =====================================================
-# GOOGLE NEWS RSS
-# =====================================================
-
-def buscar_noticias():
-    resultados = []
-
-    for categoria, consulta in BUSQUEDAS_NOTICIAS:
-        parametros = urllib.parse.urlencode({
-            "q": f"{consulta} when:2d",
-            "hl": "es-419",
-            "gl": "CO",
-            "ceid": "CO:es-419",
-        })
-
-        url = "https://news.google.com/rss/search?" + parametros
-
-        try:
-            raiz = ET.fromstring(descargar(url))
-
-            for item in raiz.findall(".//item"):
-                titulo = item.findtext("title", "")
-                enlace = item.findtext("link", "")
-                fecha = parsear_fecha(item.findtext("pubDate", ""))
-
-                fuente_xml = item.find("source")
-                fuente = (
-                    limpiar(fuente_xml.text)
-                    if fuente_xml is not None
-                    else "Google News"
-                )
-
-                # Google News no siempre indica el autor original.
-                # No inferimos que el creador del artículo sea Westcol.
-                registro = crear_registro(
-                    titulo=titulo,
-                    url=enlace,
-                    fecha=fecha,
-                    fuente=f"Google News — {fuente}",
-                    categoria=categoria,
-                    canal="",
-                )
-
-                if registro:
-                    resultados.append(registro)
-
-            print(f"Google News consultado: {consulta}")
-
-        except Exception as error:
-            print(f"Google News falló ({consulta}): {error}")
-
-    return resultados
-
-
-# =====================================================
-# CLASIFICACIÓN Y DEDUPLICACIÓN
-# =====================================================
 
 def clave_url(url):
-    partes = urllib.parse.urlsplit(url)
-    host = partes.netloc.lower()
-
-    if "youtube.com" in host:
-        video_id = urllib.parse.parse_qs(
-            partes.query
-        ).get("v", [""])[0]
-        if video_id:
-            return "youtube:" + video_id
-
-    if "youtu.be" in host:
-        return "youtube:" + partes.path.strip("/")
-
-    return host + partes.path.rstrip("/").lower()
+    url = limpiar_texto(url)
+    url = url.split("?")[0].rstrip("/")
+    return url.lower()
 
 
-def quitar_duplicados(resultados):
-    resultados = sorted(
-        resultados,
-        key=lambda item: item["fecha"],
-        reverse=True,
+# =========================================================
+# BUSQUEDA EN YOUTUBE CON yt-dlp
+# =========================================================
+
+def buscar_youtube(consulta, categoria):
+    resultados = []
+
+    if yt_dlp is None:
+        print("AVISO: yt-dlp no está instalado.")
+        return resultados
+
+    opciones = {
+        "quiet": True,
+        "no_warnings": True,
+        "ignoreerrors": True,
+        "skip_download": True,
+        "extract_flat": "in_playlist",
+        "socket_timeout": 15,
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(opciones) as ydl:
+            datos = ydl.extract_info(
+                f"ytsearch{RESULTADOS_POR_BUSQUEDA}:{consulta}",
+                download=False,
+            )
+
+        if not datos:
+            return resultados
+
+        entradas = datos.get("entries") or []
+
+        for video in entradas:
+            if not video:
+                continue
+
+            titulo = video.get("title") or ""
+            canal = (
+                video.get("channel")
+                or video.get("uploader")
+                or video.get("channel_id")
+                or "Canal por identificar"
+            )
+
+            url = video.get("webpage_url") or video.get("url") or ""
+
+            if url and not url.startswith("http"):
+                video_id = video.get("id") or url
+                if video_id:
+                    url = f"https://www.youtube.com/watch?v={video_id}"
+
+            if not url:
+                continue
+
+            fecha = convertir_fecha(
+                video.get("release_timestamp")
+                or video.get("timestamp")
+            )
+            fecha_aproximada = False
+
+            if fecha is None:
+                fecha = convertir_fecha(video.get("upload_date"))
+                if fecha is not None:
+                    fecha_aproximada = True
+
+            registro = crear_registro(
+                titulo=titulo,
+                url=url,
+                creador=canal,
+                fuente="YouTube",
+                fecha=fecha,
+                categoria=categoria,
+                fecha_aproximada=fecha_aproximada,
+            )
+
+            if registro:
+                resultados.append(registro)
+
+    except Exception as error:
+        print(f"AVISO YouTube [{consulta}]: {error}")
+
+    return resultados
+
+
+# =========================================================
+# BUSQUEDA EN GOOGLE NEWS RSS
+# =========================================================
+
+def buscar_google_news(consulta, categoria):
+    resultados = []
+
+    consulta_completa = f"{consulta} when:2d"
+    parametros = urllib.parse.urlencode({
+        "q": consulta_completa,
+        "hl": "es-419",
+        "gl": "CO",
+        "ceid": "CO:es-419",
+    })
+
+    url_rss = (
+        "https://news.google.com/rss/search?"
+        + parametros
     )
 
-    unicos = []
-    urls = set()
-
-    for item in resultados:
-        clave = clave_url(item["url"])
-
-        if clave in urls:
-            continue
-
-        urls.add(clave)
-        unicos.append(item)
-
-    return unicos
-
-
-def es_mencion_westcol(item):
-    texto = normalizar(
-        item["titulo"] + " " + item["canal"]
+    solicitud = urllib.request.Request(
+        url_rss,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 "
+                "(compatible; RadarCreadores/1.0)"
+            )
+        },
     )
-    return "westcol" in texto
+
+    try:
+        with urllib.request.urlopen(solicitud, timeout=20) as respuesta:
+            contenido = respuesta.read()
+
+        raiz = ET.fromstring(contenido)
+
+        for item in raiz.findall(".//item"):
+            titulo = item.findtext("title") or ""
+            enlace = item.findtext("link") or ""
+            fecha_texto = item.findtext("pubDate") or ""
+            fuente = item.findtext("source") or "Google News"
+
+            fecha = convertir_fecha(fecha_texto)
+
+            # La noticia puede incluir el medio al final del título.
+            partes = titulo.rsplit(" - ", 1)
+            if len(partes) == 2:
+                titulo = partes[0]
+                fuente = partes[1] or fuente
+
+            registro = crear_registro(
+                titulo=titulo,
+                url=enlace,
+                creador=fuente,
+                fuente="Google News",
+                fecha=fecha,
+                categoria=categoria,
+            )
+
+            if registro:
+                resultados.append(registro)
+
+    except Exception as error:
+        print(f"AVISO Google News [{consulta}]: {error}")
+
+    return resultados
 
 
-def seleccionar_resultados(resultados):
-    grupos = {categoria: [] for categoria in CATEGORIAS}
+# =========================================================
+# RECOPILACION Y DEDUPLICACION
+# =========================================================
 
-    for item in resultados:
-        categoria = item["categoria"]
+def recopilar_resultados():
+    por_categoria = {categoria: [] for categoria in BUSQUEDAS}
+    vistos = set()
 
-        # No colocar automáticamente toda mención de Westcol
-        # en la categoría de grandes de Kick.
-        if (
-            categoria == "2. Amigos y círculo de Westcol"
-            and not es_mencion_westcol(item)
-        ):
-            continue
+    total_consultas = sum(len(qs) for qs in BUSQUEDAS.values())
+    numero_consulta = 0
 
-        grupos.setdefault(categoria, []).append(item)
+    for categoria, consultas in BUSQUEDAS.items():
+        for consulta in consultas:
+            numero_consulta += 1
+            print(
+                f"[{numero_consulta}/{total_consultas}] "
+                f"{categoria}: {consulta}"
+            )
 
-    for categoria in grupos:
-        grupos[categoria].sort(
+            candidatos = buscar_youtube(consulta, categoria)
+
+            # Las noticias pueden complementar los resultados,
+            # especialmente cuando no hay suficientes videos.
+            candidatos.extend(
+                buscar_google_news(consulta, categoria)
+            )
+
+            for item in candidatos:
+                llave = clave_url(item["url"])
+                if not llave or llave in vistos:
+                    continue
+
+                vistos.add(llave)
+                por_categoria[categoria].append(item)
+
+            # Pausa breve para no disparar demasiadas consultas seguidas.
+            time.sleep(0.25)
+
+    for categoria in por_categoria:
+        por_categoria[categoria].sort(
             key=lambda item: item["fecha"],
             reverse=True,
         )
 
+    return por_categoria
+
+
+# =========================================================
+# SELECCION DE RESULTADOS
+# =========================================================
+
+def seleccionar_resultados(por_categoria):
     seleccionados = []
-    conteo_canal = {}
+    urls_vistas = set()
+    conteo_creador = Counter()
     conteo_westcol = 0
 
-    # Rondas por categoría para dar oportunidades a todas.
-    while len(seleccionados) < MAX_RESULTADOS:
-        hubo_cambio = False
+    # Las categorías se recorren en el orden de configuración.
+    for categoria in BUSQUEDAS:
+        candidatos = por_categoria.get(categoria, [])
 
-        for categoria in CATEGORIAS:
+        for item in candidatos:
             if len(seleccionados) >= MAX_RESULTADOS:
                 break
 
-            grupo = grupos.get(categoria, [])
+            llave = clave_url(item["url"])
+            if llave in urls_vistas:
+                continue
 
-            while grupo:
-                item = grupo.pop(0)
+            es_westcol = es_contenido_westcol(item)
+            if es_westcol and conteo_westcol >= MAX_WESTCOL:
+                continue
 
-                # No se conoce la identidad del autor en Google News.
-                # Se usa el título como clave temporal para evitar
-                # que todos los artículos cuenten como un solo creador.
-                canal = normalizar(item["canal"])
-                clave_canal = canal or normalizar(item["titulo"])
+            creador_normalizado = normalizar(item["creador"])
+            if not creador_normalizado:
+                creador_normalizado = "canal por identificar"
 
-                if "westcol" in normalizar(item["creador"]):
-                    if conteo_westcol >= MAX_WESTCOL:
-                        continue
+            if conteo_creador[creador_normalizado] >= MAX_POR_CREADOR:
+                continue
 
-                if conteo_canal.get(clave_canal, 0) >= MAX_POR_CANAL:
-                    continue
+            urls_vistas.add(llave)
+            seleccionados.append(item)
+            conteo_creador[creador_normalizado] += 1
 
-                seleccionados.append(item)
-                conteo_canal[clave_canal] = (
-                    conteo_canal.get(clave_canal, 0) + 1
-                )
+            if es_westcol:
+                conteo_westcol += 1
 
-                if "westcol" in normalizar(item["creador"]):
-                    conteo_westcol += 1
-
-                hubo_cambio = True
-                break
-
-        if not hubo_cambio:
-            break
-
-    return sorted(
-        seleccionados,
-        key=lambda item: (
-            CATEGORIAS.index(item["categoria"]),
-            -item["fecha"].timestamp(),
-        ),
+    seleccionados.sort(
+        key=lambda item: item["fecha"],
+        reverse=True,
     )
 
+    return seleccionados
 
-# =====================================================
-# GENERAR INFORME
-# =====================================================
 
-def generar_informe(resultados):
-    CARPETA.mkdir(exist_ok=True)
+# =========================================================
+# INFORME MARKDOWN
+# =========================================================
 
-    ahora = datetime.now(ZONA)
-    archivo = CARPETA / (
-        "radar-" + ahora.strftime("%Y-%m-%d") + ".md"
-    )
+def crear_informe(por_categoria, seleccionados):
+    CARPETA_SALIDA.mkdir(parents=True, exist_ok=True)
 
+    ahora_local = AHORA.astimezone(ZONA)
     lineas = [
-        "# Radar colombiano de streamers e influencers",
+        "# Radar de creadores colombianos",
         "",
-        f"Generado: {ahora:%d/%m/%Y %H:%M} (hora Colombia)",
+        f"**Actualizado:** {ahora_local.strftime('%d/%m/%Y %I:%M %p')}",
+        f"**Ventana de búsqueda:** últimas {HORAS_MAXIMAS} horas",
+        f"**Resultados incluidos:** {len(seleccionados)} de máximo {MAX_RESULTADOS}",
         "",
-        f"- Periodo: últimas {HORAS_MAXIMAS} horas.",
-        f"- Resultados: {len(resultados)} de máximo {MAX_RESULTADOS}.",
-        f"- Máximo de Westcol: {MAX_WESTCOL} cuando se identifica el canal.",
+        "> Fuentes: resultados de búsqueda de YouTube y Google News RSS. "
+        "La disponibilidad depende de lo que estas fuentes publiquen e indexen.",
         "",
-        "## Canales principales de Kick",
+        "> Algunas entradas de YouTube solo incluyen la fecha, sin hora exacta. "
+        "Esas horas se estiman y pueden tener un margen de error.",
         "",
     ]
 
-    for nombre, url in CANALES_KICK.items():
-        lineas.append(f"- [{nombre}]({url})")
+    conteo_final = Counter(
+        item["categoria"] for item in seleccionados
+    )
 
-    lineas.extend([
-        "",
-        "> Los resultados son candidatos encontrados en búsquedas,",
-        "> no una lista exhaustiva de todos los directos o clips.",
-        "> Las búsquedas de emergentes no verifican por sí solas",
-        "> el número de seguidores ni la popularidad del canal.",
-        "",
-    ])
+    for categoria in BUSQUEDAS:
+        lineas.append(f"## {categoria}")
+        lineas.append("")
 
-    for categoria in CATEGORIAS:
-        lineas.extend([f"# {categoria}", ""])
-
-        elementos = [
-            item for item in resultados
+        items = [
+            item for item in seleccionados
             if item["categoria"] == categoria
         ]
 
-        if not elementos:
-            lineas.extend([
-                "No se encontraron resultados recientes en esta sección.",
-                "",
-            ])
+        if not items:
+            candidatos = por_categoria.get(categoria, [])
+            lineas.append(
+                "No se encontraron resultados que cumplan el filtro "
+                "de fecha en las fuentes consultadas."
+            )
+
+            if candidatos:
+                lineas.append(
+                    f"Se encontraron {len(candidatos)} candidatos antes "
+                    "de aplicar los límites generales del informe."
+                )
+
+            lineas.append("")
             continue
 
-        for item in elementos:
-            fecha = item["fecha"].astimezone(ZONA).strftime(
-                "%d/%m/%Y %H:%M"
+        for numero, item in enumerate(items, start=1):
+            fecha = formatear_fecha(item["fecha"])
+            nota_fecha = (
+                " *(hora estimada; solo se recibió la fecha)*"
+                if item.get("fecha_aproximada")
+                else ""
             )
 
             lineas.extend([
-                f"## {item['titulo']}",
-                "",
-                f"- **Canal o autor:** {item['canal']}",
+                f"### {numero}. {item['titulo']}",
+                f"- **Creador o canal:** {item['creador']}",
                 f"- **Fuente:** {item['fuente']}",
-                f"- **Fecha:** {fecha} (Colombia)",
+                f"- **Publicado:** {fecha}{nota_fecha}",
                 f"- **Enlace:** {item['url']}",
                 "",
             ])
@@ -564,47 +541,70 @@ def generar_informe(resultados):
     lineas.extend([
         "---",
         "",
-        "# Búsquedas directas",
+        "## Resumen de recopilación",
         "",
-        "- [Kick](https://kick.com/)",
-        "- [Kick Colombia en Google](https://www.google.com/search?q=site%3Akick.com+Colombia+streamer)",
-        "- [Twitch](https://www.twitch.tv/directory)",
-        "- [TikTok](https://www.tiktok.com/search?q=streamer%20colombiano)",
-        "- [Instagram](https://www.instagram.com/)",
-        "- [YouTube: clips colombianos](https://www.youtube.com/results?search_query=clips+streamers+colombianos)",
+        f"- Resultados finales: {len(seleccionados)}",
+        f"- Límite por creador: {MAX_POR_CREADOR}",
+        f"- Límite de contenido asociado a Westcol: {MAX_WESTCOL}",
         "",
-        "Los enlaces de esta sección son búsquedas manuales,",
-        "no resultados recopilados automáticamente.",
+        "### Resultados por categoría",
         "",
     ])
 
-    archivo.write_text("\n".join(lineas), encoding="utf-8")
-    print(f"Informe guardado: {archivo}")
+    for categoria in BUSQUEDAS:
+        lineas.append(
+            f"- {categoria}: {conteo_final.get(categoria, 0)}"
+        )
+
+    lineas.extend([
+        "",
+        "## Importante",
+        "",
+        "Este radar no garantiza encontrar todos los directos ni todos "
+        "los clips de Kick, Twitch, TikTok o Instagram. La búsqueda "
+        "automática depende de fuentes accesibles sin autenticación y "
+        "de que el contenido esté indexado. No se inventan resultados "
+        "para completar categorías.",
+        "",
+    ])
+
+    ARCHIVO_SALIDA.write_text(
+        "\n".join(lineas),
+        encoding="utf-8",
+    )
+
+    print(f"Informe guardado en: {ARCHIVO_SALIDA}")
+    print(f"Total de resultados: {len(seleccionados)}")
+
+    for categoria in BUSQUEDAS:
+        print(
+            f"{categoria}: "
+            f"{conteo_final.get(categoria, 0)}"
+        )
 
 
-# =====================================================
-# EJECUCIÓN
-# =====================================================
+# =========================================================
+# EJECUCION PRINCIPAL
+# =========================================================
 
 def main():
-    print("=" * 55)
-    print("RADAR COLOMBIANO DE CREADORES")
-    print(f"Periodo: últimas {HORAS_MAXIMAS} horas")
-    print("=" * 55)
+    print("=" * 60)
+    print("INICIANDO RADAR DE CREADORES COLOMBIANOS")
+    print(f"Hora UTC: {AHORA.isoformat()}")
+    print(f"Filtro: últimas {HORAS_MAXIMAS} horas")
+    print("=" * 60)
 
-    resultados = []
-    resultados.extend(buscar_youtube())
-    resultados.extend(buscar_noticias())
+    if yt_dlp is None:
+        print(
+            "ERROR: falta yt-dlp. Instálalo con "
+            "'python -m pip install yt-dlp'."
+        )
 
-    print(f"Candidatos recopilados: {len(resultados)}")
+    por_categoria = recopilar_resultados()
+    seleccionados = seleccionar_resultados(por_categoria)
+    crear_informe(por_categoria, seleccionados)
 
-    resultados = quitar_duplicados(resultados)
-    print(f"Tras deduplicar: {len(resultados)}")
-
-    resultados = seleccionar_resultados(resultados)
-    print(f"Resultados seleccionados: {len(resultados)}")
-
-    generar_informe(resultados)
+    print("RADAR FINALIZADO")
 
 
 if __name__ == "__main__":
