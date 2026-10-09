@@ -4,11 +4,15 @@ import urllib.request
 import urllib.parse
 import urllib.error
 import xml.etree.ElementTree as ET
-from datetime import datetime
-from zoneinfo import ZoneInfo
+
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 MAX_TITULARES = 25
+HORAS_MAXIMAS = 48
+REINTENTOS = 3
 
 TEMAS = [
     "Westcol streamer Colombia",
@@ -26,28 +30,48 @@ def limpiar(texto):
     return re.sub(r"\s+", " ", texto or "").strip()
 
 
+def obtener_fecha(texto):
+    if not texto:
+        return None
+
+    try:
+        fecha = parsedate_to_datetime(texto)
+
+        if fecha.tzinfo is None:
+            fecha = fecha.replace(tzinfo=timezone.utc)
+
+        return fecha.astimezone(timezone.utc)
+
+    except (ValueError, TypeError, OverflowError):
+        return None
+
+
 def obtener_noticias(tema):
+    busqueda = tema + " when:2d"
+
     url = (
         "https://news.google.com/rss/search?q="
-        + urllib.parse.quote(tema)
+        + urllib.parse.quote(busqueda)
         + "&hl=es-419&gl=CO&ceid=CO:es-419"
     )
 
-    req = urllib.request.Request(
+    solicitud = urllib.request.Request(
         url,
         headers={"User-Agent": "Mozilla/5.0"},
     )
 
     raiz = None
 
-    for intento in range(3):
+    for intento in range(REINTENTOS):
         try:
-            with urllib.request.urlopen(req, timeout=30) as respuesta:
+            with urllib.request.urlopen(
+                solicitud, timeout=30
+            ) as respuesta:
                 raiz = ET.fromstring(respuesta.read())
             break
 
         except urllib.error.HTTPError as error:
-            if error.code == 503 and intento < 2:
+            if error.code == 503 and intento < REINTENTOS - 1:
                 espera = 3 * (intento + 1)
                 print(
                     f"Error 503. Reintentando en {espera} segundos."
@@ -57,42 +81,57 @@ def obtener_noticias(tema):
                 raise
 
         except (urllib.error.URLError, TimeoutError):
-            if intento == 2:
+            if intento == REINTENTOS - 1:
                 raise
+
             time.sleep(3 * (intento + 1))
 
     if raiz is None:
-        raise RuntimeError(
-            "No se pudo consultar Google Noticias"
-        )
+        raise RuntimeError("No se obtuvo respuesta de Google Noticias")
+
+    limite = datetime.now(timezone.utc) - timedelta(
+        hours=HORAS_MAXIMAS
+    )
 
     resultados = []
 
-    for item in raiz.findall("./channel/item")[:MAX_TITULARES]:
+    for item in raiz.findall("./channel/item"):
         titulo = limpiar(item.findtext("title"))
         enlace = limpiar(item.findtext("link"))
-        fecha = limpiar(item.findtext("pubDate"))
+        fecha_texto = limpiar(item.findtext("pubDate"))
+        fecha = obtener_fecha(fecha_texto)
 
-        if titulo and enlace:
-            resultados.append({
-                "titulo": titulo,
-                "enlace": enlace,
-                "fecha": fecha,
-            })
+        # Excluir noticias antiguas o sin fecha verificable.
+        if fecha is None or fecha < limite:
+            continue
+
+        if not titulo or not enlace:
+            continue
+
+        resultados.append({
+            "titulo": titulo,
+            "enlace": enlace,
+            "fecha": fecha_texto,
+            "fecha_utc": fecha,
+        })
+
+        if len(resultados) >= MAX_TITULARES:
+            break
 
     return resultados
 
 
 def main():
-    fecha = datetime.now(
+    fecha_hoy = datetime.now(
         ZoneInfo("America/Bogota")
     ).strftime("%Y-%m-%d")
 
     lineas = [
-        f"# Noticias para revisar — {fecha}",
+        f"# Noticias de streamers colombianos — {fecha_hoy}",
         "",
-        "> Borrador automático de noticias sobre streamers.",
-        "> Verifica las fuentes antes de publicar.",
+        f"> Filtro: últimas {HORAS_MAXIMAS} horas.",
+        f"> Máximo: {MAX_TITULARES} titulares por búsqueda.",
+        "> Revisa las fuentes antes de publicar.",
         "",
     ]
 
@@ -119,8 +158,7 @@ def main():
 
                 lineas.extend([
                     "### " + noticia["titulo"],
-                    "- Fecha de la fuente: "
-                    + (noticia["fecha"] or "No indicada"),
+                    "- Fecha: " + noticia["fecha"],
                     "- Enlace: " + enlace,
                     "- Estado: pendiente de verificación",
                     "",
@@ -128,21 +166,15 @@ def main():
 
             if nuevas == 0:
                 lineas.extend([
-                    "No se encontraron resultados nuevos.",
+                    "No se encontraron noticias recientes nuevas.",
                     "",
                 ])
 
-            print(
-                f"Búsqueda completada: {tema}. "
-                f"Titulares nuevos: {nuevas}"
-            )
+            print(f"{tema}: {nuevas} noticias nuevas.")
 
         except Exception as error:
             mensaje = f"{type(error).__name__}: {error}"
-
-            print(
-                f"Falló la búsqueda {tema}: {mensaje}"
-            )
+            print(f"Error en {tema}: {mensaje}")
 
             lineas.extend([
                 f"No se pudo consultar esta búsqueda: {mensaje}",
@@ -152,10 +184,10 @@ def main():
     carpeta = Path("borradores")
     carpeta.mkdir(parents=True, exist_ok=True)
 
-    destino = carpeta / f"noticias-{fecha}.md"
+    destino = carpeta / f"noticias-{fecha_hoy}.md"
 
     destino.write_text(
-        "\n".join(lineas),
+        "\n".join(lineas) + "\n",
         encoding="utf-8",
     )
 
