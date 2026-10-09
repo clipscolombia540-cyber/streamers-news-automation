@@ -1,3 +1,4 @@
+
 import html
 import json
 import re
@@ -24,9 +25,9 @@ AHORA = datetime.now(timezone.utc)
 LIMITE = AHORA - timedelta(hours=48)
 
 MAX_RESULTADOS = 25
-MAX_WESTCOL = 2
 MAX_POR_CREADOR = 5
-TIEMPO_ESPERA = 45
+MAX_WESTCOL = 2
+TIEMPO_ESPERA = 30
 
 ARCHIVO_SALIDA = Path("borradores/radar_creadores.md")
 
@@ -35,17 +36,29 @@ USER_AGENT = (
     "AppleWebKit/537.36 Chrome/130.0 Safari/537.36"
 )
 
+# Lista actualizada de creadores.
+# Se excluye Jeanki por ahora.
 STREAMERS = {
     "Westcol": ["Westcol", "WestCol"],
-    "Chanty": ["Chanty", "El Chanty"],
-    "La Sapa": ["La Sapa", "Leandro La Sapa"],
     "MrStivenTC": ["MrStivenTC", "Mr Stiven TC"],
     "Pelicanger": ["Pelicanger"],
-    "Samulx": ["Samulx", "Samul"],
-    "Jeanki": ["Jeanki"],
+    "Samulx": ["Samulx"],
+    "Chanty": ["Chanty", "El Chanty"],
+    "La Sapa": ["La Sapa", "Leandro La Sapa"],
+    "Lonche de Huevito": [
+        "Lonche de Huevito",
+        "Lonche Huevito",
+    ],
+    "Rey de la City": [
+        "Rey de la City",
+        "Rey de City",
+    ],
     "Spreen": ["Spreen"],
     "Komanche": ["Komanche"],
-    "JuanSGuarnizo": ["JuanSGuarnizo", "Juan S Guarnizo"],
+    "JuanSGuarnizo": [
+        "JuanSGuarnizo",
+        "Juan S Guarnizo",
+    ],
     "Coscu": ["Coscu"],
     "Rivers": ["Rivers streamer"],
     "TheDonato": ["TheDonato", "The Donato"],
@@ -54,23 +67,20 @@ STREAMERS = {
 BUSQUEDAS_GENERALES = {
     "Clips y momentos virales": [
         '"streamer colombiano" clip viral',
-        'streamer colombiano momento viral directo',
-        'streamer colombiano clip gracioso Twitch Kick',
-        'streamer latino momento viral directo',
+        'streamer colombiano momentos graciosos',
+        'streamers colombianos clips recientes',
     ],
     "Polémicas y enfrentamientos": [
-        'streamer colombiano polémica directo',
-        'streamer colombiano pelea discusión indirecta',
-        'streamer colombiano responde polémica streamer',
+        'streamer colombiano polémica reciente',
+        'streamer colombiano discusión directo',
     ],
     "Colaboraciones y directos": [
-        'streamers colombianos colaboración directo',
-        'streamer colombiano invitado directo Twitch Kick',
-        'streamers colombianos juntos transmisión',
+        'streamers colombianos colaboración reciente',
+        'streamer colombiano invitado directo',
     ],
     "Creadores emergentes": [
-        'nuevo streamer colombiano viral',
-        'streamer colombiano pequeño se vuelve viral',
+        'streamer colombiano emergente viral',
+        'nuevo creador colombiano viral',
     ],
 }
 
@@ -89,8 +99,8 @@ def normalizar(texto):
     texto = limpiar(texto).lower()
     texto = unicodedata.normalize("NFD", texto)
     texto = "".join(
-        caracter for caracter in texto
-        if unicodedata.category(caracter) != "Mn"
+        c for c in texto
+        if unicodedata.category(c) != "Mn"
     )
     texto = re.sub(r"https?://\S+", " ", texto)
     texto = re.sub(r"[^a-z0-9\s]", " ", texto)
@@ -105,10 +115,11 @@ def palabras(texto):
         "videos", "streamer", "streamers", "colombiano",
         "colombiana", "colombianos", "viral", "directo",
         "directos", "clip", "clips", "nuevo", "nueva",
+        "short", "shorts", "oficial",
     }
     return {
-        palabra for palabra in normalizar(texto).split()
-        if len(palabra) > 2 and palabra not in ignorar
+        p for p in normalizar(texto).split()
+        if len(p) > 2 and p not in ignorar
     }
 
 
@@ -123,13 +134,14 @@ def es_reciente(fecha):
     if fecha.tzinfo is None:
         fecha = fecha.replace(tzinfo=timezone.utc)
 
-    return LIMITE <= fecha.astimezone(timezone.utc) <= AHORA
+    fecha = fecha.astimezone(timezone.utc)
+    return LIMITE <= fecha <= AHORA
 
 
 def fecha_desde_video(video):
-    fecha_texto = video.get("upload_date") or ""
+    fecha_texto = str(video.get("upload_date") or "")
 
-    if re.fullmatch(r"\d{8}", str(fecha_texto)):
+    if re.fullmatch(r"\d{8}", fecha_texto):
         try:
             return datetime.strptime(
                 fecha_texto, "%Y%m%d"
@@ -137,17 +149,15 @@ def fecha_desde_video(video):
         except ValueError:
             pass
 
-    marca = video.get("release_timestamp")
-    if marca is None:
-        marca = video.get("timestamp")
-
-    if marca is not None:
-        try:
-            return datetime.fromtimestamp(
-                float(marca), tz=timezone.utc
-            )
-        except (ValueError, TypeError, OverflowError):
-            pass
+    for campo in ("release_timestamp", "timestamp"):
+        marca = video.get(campo)
+        if marca is not None:
+            try:
+                return datetime.fromtimestamp(
+                    float(marca), tz=timezone.utc
+                )
+            except (ValueError, TypeError, OverflowError):
+                pass
 
     return None
 
@@ -166,44 +176,28 @@ def fecha_desde_rss(texto):
 
 
 # =====================================================
-# IDENTIFICAR CREADORES Y RELEVANCIA
+# IDENTIFICACIÓN DE CREADORES
 # =====================================================
 
 def identificar_creador(texto):
     texto_normalizado = normalizar(texto)
 
-    for nombre, variantes in STREAMERS.items():
+    # Los nombres más largos se revisan primero.
+    nombres = sorted(
+        STREAMERS.items(),
+        key=lambda elemento: max(
+            len(normalizar(v)) for v in elemento[1]
+        ),
+        reverse=True,
+    )
+
+    for nombre, variantes in nombres:
         for variante in variantes:
             buscado = normalizar(variante)
-
-            if not buscado:
-                continue
-
-            if buscado in texto_normalizado:
+            if buscado and buscado in texto_normalizado:
                 return nombre
 
     return ""
-
-
-def es_westcol(item):
-    return item.get("creador") == "Westcol"
-
-
-def es_relevante(titulo, descripcion=""):
-    texto = normalizar(f"{titulo} {descripcion}")
-
-    terminos = [
-        "streamer", "streamers", "streaming", "twitch",
-        "kick", "directo", "directos", "en vivo",
-        "transmision", "clip", "clips", "viral",
-        "creador de contenido", "youtuber",
-        "westcol", "chanty", "la sapa", "mrstiventc",
-        "pelicanger", "samulx", "jeanki", "spreen",
-        "komanche", "juansguarnizo", "coscu",
-        "rivers", "thedonato",
-    ]
-
-    return any(normalizar(termino) in texto for termino in terminos)
 
 
 def categoria_de(titulo, descripcion=""):
@@ -212,19 +206,18 @@ def categoria_de(titulo, descripcion=""):
     polemica = [
         "polemica", "pelea", "discusion", "enfrentamiento",
         "indirecta", "responde a", "critica a", "denuncia",
-        "insulta", "amenaza", "acusa", "controversia",
+        "controversia",
     ]
 
     colaboracion = [
         "colaboracion", "colabora", "invitado",
-        "juntos en directo", "hace directo con",
-        "transmision conjunta", "se une a",
+        "juntos en directo", "transmision conjunta",
+        "se une a",
     ]
 
     emergente = [
         "nuevo streamer", "streamer emergente",
-        "se vuelve viral", "desconocido se hace viral",
-        "pequeno streamer",
+        "se vuelve viral", "pequeno streamer",
     ]
 
     if any(p in texto for p in polemica):
@@ -267,15 +260,10 @@ def buscar_google_news(consulta, categoria=None):
         with urllib.request.urlopen(
             solicitud, timeout=TIEMPO_ESPERA
         ) as respuesta:
-            contenido = respuesta.read()
-
-        raiz = ET.fromstring(contenido)
+            raiz = ET.fromstring(respuesta.read())
 
     except Exception as error:
-        print(
-            f"Aviso Google News: no se pudo buscar "
-            f"'{consulta}': {error}"
-        )
+        print(f"Google News no disponible: {consulta}: {error}")
         return resultados
 
     for entrada in raiz.findall(".//item"):
@@ -298,12 +286,9 @@ def buscar_google_news(consulta, categoria=None):
             f"{titulo} {descripcion}"
         )
 
-        # Para las búsquedas de un streamer específico,
-        # exigimos que aparezca identificado en la noticia.
-        if creador == "" and not categoria:
-            continue
-
-        if not es_relevante(titulo, descripcion):
+        # Las noticias generales también deben mencionar
+        # a uno de los creadores que vigilamos.
+        if not creador:
             continue
 
         resultados.append({
@@ -314,7 +299,7 @@ def buscar_google_news(consulta, categoria=None):
             "categoria": categoria or categoria_de(
                 titulo, descripcion
             ),
-            "tipo": "Noticia",
+            "tipo": "Noticia o publicación indexada",
             "creador": creador,
             "fuente": fuente or "Google News",
         })
@@ -323,10 +308,10 @@ def buscar_google_news(consulta, categoria=None):
 
 
 # =====================================================
-# YOUTUBE
+# YOUTUBE: CLIPS DE TERCEROS Y SHORTS
 # =====================================================
 
-def buscar_youtube(consulta):
+def buscar_youtube(consulta, creador_objetivo=""):
     comando = [
         sys.executable,
         "-m",
@@ -336,6 +321,7 @@ def buscar_youtube(consulta):
         "--no-warnings",
         "--skip-download",
         "--ignore-errors",
+        "--playlist-end", "10",
         f"ytsearch10:{consulta}",
     ]
 
@@ -344,26 +330,21 @@ def buscar_youtube(consulta):
             comando,
             capture_output=True,
             text=True,
-            timeout=90,
+            timeout=60,
             check=False,
         )
-
     except (OSError, subprocess.TimeoutExpired) as error:
-        print(f"ERROR YouTube '{consulta}': {error}")
+        print(f"YouTube no disponible ({consulta}): {error}")
         return []
 
     if proceso.returncode != 0 or not proceso.stdout.strip():
-        detalle = (proceso.stderr or "").strip()
-        print(f"ERROR YouTube '{consulta}':")
-        print(detalle[:800] if detalle else "Sin respuesta")
+        print(f"YouTube sin respuesta útil: {consulta}")
         return []
 
     try:
         datos = json.loads(proceso.stdout)
-
-    except json.JSONDecodeError as error:
-        print(f"ERROR: JSON inválido de YouTube: {error}")
-        print(proceso.stdout[:200])
+    except json.JSONDecodeError:
+        print(f"YouTube devolvió datos no válidos: {consulta}")
         return []
 
     resultados = []
@@ -380,50 +361,46 @@ def buscar_youtube(consulta):
             or ""
         )
 
-        fecha = fecha_desde_video(video)
-
         if not titulo or not video_id:
             continue
 
-        if not fecha:
-            print(
-                f"YouTube sin fecha: {titulo} "
-                f"| Canal: {canal}"
-            )
+        fecha = fecha_desde_video(video)
+
+        # No inventamos la fecha si YouTube no la entrega.
+        if not fecha or not es_reciente(fecha):
             continue
 
-        if not es_reciente(fecha):
+        texto = f"{titulo} {canal}"
+        creador = identificar_creador(texto)
+
+        # La búsqueda de un creador debe producir resultados
+        # que realmente lo mencionen en el título o canal.
+        if creador_objetivo and creador != creador_objetivo:
             continue
 
-        creador = identificar_creador(
-            f"{titulo} {canal}"
-        )
-
-        # Evita incorporar videos que no se relacionen
-        # con un streamer identificado o una búsqueda útil.
-        if not creador and not es_relevante(titulo, canal):
+        if not creador:
             continue
 
         resultados.append({
             "titulo": titulo,
             "url": f"https://www.youtube.com/watch?v={video_id}",
-            "descripcion": f"Canal: {canal}" if canal else "",
+            "descripcion": f"Canal que publica: {canal}",
             "fecha": fecha,
-            "categoria": "Clips y momentos virales",
-            "tipo": "Video de YouTube",
+            "categoria": categoria_de(titulo, canal),
+            "tipo": "Clip o video de YouTube",
             "creador": creador,
             "fuente": "YouTube",
         })
 
     print(
-        f"YouTube: {len(resultados)} resultados válidos "
-        f"para '{consulta}'"
+        f"YouTube: {len(resultados)} válidos "
+        f"para la búsqueda '{consulta}'"
     )
     return resultados
 
 
 # =====================================================
-# DUPLICADOS
+# DEDUPLICACIÓN
 # =====================================================
 
 def mismo_evento(a, b):
@@ -440,31 +417,31 @@ def mismo_evento(a, b):
         None, titulo_a, titulo_b
     ).ratio()
 
-    if similitud >= 0.76:
+    if similitud >= 0.84:
         return True
 
     palabras_a = palabras(titulo_a)
     palabras_b = palabras(titulo_b)
+    comunes = palabras_a & palabras_b
 
-    if palabras_a and palabras_b:
-        comun = palabras_a & palabras_b
-        proporcion = len(comun) / max(
+    if (
+        len(comunes) >= 4
+        and len(comunes) / max(
             1, min(len(palabras_a), len(palabras_b))
-        )
+        ) >= 0.85
+    ):
+        return True
 
-        if len(comun) >= 4 and proporcion >= 0.80:
-            return True
-
-    # Detecta coberturas del mismo suceso que mencionan
-    # al mismo creador y comparten varias palabras clave.
+    # Solo agrupamos títulos diferentes como un mismo suceso
+    # cuando el creador coincide y comparten varias palabras.
     creador_a = a.get("creador", "")
     creador_b = b.get("creador", "")
 
-    if creador_a and creador_a == creador_b:
-        if len(palabras_a & palabras_b) >= 3:
-            return True
-
-    return False
+    return bool(
+        creador_a
+        and creador_a == creador_b
+        and len(comunes) >= 5
+    )
 
 
 def eliminar_duplicados(items):
@@ -477,37 +454,29 @@ def eliminar_duplicados(items):
     unicos = []
 
     for item in ordenados:
-        duplicado = False
+        existente = next(
+            (
+                anterior for anterior in unicos
+                if anterior.get("url") == item.get("url")
+                or mismo_evento(item, anterior)
+            ),
+            None,
+        )
 
-        for existente in unicos:
-            if mismo_evento(item, existente):
-                duplicado = True
-
-                # Si encontramos el video original de YouTube
-                # para la misma noticia, preferimos ese enlace.
-                if (
-                    item.get("fuente") == "YouTube"
-                    and existente.get("fuente") != "YouTube"
-                ):
-                    existente.update(item)
-
-                break
-
-        if not duplicado:
+        if existente is None:
             unicos.append(item)
 
     return unicos
 
 
 # =====================================================
-# SELECCIÓN DE RESULTADOS
+# SELECCIÓN
 # =====================================================
 
 def seleccionar(items):
     items = eliminar_duplicados(items)
 
-    # Primero se priorizan los resultados que tienen
-    # enlace a un video original de YouTube.
+    # Los videos se priorizan; después, la fecha más reciente.
     items.sort(
         key=lambda x: (
             x.get("fuente") == "YouTube",
@@ -517,66 +486,60 @@ def seleccionar(items):
     )
 
     seleccionados = []
-    conteo_creador = {}
-    conteo_westcol = 0
+    conteos = {}
 
     for item in items:
         if len(seleccionados) >= MAX_RESULTADOS:
             break
 
         creador = item.get("creador", "")
+        limite_creador = (
+            MAX_WESTCOL if creador == "Westcol"
+            else MAX_POR_CREADOR
+        )
 
-        if creador == "Westcol":
-            if conteo_westcol >= MAX_WESTCOL:
-                continue
-
-        if creador:
-            if conteo_creador.get(creador, 0) >= MAX_POR_CREADOR:
-                continue
+        if creador and conteos.get(creador, 0) >= limite_creador:
+            continue
 
         seleccionados.append(item)
 
-        if creador == "Westcol":
-            conteo_westcol += 1
-
         if creador:
-            conteo_creador[creador] = (
-                conteo_creador.get(creador, 0) + 1
-            )
+            conteos[creador] = conteos.get(creador, 0) + 1
 
     return seleccionados
 
 
 # =====================================================
-# INFORME MARKDOWN
+# INFORME
 # =====================================================
 
-def generar_informe(items, candidatos):
+def generar_informe(items, candidatos, errores):
     ahora_local = datetime.now(ZONA)
 
     lineas = [
-        "# Radar de streamers y clips",
+        "# Radar automático de streamers y clips",
         "",
         f"**Actualizado:** {ahora_local:%d/%m/%Y %I:%M %p}",
         "",
-        "- Ventana: últimas 48 horas.",
-        f"- Resultados: {len(items)} de un máximo de {MAX_RESULTADOS}.",
+        "- Ventana de búsqueda: últimas 48 horas.",
+        f"- Resultados seleccionados: {len(items)} de {MAX_RESULTADOS}.",
         f"- Candidatos recopilados: {candidatos}.",
-        "- Máximo de historias de Westcol: 2.",
-        "- Se filtran noticias antiguas y duplicados.",
+        "- Máximo de resultados de Westcol: 2.",
+        "- Se excluyen resultados sin fecha verificable.",
+        "- Se intenta evitar duplicados sin agrupar clips distintos.",
+        "",
+        "> Este informe reúne resultados indexados de Google News "
+        "y YouTube. No representa una búsqueda completa de TikTok.",
         "",
     ]
 
-    if not items:
+    if errores:
         lineas.extend([
-            "## Sin resultados verificables",
-            "",
-            "No se encontraron resultados que cumplieran los filtros.",
-            "Revisa los registros de GitHub Actions para ver "
-            "si falló alguna fuente o si los resultados "
-            "no tenían fecha verificable.",
+            "## Avisos de ejecución",
             "",
         ])
+        lineas.extend(f"- {error}" for error in errores)
+        lineas.append("")
 
     categorias = [
         "Clips y momentos virales",
@@ -594,7 +557,7 @@ def generar_informe(items, candidatos):
         lineas.extend([f"## {categoria}", ""])
 
         if not grupo:
-            lineas.extend(["Sin resultados.", ""])
+            lineas.extend(["Sin resultados verificables.", ""])
             continue
 
         for item in grupo:
@@ -604,36 +567,35 @@ def generar_informe(items, candidatos):
                 if fecha else "Fecha desconocida"
             )
 
-            creador = item.get("creador") or "Sin identificar"
+            titulo = item["titulo"].replace("[", "\\[").replace("]", "\\]")
 
             lineas.extend([
-                f"### [{item['titulo']}]({item['url']})",
+                f"### [{titulo}]({item['url']})",
                 "",
-                f"- **Creador:** {creador}",
+                f"- **Creador mencionado:** {item.get('creador') or 'Sin identificar'}",
                 f"- **Fecha:** {fecha_local}",
-                f"- **Tipo:** {item.get('tipo', 'Noticia')}",
+                f"- **Tipo:** {item.get('tipo', 'Resultado')}",
                 f"- **Fuente:** {item.get('fuente', 'No identificada')}",
                 "",
             ])
 
             descripcion = limpiar(item.get("descripcion", ""))
-
             if descripcion:
                 lineas.extend([
-                    f"> {descripcion[:500]}",
+                    f"> {descripcion[:400]}",
                     "",
                 ])
 
     lineas.extend([
         "---",
         "",
-        "## Streamers vigilados",
+        "## Creadores vigilados",
         "",
         ", ".join(STREAMERS.keys()),
         "",
-        "_El radar depende de la disponibilidad de las fuentes. "
-        "La ausencia de resultados no demuestra que no haya "
-        "ocurrido nada durante el periodo._",
+        "_Que no haya resultados no significa que no existan clips; "
+        "puede indicar que las fuentes no los indexaron, que no "
+        "entregaron una fecha verificable o que falló una búsqueda._",
         "",
     ])
 
@@ -641,57 +603,57 @@ def generar_informe(items, candidatos):
 
 
 # =====================================================
-# EJECUCIÓN PRINCIPAL
+# EJECUCIÓN
 # =====================================================
 
 def main():
     print("=" * 55)
-    print("INICIANDO RADAR DE STREAMERS")
+    print("INICIANDO RADAR DE CREADORES")
     print(f"Hora UTC: {AHORA:%Y-%m-%d %H:%M}")
     print("Ventana: últimas 48 horas")
     print("=" * 55)
 
     candidatos = []
+    errores = []
 
-    # Búsquedas generales de Google News.
+    # 1. Búsquedas generales de noticias.
     for categoria, consultas in BUSQUEDAS_GENERALES.items():
         for consulta in consultas:
             print(f"Google News [{categoria}]: {consulta}")
-            candidatos.extend(
-                buscar_google_news(consulta, categoria)
-            )
+            resultados = buscar_google_news(consulta, categoria)
+            candidatos.extend(resultados)
 
-    # Búsquedas individuales de streamers.
+    # 2. Búsquedas de noticias por creador.
     for nombre, variantes in STREAMERS.items():
-        variante = variantes[0]
+        nombre_busqueda = variantes[0]
+
+        consulta = f'"{nombre_busqueda}" (clip OR viral OR streamer)'
+        print(f"Google News [{nombre}]: {consulta}")
+
+        resultados = buscar_google_news(consulta)
+        candidatos.extend(resultados)
+
+    # 3. Búsqueda de videos publicados por terceros.
+    # Se usan términos que suelen aparecer en títulos de clips.
+    for nombre, variantes in STREAMERS.items():
+        nombre_busqueda = variantes[0]
 
         consultas = [
-            f'"{variante}" streamer',
-            f'"{variante}" directo OR Kick OR Twitch',
-            f'"{variante}" clip OR polémica OR viral',
+            f'"{nombre_busqueda}" clip',
+            f'"{nombre_busqueda}" shorts momentos',
         ]
 
         for consulta in consultas:
-            print(f"Google News [{nombre}]: {consulta}")
+            print(f"YouTube [{nombre}]: {consulta}")
             candidatos.extend(
-                buscar_google_news(consulta)
+                buscar_youtube(consulta, nombre)
             )
-
-    # Búsquedas de YouTube para los creadores vigilados.
-    # Se priorizan las búsquedas de los nombres concretos.
-    for nombre, variantes in STREAMERS.items():
-        consulta = f'{variantes[0]} streamer clip'
-        print(f"YouTube [{nombre}]: {consulta}")
-        candidatos.extend(buscar_youtube(consulta))
+            time.sleep(1)
 
     print("-" * 55)
-    print(f"Candidatos recopilados: {len(candidatos)}")
+    print(f"Candidatos antes de deduplicar: {len(candidatos)}")
 
-    # Solo conservar historias relacionadas con streamers
-    # identificados. Las noticias generales pueden quedar
-    # como candidatas, pero no entran sin identificación.
     filtrados = []
-
     for item in candidatos:
         if not item.get("creador"):
             item["creador"] = identificar_creador(
@@ -699,18 +661,18 @@ def main():
                 f"{item.get('descripcion', '')}"
             )
 
-        if item.get("creador"):
+        if item.get("creador") and es_reciente(item.get("fecha")):
             filtrados.append(item)
 
-    print(f"Candidatos con streamer identificado: {len(filtrados)}")
+    print(f"Candidatos con fecha y creador: {len(filtrados)}")
 
     seleccionados = seleccionar(filtrados)
-
-    print(f"Resultados seleccionados: {len(seleccionados)}")
+    print(f"Resultados finales: {len(seleccionados)}")
 
     informe = generar_informe(
         seleccionados,
         len(candidatos),
+        errores,
     )
 
     ARCHIVO_SALIDA.parent.mkdir(
