@@ -1,4 +1,3 @@
-
 name: Radar de creadores colombianos
 
 on:
@@ -16,7 +15,7 @@ concurrency:
 jobs:
   recopilar-noticias:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
 
     steps:
       - name: Descargar repositorio
@@ -26,13 +25,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar herramienta de búsqueda de YouTube
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install yt-dlp
 
       - name: Ejecutar radar de creadores
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
-          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-          TWITCH_BROADCASTER_IDS: ${{ vars.TWITCH_BROADCASTER_IDS }}
         run: python scripts/noticias.py
 
       - name: Guardar informe en GitHub
