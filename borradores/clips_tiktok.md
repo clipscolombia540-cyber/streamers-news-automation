@@ -1,10 +1,11 @@
 # Radar de clips virales de TikTok
 
-**Actualizado:** 09/10/2026 14:58 UTC
+**Actualizado:** 09/10/2026 15:52 UTC
 **Ventana:** últimas 48 horas
+**Fuentes configuradas:** 1
 
-> Esta búsqueda usa resultados públicos de Google News. No representa una búsqueda completa de TikTok. Los enlaces se deben comprobar antes de publicar.
+> Fuente: feeds RSS configurados. La disponibilidad y las fechas dependen de la información publicada por cada feed. Verifica cada enlace antes de publicar.
 
-No se encontraron resultados verificables en esta ejecución.
+No se encontraron publicaciones con fecha verificable dentro de las últimas 48 horas.
 
-Esto no significa que no existan clips nuevos en TikTok.
+Esto no significa que no existan videos nuevos.

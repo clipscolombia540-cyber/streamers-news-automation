@@ -1,16 +1,23 @@
 # Radar de streamers y clips
 
-**Actualizado:** 09/10/2026 09:58 AM
+**Actualizado:** 09/10/2026 10:52 AM
 
 - Ventana: últimas 48 horas.
 - Resultados: 2 de un máximo de 25.
-- Candidatos recopilados: 77.
+- Candidatos recopilados: 79.
 - Máximo de historias de Westcol: 2.
 - Se filtran noticias antiguas y duplicados.
 
 ## Clips y momentos virales
 
-Sin resultados.
+### [¿Cuánto vale el robot de Westcol? El streamer reveló la millonada que pagó - Noticias RCN](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVpQaVphWEdkd2dsSHRsdUR3cndtQVpMQnI1VUpFNERRRWxhUkFoWTNoYUVQU3dLUEhVN2ZzQm5NdFMySVZFLUVzMzk3cVoyMjV0enhkM2IzNWszZTNsanp4Q24xX094MmJaeWZmcE8yNlFJVnFMNGZHVlhVVXRBY09SOEHSAYQBQVVfeXFMTXJwcUFPaGM5Z01qYzlVTEs2bXV6WktVb1UtQnhQRFhfTVBrcE4tMjBOX1pxTkJoV2JYY1BQYzBGbU1hVXV4U3RmQVVILTQ1TjRmbXdDdko0WlpZT0xNTkd4Y2w1UHM1aEJSOUUyR3lwUW1jR3dSY21xWmxKeHNjUGpOdzZj?oc=5)
+
+- **Creador:** Westcol
+- **Fecha:** 09/10 10:22 AM
+- **Tipo:** Noticia
+- **Fuente:** Noticias RCN
+
+> ¿Cuánto vale el robot de Westcol? El streamer reveló la millonada que pagó Noticias RCN
 
 ## Polémicas y enfrentamientos
 
@@ -22,15 +29,6 @@ Sin resultados.
 - **Fuente:** El Colombiano
 
 > ¿Listo para pelear? Robot le destruyó el set y le dio un puñetazo a Westcol en plena transmisión con Blessd | El Colombiano El Colombiano
-
-### [Westcol habló de la polémica de Camilo Cifuentes: “No nos están cuidando” - Noticias RCN](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1dyREVYOGh2WTc5NTliaVk1Z1JxNW9GY2M1VnFUa1R6bGktaUJIQnU0TEtzSUZrTktDTS1ad2lpeWhieTZiOGktS3p0M1BMNFBQV0ZXd3lvanVMRWtEMmZ2b01zTGJDRUdFdzhWeXlONFhrU0hDQ1hZeVgyOWVjOWE2b0NMQlltWEJKRzNlREVZZDV6UDVTang2WlNxMzht?oc=5)
-
-- **Creador:** Westcol
-- **Fecha:** 08/10 03:58 PM
-- **Tipo:** Noticia
-- **Fuente:** Noticias RCN
-
-> Westcol habló de la polémica de Camilo Cifuentes: “No nos están cuidando” Noticias RCN
 
 ## Colaboraciones y directos
 
