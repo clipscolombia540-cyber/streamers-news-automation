@@ -12,7 +12,6 @@ from email.utils import parsedate_to_datetime
 from difflib import SequenceMatcher
 from pathlib import Path
 
-
 # =========================================================
 # CONFIGURACIÓN
 # =========================================================
@@ -20,13 +19,14 @@ from pathlib import Path
 ZONA = timezone(timedelta(hours=-5))
 AHORA = datetime.now(timezone.utc)
 LIMITE = AHORA - timedelta(hours=48)
+
 MAX_RESULTADOS = 25
 MAX_WESTCOL = 2
 
-CARPETA_SALIDA = Path("reportes")
-ARCHIVO_SALIDA = CARPETA_SALIDA / "radar_streamers.md"
+# IMPORTANTE: guardar directamente en el informe que consultas
+CARPETA_SALIDA = Path("borradores")
+ARCHIVO_SALIDA = CARPETA_SALIDA / "radar_creadores.md"
 
-# Cada búsqueda tiene una categoría principal.
 BUSQUEDAS = {
     "Grandes de Kick": [
         '"Westcol" streamer',
@@ -74,18 +74,9 @@ BUSQUEDAS_YOUTUBE = [
 ]
 
 NOMBRES_CONOCIDOS = [
-    "Westcol",
-    "La Sapa",
-    "La Sapaaaaa",
-    "MrStivenTC",
-    "Pelicanger",
-    "Spreen",
-    "Komanche",
-    "JuanSGuarnizo",
-    "Coscu",
-    "TheDonato",
-    "AriGameplays",
-    "Rivers",
+    "Westcol", "La Sapa", "La Sapaaaaa", "MrStivenTC",
+    "Pelicanger", "Spreen", "Komanche", "JuanSGuarnizo",
+    "Coscu", "TheDonato", "AriGameplays", "Rivers",
 ]
 
 PALABRAS_RELEVANTES = [
@@ -187,12 +178,9 @@ def duplicado(a, b):
     if ta == tb:
         return True
 
-    similitud = SequenceMatcher(None, ta, tb).ratio()
-
-    if similitud >= 0.84:
+    if SequenceMatcher(None, ta, tb).ratio() >= 0.84:
         return True
 
-    # Evita repetir una misma historia con títulos ligeramente distintos.
     palabras_a = set(ta.split())
     palabras_b = set(tb.split())
     comunes = palabras_a & palabras_b
@@ -229,12 +217,12 @@ def buscar_google_news(consulta, categoria):
         print(f"Aviso: falló Google News para '{consulta}': {error}")
         return []
 
-    resultados = []
-
     try:
         raiz = ET.fromstring(contenido)
     except ET.ParseError:
         return []
+
+    resultados = []
 
     for entrada in raiz.findall(".//item"):
         titulo = limpiar(entrada.findtext("title", ""))
@@ -288,6 +276,7 @@ def buscar_youtube(consulta):
         return []
 
     if proceso.returncode != 0 or not proceso.stdout.strip():
+        print(f"Aviso: no se pudo consultar YouTube: {consulta}")
         return []
 
     try:
@@ -295,10 +284,9 @@ def buscar_youtube(consulta):
     except json.JSONDecodeError:
         return []
 
-    entradas = datos.get("entries") or []
     resultados = []
 
-    for video in entradas:
+    for video in datos.get("entries") or []:
         titulo = limpiar(video.get("title", ""))
         video_id = video.get("id", "")
         canal = limpiar(video.get("channel") or video.get("uploader") or "")
@@ -361,19 +349,13 @@ def quitar_duplicados(candidatos):
     unicos = []
 
     for item in candidatos:
-        repetido = any(
-            duplicado(item, existente)
-            for existente in unicos
-        )
-
-        if not repetido:
+        if not any(duplicado(item, existente) for existente in unicos):
             unicos.append(item)
 
     return unicos
 
 
 def seleccionar(candidatos):
-    # Limita historias de Westcol y prioriza diversidad.
     por_categoria = {}
 
     for item in candidatos:
@@ -383,12 +365,9 @@ def seleccionar(candidatos):
     usados = set()
     westcol = 0
 
-    # Primero, una noticia por categoría si existe.
     for categoria in BUSQUEDAS:
         for item in por_categoria.get(categoria, []):
-            clave = item["url"]
-
-            if clave in usados:
+            if item["url"] in usados:
                 continue
 
             if es_westcol(item["titulo"]):
@@ -397,10 +376,9 @@ def seleccionar(candidatos):
                 westcol += 1
 
             seleccionados.append(item)
-            usados.add(clave)
+            usados.add(item["url"])
             break
 
-    # Después, llenar hasta 25 con las mejores historias restantes.
     restantes = sorted(
         candidatos,
         key=lambda x: (puntuacion(x), x["fecha"]),
@@ -445,9 +423,8 @@ def generar_informe(seleccionados, total_candidatos):
         f"**Resultados seleccionados:** {len(seleccionados)} de máximo {MAX_RESULTADOS}",
         f"**Candidatos recogidos antes de eliminar duplicados:** {total_candidatos}",
         "",
-        "> Fuentes utilizadas: Google News RSS y, si está instalado, yt-dlp para YouTube. "
-        "No se consultan todas las publicaciones de Kick, TikTok, Twitch e Instagram. "
-        "Los resultados dependen de lo que las fuentes permitan encontrar.",
+        "> Fuentes: Google News RSS y YouTube mediante yt-dlp si está disponible. "
+        "No se consultan todas las publicaciones de Kick, TikTok, Twitch e Instagram.",
         "",
     ]
 
@@ -483,15 +460,12 @@ def generar_informe(seleccionados, total_candidatos):
         "",
         "## Nota editorial",
         "",
-        "Verifica el enlace y el contexto original antes de publicar un clip. "
-        "No se debe atribuir una historia a un streamer si el protagonista no está confirmado.",
+        "Verifica el enlace y el contexto original antes de publicar. "
+        "No atribuyas una historia a un streamer si el protagonista no está confirmado.",
         "",
     ])
 
-    ARCHIVO_SALIDA.write_text(
-        "\n".join(lineas),
-        encoding="utf-8",
-    )
+    ARCHIVO_SALIDA.write_text("\n".join(lineas), encoding="utf-8")
 
     print(f"Informe generado: {ARCHIVO_SALIDA}")
     print(f"Resultados seleccionados: {len(seleccionados)}")
