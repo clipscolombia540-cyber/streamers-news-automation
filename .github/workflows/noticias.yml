@@ -38,4 +38,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Actualizar radar de creadores"
-          file_pattern: "borradores/*.md"
+          file_pattern: "borradores/radar_creadores.md"
