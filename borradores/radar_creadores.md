@@ -1,6 +1,6 @@
 # Radar automático de creadores y clips
 
-Actualizado: 09/10/2026 02:13 PM (hora de Colombia)
+Actualizado: 09/10/2026 03:14 PM (hora de Colombia)
 
 Ventana objetivo: últimas 48 horas.
 Clips candidatos encontrados: 0.
@@ -17,7 +17,7 @@ No se inventan resultados ni se asume que un video sin fecha sea reciente.
 
 ## Noticias y contexto (no son necesariamente clips)
 
-- **Robot le da un cocotazo a un streamer (video) - Remolacha** — 09/10/2026 11:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zN2Ryd2cyOWJLX0xUV3pwRlJ5X3I4YUdZeDlMU21yWi0wZEFkUkNHQlUtUnNZNk5nMjJXZEtRQnZPQ0NHbmJhNnYwcWRyMVFEaFZvc9IBVEFVX3lxTE1zN2Ryd2cyOWJLX0xUV3pwRlJ5X3I4YUdZeDlMU21yWi0wZEFkUkNHQlUtUnNZNk5nMjJXZEtRQnZPQ0NHbmJhNnYwcWRyMVFEaFZvcw?oc=5)
+- **Robot le da un cocotazo a un streamer (video) - Remolacha** — 09/10/2026 12:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYzh6SFQ3N3VkSHVkdHloNzlwSmg0ZWYtSXdsa0YzbURweG1SOUpsREhRSXZKVHJMVGhPeWt0TnM3TmxuVUVoWkEtVUFBVUXSAVRBVV95cUxNczdkcndnMjliS19MVFd6cEZSeV9yOGFHWXg5TFNtclotMGRBZFJDR0JVLVJzWTZOZzIyV2RLUUJ2T0NDR25iYTZ2MHFkcjFRRGhWb3M?oc=5)
 - **Camilo Cifuentes confesó su infidelidad con ‘La Mijita’ y Westcol reaccionó: “Yo la cagué” - HSB Noticias** — 09/10/2026 11:06 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVlsNUhFRjQ2aU5tUFpJZ0FVdjlKdnJMM1R1UDBodHJiemtlMFdibGJqOUZ5aGtRNUZFZktvMzdHcjlUUF9FVGluRG9qVFlqd1dUc1hiNkFVV1NEZml6ZVlFcGxLV0VrczE0enl6a1hoRGFtTUNyZHRndkdpR1FZTDAtTlVwWlQ4ejZGWlF5NzhNUVBDQ2tJYjVldVJjOHB4eEVsTWxKYVVuSEVOandib3dLeGt6UG9UTWc?oc=5)
 - **¿Cuánto vale el robot de Westcol? El streamer reveló la millonada que pagó - Noticias RCN** — 09/10/2026 10:22 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVpQaVphWEdkd2dsSHRsdUR3cndtQVpMQnI1VUpFNERRRWxhUkFoWTNoYUVQU3dLUEhVN2ZzQm5NdFMySVZFLUVzMzk3cVoyMjV0enhkM2IzNWszZTNsanp4Q24xX094MmJaeWZmcE8yNlFJVnFMNGZHVlhVVXRBY09SOEHSAYQBQVVfeXFMTXJwcUFPaGM5Z01qYzlVTEs2bXV6WktVb1UtQnhQRFhfTVBrcE4tMjBOX1pxTkJoV2JYY1BQYzBGbU1hVXV4U3RmQVVILTQ1TjRmbXdDdko0WlpZT0xNTkd4Y2w1UHM1aEJSOUUyR3lwUW1jR3dSY21xWmxKeHNjUGpOdzZj?oc=5)
 - **Video: un famoso “streamer” colombiano quedó en ridículo al ser noqueado en vivo por un robot - Diario Panorama** — 09/10/2026 09:34 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0NYUFROVnJUdUFqZGU4b2g3SE0wMmpBTWctdTNOQ2hxWTZGa0RzaEp6STBJX2tVWFpabUNIZG10dkZCUDZxc2hpcEdKZDlscEViSnZRWDRsU3d3Q3NubDdPU0dwd0MwTFI3ZEpiMGNxOEdBcXB1OFhySmhreUxzYm5LZXpPenRpTEFkbGRENy15UWRCYWRMTmNlaENlRFpSOEFtdVliZlJSOFJ3U0Z5b0RHUEFCUThxdUJVXw?oc=5)

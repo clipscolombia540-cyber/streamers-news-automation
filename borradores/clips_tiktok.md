@@ -1,6 +1,6 @@
 # Radar de clips virales de TikTok
 
-**Actualizado:** 09/10/2026 19:13 UTC
+**Actualizado:** 09/10/2026 20:15 UTC
 **Ventana:** últimas 48 horas
 **Fuentes configuradas:** 1
 
