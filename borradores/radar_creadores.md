@@ -1,10 +1,10 @@
 # Radar de streamers y clips
 
-**Actualizado:** 09/10/2026 09:47 AM
+**Actualizado:** 09/10/2026 09:58 AM
 
 - Ventana: últimas 48 horas.
 - Resultados: 2 de un máximo de 25.
-- Candidatos recopilados: 76.
+- Candidatos recopilados: 77.
 - Máximo de historias de Westcol: 2.
 - Se filtran noticias antiguas y duplicados.
 
