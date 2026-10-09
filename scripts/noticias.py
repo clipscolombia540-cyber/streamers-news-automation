@@ -1,5 +1,6 @@
 import re
 import time
+import html
 import unicodedata
 import urllib.request
 import urllib.parse
@@ -15,8 +16,8 @@ MAX_TITULARES = 25
 HORAS_MAXIMAS = 48
 REINTENTOS = 3
 
-# Nombres conocidos: son un punto de partida, no una lista cerrada.
-CREADORES = [
+# Nombres conocidos: se pueden ampliar cuando descubramos creadores.
+CREADORES_CONOCIDOS = [
     "Westcol",
     "La Liendra",
     "Yeferson Cossio",
@@ -30,81 +31,195 @@ CREADORES = [
     "Juan Guarnizo",
 ]
 
-# Búsquedas para descubrir creadores que todavía no conocemos.
+# Categoría, búsqueda.
+# No se clasifican creadores por ciudad sin verificar su origen.
 BUSQUEDAS = [
-    ("Streamers colombianos", '"streamer colombiano"'),
-    ("Streamers emergentes", '"nuevo streamer colombiano"'),
-    ("Streamers virales", '"streamer colombiano viral"'),
-    ("Streamers de Kick", 'streamer colombiano Kick'),
-    ("Streamers de Twitch", 'streamer colombiano Twitch'),
-    ("Streamers de YouTube", 'streamer colombiano YouTube'),
-    ("Directos y polémicas", 'streamer colombiano polémica'),
-    ("Nuevos creadores", '"creador de contenido colombiano"'),
-    ("Influencers colombianos", '"influencer colombiano"'),
-    ("Influencers virales", 'influencer colombiano viral'),
-    ("TikTok colombiano", 'tiktoker colombiano viral'),
-    ("YouTubers colombianos", 'youtuber colombiano viral'),
-    ("Creadores de Medellín", 'streamer creador Medellín Colombia'),
-    ("Creadores de Bogotá", 'streamer creador Bogotá Colombia'),
-    ("Creadores de Cali", 'streamer creador Cali Colombia'),
-    ("Creadores de Barranquilla", 'streamer creador Barranquilla Colombia'),
-    ("Colaboraciones", 'streamer influencer colombiano colaboración'),
-    ("Noticias de Westcol", '"Westcol"'),
-    ("Noticias de La Liendra", '"La Liendra"'),
-    ("Noticias de Yeferson Cossio", '"Yeferson Cossio"'),
-    ("Noticias de Aida Victoria", '"Aida Victoria"'),
-    ("Noticias de Epa Colombia", '"Epa Colombia"'),
-    ("Noticias de Luisa Fernanda W", '"Luisa Fernanda W"'),
-    ("Noticias de Dani Duke", '"Dani Duke"'),
-    ("Noticias de Andrea Valdiri", '"Andrea Valdiri"'),
-    ("Noticias de Mr Stiven", '"Mr Stiven"'),
-    ("Noticias de Pelicanger", '"Pelicanger"'),
-    ("Noticias de Juan Guarnizo", '"Juan Guarnizo"'),
+    (
+        "Streamers conocidos",
+        '"Westcol" OR "streamer colombiano"',
+    ),
+    (
+        "Streamers de Kick",
+        'streamer colombiano Kick',
+    ),
+    (
+        "Streamers de Twitch",
+        'streamer colombiano Twitch',
+    ),
+    (
+        "Streamers de YouTube",
+        'streamer colombiano YouTube directo',
+    ),
+    (
+        "Directos y momentos virales",
+        'streamer colombiano directo viral',
+    ),
+    (
+        "Polémicas y declaraciones de streamers",
+        'streamer colombiano polémica declaraciones',
+    ),
+    (
+        "Colaboraciones entre streamers",
+        'streamers colombianos colaboración',
+    ),
+    (
+        "Descubrir streamers nuevos",
+        '"nuevo streamer" Colombia',
+    ),
+    (
+        "Descubrir streamers emergentes",
+        'streamer colombiano canal pequeño comunidad',
+    ),
+    (
+        "Descubrir creadores de gaming",
+        'creador colombiano gaming transmisiones en vivo',
+    ),
+    (
+        "Streamers colombianos en tendencia",
+        'streamer Colombia tendencia redes sociales',
+    ),
+    (
+        "Influencers de TikTok",
+        'influencer colombiano TikTok viral',
+    ),
+    (
+        "Influencers de Instagram",
+        'influencer colombiano Instagram viral',
+    ),
+    (
+        "YouTubers colombianos",
+        'youtuber colombiano nuevo video viral',
+    ),
+    (
+        "Creadores de contenido emergentes",
+        '"creador de contenido colombiano" viral',
+    ),
+    (
+        "Noticias de Westcol",
+        '"Westcol"',
+    ),
+    (
+        "Noticias de La Liendra",
+        '"La Liendra"',
+    ),
+    (
+        "Noticias de Yeferson Cossio",
+        '"Yeferson Cossio"',
+    ),
+    (
+        "Noticias de Aida Victoria",
+        '"Aida Victoria"',
+    ),
+    (
+        "Noticias de Epa Colombia",
+        '"Epa Colombia"',
+    ),
+    (
+        "Noticias de Luisa Fernanda W",
+        '"Luisa Fernanda W"',
+    ),
+    (
+        "Noticias de Dani Duke",
+        '"Dani Duke"',
+    ),
+    (
+        "Noticias de Andrea Valdiri",
+        '"Andrea Valdiri"',
+    ),
+    (
+        "Noticias de Mr Stiven",
+        '"Mr Stiven"',
+    ),
+    (
+        "Noticias de Pelicanger",
+        '"Pelicanger"',
+    ),
+    (
+        "Noticias de Juan Guarnizo",
+        '"Juan Guarnizo"',
+    ),
 ]
 
 PALABRAS_CREADORES = [
-    "streamer", "streamers", "influencer", "influencers",
-    "creador de contenido", "creadora de contenido",
-    "creadores de contenido", "creadoras de contenido",
-    "tiktoker", "youtuber", "youtubers",
-    "twitch", "kick", "youtube", "tiktok",
-    "transmision en vivo", "directo", "directos",
-    "redes sociales", "creador digital",
+    "streamer",
+    "streamers",
+    "influencer",
+    "influencers",
+    "creador de contenido",
+    "creadora de contenido",
+    "creadores de contenido",
+    "creadoras de contenido",
+    "tiktoker",
+    "youtuber",
+    "youtubers",
+    "twitch",
+    "kick",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "directo",
+    "directos",
+    "transmision en vivo",
+    "redes sociales",
+    "creador digital",
 ]
 
 INDICIOS_COLOMBIA = [
-    "colombia", "colombiano", "colombiana",
-    "colombianos", "colombianas",
-    "bogota", "medellin", "cali", "barranquilla",
-    "bucaramanga", "cartagena", "pereira",
-    "manizales", "cucuta", "villavicencio",
-    "santa marta", "ibague", "pasto", "monteria",
-    "neiva", "armenia", "valledupar", "sincelejo",
+    "colombia",
+    "colombiano",
+    "colombiana",
+    "colombianos",
+    "colombianas",
+    "bogota",
+    "medellin",
+    "cali",
+    "barranquilla",
+    "bucaramanga",
+    "cartagena",
+    "pereira",
+    "manizales",
+    "cucuta",
+    "villavicencio",
+    "santa marta",
+    "ibague",
+    "pasto",
+    "monteria",
+    "neiva",
+    "armenia",
+    "valledupar",
+    "sincelejo",
 ]
 
 
 def normalizar(texto):
-    texto = (texto or "").casefold()
+    texto = html.unescape(texto or "").casefold()
     texto = unicodedata.normalize("NFD", texto)
+
     return "".join(
-        letra for letra in texto
+        letra
+        for letra in texto
         if unicodedata.category(letra) != "Mn"
     )
 
 
 def limpiar(texto):
-    return re.sub(r"\s+", " ", texto or "").strip()
+    texto = html.unescape(texto or "")
+    texto = re.sub(r"<[^>]+>", " ", texto)
+    return re.sub(r"\s+", " ", texto).strip()
 
 
 def es_relevante(titulo, descripcion):
     texto = normalizar(titulo + " " + descripcion)
 
-    # Si menciona a un creador conocido, aceptar el resultado.
-    if any(normalizar(nombre) in texto for nombre in CREADORES):
+    # Aceptar noticias que mencionen a un creador conocido.
+    if any(
+        normalizar(nombre) in texto
+        for nombre in CREADORES_CONOCIDOS
+    ):
         return True
 
-    # Para descubrir nombres nuevos, exigir señales de Colombia
-    # y términos relacionados con creadores o plataformas.
+    # Para descubrir nombres nuevos, exigir señales tanto
+    # de Colombia como de actividad de creadores.
     es_colombiano = any(
         normalizar(palabra) in texto
         for palabra in INDICIOS_COLOMBIA
@@ -134,7 +249,7 @@ def obtener_fecha(texto):
         return None
 
 
-def consultar(tema):
+def consultar_google(tema):
     consulta = tema + " when:2d"
 
     url = (
@@ -160,7 +275,9 @@ def consultar(tema):
                 raise
 
             espera = 3 * (intento + 1)
-            print(f"Error 503. Reintento en {espera} segundos.")
+            print(
+                f"Error 503. Reintentando en {espera} segundos."
+            )
             time.sleep(espera)
 
         except (urllib.error.URLError, TimeoutError):
@@ -173,7 +290,8 @@ def consultar(tema):
 
 
 def obtener_noticias(tema):
-    raiz = consultar(tema)
+    raiz = consultar_google(tema)
+
     limite = datetime.now(timezone.utc) - timedelta(
         hours=HORAS_MAXIMAS
     )
@@ -190,6 +308,7 @@ def obtener_noticias(tema):
         if not titulo or not enlace:
             continue
 
+        # Excluir noticias viejas o sin fecha verificable.
         if fecha is None or fecha < limite:
             continue
 
@@ -200,6 +319,7 @@ def obtener_noticias(tema):
             "titulo": titulo,
             "enlace": enlace,
             "fecha": fecha_texto,
+            "fecha_utc": fecha,
         })
 
         if len(resultados) >= MAX_TITULARES:
@@ -216,17 +336,22 @@ def main():
     lineas = [
         f"# Radar de creadores colombianos — {hoy}",
         "",
-        f"> Noticias de las últimas {HORAS_MAXIMAS} horas.",
+        f"> Antigüedad máxima: {HORAS_MAXIMAS} horas.",
         f"> Hasta {MAX_TITULARES} titulares por búsqueda.",
-        "> Se priorizan streamers y se incluyen otros influencers.",
-        "> Verifica la información antes de publicar.",
+        "> Categorías: streamers conocidos, emergentes e influencers.",
+        "> No se asigna ciudad de origen sin verificación.",
+        "> Verifica cada fuente antes de publicar.",
         "",
     ]
 
     vistos = set()
+    total = 0
 
     for categoria, tema in BUSQUEDAS:
-        lineas.extend([f"## {categoria}", ""])
+        lineas.extend([
+            f"## {categoria}",
+            "",
+        ])
 
         try:
             noticias = obtener_noticias(tema)
@@ -235,11 +360,13 @@ def main():
             for noticia in noticias:
                 enlace = noticia["enlace"]
 
+                # Evitar repetir la misma noticia en el informe.
                 if enlace in vistos:
                     continue
 
                 vistos.add(enlace)
                 nuevas += 1
+                total += 1
 
                 lineas.extend([
                     "### " + noticia["titulo"],
@@ -251,11 +378,12 @@ def main():
 
             if nuevas == 0:
                 lineas.extend([
-                    "No se encontraron resultados nuevos.",
+                    "No hubo resultados nuevos que cumplieran "
+                    "los filtros de fecha y relevancia.",
                     "",
                 ])
 
-            print(f"{categoria}: {nuevas} noticias.")
+            print(f"{categoria}: {nuevas} noticias nuevas.")
 
         except Exception as error:
             mensaje = f"{type(error).__name__}: {error}"
@@ -266,10 +394,18 @@ def main():
                 "",
             ])
 
+    lineas.extend([
+        "---",
+        "",
+        f"Total de noticias únicas: {total}",
+        "",
+    ])
+
     carpeta = Path("borradores")
     carpeta.mkdir(parents=True, exist_ok=True)
 
     destino = carpeta / f"noticias-{hoy}.md"
+
     destino.write_text(
         "\n".join(lineas) + "\n",
         encoding="utf-8",
