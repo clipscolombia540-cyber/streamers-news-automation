@@ -1,9 +1,9 @@
 # Radar automático de creadores y clips
 
-Actualizado: 09/10/2026 07:27 PM (hora de Colombia)
+Actualizado: 09/10/2026 07:32 PM (hora de Colombia)
 
 Ventana objetivo: últimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 7.
 Noticias recientes: 7.
 
 > Radar basado en metadatos públicos. Verifica cada enlace y los derechos antes de publicar.
@@ -22,7 +22,7 @@ Noticias recientes: 7.
 - Categoría: Principal
 - Creador/canal detectado: Westcol
 - Canal que publicó: WestClips
-- Publicado: 09/10/2026 06:00 PM
+- Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=Wr5wv_xlCPI
 
@@ -30,7 +30,7 @@ Noticias recientes: 7.
 - Categoría: Principal
 - Creador/canal detectado: Lonche de Huevito
 - Canal que publicó: LoncheWey
-- Publicado: 09/10/2026 01:00 PM
+- Publicado: 09/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=zJaLTIIA0Sc
 
@@ -38,7 +38,7 @@ Noticias recientes: 7.
 - Categoría: Principal
 - Creador/canal detectado: Rey de la City
 - Canal que publicó: ElReyWithTheClips
-- Publicado: 08/10/2026 10:00 PM
+- Publicado: 08/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=-jko2ye8sxQ
 
@@ -46,9 +46,17 @@ Noticias recientes: 7.
 - Categoría: Principal
 - Creador/canal detectado: Rey de la City
 - Canal que publicó: ElReyWithTheClips
-- Publicado: 08/10/2026 09:00 PM
+- Publicado: 08/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=aKuRl7m73BI
+
+### REYDELACITY REACTS TO MINI LAJA -TRENDING (Official Video)
+- Categoría: Principal
+- Creador/canal detectado: Rey de la City
+- Canal que publicó: ElReyWithTheClips
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=lVu7Q0aNXIU
 
 ### MR STIVEN SHOWS US HIS BROTHER TATAN'S NEW MOTORCYCLE IT'S INCREDIBLE! @MrStivenTc
 - Categoría: Principal

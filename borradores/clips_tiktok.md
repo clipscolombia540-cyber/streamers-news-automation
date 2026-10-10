@@ -1,11 +1,12 @@
-# Radar de clips virales de TikTok
+# Radar de clips de TikTok
 
-**Actualizado:** 10/10/2026 00:28 UTC
-**Ventana:** últimas 48 horas
-**Fuentes configuradas:** 1
+**Actualizado:** 10/10/2026 00:33 UTC
+**Periodo revisado:** últimas 48 horas
+**Feeds configurados:** 1
+**Publicaciones encontradas:** 0
 
-> Fuente: feeds RSS configurados. La disponibilidad y las fechas dependen de la información publicada por cada feed. Verifica cada enlace antes de publicar.
+> Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
 
-No se encontraron publicaciones con fecha verificable dentro de las últimas 48 horas.
+No se encontraron publicaciones con fecha verificable dentro del periodo revisado.
 
-Esto no significa que no existan videos nuevos.
+Esto no confirma que no existan videos nuevos. Puede que el feed no los haya entregado o que no incluya fechas verificables.
