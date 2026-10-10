@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:13 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:16 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 6.
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.356
+- Vistas reportadas por YouTube: 3.359
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -47,11 +47,22 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 - Creador/canal detectado: Cuenta de clips: LonchiClips
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:46 PM
+- Publicado: 09/10/2026 10:47 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
+
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 09/10/2026 10:47 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - Categoria: Cuenta de clips
@@ -60,7 +71,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 - Canal que publico: Pelusa Clips Tc
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.657
+- Vistas reportadas por YouTube: 1.662
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
@@ -118,6 +129,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
+
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
