@@ -50,7 +50,7 @@ def obtener_feeds():
 def tipo_de_cuenta(nombre):
     """Clasifica los feeds por etiqueta para priorizar cuentas de clips de terceros."""
     etiqueta = (nombre or "").strip().lower()
-    if etiqueta.startswith(("clipero:", "clips:", "fan:", "momentos:", "recortes:")):
+    if etiqueta.startswith(("clipero:", "clips:", "fan:", "momentos:", "recortes:", "tiktok:")):
         return "Cuenta de clips/terceros"
     if etiqueta.startswith("emergente:"):
         return "Creador emergente"
