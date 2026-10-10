@@ -418,7 +418,7 @@ def ejecutar_busqueda_youtube(
         "--no-warnings",
         "--ignore-errors",
         "--playlist-end", str(max_items),
-        "ytsearchdate{}:{}".format(max_items, consulta),
+        "ytsearchdate:{}".format(consulta),
     ]
 
     proceso = subprocess.run(
