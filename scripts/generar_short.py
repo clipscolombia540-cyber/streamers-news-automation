@@ -82,7 +82,7 @@ def make_card(path,tag,title,source,index,total):
     d.text((88,94),"CLIPS COLOMBIA  /  DEDSAFIO",font=font(37,True),fill="white")
     d.rounded_rectangle((70,260,520,340),radius=22,fill=(90,235,255))
     d.text((94,278),tag.upper()[:28],font=font(30,True),fill=(7,13,28))
-    d.text((72,410),"👀",font=font(78,True),fill="white")
+    d.text((72,410),"¡OJO!",font=font(58,True),fill=(255,214,67))
     y=535
     for line in wrap(d,title,font(67,True),920)[:7]:
         d.text((74,y),line,font=font(67,True),fill="white",stroke_width=2,stroke_fill=(0,0,0)); y+=88
@@ -103,6 +103,20 @@ async def voice(text,path):
 
 def dur(path):
     return float(subprocess.check_output(["ffprobe","-v","error","-show_entries","format=duration","-of","default=noprint_wrappers=1:nokey=1",str(path)],text=True).strip())
+
+def make_overlay(path,tag,title,source):
+    # Transparent overlay so authorized footage remains visible underneath.
+    im=Image.new("RGBA",(W,H),(0,0,0,0)); d=ImageDraw.Draw(im)
+    d.rounded_rectangle((42,55,1038,205),radius=28,fill=(9,10,22,220))
+    d.rounded_rectangle((58,72,410,132),radius=18,fill=(255,54,95,245))
+    d.text((78,82),"CLIPS COLOMBIA",font=font(27,True),fill=(255,255,255,255))
+    d.text((62,150),tag.upper()[:35],font=font(28,True),fill=(90,235,255,255))
+    d.rounded_rectangle((42,1350,1038,1850),radius=34,fill=(9,10,22,222))
+    yy=1410
+    for line in wrap(d,title,font(58,True),900)[:5]:
+        d.text((72,yy),line,font=font(58,True),fill=(255,255,255,255),stroke_width=2,stroke_fill=(0,0,0,255)); yy+=73
+    d.text((72,1780),("FUENTE: "+source)[:48],font=font(27,True),fill=(90,235,255,255))
+    im.save(path)
 
 def available_clips():
     return sorted(p for p in CLIPS.glob("*") if p.suffix.lower() in {".mp4",".mov",".mkv",".webm"})
@@ -129,12 +143,14 @@ def build_video(items):
         # Use a locally supplied authorized clip as a moving background when available.
         clip=clips[(idx-2)%len(clips)] if clips and 1 < idx < total else None
         if clip:
+            overlay=WORK/f"overlay_{idx:02d}.png"
+            make_overlay(overlay,card["tag"],card["title"],card["source"])
             vf=("scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
-                "eq=contrast=1.08:saturation=1.18,drawbox=x=0:y=0:w=iw:h=250:color=0x090A16@0.78:t=fill,"
-                "drawbox=x=0:y=ih-430:w=iw:h=430:color=0x090A16@0.80:t=fill")
-            run(["ffmpeg","-y","-stream_loop","-1","-i",str(clip),"-i",str(aud),"-t",f"{seconds:.2f}",
-                 "-vf",vf,"-r","30","-c:v","libx264","-preset","veryfast","-pix_fmt","yuv420p",
-                 "-c:a","aac","-b:a","128k","-shortest",str(seg)])
+                "eq=contrast=1.08:saturation=1.18")
+            run(["ffmpeg","-y","-stream_loop","-1","-i",str(clip),"-i",str(aud),"-i",str(overlay),
+                 "-filter_complex",f"[0:v]{vf}[base];[base][2:v]overlay=0:0:format=auto,format=yuv420p[v]",
+                 "-map","[v]","-map","1:a","-t",f"{seconds:.2f}","-r","30","-c:v","libx264",
+                 "-preset","veryfast","-c:a","aac","-b:a","128k","-shortest",str(seg)])
         else:
             # Subtle zoom/pan means even the fallback isn't a static slideshow.
             run(["ffmpeg","-y","-loop","1","-i",str(img),"-i",str(aud),"-t",f"{seconds:.2f}",
