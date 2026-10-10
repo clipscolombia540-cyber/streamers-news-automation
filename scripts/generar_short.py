@@ -111,6 +111,8 @@ def fetch_items():
     # Prefer real public moment metadata over generic headlines. Video files are not downloaded.
     moments=fetch_kick_moments()
     if moments: return moments
+    moments=fetch_tiktok_clips()
+    if moments: return moments
     found=[]; seen=set()
     for query in QUERIES:
         url="https://news.google.com/rss/search?q="+quote(query)+"&hl=es-419&gl=CO&ceid=CO:es-419"
@@ -309,7 +311,7 @@ def build_video(items):
 def main():
     items=fetch_items()
     if not items:
-        raise RuntimeError("No encontré titulares de Dedsafio recientes en las últimas 48 horas. No se publica un resumen inventado.")
+        raise RuntimeError("No encontré clips públicos de Dedsafio ni titulares recientes. No se generará una presentación inventada.")
     video,clips=build_video(items)
     lines=["Short narrado de radar Dedsafio. Los videos de fondo se descargan mediante API de stock (Pexels/Pixabay) o desde assets/clips/ con permiso. El stock genérico NO se presenta como metraje real de Dedsafio; los momentos específicos se enlazan a sus fuentes originales.",
            "Clips de video: "+f"{len(clips)} archivo(s) reutilizables disponibles; revisar licencias y atribución de cada fuente antes de publicación pública."]
