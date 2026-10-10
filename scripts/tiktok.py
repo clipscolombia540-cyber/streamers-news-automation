@@ -19,6 +19,34 @@ FEEDS = {
 }
 
 
+def obtener_feeds():
+    """Permite ampliar feeds desde el entorno sin editar el código.
+
+    Formato de TIKTOK_FEEDS: Nombre=https://feed1.xml;Otro=https://feed2.xml
+    Si no se configura, se usa la lista FEEDS predeterminada.
+    """
+    configuracion = os.environ.get("TIKTOK_FEEDS", "").strip()
+    if not configuracion:
+        return dict(FEEDS)
+
+    feeds = {}
+    for entrada in configuracion.split(";"):
+        if "=" not in entrada:
+            print("Entrada TIKTOK_FEEDS ignorada; se esperaba Nombre=URL.")
+            continue
+        nombre, url = entrada.split("=", 1)
+        nombre, url = nombre.strip(), url.strip()
+        if nombre and url.startswith(("https://", "http://")):
+            feeds[nombre] = url
+        else:
+            print("Entrada TIKTOK_FEEDS ignorada por nombre o URL inválidos.")
+
+    if feeds:
+        return feeds
+    print("TIKTOK_FEEDS no contenía entradas válidas; se usan los feeds predeterminados.")
+    return dict(FEEDS)
+
+
 def convertir_fecha(texto):
     if not texto:
         return None
@@ -198,8 +226,9 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
 def crear_informe():
     ahora = datetime.now(timezone.utc)
     publicaciones_por_creador = []
+    feeds = obtener_feeds()
 
-    for creador, url in FEEDS.items():
+    for creador, url in feeds.items():
         print(f"Consultando TikTok de {creador}...")
         publicaciones = leer_feed(creador, url)
         # Conservamos el nombre del creador asignado por el feed.
@@ -216,7 +245,7 @@ def crear_informe():
         "",
         f"**Actualizado:** {ahora.strftime('%d/%m/%Y %H:%M UTC')}",
         f"**Periodo revisado:** últimas {HORAS} horas",
-        f"**Feeds configurados:** {len(FEEDS)}",
+        f"**Feeds configurados:** {len(feeds)}",
         f"**Publicaciones leídas:** {diagnostico['leidas']}",
         f"**Publicaciones encontradas:** {len(lista)}",
         "",
