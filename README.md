@@ -10,7 +10,7 @@ El radar lee feeds RSS públicos y solo incluye publicaciones con fecha verifica
 
 1. Abre [la guía de RSS.app para TikTok](https://help.rss.app/en/articles/8891118-how-to-create-rss-feeds-from-tiktok).
 2. Crea un feed para cada perfil público que quieras vigilar y copia la URL RSS XML que te entregue el servicio.
-3. Empieza con cuentas conocidas y luego agrega creadores emergentes. Lista sugerida para buscar sus perfiles oficiales en TikTok: **Westcol, MrStivenTC, Pelicanger, Samulx, Chanty, La Sapa y Lonche de Huevito**. Añade influencers como **La Liendra, Yina Calderón y El Mindo** si sus perfiles tienen feeds disponibles.
+3. Para este canal, empieza por cuentas de cliperos, fans y recortes que publiquen momentos de directos ajenos; luego agrega creadores emergentes y perfiles oficiales como respaldo. Busca cuentas reales y públicas relacionadas con **Westcol, MrStivenTC, Pelicanger, Samulx, Chanty, La Sapa y Lonche de Huevito**. También puedes añadir influencers como **La Liendra, Yina Calderón y El Mindo** si sus perfiles tienen feeds disponibles. Estos nombres son objetivos de búsqueda, no una afirmación de que todos tengan un feed disponible.
 4. No uses URLs de ejemplo ni enlaces de perfiles como si fueran feeds RSS: el valor debe ser la URL XML generada por el servicio.
 
 ### 2. Guardar los feeds como secreto en GitHub
@@ -24,10 +24,10 @@ Desde el navegador del celular:
 5. En **Secret**, pega los nombres y URLs reales, separados por punto y coma, con este formato ilustrativo:
 
    ```text
-   Westcol=https://URL-RSS-REAL-1.xml;MrStivenTC=https://URL-RSS-REAL-2.xml;Pelicanger=https://URL-RSS-REAL-3.xml
+   Clipero:LaWClips=https://URL-RSS-REAL-1.xml;Fan:ClipsMrStiven=https://URL-RSS-REAL-2.xml;Emergente:NuevoStreamer=https://URL-RSS-REAL-3.xml;Streamer:Westcol=https://URL-RSS-REAL-4.xml
    ```
 
-   Reemplaza todas las direcciones de ejemplo por URLs XML reales. Puedes añadir más pares `Nombre=URL` usando el mismo separador.
+   Reemplaza todas las direcciones de ejemplo por URLs XML reales. Puedes añadir más pares `Etiqueta:Nombre=URL` usando el mismo separador. Las etiquetas `Clipero:`, `Clips:`, `Fan:`, `Momentos:` y `Recortes:` hacen que esos feeds aparezcan primero en el informe; `Emergente:` e `Influencer:` los clasifican por separado. No inventes URLs: usa únicamente las que genere el proveedor RSS.
 
 6. Guarda el secreto y entra en **Actions → Radar de creadores y TikTok → Run workflow** para ejecutar una prueba manual.
 
