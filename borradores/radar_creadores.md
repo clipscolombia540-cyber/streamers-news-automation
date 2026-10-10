@@ -1,25 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:10 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:13 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Aquiso Clips
-- Publicado: 08/10/2026 07:00 PM
+- Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.412
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+- Vistas reportadas por YouTube: 247
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - Categoria: Clip de terceros
@@ -37,18 +37,28 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.968
-- Puntaje heurístico de interés: 3
+- Vistas reportadas por YouTube: 5.069
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### CARRERAS CON LONCHE Y T3R ELEMENTO EN LA CON EL FERRARI Y AUTOS DEPORTIVOS | WILLITO
+### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 09/10/2026 11:59 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
+
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips de Willito
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: Clips de Willito
 - Publicado: 09/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.276
+- Vistas reportadas por YouTube: 1.738
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EUjTdRgBXmU
 
@@ -63,24 +73,14 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 09/10/2026 11:58 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
-
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
-- Publicado: 09/10/2026 11:58 PM
+- Publicado: 09/10/2026 11:57 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 468
+- Vistas reportadas por YouTube: 614
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
@@ -98,15 +98,15 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Título sugerido:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
+- **Texto en pantalla:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
+- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -128,15 +128,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### CARRERAS CON LONCHE Y T3R ELEMENTO EN LA CON EL FERRARI Y AUTOS DEPORTIVOS | WILLITO
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** CARRERAS CON LONCHE Y T3R ELEMENTO EN LA CON EL FERRARI Y AUTOS DEPORTIVOS | WILLITO
-- **Texto en pantalla:** CARRERAS CON LONCHE Y T3R ELEMENTO EN LA CON EL FERRARI Y AUTOS DEPORT
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EUjTdRgBXmU
+- **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
+
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -148,15 +158,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
+- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -213,7 +223,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=erGVN-STuG8
   - https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ## Busquedas de emergentes
