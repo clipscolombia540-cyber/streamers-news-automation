@@ -1,19 +1,91 @@
 # Radar automático de creadores y clips
 
-Actualizado: 09/10/2026 05:15 PM (hora de Colombia)
+Actualizado: 09/10/2026 07:10 PM (hora de Colombia)
 
 Ventana objetivo: últimas 48 horas.
-Clips candidatos encontrados: 0.
+Clips candidatos encontrados: 11.
 Noticias recientes encontradas: 4.
 
 > Radar gratuito basado en metadatos públicos. La búsqueda puede ser limitada por YouTube. Verifica los enlaces y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-No se encontraron videos verificables dentro de las últimas 48 horas.
+### SECH QUIERE LLEVARSE MI ROBOT 🤣 | WESTCOL
+- Búsqueda/creador: Emergentes Colombia
+- Canal que publicó: WestClips
+- Publicado: 09/10/2026 07:06 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=O2S3skU8jhg
 
-Consulta los registros del workflow para ver los resultados brutos, las fechas no verificables y los posibles errores de YouTube.
-No se inventan resultados ni se asume que un video sin fecha sea reciente.
+### WESTCOL TALKS ABOUT THE PUNCH THE ROBOT GAVE HIM 🤣
+- Búsqueda/creador: Emergentes Colombia
+- Canal que publicó: WestClips
+- Publicado: 09/10/2026 06:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=Wr5wv_xlCPI
+
+### ASÍ ES UN DÍA con T3R ELEMENTO 😱 | LONCHE
+- Búsqueda/creador: Lonche de Huevito
+- Canal que publicó: LoncheWey
+- Publicado: 09/10/2026 01:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=zJaLTIIA0Sc
+
+### Soraya’s fierce attack on Fatemeh, and Ayas anger over the tensions within Amir’s family.
+- Búsqueda/creador: La Sapa
+- Canal que publicó: ayas 79
+- Publicado: 09/10/2026 12:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=IPDUYcfrdsM
+
+### #shorts #westcol
+- Búsqueda/creador: Westcol
+- Canal que publicó: Clipazo
+- Publicado: 09/10/2026 09:00 AM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=NqDGmctfwV4
+
+### REYDELACITY CATCHES HIS GIRLFRIEND SNEAKING INTO HIS GAMER ROOM… IT GOES WRONG! 😂😭🎮
+- Búsqueda/creador: Rey de la City
+- Canal que publicó: ElReyWithTheClips
+- Publicado: 08/10/2026 10:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=-jko2ye8sxQ
+
+### REYDELACITY REACTS TO I entered Memo ATR's dangerous block and the police showed up.😳🚔🔥
+- Búsqueda/creador: Rey de la City
+- Canal que publicó: ElReyWithTheClips
+- Publicado: 08/10/2026 09:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=aKuRl7m73BI
+
+### ESTE ROBOT DESTRUYÓ MI PENTHOUSE Y ME PEGÓ EN LA CABEZA 🤣😬 | WESTCOL X BLESSD
+- Búsqueda/creador: Westcol
+- Canal que publicó: WestClips
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=1CYADKE4dVw
+
+### REYDELACITY REACTS TO MINI LAJA -TRENDING (Official Video)
+- Búsqueda/creador: Rey de la City
+- Canal que publicó: ElReyWithTheClips
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=lVu7Q0aNXIU
+
+### MR STIVEN SHOWS US HIS BROTHER TATAN'S NEW MOTORCYCLE IT'S INCREDIBLE! @MrStivenTc
+- Búsqueda/creador: MrStivenTC
+- Canal que publicó: Short Mundial 🌎
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=Mw4rullTqZ0
+
+### The Colombian Kick streamer WestCOL's robot, which he brought onto his stream, punched WestCOL
+- Búsqueda/creador: Emergentes Colombia
+- Canal que publicó: Clip Chaos TV
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: Búsqueda pública de YouTube con yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=_QzXW1QH1Jk
 
 ## Noticias y contexto (no son necesariamente clips)
 
