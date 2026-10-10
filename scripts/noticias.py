@@ -58,6 +58,9 @@ EMERGENTES = [
     "reacciones streamers colombianos",
     "momentos virales Kick español Colombia",
     "clips creadores colombianos directos",
+    "streamer colombiano clips recientes",
+    "clips de nuevos streamers colombianos",
+    "creadores colombianos virales streaming",
 ]
 
 # Cuentas y canales que publican clips.
@@ -87,6 +90,7 @@ INFLUENCERS = [
     "Pautips",
     "Aida Victoria Merlano",
     "Kika Nieto",
+    "Yina Calderón",
 ]
 
 
@@ -119,6 +123,7 @@ ALIASES_INFLUENCERS = {
     "Pautips": ["pautips", "paula galindo"],
     "Aida Victoria Merlano": ["aida victoria", "aidavictoria", "aida victoria merlano"],
     "Kika Nieto": ["kika nieto", "kikanieto"],
+    "Yina Calderón": ["yina calderon", "yinacalderon", "yina"],
 
 }
 
@@ -385,7 +390,7 @@ def ejecutar_busqueda_youtube(
         "--no-warnings",
         "--ignore-errors",
         "--playlist-end", str(max_items),
-        "ytsearch{}:{}".format(max_items, consulta),
+        "ytsearchdate{}:{}".format(max_items, consulta),
     ]
 
     proceso = subprocess.run(
@@ -654,9 +659,9 @@ def recopilar_influencers():
     consultas = []
 
     for influencer in INFLUENCERS:
-        consultas.append((influencer, "{} video en español".format(influencer)))
-        consultas.append((influencer, "{} reacción".format(influencer)))
+        consultas.append((influencer, "{} clips en español".format(influencer)))
         consultas.append((influencer, "{} momentos en español".format(influencer)))
+        consultas.append((influencer, "{} shorts en español".format(influencer)))
 
     for indice, (influencer, consulta) in enumerate(consultas, 1):
         print(
