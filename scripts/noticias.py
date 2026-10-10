@@ -845,7 +845,11 @@ def seleccionar_clips(videos):
 def cargar_catalogo_series():
     """Lee el catalogo persistente de pistas de series/eventos descubiertos."""
     try:
-        datos = json.loads(CATALOGO_SERIES.read_text(encoding="utf-8"))
+        texto = CATALOGO_SERIES.read_text(encoding="utf-8").rstrip()
+        # Compatibilidad con archivos anteriores que terminaron en los caracteres literales \\n.
+        if texto.endswith(chr(92) + "n"):
+            texto = texto[:-2]
+        datos = json.loads(texto)
         pistas = datos.get("series", [])
         return pistas if isinstance(pistas, list) else []
     except (OSError, json.JSONDecodeError, AttributeError):
@@ -865,7 +869,7 @@ def guardar_catalogo_series(series):
             {"actualizado": AHORA.isoformat(), "series": ordenadas},
             ensure_ascii=False,
             indent=2,
-        ) + "\\n",
+        ) + chr(10),
         encoding="utf-8",
     )
 
