@@ -337,10 +337,15 @@ def parece_contenido_de_creadores(video, consulta=""):
         normalizar(termino) in consulta_norm for termino in terminos_red
     )
 
+    # En búsquedas de la red Jaapz, el propio nombre del colaborador
+    # puede identificar el resultado aunque título/canal no diga "stream".
+    nombres_red = ("jaapz", "jaapz", "monocolr", "zaviel7")
+    resultado_de_red = any(normalizar(nombre) in texto for nombre in nombres_red)
+
     # Las búsquedas generales mantienen el filtro estricto anti-ruido.
-    return tiene_senal_stream and (
-        tiene_contexto_colombiano or consulta_de_red
-    )
+    if consulta_de_red:
+        return tiene_senal_stream or resultado_de_red
+    return tiene_senal_stream and tiene_contexto_colombiano
 
 def es_relevante_para_radar(video):
     """Evita aceptar cuentas de clips extranjeras sin relación con creadores vigilados."""
