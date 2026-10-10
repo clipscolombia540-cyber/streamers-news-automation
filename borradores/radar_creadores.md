@@ -1,14 +1,30 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 08:38 PM (hora de Colombia)
+Actualizado: 09/10/2026 08:48 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 2.
+Clips incluidos: 3.
 Noticias recientes: 9.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL Y BLESSD ESTRENAN SU NUEVO ROBOT Y TODO SE SALE DE CONTROL 😭🤖💀
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clipzy Cs
+- Canal que publico: Clipzy Cs
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=EAgGNiib_rY
+
+### 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: momentoswestcolhd
+- Canal que publico: momentoswestcolhd
+- Publicado: 09/10/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=oT89bYMw91M
 
 ### Una de las espectadoras de Destiny se ve obligada a soportar esto...
 - Categoria: Cuenta de clips
@@ -18,19 +34,11 @@ Noticias recientes: 9.
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=pdrRjcmeYgc
 
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Canal que publico: Pelusa Clips Tc
-- Publicado: 08/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
-
 ## Noticias y contexto
 
-- **VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - TV Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
 - **WestCol reveló cuánto le costó su robot: la inversión supera los $330 millones - Eluniversal.com.co** — 09/10/2026 04:09 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEZZaEpYT1VraV9VbDRJcEJ5UFdfUnU5emRqd21qNWlfOGlEWFdOcXBkc1VjbzZlXzNNUGY3S1U5XzM5NHRyclRnTE5OLW1LQWhWX3FySWlPemozeUNzX3JUdUxaZU9VZDc1MndjSklVNVZZdUNfNTNHdkdFalpsQUlWQ0ZQLVlPWnhlcVFIN1NWamFkYUdUQVF1TWZSVzA0S2NvZm9HdC0wMXBudmFEWnVPVlRTTXdlQXJLSC1MV0F4ZjA2U2pkQw?oc=5)
 - **La Liendra a punto de ser arrestado en Aeropuerto por elemento sospechoso en equipaje - La Kalle** — 09/10/2026 02:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnk5aEx1UUZiQ3lLeS1ubjJ6TGdxclp4bWFTMlJUcTF3TTVPN3FSeGE0WHc4aXNNdFRFTVE3V0RrcjlTdlJIb0VRaXpsR2JpMTBlMnkzTUthTGxUWnZ6eFdCdHFrRWdCdlpXeFMyYU5XZi0zOXhCdUZtTTRyZ0R1UjcyRGxPa21DSVFsTzcwZDZrZnBsQkMtQ0xxb3k4dllyQTdwVEo5QlVmSFBaZWNLNk5uYldEQ2VFaC1lTnBOWUJ3THNlMTd5X2p3VWRjNWlQR2lzbzRXUG0wRUlWN3NEWWo0ZEg2eU5OcHcw0gHrAUFVX3lxTE42eTloTHVRRmJDeUt5LW5uMnpMZ3FyWnhtYVMyUlRxMXdNNU83cVJ4YTRYdzhpc010VEVNUTdXRGtyOVN2UkhvRVFpemxHYmkxMGUyeTNNS2FMbFRadnp4V0J0cWtFZ0J2Wld4UzJhTldmLTM5eEJ1Rm1NNHJnRHVSNzJEbE9rbUNJUWxPNzBkNmtmcGxCQy1DTHFveTh2WXJBN3BUSjlCVWZIUFplY0s2Tm5iV0RDZUVoLWVOcE5ZQndMc2UxN3lfandVZGM1aVBHaXNvNFdQbTBFSVY3c0RZajRkSDZ5Tk5wdzA?oc=5)
+- **¿Cuánto vale el robot de Westcol? El streamer reveló la millonada que pagó - Noticias RCN** — 09/10/2026 10:22 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVpQaVphWEdkd2dsSHRsdUR3cndtQVpMQnI1VUpFNERRRWxhUkFoWTNoYUVQU3dLUEhVN2ZzQm5NdFMySVZFLUVzMzk3cVoyMjV0enhkM2IzNWszZTNsanp4Q24xX094MmJaeWZmcE8yNlFJVnFMNGZHVlhVVXRBY09SOEHSAYQBQVVfeXFMTXJwcUFPaGM5Z01qYzlVTEs2bXV6WktVb1UtQnhQRFhfTVBrcE4tMjBOX1pxTkJoV2JYY1BQYzBGbU1hVXV4U3RmQVVILTQ1TjRmbXdDdko0WlpZT0xNTkd4Y2w1UHM1aEJSOUUyR3lwUW1jR3dSY21xWmxKeHNjUGpOdzZj?oc=5)
 - **Juan David Tejada (29 años), ‘El Agropecuario’, confiesa cuánto dinero gana en TikTok: “Ustedes por qué creen - AS Colombia** — 08/10/2026 07:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYm9pQWR2Qk1tY0FpdWI2U2hoT1pkUzd2ejZHcV9vMjNhQkl2eHhiMWdaMHluN3NMTWpmaFdiMTJJODVFeFFYUmxMOHpaSkx1anJUWUFyWTgxNEJpdk9qbk5mS2dBX1BOdHJtM191RWlqZXZ3QjZ5ZGFQdTRROWFjVC1sQ2VJRktsVGlYSEdaUmhFWjhhSldjcjlkWWlqYVdIcWlLTjJYbGk0M3c0b0YwSVVkYk0zS2FxaWEtdExuR2o0Q2ZzMVhkRW9XUDBVdGwyZVA1bzZRMGE4V0VYekExckc3NGlHMVZyOTdxTWNJaFRSTm04eVpRZ1htN0VBRzdPaklvUlFVcVQ2UEo5dkJjUGtISExtQdIBlgJBVV95cUxPYm9pQWR2Qk1tY0FpdWI2U2hoT1pkUzd2ejZHcV9vMjNhQkl2eHhiMWdaMHluN3NMTWpmaFdiMTJJODVFeFFYUmxMOHpaSkx1anJUWUFyWTgxNEJpdk9qbk5mS2dBX1BOdHJtM191RWlqZXZ3QjZ5ZGFQdTRROWFjVC1sQ2VJRktsVGlYSEdaUmhFWjhhSldjcjlkWWlqYVdIcWlLTjJYbGk0M3c0b0YwSVVkYk0zS2FxaWEtdExuR2o0Q2ZzMVhkRW9XUDBVdGwyZVA1bzZRMGE4V0VYekExckc3NGlHMVZyOTdxTWNJaFRSTm04eVpRZ1htN0VBRzdPaklvUlFVcVQ2UEo5dkJjUGtISExtQQ?oc=5)
 - **Porkcolombia y Tulio Recomienda se unen para impulsar el consumo de carne de cerdo en las regiones - Diario La Libertad** — 08/10/2026 04:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmVISXNQdUVabEUxQnJCWldTaThtMUdNbS1GLUEwVnd2YXI3NTRYT1d6R0p5azFlX2czdlBtalRWME5zd01KWXEyTDNaM3EyX3RyLVpfb1FIMldPYmVuWlZqZDFocUJSN3c0OEEtR1ctXzR1dy0wSm9INGFkYU9BYVVhdFFvTzNxaXFTN0hSRndJUUtkU051X0tXTzhzM2NFN3p6aUpkN184ZC1WYmlRV2x2VUpRVDBOZnU4eEtDSzNCdnplYWpUOW91Mmd1cHZDZGtLa25B?oc=5)
 - **La Liendra casi es detenido en aeropuerto europeo por talco derramado en su maleta - El Frente** — 08/10/2026 04:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmJsaUo4NW0yUE9WSFM3MGE5UkxBTGZTZjJ2OWE4eEo4bXZtNzc0Q3o5NzRJcjhpVTBPeElvYWdjRk5iOVVwUmxqbHh1ZHBWU2RYdU1WbXJvQjBBSnhuNUlHX1lPSXM3Wm5CcEdLWnEtWWpDc0JnZVdnWHhuUDRwRG5Fc2RuR1V2dVJHWWltRGZaWUpoQkNiM2twOGZoYnpIak9Cb0lZYXliRzg?oc=5)
