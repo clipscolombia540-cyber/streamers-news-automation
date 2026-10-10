@@ -46,14 +46,18 @@ CREADORES = [
 
 # Busquedas abiertas para descubrir creadores que aun no conocemos.
 EMERGENTES = [
-    "streamer colombiano Kick",
-    "streamer colombiano viral",
-    "clips streamers Colombia",
-    "streamer colombiano directo",
-    "clips Kick Colombia",
-    "clips streamers colombianos hoy",
+    "clips streamers colombianos ultimas horas",
+    "momentos streamers colombianos Kick",
     "mejores clips Kick Colombia",
-    "streamer colombiano reaccion viral",
+    "streamer colombiano viral directo",
+    "recortes directos streamers Colombia",
+    "clips twitch Colombia streamer",
+    "streamer emergente colombiano",
+    "nuevo streamer colombiano Kick",
+    "clips de streamers colombianos hoy",
+    "reacciones streamers colombianos",
+    "momentos virales Kick español Colombia",
+    "clips creadores colombianos directos",
 ]
 
 # Cuentas y canales que publican clips.
@@ -63,6 +67,10 @@ CUENTAS_CLIPS = [
     "West Clips Colombia",
     "Clips de streamers Colombia",
     "Clips Kick Colombia",
+    "Clips Colombia",
+    "Momentos de Streamers",
+    "Recortes de Streamers",
+    "Clips de Kick Colombia",
 ]
 
 INFLUENCERS = [
@@ -72,7 +80,15 @@ INFLUENCERS = [
     "Tulio Recomienda",
     "La Segura",
     "Los de Nam",
+    "La Liendra",
+    "Yeferson Cossio",
+    "Dani Duke",
+    "Luisa Fernanda W",
+    "Pautips",
+    "Aida Victoria Merlano",
+    "Kika Nieto",
 ]
+
 
 ALIASES_CREADORES = {
     "Westcol": ["westcol"],
@@ -96,6 +112,14 @@ ALIASES_INFLUENCERS = {
     "Tulio Recomienda": ["tulio recomienda", "tuliorecomienda"],
     "La Segura": ["la segura", "lasegura"],
     "Los de Nam": ["los de nam", "losdenam", "los de ñam"],
+    "La Liendra": ["la liendra", "laliendra"],
+    "Yeferson Cossio": ["yeferson cossio", "yefersoncossio"],
+    "Dani Duke": ["dani duke", "daniduke"],
+    "Luisa Fernanda W": ["luisa fernanda w", "luisafw", "luisa fernanda"],
+    "Pautips": ["pautips", "paula galindo"],
+    "Aida Victoria Merlano": ["aida victoria", "aidavictoria", "aida victoria merlano"],
+    "Kika Nieto": ["kika nieto", "kikanieto"],
+
 }
 
 ALIASES_CUENTAS_CLIPS = [
@@ -109,6 +133,10 @@ ALIASES_CUENTAS_CLIPS = [
     "clip colombia",
     "clips de kick",
     "recortes de streamers",
+    "momentos de streamers",
+    "streamer colombiano clips",
+    "clips colombianos",
+    "clips de colombia",
 ]
 
 CABECERAS = {
@@ -135,6 +163,34 @@ def normalizar(texto):
         c for c in texto if not unicodedata.combining(c)
     )
     return re.sub(r"[^a-z0-9]", "", texto)
+
+# Heurística conservadora basada únicamente en el título. No demuestra
+# el idioma del audio; evita candidatos cuyo título parece claramente inglés.
+PALABRAS_ES = {
+    "de", "la", "el", "en", "que", "por", "para", "con", "una", "un",
+    "los", "las", "del", "como", "pero", "porque", "esto", "esta",
+    "este", "asi", "cuando", "donde", "quien", "reacciona", "reaccion",
+    "colombia", "colombiano", "colombiana", "directo", "streamer",
+    "rompio", "dice", "dijo", "habla", "cuenta", "nuevo", "nueva",
+}
+PALABRAS_EN = {
+    "the", "and", "with", "when", "what", "why", "how", "about", "wants",
+    "want", "take", "takes", "my", "his", "her", "their", "new", "shows",
+    "show", "talks", "talk", "gave", "gets", "got", "into", "from", "this",
+    "that", "they", "them", "she", "he", "are", "was", "were", "is", "it's",
+    "its", "official", "video", "explained", "story", "reacts", "reaction",
+    "girlfriend", "brother", "incredible", "everything", "explanation",
+}
+
+def titulo_probablemente_en_ingles(titulo):
+    """Detecta títulos claramente ingleses; no infiere el idioma del audio."""
+    palabras = re.findall(r"[a-záéíóúüñ]+", limpiar(titulo).lower())
+    if len(palabras) < 3:
+        return False
+    espanolas = sum(1 for p in palabras if normalizar(p) in PALABRAS_ES)
+    inglesas = sum(1 for p in palabras if normalizar(p) in PALABRAS_EN)
+    # Evita descartar por dos palabras ambiguas; exige tres señales inglesas.
+    return inglesas >= 3 and espanolas == 0
 
 
 def detectar_en_alias(video, grupos):
@@ -196,23 +252,40 @@ def es_cuenta_de_clips(video):
 
 
 def parece_contenido_de_creadores(video):
-    texto = normalizar(
-        "{} {}".format(
-            video.get("titulo", ""),
-            video.get("canal", ""),
-        )
+    """Acepta resultados con senales explicitas de streaming y contexto colombiano."""
+    titulo = normalizar(video.get("titulo", ""))
+    canal = normalizar(video.get("canal", ""))
+    texto = "{} {}".format(titulo, canal)
+
+    senales_stream = (
+        "streamer", "streamers", "kick", "twitch", "directo",
+        "directos", "stream", "clips", "clip", "recortes",
+        "momentos de stream", "reaccion a stream",
+    )
+    senales_colombia = (
+        "colombia", "colombiano", "colombiana", "colombianos",
+        "colombianas", "colombian",
     )
 
-    palabras = [
-        "streamer", "stream", "kick", "twitch", "directo",
-        "directos", "clip", "clips", "viral", "gaming",
-        "gameplay", "colombia", "colombiano", "colombiana",
-        "reaccion", "reacciones", "podcast", "creador",
-        "creadores", "influencer", "influencers", "shorts",
-    ]
+    tiene_senal_stream = any(p in texto for p in senales_stream)
+    tiene_contexto_colombiano = any(p in texto for p in senales_colombia)
 
-    return any(normalizar(p) in texto for p in palabras)
+    # Una busqueda de streamers colombianos puede devolver deportes o videojuegos
+    # que solo mencionan Kick/stream. Exigimos que el resultado tambien muestre
+    # una senal colombiana en el titulo o canal antes de etiquetarlo como emergente.
+    return tiene_senal_stream and tiene_contexto_colombiano
 
+
+def canal_parece_oficial(video, creador):
+    """Descarta publicaciones del canal oficial al buscar recortes de terceros."""
+    canal = normalizar(video.get("canal", ""))
+    alias = ALIASES_CREADORES.get(creador, [normalizar(creador)])
+    palabras_clip = ("clip", "clips", "recortes", "momentos", "fan", "fans")
+    if any(p in canal for p in palabras_clip):
+        return False
+    return any(normalizar(a) == canal for a in alias if normalizar(a)) or any(
+        normalizar(a) in canal and len(normalizar(a)) >= 5 for a in alias
+    )
 
 def clasificar_video(video, categoria_preferida=None):
     """
@@ -415,27 +488,21 @@ def buscar_youtube(consulta):
 # ============================================================
 
 def recopilar_principales():
+    """Busca recortes de terceros de creadores conocidos, no solo canales oficiales."""
     encontrados = []
     consultas = []
+    formatos = ("clips en español", "momentos en español", "reacción", "resumen del directo", "mejores momentos", "recortes en español", "shorts en español")
 
     for creador in CREADORES:
-        consultas.append((creador, "{} clips".format(creador)))
-        consultas.append((creador, "{} shorts".format(creador)))
+        for formato in formatos:
+            consultas.append((creador, "{} {}".format(creador, formato)))
 
     for indice, (creador, consulta) in enumerate(consultas, 1):
-        print(
-            "[Principales {}/{}] {}".format(
-                indice, len(consultas), consulta
-            )
-        )
+        print("[Clips de terceros {}/{}] {}".format(indice, len(consultas), consulta))
 
         for video in buscar_youtube(consulta):
-            # Una cuenta de clips debe quedar separada,
-            # incluso cuando el titulo mencione al streamer.
             if es_cuenta_de_clips(video):
-                video["creador"] = "Cuenta de clips: {}".format(
-                    video["canal"]
-                )
+                video["creador"] = "Cuenta de clips: {}".format(video.get("canal", "Canal no identificado"))
                 video["categoria"] = "Cuenta de clips"
                 encontrados.append(video)
                 continue
@@ -444,20 +511,24 @@ def recopilar_principales():
             if detectado != creador:
                 continue
 
+            if canal_parece_oficial(video, creador):
+                print("  Canal oficial omitido para priorizar terceros: {}".format(video.get("canal", "")))
+                continue
+
             video["creador"] = detectado
-            video["categoria"] = "Principal"
+            video["categoria"] = "Clip de terceros"
             encontrados.append(video)
 
     return encontrados
-
 
 def recopilar_cuentas_clips():
     encontrados = []
 
     for indice, cuenta in enumerate(CUENTAS_CLIPS, 1):
         consultas = [
-            "{} clips".format(cuenta),
-            "{} shorts".format(cuenta),
+            "{} clips en español".format(cuenta),
+            "{} momentos en español".format(cuenta),
+            "{} shorts en español".format(cuenta),
         ]
 
         for consulta in consultas:
@@ -545,8 +616,9 @@ def recopilar_influencers():
     consultas = []
 
     for influencer in INFLUENCERS:
-        consultas.append((influencer, "{} video".format(influencer)))
-        consultas.append((influencer, "{} shorts".format(influencer)))
+        consultas.append((influencer, "{} video en español".format(influencer)))
+        consultas.append((influencer, "{} reacción".format(influencer)))
+        consultas.append((influencer, "{} momentos en español".format(influencer)))
 
     for indice, (influencer, consulta) in enumerate(consultas, 1):
         print(
@@ -594,11 +666,25 @@ def quitar_duplicados(videos):
 
 def seleccionar_clips(videos):
     prioridad = {
-        "Principal": 0,
+        "Clip de terceros": 0,
         "Cuenta de clips": 1,
         "Emergente por verificar": 2,
         "Influencer de respaldo": 3,
+        "Principal": 4,
     }
+
+    antes = len(videos)
+    videos = [
+        video for video in videos
+        if not titulo_probablemente_en_ingles(video.get("titulo", ""))
+    ]
+    descartados_idioma = antes - len(videos)
+    if descartados_idioma:
+        print(
+            "Candidatos descartados por título probablemente en inglés: {}".format(
+                descartados_idioma
+            )
+        )
 
     videos = sorted(
         videos,
@@ -620,7 +706,7 @@ def seleccionar_clips(videos):
 
         if creador.lower() == "westcol":
             limite = MAX_WESTCOL
-        elif categoria == "Cuenta de clips":
+        elif categoria in ("Cuenta de clips", "Clip de terceros"):
             limite = MAX_POR_CUENTA_CLIPS
         elif categoria == "Emergente por verificar":
             limite = MAX_POR_EMERGENTE
@@ -634,7 +720,6 @@ def seleccionar_clips(videos):
         conteo[creador] = conteo.get(creador, 0) + 1
 
     return seleccionados
-
 
 def recopilar_clips():
     # Todas las categorias se buscan en cada ejecucion.
@@ -720,6 +805,30 @@ def buscar_noticias(consulta):
     return resultados
 
 
+def es_noticia_promocional(titulo):
+    """Descarta titulares claramente publicitarios, no noticias personales o virales."""
+    titulo_normalizado = normalizar(titulo)
+    senales_comerciales = (
+        "porkcolombia",
+        "campana publicitaria",
+        "publicidad de",
+        "publicidad pagada",
+        "anuncio publicitario",
+        "contenido patrocinado",
+        "patrocinado por",
+        "patrocinio de",
+        "embajador de marca",
+        "alianza comercial",
+        "receta patrocinada",
+        "promocion de",
+        "promociona la marca",
+    )
+    return any(
+        normalizar(senal) in titulo_normalizado
+        for senal in senales_comerciales
+    )
+
+
 def recopilar_noticias():
     consultas = [
         '"{}" streamer OR directo OR polemica'.format(creador)
@@ -757,6 +866,12 @@ def recopilar_noticias():
     conteo = {}
 
     for noticia in ordenadas:
+        if es_noticia_promocional(noticia["titulo"]):
+            print("Noticia descartada por posible contenido promocional: {}".format(
+                noticia["titulo"]
+            ))
+            continue
+
         titulo_normalizado = normalizar(noticia["titulo"])
 
         todos_alias = {
@@ -775,6 +890,14 @@ def recopilar_noticias():
             ),
             "Otros",
         )
+
+        # No aceptar noticias genéricas sin mención verificable de un
+        # creador vigilado: evita temas ajenos como deportes o marcas.
+        if detectado == "Otros":
+            print("Noticia descartada por falta de creador relevante: {}".format(
+                noticia["titulo"]
+            ))
+            continue
 
         if conteo.get(detectado, 0) >= 2:
             continue
@@ -893,9 +1016,11 @@ def escribir_informe(clips, noticias):
         "- Maximo por canal emergente: {}.".format(
             MAX_POR_EMERGENTE
         ),
-        "- Prioridad: principales, cuentas de clips, emergentes e influencers.",
+        "- Prioridad: clips de terceros, cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.",
+        "- Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.",
         "- Se buscan todas las categorias en cada ejecucion.",
         "- Los emergentes se marcan para revision manual.",
+        "- Idioma objetivo: español; las consultas priorizan videos, reacciones y momentos en español. El título original puede conservar palabras en otro idioma.",
         "- Ventana temporal: 48 horas.",
         "- Deduplicacion por enlace.",
         "- Noticias separadas de los clips.",
