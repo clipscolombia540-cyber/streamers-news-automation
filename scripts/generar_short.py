@@ -151,7 +151,11 @@ def fetch_youtube_clips():
                 if not entry:
                     continue
                 title = clean(entry.get("title", ""))
-                link = entry.get("webpage_url") or entry.get("original_url")
+                video_id = entry.get("id")
+                link = entry.get("webpage_url") or entry.get("original_url") or entry.get("url")
+                # yt-dlp suele devolver solo el ID en búsquedas planas de YouTube.
+                if video_id and (not link or not str(link).startswith(("http://", "https://"))):
+                    link = f"https://www.youtube.com/watch?v={video_id}"
                 duration = entry.get("duration")
                 if not link or "youtube.com/" not in link and "youtu.be/" not in link:
                     continue
