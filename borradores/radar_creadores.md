@@ -1,36 +1,73 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 09:08 PM (hora de Colombia)
+Actualizado: 09/10/2026 09:17 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 1.
+Clips incluidos: 3.
 Noticias recientes: 7.
+Distribución por categoría: Cuenta de clips: 1, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### Una de las espectadoras de Destiny se ve obligada a soportar esto...
+### ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Destiny DGG Clips
-- Canal que publico: Destiny DGG Clips
-- Publicado: 09/10/2026 02:00 PM
+- Creador/canal detectado: Cuenta de clips: muñetones clips
+- Canal que publico: muñetones clips
+- Publicado: 09/10/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=pdrRjcmeYgc
+- Enlace directo: https://www.youtube.com/watch?v=Q-lZzChlayU
+
+### Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum | Lo Sé Todo
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Luisa Fernanda W
+- Canal que publico: Lo Sé Todo Colombia
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=LrTqmUJoTOE
+
+### Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcohol y cómo Dios cambió su vida
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Luisa Fernanda W
+- Canal que publico: Candela Estéreo
+- Publicado: 09/10/2026 12:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=NB1CAPt97eA
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Destiny DGG Clips? 👀
+### ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: muñetones clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Destiny DGG Clips.
-- **Título sugerido:** Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- **Texto en pantalla:** Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Destiny DGG Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: muñetones clips.
+- **Título sugerido:** ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- **Texto en pantalla:** ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- **Descripción:** Fragmento relacionado con Cuenta de clips: muñetones clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pdrRjcmeYgc
+- **Fuente original:** https://www.youtube.com/watch?v=Q-lZzChlayU
+
+### Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum | Lo Sé Todo
+- **Gancho A:** ¿Ya habías visto este momento de Luisa Fernanda W? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Luisa Fernanda W.
+- **Título sugerido:** Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum | Lo Sé Todo
+- **Texto en pantalla:** Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum |
+- **Descripción:** Fragmento relacionado con Luisa Fernanda W. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=LrTqmUJoTOE
+
+### Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcohol y cómo Dios cambió su vida
+- **Gancho A:** ¿Ya habías visto este momento de Luisa Fernanda W? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Luisa Fernanda W.
+- **Título sugerido:** Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcohol y cómo Dios cambió su vida
+- **Texto en pantalla:** Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcoh
+- **Descripción:** Fragmento relacionado con Luisa Fernanda W. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=NB1CAPt97eA
 
 ## Noticias y contexto
 
@@ -65,7 +102,9 @@ clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, 
 - Maximo por creador identificado: 8.
 - Maximo por cuenta de clips: 8.
 - Maximo por canal emergente: 5.
-- Prioridad: clips de terceros, cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.
+- Prioridad de selección: clips de terceros primero, después cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.
+- Las búsquedas por creador usan consultas centradas en clips, Shorts y recortes para favorecer publicaciones de cuentas independientes.
+- La distribución por categoría permite comprobar en cada informe cuántos resultados son clips de terceros o cuentas de clips.
 - Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.
 - Se buscan todas las categorias en cada ejecucion.
 - Los emergentes se marcan para revision manual.
