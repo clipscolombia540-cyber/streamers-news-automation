@@ -7,6 +7,7 @@ from scripts.tiktok import (
     descripcion_configuracion_feeds,
     filtrar_publicaciones_recientes,
     obtener_feeds,
+    tipo_de_cuenta,
 )
 
 
@@ -103,6 +104,16 @@ class TikTokFilterTests(unittest.TestCase):
                 "feeds personalizados",
                 descripcion_configuracion_feeds(),
             )
+
+    def test_classifies_third_party_clip_accounts(self):
+        self.assertEqual(tipo_de_cuenta("Clipero: La w clips"), "Cuenta de clips/terceros")
+        self.assertEqual(tipo_de_cuenta("Fan: Clips MrStiven"), "Cuenta de clips/terceros")
+        self.assertEqual(tipo_de_cuenta("Recortes: Momentos Westcol"), "Cuenta de clips/terceros")
+
+    def test_classifies_emerging_and_influencer_feeds(self):
+        self.assertEqual(tipo_de_cuenta("Emergente: Nuevo streamer"), "Creador emergente")
+        self.assertEqual(tipo_de_cuenta("Influencer: El Mindo"), "Influencer")
+        self.assertEqual(tipo_de_cuenta("Westcol"), "Cuenta de creador")
 
     def test_invalid_environment_uses_default_feed(self):
         with patch.dict("os.environ", {"TIKTOK_FEEDS": "esto-no-es-un-feed"}):
