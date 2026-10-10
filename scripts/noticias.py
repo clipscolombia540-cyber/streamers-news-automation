@@ -1371,6 +1371,34 @@ def escribir_informe(clips, noticias):
         "",
         ", ".join(PROGRAMAS),
         "",
+    ])
+
+    series_catalogo = sorted(
+        cargar_catalogo_series(),
+        key=lambda item: item.get("ultima_deteccion", ""),
+        reverse=True,
+    )
+    lineas.extend([
+        "## Catalogo persistente de series y temas detectados",
+        "",
+        "Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.",
+        "",
+    ])
+    if series_catalogo:
+        for pista in series_catalogo[:30]:
+            estado = "confirmada" if pista.get("confirmada") else "candidata por revisar"
+            lineas.append("- **{}** ({}) — última detección: {}".format(
+                pista.get("nombre", "Tema sin nombre"),
+                estado,
+                pista.get("ultima_deteccion", "sin fecha")[:10],
+            ))
+            for enlace in pista.get("enlaces", [])[:2]:
+                lineas.append("  - {}".format(enlace))
+        lineas.append("")
+    else:
+        lineas.extend(["Todavía no hay pistas guardadas; se llenará al encontrar resultados útiles.", ""])
+
+    lineas.extend([
         "## Busquedas de emergentes",
         "",
         ", ".join(EMERGENTES),
