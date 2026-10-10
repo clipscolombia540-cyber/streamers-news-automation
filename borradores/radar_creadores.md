@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 10:26 PM (hora de Colombia)
+Actualizado: 09/10/2026 10:43 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 13.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 6, Influencer de respaldo: 2.
+Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influencer de respaldo: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,25 +15,25 @@ Distribución por categoría: Clip de terceros: 6, Influencer de respaldo: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Eufonia Studio
-- Publicado: 09/10/2026 12:00 PM
+- Publicado: 09/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
-
-### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 09/10/2026 08:00 AM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=gz23gl74-AY
 
 ### ELDED REACCIONA A LOS MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 16
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: FAN DEL DED
-- Publicado: 09/10/2026 02:00 AM
+- Publicado: 09/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=L-Kww7DdF3M
+
+### 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Pedricoking
+- Publicado: 09/10/2026 09:58 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=pxNTZP8ZXCw
 
 ### MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
 - Categoria: Clip de terceros
@@ -43,13 +43,13 @@ Distribución por categoría: Clip de terceros: 6, Influencer de respaldo: 2.
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=zkkAGZeARNA
 
-### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 08/10/2026 07:00 PM
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=XyxXs4XcOYI
+- Enlace directo: https://www.youtube.com/watch?v=gz23gl74-AY
 
 ### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 15
 - Categoria: Clip de terceros
@@ -59,13 +59,54 @@ Distribución por categoría: Clip de terceros: 6, Influencer de respaldo: 2.
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=tW-Q2AGnSKs
 
+### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=XyxXs4XcOYI
+
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Aquiso Clips
+- Publicado: 09/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Thomas godenzi
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+
+### #shorts #westcol
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clipazo
+- Creador relacionado en el título: Westcol
+- Canal que publico: Clipazo
+- Publicado: 09/10/2026 09:00 AM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=NqDGmctfwV4
+
 ### Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante | En Casa Con Telemundo
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: En Casa Con Telemundo
-- Publicado: 09/10/2026 04:00 PM
+- Publicado: 09/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=e47xfq169vM
+
+### EL AGROPECUARIO: Yina Calderón y Westcol HABLAN de Los Videos FILTRADOS
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: Aaron Reporta
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=h9pYi9Xdql8
 
 ### Yina Calderón suelta veneno contra Alicia Machado y Aleska Genesis, y más | En Casa Con Telemundo
 - Categoria: Influencer de respaldo
@@ -89,16 +130,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
-### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
-- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gz23gl74-AY
-
 ### ELDED REACCIONA A LOS MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 16
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -108,6 +139,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=L-Kww7DdF3M
+
+### 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Texto en pantalla:** 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pxNTZP8ZXCw
 
 ### MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -119,15 +160,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zkkAGZeARNA
 
-### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
-- **Texto en pantalla:** MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=XyxXs4XcOYI
+- **Fuente original:** https://www.youtube.com/watch?v=gz23gl74-AY
 
 ### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 15
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -139,6 +180,46 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tW-Q2AGnSKs
 
+### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=XyxXs4XcOYI
+
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+
+### #shorts #westcol
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** #shorts #westcol
+- **Texto en pantalla:** #shorts #westcol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NqDGmctfwV4
+
 ### Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante | En Casa Con Telemundo
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -148,6 +229,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
 - **Fuente original:** https://www.youtube.com/watch?v=e47xfq169vM
+
+### EL AGROPECUARIO: Yina Calderón y Westcol HABLAN de Los Videos FILTRADOS
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** EL AGROPECUARIO: Yina Calderón y Westcol HABLAN de Los Videos FILTRADOS
+- **Texto en pantalla:** EL AGROPECUARIO: Yina Calderón y Westcol HABLAN de Los Videos FILTRADO
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=h9pYi9Xdql8
 
 ### Yina Calderón suelta veneno contra Alicia Machado y Aleska Genesis, y más | En Casa Con Telemundo
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
@@ -186,6 +277,12 @@ JuanDa, El Mindo, Ami Rodriguez, Tulio Recomienda, La Segura, Los de Nam, La Lie
 ## Series y eventos de streamers rastreados
 
 DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de creadores, eventos de streamers colombianos
+
+## Catalogo persistente de series y temas detectados
+
+Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
+
+Todavía no hay pistas guardadas; se llenará al encontrar resultados útiles.
 
 ## Busquedas de emergentes
 
