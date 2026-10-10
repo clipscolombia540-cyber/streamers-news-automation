@@ -264,14 +264,23 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
         key=lambda feed: prioridad_tipo.get(tipo_de_cuenta(feed), 9),
     )
     lista = []
-    max_por_feed = 8
+    max_por_feed = 3
+    max_westcol = 5
+    conteo_westcol = 0
     ronda = 0
     while len(lista) < MAX_RESULTADOS:
         agregados = 0
         for feed in feeds_ordenados:
             feed_items = por_feed[feed]
             if ronda < min(len(feed_items), max_por_feed):
-                lista.append(feed_items[ronda])
+                candidato = feed_items[ronda]
+                titulo_normalizado = re.sub(r"[^a-z0-9]", "", candidato.get("titulo", "").lower())
+                menciona_westcol = "westcol" in titulo_normalizado or "westcol" in re.sub(r"[^a-z0-9]", "", candidato.get("creador", "").lower())
+                if menciona_westcol and conteo_westcol >= max_westcol:
+                    continue
+                lista.append(candidato)
+                if menciona_westcol:
+                    conteo_westcol += 1
                 agregados += 1
                 if len(lista) >= MAX_RESULTADOS:
                     break
