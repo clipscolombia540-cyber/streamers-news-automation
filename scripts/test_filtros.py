@@ -6,10 +6,20 @@ from scripts.noticias import (
     es_relevante_para_radar,
     titulo_probablemente_en_ingles,
     seleccionar_clips,
+    detectar_creador,
 )
 
 
 class FiltroEmergentesTests(unittest.TestCase):
+    def test_detecta_jaapz_como_creador_vigilado(self):
+        self.assertEqual(
+            detectar_creador({
+                "titulo": "Jaap_Z se va de IRL por Pasto",
+                "canal": "Clips Colombia",
+            }),
+            "Jaapz",
+        )
+
     def test_descarta_noticia_comercial_de_porkcolombia(self):
         self.assertTrue(
             es_noticia_promocional(
