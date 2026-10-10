@@ -600,9 +600,12 @@ def recopilar_principales():
     # gastar cupos en búsquedas demasiado generales de videos oficiales.
     formatos = (
         "clips en español",
-        # Se priorizan consultas complementarias para reducir tiempo total.
         "shorts en español",
         "mejores clips",
+        # Consultas extra para traer formatos distintos y no depender
+        # de que YouTube clasifique todo bajo la palabra "clips".
+        "momentos virales en español",
+        "reacción en directo",
     )
 
     for creador in CREADORES:
