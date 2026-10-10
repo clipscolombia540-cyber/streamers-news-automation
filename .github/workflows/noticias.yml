@@ -79,5 +79,9 @@ jobs:
             echo "Los informes no presentan cambios."
           else
             git commit -m "Actualizar radares de creadores y TikTok"
+            # Otro commit puede llegar mientras se generan los informes.
+            # Reintegrar main antes de enviar para evitar rechazos non-fast-forward.
+            git fetch origin main
+            git -c rebase.autoStash=true rebase -X theirs origin/main
             git push
           fi
