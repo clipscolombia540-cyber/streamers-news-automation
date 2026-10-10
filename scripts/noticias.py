@@ -164,6 +164,33 @@ def normalizar(texto):
     )
     return re.sub(r"[^a-z0-9]", "", texto)
 
+# Heurística conservadora basada únicamente en el título. No demuestra
+# el idioma del audio; evita candidatos cuyo título parece claramente inglés.
+PALABRAS_ES = {
+    "de", "la", "el", "en", "que", "por", "para", "con", "una", "un",
+    "los", "las", "del", "como", "pero", "porque", "esto", "esta",
+    "este", "asi", "cuando", "donde", "quien", "reacciona", "reaccion",
+    "colombia", "colombiano", "colombiana", "directo", "streamer",
+    "rompio", "dice", "dijo", "habla", "cuenta", "nuevo", "nueva",
+}
+PALABRAS_EN = {
+    "the", "and", "with", "when", "what", "why", "how", "about", "wants",
+    "want", "take", "takes", "my", "his", "her", "their", "new", "shows",
+    "show", "talks", "talk", "gave", "gets", "got", "into", "from", "this",
+    "that", "they", "them", "she", "he", "are", "was", "were", "is", "it's",
+    "its", "official", "video", "explained", "story", "reacts", "reaction",
+    "girlfriend", "brother", "incredible", "everything", "explanation",
+}
+
+def titulo_probablemente_en_ingles(titulo):
+    """Detecta títulos claramente ingleses; no infiere el idioma del audio."""
+    palabras = re.findall(r"[a-záéíóúüñ]+", limpiar(titulo).lower())
+    if len(palabras) < 3:
+        return False
+    espanolas = sum(1 for p in palabras if normalizar(p) in PALABRAS_ES)
+    inglesas = sum(1 for p in palabras if normalizar(p) in PALABRAS_EN)
+    return inglesas >= 2 and espanolas == 0
+
 
 def detectar_en_alias(video, grupos):
     titulo = normalizar(video.get("titulo", ""))
@@ -645,6 +672,19 @@ def seleccionar_clips(videos):
         "Principal": 4,
     }
 
+    antes = len(videos)
+    videos = [
+        video for video in videos
+        if not titulo_probablemente_en_ingles(video.get("titulo", ""))
+    ]
+    descartados_idioma = antes - len(videos)
+    if descartados_idioma:
+        print(
+            "Candidatos descartados por título probablemente en inglés: {}".format(
+                descartados_idioma
+            )
+        )
+
     videos = sorted(
         videos,
         key=lambda video: (
@@ -819,6 +859,14 @@ def recopilar_noticias():
             ),
             "Otros",
         )
+
+        # No aceptar noticias genéricas sin mención verificable de un
+        # creador vigilado: evita temas ajenos como deportes o marcas.
+        if detectado == "Otros":
+            print("Noticia descartada por falta de creador relevante: {}".format(
+                noticia["titulo"]
+            ))
+            continue
 
         if conteo.get(detectado, 0) >= 2:
             continue
