@@ -29,10 +29,13 @@ jobs:
           python -m py_compile scripts/noticias.py scripts/tiktok.py scripts/test_filtros.py scripts/test_tiktok_filter.py
           python -m unittest scripts.test_filtros scripts.test_tiktok_filter
       - name: Ejecutar radar de clips y noticias
+        if: github.event_name != 'pull_request'
         run: python scripts/noticias.py
       - name: Ejecutar radar de TikTok
+        if: github.event_name != 'pull_request'
         run: python scripts/tiktok.py
       - name: Mostrar resumen generado
+        if: github.event_name != 'pull_request'
         if: always()
         run: |
           if [ -f borradores/radar_creadores.md ]; then
@@ -42,6 +45,7 @@ jobs:
             grep -E 'Actualizado:|Publicaciones encontradas:' borradores/clips_tiktok.md || true
           fi
       - name: Adjuntar informes para revisión
+        if: github.event_name != 'pull_request'
         if: always()
         uses: actions/upload-artifact@v4
         with:
