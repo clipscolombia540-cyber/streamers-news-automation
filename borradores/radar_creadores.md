@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:41 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:44 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 4.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Aquiso Clips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.395
+- Vistas reportadas por YouTube: 14.400
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
@@ -31,28 +31,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:47 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:46 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: TRENDCLIPSMEDIA
@@ -64,26 +42,16 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Thomas godenzi
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
-
-### Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+### WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Wclipskick
+- Creador/canal detectado: Cuenta de clips: Trending Streamers Clips
 - Creador relacionado en el título: Westcol
-- Canal que publico: Wclipskick
+- Canal que publico: Trending Streamers Clips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 52
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=0JSgRLnQOdg
+- Enlace directo: https://www.youtube.com/watch?v=5CY7SUu8vcw
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -109,26 +77,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
-
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -139,25 +87,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+### WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Título sugerido:** WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
+- **Texto en pantalla:** WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
-
-### Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
-- **Texto en pantalla:** Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #dive
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=0JSgRLnQOdg
+- **Fuente original:** https://www.youtube.com/watch?v=5CY7SUu8vcw
 
 ## Noticias y contexto
 
@@ -199,7 +137,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 ## Busquedas de emergentes
 
-clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, clips de nuevos streamers colombianos, Jaapz streamer Kick Colombia, Jaap_Z clips recientes, Jaapz Pasto streamer emergente, Jaapz con MonoCOL_R, Noche de terror con Jaap ZaViel7, MonoCOL_R streamer Colombia Kick, ZaViel7 streamer Colombia Kick, streamers amigos de Jaapz en Kick Colombia
+clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, clips de nuevos streamers colombianos, Jaapz streamer Kick Colombia, Jaap_Z clips recientes, Jaapz Pasto streamer emergente, Jaapz con MonoCOL_R, Noche de terror con Jaap ZaViel7, Parchando con el Jaap Kick, Parchando con los reales streamer Colombia Kick, Jaap_Z mini ganga streamer, Jaap_Z IRL Pasto Medellin con otros streamers, Jaap_Z invitados directo Colombia, MonoCOL_R streamer Colombia Kick, ZaViel7 streamer Colombia Kick, streamers amigos de Jaapz en Kick Colombia
 
 ## Criterios
 
