@@ -341,7 +341,18 @@ def parece_contenido_de_creadores(video, consulta=""):
 
     if consulta_de_red:
         return tiene_senal_stream or resultado_de_red
-    return tiene_senal_stream and tiene_contexto_colombiano
+
+    # Si la consulta buscó explícitamente creadores colombianos, usar ese
+    # contexto junto con una señal real de streaming para no perder clips
+    # cuyo título/canal no repite la palabra "Colombia". Se etiquetan como
+    # emergentes por verificar, no como colombianos confirmados.
+    consulta_indica_colombia = any(
+        normalizar(p) in consulta_norm
+        for p in ("colombia", "colombiano", "colombiana", "colombianos", "colombianas")
+    )
+    return tiene_senal_stream and (
+        tiene_contexto_colombiano or consulta_indica_colombia
+    )
 
 def es_relevante_para_radar(video):
     """Evita aceptar cuentas de clips extranjeras sin relación con creadores vigilados."""
