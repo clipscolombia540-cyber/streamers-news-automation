@@ -333,6 +333,14 @@ def crear_informe():
     lista, diagnostico = filtrar_publicaciones_recientes(
         publicaciones_por_creador, ahora, HORAS
     )
+    # Registra también los feeds vacíos por separado; así no quedan agrupados
+    # bajo "Feed sin publicaciones" y se puede identificar cuál no entregó datos.
+    for nombre_feed in feeds:
+        diagnostico["por_feed"].setdefault(nombre_feed, {
+            "leidas": 0, "recientes": 0, "antiguas": 0,
+            "sin_fecha": 0, "futuras": 0, "duplicadas": 0,
+            "seleccionadas": 0,
+        })
     for clave, cantidad in diagnostico.items():
         print(f"Diagnóstico TikTok - {clave}: {cantidad}")
 
