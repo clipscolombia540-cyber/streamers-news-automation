@@ -548,9 +548,7 @@ def recopilar_principales():
         "clips en español",
         # Se priorizan consultas complementarias para reducir tiempo total.
         "shorts en español",
-        "clip de terceros",
         "mejores clips",
-        "recortes en español",
     )
 
     for creador in CREADORES:
