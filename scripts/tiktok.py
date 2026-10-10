@@ -47,12 +47,26 @@ def obtener_feeds():
     return dict(FEEDS)
 
 
+def tipo_de_cuenta(nombre):
+    """Clasifica los feeds por etiqueta para priorizar cuentas de clips de terceros."""
+    etiqueta = (nombre or "").strip().lower()
+    if etiqueta.startswith(("clipero:", "clips:", "fan:", "momentos:", "recortes:")):
+        return "Cuenta de clips/terceros"
+    if etiqueta.startswith("emergente:"):
+        return "Creador emergente"
+    if etiqueta.startswith("influencer:"):
+        return "Influencer"
+    return "Cuenta de creador"
+
+
 def descripcion_configuracion_feeds():
     """Explica si se usa una lista de feeds personalizada o el feed predeterminado."""
     if os.environ.get("TIKTOK_FEEDS", "").strip():
         return (
             "Configuración: feeds personalizados desde TIKTOK_FEEDS. "
-            "Se revisan únicamente las cuentas incluidas en esa variable."
+            "Se revisan únicamente las cuentas incluidas en esa variable. "
+            "Usa etiquetas Clipero:, Clips:, Fan:, Momentos: o Recortes: "
+            "para priorizar cuentas que publican clips de terceros."
         )
     return (
         "Aviso: TIKTOK_FEEDS no está configurado; se usa únicamente el feed "
@@ -229,10 +243,18 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
                 continue
             encontrados[clave] = item
 
+    prioridad_tipo = {
+        "Cuenta de clips/terceros": 0,
+        "Creador emergente": 1,
+        "Influencer": 2,
+        "Cuenta de creador": 3,
+    }
     lista = sorted(
         encontrados.values(),
-        key=lambda item: item["fecha"],
-        reverse=True
+        key=lambda item: (
+            prioridad_tipo.get(tipo_de_cuenta(item.get("creador", "")), 9),
+            -item["fecha"].timestamp(),
+        ),
     )[:MAX_RESULTADOS]
     return lista, diagnostico
 
@@ -254,6 +276,11 @@ def crear_informe():
     for clave, cantidad in diagnostico.items():
         print(f"Diagnóstico TikTok - {clave}: {cantidad}")
 
+    conteo_tipos = {}
+    for item in lista:
+        tipo = tipo_de_cuenta(item.get("creador", ""))
+        conteo_tipos[tipo] = conteo_tipos.get(tipo, 0) + 1
+
     lineas = [
         "# Radar de clips de TikTok",
         "",
@@ -263,6 +290,10 @@ def crear_informe():
         f"**Estado de configuración:** {descripcion_configuracion_feeds()}",
         f"**Publicaciones leídas:** {diagnostico['leidas']}",
         f"**Publicaciones encontradas:** {len(lista)}",
+        "**Distribución por tipo:** " + (
+            "; ".join(f"{tipo}: {cantidad}" for tipo, cantidad in sorted(conteo_tipos.items()))
+            if conteo_tipos else "sin publicaciones recientes"
+        ),
         "",
         "## Diagnóstico del feed",
         f"- Sin fecha verificable: {diagnostico['sin_fecha']}",
@@ -308,7 +339,8 @@ def crear_informe():
             fecha = item["fecha"].strftime("%d/%m/%Y %H:%M UTC")
             lineas.extend([
                 f"## {numero}. {item['titulo']}",
-                f"- **Creador:** {item['creador']}",
+                f"- **Tipo de cuenta:** {tipo_de_cuenta(item.get('creador', ''))}",
+                f"- **Cuenta monitoreada:** {item['creador']}",
                 f"- **Fecha reportada:** {fecha}",
                 f"- **Enlace:** {item['enlace']}",
                 "",
