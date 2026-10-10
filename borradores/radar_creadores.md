@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 01:02 AM (hora de Colombia)
+Actualizado: 10/10/2026 01:19 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 8.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 8.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 08:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.414
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=gz23gl74-AY
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
@@ -17,9 +27,19 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: Aquiso Clips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.454
+- Vistas reportadas por YouTube: 14.476
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+
+### GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 10/10/2026 01:06 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=kAlK1J2Vqfk
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -27,29 +47,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.769
+- Vistas reportadas por YouTube: 5.967
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
-
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 10/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 147
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
-
-### ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #freefire
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: STIVEN VIRAL
-- Publicado: 10/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=zteEoRyNaq8
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
@@ -57,9 +57,29 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: Shur en Directo
 - Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 852
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.170
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### Clipping EL ROBOT ME GOLPEO EN STREAM WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: IA Westtcol
+- Publicado: 10/10/2026 01:14 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=Dob6XjcsiMk
+
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 10/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 184
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
 ### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - Categoria: Clip de terceros
@@ -67,35 +87,23 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: JuxxTyty
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69
+- Vistas reportadas por YouTube: 41
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 10/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.058
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gz23gl74-AY
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -107,6 +115,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
 
+### GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
+- **Texto en pantalla:** GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=kAlK1J2Vqfk
+
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,36 +134,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
-
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
-
-### ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #freefire
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #freefire
-- **Texto en pantalla:** ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #free
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zteEoRyNaq8
-
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -157,6 +145,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
+### Clipping EL ROBOT ME GOLPEO EN STREAM WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Clipping EL ROBOT ME GOLPEO EN STREAM WESTCOL
+- **Texto en pantalla:** Clipping EL ROBOT ME GOLPEO EN STREAM WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Dob6XjcsiMk
+
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
+
 ### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -166,26 +174,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hkxO6_u3IE4
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
 
 ## Noticias y contexto
 
@@ -222,8 +210,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
-  - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=gz23gl74-AY
+  - https://www.youtube.com/watch?v=kAlK1J2Vqfk
 
 ## Busquedas de emergentes
 
