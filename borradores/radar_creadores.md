@@ -1,10 +1,10 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 09:51 PM (hora de Colombia)
+Actualizado: 09/10/2026 09:56 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 0.
-Noticias recientes: 7.
+Noticias recientes: 9.
 Distribución por categoría: sin clips.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
@@ -30,6 +30,8 @@ No hay clips para generar borradores en esta ejecución.
 - **Juan David Tejada (29 años), ‘El Agropecuario’, confiesa cuánto dinero gana en TikTok: “Ustedes por qué creen - AS Colombia** — 08/10/2026 07:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYm9pQWR2Qk1tY0FpdWI2U2hoT1pkUzd2ejZHcV9vMjNhQkl2eHhiMWdaMHluN3NMTWpmaFdiMTJJODVFeFFYUmxMOHpaSkx1anJUWUFyWTgxNEJpdk9qbk5mS2dBX1BOdHJtM191RWlqZXZ3QjZ5ZGFQdTRROWFjVC1sQ2VJRktsVGlYSEdaUmhFWjhhSldjcjlkWWlqYVdIcWlLTjJYbGk0M3c0b0YwSVVkYk0zS2FxaWEtdExuR2o0Q2ZzMVhkRW9XUDBVdGwyZVA1bzZRMGE4V0VYekExckc3NGlHMVZyOTdxTWNJaFRSTm04eVpRZ1htN0VBRzdPaklvUlFVcVQ2UEo5dkJjUGtISExtQdIBlgJBVV95cUxPYm9pQWR2Qk1tY0FpdWI2U2hoT1pkUzd2ejZHcV9vMjNhQkl2eHhiMWdaMHluN3NMTWpmaFdiMTJJODVFeFFYUmxMOHpaSkx1anJUWUFyWTgxNEJpdk9qbk5mS2dBX1BOdHJtM191RWlqZXZ3QjZ5ZGFQdTRROWFjVC1sQ2VJRktsVGlYSEdaUmhFWjhhSldjcjlkWWlqYVdIcWlLTjJYbGk0M3c0b0YwSVVkYk0zS2FxaWEtdExuR2o0Q2ZzMVhkRW9XUDBVdGwyZVA1bzZRMGE4V0VYekExckc3NGlHMVZyOTdxTWNJaFRSTm04eVpRZ1htN0VBRzdPaklvUlFVcVQ2UEo5dkJjUGtISExtQQ?oc=5)
 - **La Liendra casi es detenido en aeropuerto europeo por talco derramado en su maleta - El Frente** — 08/10/2026 04:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmJsaUo4NW0yUE9WSFM3MGE5UkxBTGZTZjJ2OWE4eEo4bXZtNzc0Q3o5NzRJcjhpVTBPeElvYWdjRk5iOVVwUmxqbHh1ZHBWU2RYdU1WbXJvQjBBSnhuNUlHX1lPSXM3Wm5CcEdLWnEtWWpDc0JnZVdnWHhuUDRwRG5Fc2RuR1V2dVJHWWltRGZaWUpoQkNiM2twOGZoYnpIak9Cb0lZYXliRzg?oc=5)
 - **¿Mariana Zapata y Juanda Caribe son pareja? La modelo rompe el silencio - Eluniversal.com.co** — 08/10/2026 04:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjBkQ1pWa0VRZHhJY010bTZ1MWY0TUx2WUEtMlNiNTQ3N0MzMWtScHIzMGZsekQ4T0JGNllhOTU2dDB4b2xNSmN1UHRQY2tuMnIzRzlEQ1Q4UHQzazIxZFkyRlhuSlowcHRINzhjZk9kNWlQaEdzTTVFX3pJUERxM0pMTXZOcjYyTk1EV0FMRWFPV3pCNVhUY2ZqazlHM2dhYXd3VEtaUUxYNFV2ZU9FSHhZWWRSWjJpV01saE9Gdw?oc=5)
+- **Yina Calderón sale en defensa de Camilo Cifuentes tras polémica: “Odio las mozas” - La Kalle** — 08/10/2026 12:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeEF3VHczM293STFhRGE2WW8zdjBWaTlLeHAwcmdwQ2dRbll1RjhJeldDdURaWGoxTmdkbUo5d0IwUEdCdnM0bWxhMER6bWxGRFZCeXZYdklHM1dMQmxHZXRwQ2VEWkZXelFweTIzMWR4NktlMHFlYWZFUEJQLXd5eWVjZW1xTFRWaXExUktyWlB0bnBGdVE2cFB0Nm1jNjh6aFBRMzVOUnhWcS0tb3BqWXlVREM4Y0gtdEFVOXpMeldRRGZfY1RTd1RYVUpUVmxRUkFrNWExbnRsQlplZ05temNR0gHiAUFVX3lxTFB4QXdUdzMzb3dJMWFEYTZZbzN2MFZpOUt4cDByZ3BDZ1FuWXVGOEl6V0N1RFpYajFOZ2RtSjl3QjBQR0J2czRtbGEwRHptbEZEVkJ5dlh2SUczV0xCbEdldHBDZURaRld6UXB5MjMxZHg2S2UwcWVhZkVQQlAtd3l5ZWNlbXFMVFZpcTFSS3JaUHRucEZ1UTZwUHQ2bWM2OHpoUFEzNU5SeFZxLS1vcGpZeVVEQzhjSC10QVU5ekx6V1FEZl9jVFN3VFhVSlRWbFFSQWs1YTFudGxCWmVnTm16Y1E?oc=5)
+- **Yina Calderón sale en defensa de Camilo Cifuentes tras polémica: “Odio las mozas” - La Kalle** — 08/10/2026 12:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONlloQjVZaXI3dEhzZWVLTFpSbEo2NDVfcWtJOHF2ZDh3Qkp0TVdoV3ZOMUZsRTBOQU5DY1FSQW16R19UV3N6LW1va2FaM1lCb1AzUXRNTXZfeGNVX1BsYVMyTV96Sldpc2ZzanZpQ2drZEIxWFNZeW03LW5oUHhfNmxlRUlfcHJQaGR2em9zZGlsV3J5VTJqQm0yRlEzRU1GWU9idU15RHpyRjFxRzh3NzYtXzNweFlfSFlNdTFNS0hLMHRMSHVzY1VFWUxXRlVKN2pkRNIB4gFBVV95cUxQeEF3VHczM293STFhRGE2WW8zdjBWaTlLeHAwcmdwQ2dRbll1RjhJeldDdURaWGoxTmdkbUo5d0IwUEdCdnM0bWxhMER6bWxGRFZCeXZYdklHM1dMQmxHZXRwQ2VEWkZXelFweTIzMWR4NktlMHFlYWZFUEJQLXd5eWVjZW1xTFRWaXExUktyWlB0bnBGdVE2cFB0Nm1jNjh6aFBRMzVOUnhWcS0tb3BqWXlVREM4Y0gtdEFVOXpMeldRRGZfY1RTd1RYVUpUVmxRUkFrNWExbnRsQlplZ05temNR?oc=5)
 - **“En un reality lo hizo delante de todo el mundo”: El Agropecuario le respondió a Aída Victoria - Colombia.com** — 08/10/2026 11:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1VoakhaQ1dMQWdLLXZTdW9lZGJFMFRad3hvSjMzNXd2ZmZGY2c5SFlWOGR1d1FMbzhFOXlOMk1kRVFWVzFlbWhPNi1zUF9tWUwzNUdSVy1GZjFTT0V0NWtWdXhIZzROUTVUbktnQVhQRkVfd0NXRzc0dlBvRzQ2MFExNHhfRl9xTEtfMzJqYndiekYzSkM0X20ta2JmeTFVblYwSWpMbGlURFNlWUFSR29ENVRjdmt0TnNucmp4Sy0?oc=5)
 
 ## Creadores principales vigilados
@@ -42,11 +44,11 @@ Westclips, West Clips Colombia, Clips de streamers Colombia, Clips Kick Colombia
 
 ## Influencers rastreados
 
-JuanDa, El Mindo, Ami Rodriguez, Tulio Recomienda, La Segura, Los de Nam, La Liendra, Yeferson Cossio, Dani Duke, Luisa Fernanda W, Pautips, Aida Victoria Merlano, Kika Nieto
+JuanDa, El Mindo, Ami Rodriguez, Tulio Recomienda, La Segura, Los de Nam, La Liendra, Yeferson Cossio, Dani Duke, Luisa Fernanda W, Pautips, Aida Victoria Merlano, Kika Nieto, Yina Calderón
 
 ## Busquedas de emergentes
 
-clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, nuevo streamer colombiano Kick, clips de streamers colombianos hoy, reacciones streamers colombianos, momentos virales Kick español Colombia, clips creadores colombianos directos
+clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, nuevo streamer colombiano Kick, clips de streamers colombianos hoy, reacciones streamers colombianos, momentos virales Kick español Colombia, clips creadores colombianos directos, streamer colombiano clips recientes, clips de nuevos streamers colombianos, creadores colombianos virales streaming
 
 ## Criterios
 
