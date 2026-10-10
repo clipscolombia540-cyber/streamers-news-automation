@@ -1,15 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 11:13 AM (hora de Colombia)
+Actualizado: 10/10/2026 11:51 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
+Clips incluidos: 11.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Eufonia Studio
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 32.664
+- Puntaje heurístico de interés: 13
+- Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
+
+### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Eufonia Studio
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 41.560
+- Puntaje heurístico de interés: 13
+- Enlace directo: https://www.youtube.com/watch?v=PdBJXZY_208
+
+### Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: ANDRI
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 64.104
+- Puntaje heurístico de interés: 9
+- Enlace directo: https://www.youtube.com/watch?v=5Ly3eyNGJDo
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -17,7 +47,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.799
+- Vistas reportadas por YouTube: 7.929
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -25,9 +55,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: Shur en Directo
-- Publicado: 09/10/2026 11:00 PM
+- Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.730
+- Vistas reportadas por YouTube: 5.985
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
@@ -35,9 +65,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: EchoVault
-- Publicado: 10/10/2026 02:00 AM
+- Publicado: 10/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 513
+- Vistas reportadas por YouTube: 631
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -51,15 +81,25 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=IkOk0r9JxLc
 
-### ¡BLESSD ROMPIÓ EL SET UP DE WESTCOL CON EL ROBOT! 😱🤖💥
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 10/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.652
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Camiloleon110
+- Canal que publico: Thomas godenzi
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 962
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=HB9yg-Xdn_8
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ### THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
 - Categoria: Cuenta de clips
@@ -68,7 +108,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: WestClips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 190.735
+- Vistas reportadas por YouTube: 190.829
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=sK-FWxnh80w
 
@@ -77,15 +117,45 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 10/10/2026 03:00 AM
+- Publicado: 10/10/2026 11:01 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 86
+- Vistas reportadas por YouTube: 406
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Texto en pantalla:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufoni
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
+
+### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Texto en pantalla:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eu
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=PdBJXZY_208
+
+### Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Texto en pantalla:** Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=5Ly3eyNGJDo
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -127,15 +197,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=IkOk0r9JxLc
 
-### ¡BLESSD ROMPIÓ EL SET UP DE WESTCOL CON EL ROBOT! 😱🤖💥
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ¡BLESSD ROMPIÓ EL SET UP DE WESTCOL CON EL ROBOT! 😱🤖💥
-- **Texto en pantalla:** ¡BLESSD ROMPIÓ EL SET UP DE WESTCOL CON EL ROBOT! 😱🤖💥
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=HB9yg-Xdn_8
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ### THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -167,7 +247,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] La empresaria contó que le envió un audio a Juan David Tejada antes de referirse públicamente a los filmes que se volvieron tendencia en redes sociales y pide que recapacite, así como ayuda de los cercanos del creador de contenido - Facebook** — 08/10/2026 01:50 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbTZDRUYwT2xwRnJsWjBJT2otMk4xNlo2bmFkQ3ZRX2VRV0ZWQlY5cC1zTGxfZmpIZWJMZEVrd2pBY1pOREhaT2I1c1plVVpBYjdDMDFpVkpPdkYtb3ltQnNpMXVCQWdpSjRrWGZvSzZhdHZUeWZmNUJPZFpyUlhjSy1INXRVWnQ1R2ZWT184eGZ3TUk5VzE0RG5WUTk1SGxzbFJiVElFSWtSc215Qzhsakt1Y0FCNmlLMTZqZGRMV0twNV90WHpnUllwbGlNS2gtdTd1TmFVS01YaXptZ3BfczFiY0tHLUJPSFRr?oc=5)
 - **[Creadores] Yina Calderón sale en defensa de Camilo Cifuentes tras polémica: “Odio las mozas” - La Kalle** — 08/10/2026 12:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeEF3VHczM293STFhRGE2WW8zdjBWaTlLeHAwcmdwQ2dRbll1RjhJeldDdURaWGoxTmdkbUo5d0IwUEdCdnM0bWxhMER6bWxGRFZCeXZYdklHM1dMQmxHZXRwQ2VEWkZXelFweTIzMWR4NktlMHFlYWZFUEJQLXd5eWVjZW1xTFRWaXExUktyWlB0bnBGdVE2cFB0Nm1jNjh6aFBRMzVOUnhWcS0tb3BqWXlVREM4Y0gtdEFVOXpMeldRRGZfY1RTd1RYVUpUVmxRUkFrNWExbnRsQlplZ05temNR0gHiAUFVX3lxTFB4QXdUdzMzb3dJMWFEYTZZbzN2MFZpOUt4cDByZ3BDZ1FuWXVGOEl6V0N1RFpYajFOZ2RtSjl3QjBQR0J2czRtbGEwRHptbEZEVkJ5dlh2SUczV0xCbEdldHBDZURaRld6UXB5MjMxZHg2S2UwcWVhZkVQQlAtd3l5ZWNlbXFMVFZpcTFSS3JaUHRucEZ1UTZwUHQ2bWM2OHpoUFEzNU5SeFZxLS1vcGpZeVVEQzhjSC10QVU5ekx6V1FEZl9jVFN3VFhVSlRWbFFSQWs1YTFudGxCWmVnTm16Y1E?oc=5)
 - **[Creadores] Yina Calderón sale en defensa de Camilo Cifuentes tras polémica: “Odio las mozas” - La Kalle** — 08/10/2026 12:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONlloQjVZaXI3dEhzZWVLTFpSbEo2NDVfcWtJOHF2ZDh3Qkp0TVdoV3ZOMUZsRTBOQU5DY1FSQW16R19UV3N6LW1va2FaM1lCb1AzUXRNTXZfeGNVX1BsYVMyTV96Sldpc2ZzanZpQ2drZEIxWFNZeW03LW5oUHhfNmxlRUlfcHJQaGR2em9zZGlsV3J5VTJqQm0yRlEzRU1GWU9idU15RHpyRjFxRzh3NzYtXzNweFlfSFlNdTFNS0hLMHRMSHVzY1VFWUxXRlVKN2pkRNIB4gFBVV95cUxQeEF3VHczM293STFhRGE2WW8zdjBWaTlLeHAwcmdwQ2dRbll1RjhJeldDdURaWGoxTmdkbUo5d0IwUEdCdnM0bWxhMER6bWxGRFZCeXZYdklHM1dMQmxHZXRwQ2VEWkZXelFweTIzMWR4NktlMHFlYWZFUEJQLXd5eWVjZW1xTFRWaXExUktyWlB0bnBGdVE2cFB0Nm1jNjh6aFBRMzVOUnhWcS0tb3BqWXlVREM4Y0gtdEFVOXpMeldRRGZfY1RTd1RYVUpUVmxRUkFrNWExbnRsQlplZ05temNR?oc=5)
-- **[Creadores] “En un reality lo hizo delante de todo el mundo”: El Agropecuario le respondió a Aída Victoria - Colombia.com** — 08/10/2026 11:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1VoakhaQ1dMQWdLLXZTdW9lZGJFMFRad3hvSjMzNXd2ZmZGY2c5SFlWOGR1d1FMbzhFOXlOMk1kRVFWVzFlbWhPNi1zUF9tWUwzNUdSVy1GZjFTT0V0NWtWdXhIZzROUTVUbktnQVhQRkVfd0NXRzc0dlBvRzQ2MFExNHhfRl9xTEtfMzJqYndiekYzSkM0X20ta2JmeTFVblYwSWpMbGlURFNlWUFSR29ENVRjdmt0TnNucmp4Sy0?oc=5)
 
 ## Creadores principales vigilados
 
@@ -196,8 +275,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=IkOk0r9JxLc
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=kAlK1J2Vqfk
-  - https://www.youtube.com/watch?v=erGVN-STuG8
+  - https://www.youtube.com/watch?v=tW-Q2AGnSKs
+  - https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ## Busquedas de emergentes
 
