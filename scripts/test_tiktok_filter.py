@@ -1,7 +1,8 @@
 import unittest
+from unittest.mock import patch
 from datetime import datetime, timedelta, timezone
 
-from scripts.tiktok import convertir_fecha, filtrar_publicaciones_recientes
+from scripts.tiktok import convertir_fecha, filtrar_publicaciones_recientes, obtener_feeds
 
 
 class TikTokFilterTests(unittest.TestCase):
@@ -70,6 +71,21 @@ class TikTokFilterTests(unittest.TestCase):
     def test_parses_iso_date(self):
         parsed = convertir_fecha("2026-10-10T10:00:00Z")
         self.assertEqual(parsed, datetime(2026, 10, 10, 10, 0, tzinfo=timezone.utc))
+
+    def test_reads_multiple_feeds_from_environment(self):
+        configuracion = (
+            "Westcol=https://example.com/westcol.xml;"
+            "Emergente=https://example.com/emergente.xml"
+        )
+        with patch.dict("os.environ", {"TIKTOK_FEEDS": configuracion}):
+            feeds = obtener_feeds()
+        self.assertEqual(len(feeds), 2)
+        self.assertEqual(feeds["Emergente"], "https://example.com/emergente.xml")
+
+    def test_invalid_environment_uses_default_feed(self):
+        with patch.dict("os.environ", {"TIKTOK_FEEDS": "esto-no-es-un-feed"}):
+            feeds = obtener_feeds()
+        self.assertIn("Westcol", feeds)
 
 
 if __name__ == "__main__":
