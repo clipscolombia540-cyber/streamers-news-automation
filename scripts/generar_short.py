@@ -69,6 +69,44 @@ def fetch_kick_moments():
         print(f"Advertencia al leer momentos de Kick: {exc}",file=sys.stderr)
     return []
 
+
+def fetch_tiktok_clips():
+    """Busca clips públicos de Dedsafio en páginas indexadas y descarga unos pocos para un borrador privado."""
+    CLIPS.mkdir(parents=True, exist_ok=True)
+    existing=sorted(p for p in CLIPS.glob("*") if p.suffix.lower() in {".mp4",".mov",".mkv",".webm"})
+    if existing:
+        return []
+    queries=[
+        '"Dedsafio" site:tiktok.com/@',
+        '"Dedsafio 4" streamer site:tiktok.com',
+        '"Dedsafio Colombia" TikTok clip',
+    ]
+    links=[]
+    for query in queries:
+        try:
+            page=requests.get("https://www.google.com/search",params={"q":query},headers=HEADERS,timeout=20)
+            if page.ok:
+                for link in re.findall(r'https?://(?:www\\.)?tiktok\\.com/@[^&"<> ]+/video/\\d+',html.unescape(page.text)):
+                    if link not in links: links.append(link)
+            if len(links)>=8: break
+        except Exception as exc:
+            print(f"Aviso buscando TikTok: {exc}",file=sys.stderr)
+    downloaded=[]
+    for idx,link in enumerate(links[:4],1):
+        try:
+            template=str(CLIPS/f"tiktok_dedsafio_{idx}.%(ext)s")
+            run(["yt-dlp","--no-playlist","--no-warnings","--max-filesize","80M",
+                 "--match-filter","duration <= 180", "-o",template,link])
+            candidates=sorted(CLIPS.glob(f"tiktok_dedsafio_{idx}.*"))
+            video=next((p for p in candidates if p.suffix.lower() in {".mp4",".mov",".mkv",".webm"} and p.stat().st_size>100_000),None)
+            if video:
+                downloaded.append({"title":f"Clip público de Dedsafio #{idx}","link":link,
+                                   "source":"TikTok (resultado público indexado)","age":0,"kind":"moment"})
+                print(f"TIKTOK_CLIP_DESCARGADO={link}")
+        except Exception as exc:
+            print(f"Aviso descargando TikTok {link}: {exc}",file=sys.stderr)
+    return downloaded
+
 def fetch_items():
     # Prefer real public moment metadata over generic headlines. Video files are not downloaded.
     moments=fetch_kick_moments()
