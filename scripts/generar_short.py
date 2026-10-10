@@ -126,10 +126,65 @@ def fetch_tiktok_clips():
             print(f"Aviso descargando TikTok {link}: {exc}",file=sys.stderr)
     return downloaded
 
+
+def fetch_youtube_clips():
+    """Busca videos públicos cortos relacionados con Dedsafio para una prueba privada; no evade restricciones."""
+    CLIPS.mkdir(parents=True, exist_ok=True)
+    queries = [
+        "Dedsafio 4 clips momentos streamer Colombia",
+        "Dedsafio 4 gulag clips",
+        "Dedsafio streamer reacción clip",
+    ]
+    downloaded = []
+    seen = set()
+    idx = 0
+    for query in queries:
+        if len(downloaded) >= 3:
+            break
+        try:
+            raw = subprocess.check_output(
+                ["yt-dlp", "--flat-playlist", "--dump-single-json", "--playlist-end", "8",
+                 "ytsearch8:" + query],
+                text=True, stderr=subprocess.PIPE, timeout=75)
+            data = __import__("json").loads(raw)
+            for entry in data.get("entries", []) or []:
+                if not entry:
+                    continue
+                title = clean(entry.get("title", ""))
+                link = entry.get("webpage_url") or entry.get("original_url")
+                duration = entry.get("duration")
+                if not link or "youtube.com/" not in link and "youtu.be/" not in link:
+                    continue
+                if link in seen or not title or not any(k in title.lower() for k in ("dedsafio", "gulag", "desafio 4")):
+                    continue
+                if duration is not None and (duration <= 0 or duration > 180):
+                    continue
+                seen.add(link)
+                idx += 1
+                template = str(CLIPS / f"youtube_dedsafio_{idx}.%(ext)s")
+                try:
+                    run(["yt-dlp", "--no-playlist", "--no-warnings", "--max-filesize", "80M",
+                         "--match-filter", "duration <= 180", "-o", template, link])
+                    candidates = sorted(CLIPS.glob(f"youtube_dedsafio_{idx}.*"))
+                    video = next((p for p in candidates if p.suffix.lower() in {".mp4", ".mov", ".mkv", ".webm"} and p.stat().st_size > 100_000), None)
+                    if video:
+                        downloaded.append({"title": title, "link": link, "source": "YouTube · resultado público", "age": 0, "kind": "moment"})
+                        print(f"YOUTUBE_CLIP_DESCARGADO={link}")
+                        if len(downloaded) >= 3:
+                            break
+                except Exception as exc:
+                    print(f"Aviso descargando resultado de YouTube {link}: {exc}", file=sys.stderr)
+        except Exception as exc:
+            print(f"Aviso buscando videos cortos en YouTube ({query}): {exc}", file=sys.stderr)
+    return downloaded
+
+
 def fetch_items():
     # Prefer actual public TikTok clips that were downloaded over metadata-only sources.
     # This lets build_video use the downloaded files as footage instead of generic backgrounds.
     moments=fetch_tiktok_clips()
+    if moments: return moments
+    moments=fetch_youtube_clips()
     if moments: return moments
     moments=fetch_kick_moments()
     if moments: return moments
