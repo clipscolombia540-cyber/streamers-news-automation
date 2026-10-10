@@ -404,6 +404,8 @@ def dentro_de_ventana(fecha):
 # ============================================================
 # BUSQUEDA EN YOUTUBE
 # ============================================================
+# yt-dlp retiró ytsearchdate en versiones recientes. Usamos ytsearch
+# y los filtros del radar descartan videos de más de 48 horas.
 
 def ejecutar_busqueda_youtube(
     consulta, max_items=MAX_ITEMS_BUSQUEDA
@@ -418,7 +420,7 @@ def ejecutar_busqueda_youtube(
         "--no-warnings",
         "--ignore-errors",
         "--playlist-end", str(max_items),
-        "ytsearchdate:{}".format(consulta),
+        "ytsearch{}:{}".format(max_items, consulta),
     ]
 
     proceso = subprocess.run(
