@@ -161,8 +161,61 @@ def make_overlay(path,tag,title,source):
     d.text((72,1780),("FUENTE: "+source)[:48],font=font(27,True),fill=(90,235,255,255))
     im.save(path)
 
+def download_licensed_stock():
+    """Fetch stock video only from providers whose API returns reusable stock assets."""
+    CLIPS.mkdir(parents=True, exist_ok=True)
+    existing=sorted(p for p in CLIPS.glob("*") if p.suffix.lower() in {".mp4",".mov",".mkv",".webm"})
+    if existing: return existing
+    session=requests.Session()
+    session.headers.update(HEADERS)
+    candidates=[]
+    pexels_key=os.getenv("PEXELS_API_KEY","").strip()
+    pixabay_key=os.getenv("PIXABAY_API_KEY","").strip()
+    if pexels_key:
+        try:
+            resp=session.get("https://api.pexels.com/videos/search",
+                headers={"Authorization":pexels_key},params={"query":"gaming streamer esports","per_page":12,"orientation":"portrait"},timeout=25)
+            resp.raise_for_status()
+            for video in resp.json().get("videos",[]):
+                files=sorted(video.get("video_files",[]),key=lambda x:(x.get("height",0),x.get("width",0)),reverse=True)
+                for vf in files:
+                    link=vf.get("link","")
+                    if link.startswith("https://") and vf.get("width",0)>=540 and vf.get("height",0)>=700:
+                        candidates.append((link,"pexels")); break
+        except Exception as exc: print(f"Aviso Pexels: {exc}",file=sys.stderr)
+    if pixabay_key and len(candidates)<3:
+        try:
+            resp=session.get("https://pixabay.com/api/videos/",params={"key":pixabay_key,"q":"gaming streamer esports","per_page":20,"safesearch":"true"},timeout=25)
+            resp.raise_for_status()
+            for video in resp.json().get("hits",[]):
+                variants=video.get("videos",{})
+                vf=variants.get("large") or variants.get("medium") or variants.get("small") or {}
+                link=vf.get("url","")
+                if link.startswith("https://"): candidates.append((link,"pixabay"))
+        except Exception as exc: print(f"Aviso Pixabay: {exc}",file=sys.stderr)
+    downloaded=[]
+    for idx,(url,provider) in enumerate(candidates):
+        if len(downloaded)>=5: break
+        try:
+            response=session.get(url,stream=True,timeout=(15,45)); response.raise_for_status()
+            path=CLIPS/f"stock_{provider}_{idx+1}.mp4"
+            total=0
+            with path.open("wb") as out:
+                for chunk in response.iter_content(1024*256):
+                    if not chunk: continue
+                    total+=len(chunk)
+                    if total>45*1024*1024: raise ValueError("clip supera 45 MB")
+                    out.write(chunk)
+            if total>100_000:
+                downloaded.append(path)
+                print(f"STOCK_DESCARGADO={provider}:{path.name}")
+            else: path.unlink(missing_ok=True)
+        except Exception as exc:
+            print(f"Aviso descargando stock {provider}: {exc}",file=sys.stderr)
+    return downloaded
+
 def available_clips():
-    return sorted(p for p in CLIPS.glob("*") if p.suffix.lower() in {".mp4",".mov",".mkv",".webm"})
+    return download_licensed_stock()
 
 def build_video(items):
     OUT.mkdir(exist_ok=True); WORK.mkdir(parents=True,exist_ok=True)
@@ -170,7 +223,7 @@ def build_video(items):
     if clips:
         print(f"CLIPS_AUTORIZADOS_ENCONTRADOS={len(clips)}")
     else:
-        print("AVISO: no hay clips locales autorizados; se usará fondo animado original, no metraje de terceros.")
+        raise RuntimeError("No se encontró video reutilizable. Configura PEXELS_API_KEY o PIXABAY_API_KEY como secreto de GitHub, o añade clips con permiso a assets/clips/. Se cancela para no publicar otra presentación.")
     has_moments=any(item.get("kind")=="moment" for item in items)
     if has_moments:
         cards=[{"tag":"DEDSAFIO HOY","title":"LOS MOMENTOS MÁS DUROS DEL GULAG 🔥","source":"Momentos públicos de Kick",
@@ -220,8 +273,8 @@ def main():
     if not items:
         raise RuntimeError("No encontré titulares de Dedsafio recientes en las últimas 48 horas. No se publica un resumen inventado.")
     video,clips=build_video(items)
-    lines=["Short narrado de momentos destacados/radar Dedsafio. Se usan títulos y enlaces públicos; el generador NO descarga ni reutiliza automáticamente el metraje de terceros. Abre las fuentes originales para ver el contexto.",
-           "Clips de video: "+(f"{len(clips)} archivo(s) local(es) autorizados." if clips else "No incluidos; faltan archivos de video autorizados en assets/clips/.")]
+    lines=["Short narrado de radar Dedsafio. Los videos de fondo se descargan mediante API de stock (Pexels/Pixabay) o desde assets/clips/ con permiso. El stock genérico NO se presenta como metraje real de Dedsafio; los momentos específicos se enlazan a sus fuentes originales.",
+           "Clips de video: "+f"{len(clips)} archivo(s) reutilizables disponibles; revisar licencias y atribución de cada fuente antes de publicación pública."]
     lines += [f"- {i['title']}\n  Fuente: {i['source']}\n  Enlace: {i['link']}" for i in items]
     (OUT/"fuentes.txt").write_text("\n\n".join(lines),encoding="utf-8")
     print(f"VIDEO_GENERADO={video}"); print(f"CLIPS_USADOS={len(clips)}"); print("FUENTES=salida/fuentes.txt")
