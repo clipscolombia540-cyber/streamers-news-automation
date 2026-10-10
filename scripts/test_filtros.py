@@ -1,8 +1,26 @@
 import unittest
-from scripts.noticias import parece_contenido_de_creadores, titulo_probablemente_en_ingles
+from scripts.noticias import (
+    es_noticia_promocional,
+    parece_contenido_de_creadores,
+    titulo_probablemente_en_ingles,
+)
 
 
 class FiltroEmergentesTests(unittest.TestCase):
+    def test_descarta_noticia_comercial_de_porkcolombia(self):
+        self.assertTrue(
+            es_noticia_promocional(
+                "Tulio Recomienda presenta campaña con Porkcolombia"
+            )
+        )
+
+    def test_conserva_noticia_personal_sobre_influencer(self):
+        self.assertFalse(
+            es_noticia_promocional(
+                "La Liendra responde a las críticas y cuenta qué pasó"
+            )
+        )
+
     def test_descarta_pokemon_que_solo_menciona_kick(self):
         video = {
             "titulo": "ABRIMOS POKEMON TCG | Kick Stream",
