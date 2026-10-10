@@ -212,24 +212,39 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
         "fecha_futura": 0,
         "duplicadas": 0,
         "dentro_periodo": 0,
+        "por_feed": {},
     }
 
     for publicaciones in publicaciones_por_creador:
+        nombre_feed = (
+            publicaciones[0].get("creador", "Sin identificar")
+            if publicaciones else "Feed sin publicaciones"
+        )
+        stats = diagnostico["por_feed"].setdefault(nombre_feed, {
+            "leidas": 0, "recientes": 0, "antiguas": 0,
+            "sin_fecha": 0, "futuras": 0, "duplicadas": 0,
+            "seleccionadas": 0,
+        })
         diagnostico["leidas"] += len(publicaciones)
+        stats["leidas"] += len(publicaciones)
         for item in publicaciones:
             fecha = item.get("fecha")
 
             if fecha is None:
                 diagnostico["sin_fecha"] += 1
+                stats["sin_fecha"] += 1
                 continue
             if fecha > ahora:
                 diagnostico["fecha_futura"] += 1
+                stats["futuras"] += 1
                 continue
             if fecha < limite:
                 diagnostico["fuera_periodo_antiguas"] += 1
+                stats["antiguas"] += 1
                 continue
 
             diagnostico["dentro_periodo"] += 1
+            stats["recientes"] += 1
             clave = re.sub(
                 r"[^a-z0-9]",
                 "",
@@ -240,6 +255,7 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
                 continue
             if clave in encontrados:
                 diagnostico["duplicadas"] += 1
+                stats["duplicadas"] += 1
                 continue
             encontrados[clave] = item
 
@@ -290,6 +306,14 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
         # avanzando para encontrar publicaciones de otros temas en las rondas siguientes.
         ronda += 1
 
+    for item in lista:
+        feed = item.get("creador", "Sin identificar")
+        diagnostico["por_feed"].setdefault(feed, {
+            "leidas": 0, "recientes": 0, "antiguas": 0,
+            "sin_fecha": 0, "futuras": 0, "duplicadas": 0,
+            "seleccionadas": 0,
+        })["seleccionadas"] += 1
+
     # Mantiene primero las cuentas de clips y, dentro de cada ronda,
     # favorece publicaciones recientes.
     return lista, diagnostico
@@ -337,6 +361,19 @@ def crear_informe():
         f"- Con fecha futura: {diagnostico['fecha_futura']}",
         f"- Dentro del periodo antes de quitar duplicados: {diagnostico['dentro_periodo']}",
         f"- Duplicadas: {diagnostico['duplicadas']}",
+        "",
+        "### Resultado por feed",
+        *[
+            "- **{}**: {} leídas; {} recientes; {} antiguas; {} sin fecha; {} seleccionadas.".format(
+                nombre,
+                datos["leidas"],
+                datos["recientes"],
+                datos["antiguas"],
+                datos["sin_fecha"],
+                datos["seleccionadas"],
+            )
+            for nombre, datos in sorted(diagnostico["por_feed"].items())
+        ],
         "",
         "> Este informe depende de los feeds RSS configurados. "
         "No representa todo TikTok. Verifica el contenido y el enlace "
