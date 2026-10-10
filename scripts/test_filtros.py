@@ -196,7 +196,7 @@ class FiltroEmergentesTests(unittest.TestCase):
     def test_busqueda_de_red_jaapz_acepta_colaborador_sin_colombia_en_titulo(self):
         from scripts.noticias import parece_contenido_de_creadores
         video = {
-            "titulo": "Noche de terror con Jaap",
+            "titulo": "Noche de terror con Jaap streamer",
             "canal": "ZaViel7",
         }
         self.assertTrue(
