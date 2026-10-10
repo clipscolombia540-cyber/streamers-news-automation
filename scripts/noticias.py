@@ -42,14 +42,16 @@ EMERGENTES = [
 ]
 
 CABECERAS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36"
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 Chrome/130 Safari/537.36"
+    )
 }
 
 
 def limpiar(texto):
     return re.sub(
-        r"\s+", " ",
-        html.unescape(str(texto or ""))
+        r"\s+", " ", html.unescape(str(texto or ""))
     ).strip()
 
 
@@ -93,7 +95,7 @@ def ejecutar_busqueda_youtube(consulta, max_items):
         "--no-warnings",
         "--ignore-errors",
         "--playlist-end", str(max_items),
-        f"ytsearchdate{max_items}:{consulta}",
+        f"ytsearch{max_items}:{consulta}",
     ]
 
     proceso = subprocess.run(
@@ -128,7 +130,6 @@ def ejecutar_busqueda_youtube(consulta, max_items):
 
     if isinstance(datos, dict):
         videos = datos.get("entries") or []
-        # Por si yt-dlp devolviera directamente un solo video.
         if not videos and datos.get("id"):
             videos = [datos]
     else:
