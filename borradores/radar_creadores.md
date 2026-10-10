@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 02:42 AM (hora de Colombia)
+Actualizado: 10/10/2026 02:45 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 9.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -31,13 +31,23 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
+### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: EchoVault
+- Publicado: 10/10/2026 01:59 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 28
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
+
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: Shur en Directo
 - Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.682
+- Vistas reportadas por YouTube: 2.753
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
@@ -47,9 +57,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: INMORTAL FF
 - Publicado: 10/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 380
+- Vistas reportadas por YouTube: 388
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Thomas godenzi
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
@@ -58,29 +78,18 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 10/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.569
+- Vistas reportadas por YouTube: 7.868
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 10/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LonchiClips
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: LonchiClips
-- Publicado: 10/10/2026 12:00 AM
+- Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
 
@@ -91,9 +100,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: Pelusa Clips Tc
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.942
+- Vistas reportadas por YouTube: 1.947
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -139,6 +148,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -148,16 +167,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -218,8 +227,6 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=wZRvA8FOZdw
   - https://www.youtube.com/watch?v=8uzHAePkLxo
-- **¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4** (candidata por revisar) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=ZqKY60jBcjA
 
 ## Busquedas de emergentes
 
