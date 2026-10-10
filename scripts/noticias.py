@@ -893,12 +893,11 @@ def recopilar_clips_programas():
         catalogo.values(),
         key=lambda item: item.get("ultima_deteccion", ""),
         reverse=True,
-    )[:8]
+    )[:4]
     for pista in pistas_previas:
         nombre = limpiar(pista.get("nombre", ""))
         if nombre and normalizar(nombre) != normalizar("DEDsafio Minecraft"):
             consultas.append('"{}" clips'.format(nombre[:90]))
-            consultas.append('"{}" mejores momentos'.format(nombre[:90]))
 
     senales_clip = (
         "clip", "clips", "short", "shorts", "momento", "momentos",
