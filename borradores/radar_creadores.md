@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:08 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:11 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 8.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 12:00 AM
+- Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.365
+- Vistas reportadas por YouTube: 14.372
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.212
+- Vistas reportadas por YouTube: 3.350
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -42,6 +42,17 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
 
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.657
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
+
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: TRENDCLIPSMEDIA
@@ -53,6 +64,28 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
 
+### Westcol reacciona al golpe del robot
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips kick Latam
+- Creador relacionado en el título: Westcol
+- Canal que publico: Clips kick Latam
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 189
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=zo7xOyGboLY
+
+### 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Westcolclip26
+- Creador relacionado en el título: Westcol
+- Canal que publico: Westcolclip26
+- Publicado: 09/10/2026 11:01 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=yLmsHL-Apxg
+
 ### #shorts #westcol
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clipazo
@@ -60,7 +93,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Canal que publico: Clipazo
 - Publicado: 09/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 809
+- Vistas reportadas por YouTube: 818
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NqDGmctfwV4
 
@@ -98,6 +131,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
 
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
+
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -107,6 +150,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
+
+### Westcol reacciona al golpe del robot
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol reacciona al golpe del robot
+- **Texto en pantalla:** Westcol reacciona al golpe del robot
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=zo7xOyGboLY
+
+### 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
+- **Texto en pantalla:** 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yLmsHL-Apxg
 
 ### #shorts #westcol
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
