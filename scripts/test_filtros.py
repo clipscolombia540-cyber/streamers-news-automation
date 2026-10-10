@@ -223,6 +223,28 @@ class FiltroEmergentesTests(unittest.TestCase):
             parece_contenido_de_creadores(video, "clips de streamers en español")
         )
 
+    def test_descarta_xqc_y_livestreamfail_aunque_salgan_en_busqueda_colombiana(self):
+        video = {
+            "titulo": "xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips",
+            "canal": "Daily Dose of LivestreamFail",
+        }
+        self.assertFalse(
+            parece_contenido_de_creadores(
+                video, "clips streamers colombianos ultimas horas"
+            )
+        )
+
+    def test_no_confunde_creador_internacional_con_emergente(self):
+        video = {
+            "titulo": "Kai Cenat best moments on Kick",
+            "canal": "Kai Cenat Clips",
+        }
+        self.assertFalse(
+            parece_contenido_de_creadores(
+                video, "mejores clips Kick Colombia"
+            )
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
