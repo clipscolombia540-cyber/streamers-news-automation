@@ -25,7 +25,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: python -m pip install requests pillow edge-tts
+        run: python -m pip install requests pillow edge-tts yt-dlp
 
       - name: Comprobar sintaxis del generador y publicador
         run: python -m py_compile scripts/generar_short.py scripts/subir_short_generado.py scripts/publicar.py
