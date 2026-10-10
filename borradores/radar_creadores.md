@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 10:55 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:08 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 5.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Eufonia Studio
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 40.908
-- Puntaje heurístico de interés: 13
-- Enlace directo: https://www.youtube.com/watch?v=PdBJXZY_208
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Canal que publico: Aquiso Clips
 - Publicado: 09/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.355
+- Vistas reportadas por YouTube: 14.365
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.694
+- Vistas reportadas por YouTube: 3.212
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -46,22 +36,11 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Creador/canal detectado: Cuenta de clips: LonchiClips
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:47 PM
+- Publicado: 09/10/2026 10:46 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips Tc
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.633
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -81,23 +60,13 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Canal que publico: Clipazo
 - Publicado: 09/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 798
+- Vistas reportadas por YouTube: 809
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NqDGmctfwV4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Texto en pantalla:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eu
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PdBJXZY_208
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -119,16 +88,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
-
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -138,16 +97,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -201,7 +150,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-Todavía no hay pistas guardadas; se llenará al encontrar resultados útiles.
+- **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-09
+  - https://www.youtube.com/watch?v=9kNKLBd2--o
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-09
+  - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=PdBJXZY_208
 
 ## Busquedas de emergentes
 
