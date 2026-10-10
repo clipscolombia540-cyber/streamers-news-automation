@@ -127,24 +127,32 @@ ALIASES_INFLUENCERS = {
 
 }
 
-# Programas/reality shows con participantes colombianos.
-# Se rastrean como noticias, separados de los clips de streamers.
+# Series, eventos y retos de streamers, especialmente Minecraft.
+# Se rastrean como noticias de creadores, no como realities de television.
 PROGRAMAS = [
-    "Desafío",
-    "MasterChef Celebrity Colombia",
-    "La casa de los famosos Colombia",
-    "Yo me llamo",
-    "La voz Colombia",
-    "Top Chef VIP",
+    "DEDsafio Minecraft",
+    "series de Minecraft de streamers",
+    "eventos de Minecraft de creadores",
+    "eventos de streamers colombianos",
 ]
 
 ALIASES_PROGRAMAS = {
-    "Desafío": ["desafio", "desafio siglo xxi", "desafio juego de las cajas"],
-    "MasterChef Celebrity Colombia": ["masterchef celebrity colombia", "masterchef colombia"],
-    "La casa de los famosos Colombia": ["la casa de los famosos colombia", "casa de los famosos colombia"],
-    "Yo me llamo": ["yo me llamo"],
-    "La voz Colombia": ["la voz colombia", "la voz kids colombia"],
-    "Top Chef VIP": ["top chef vip"],
+    "DEDsafio Minecraft": [
+        "dedsafio minecraft", "dedsafio", "ded'safio", "ded safio",
+        "dedsafio mc", "ded minecraft",
+    ],
+    "Series de Minecraft de streamers": [
+        "serie de minecraft", "series de minecraft", "minecraft streamer",
+        "minecraft con streamers", "minecraft de streamers",
+    ],
+    "Eventos de Minecraft de creadores": [
+        "evento de minecraft", "eventos de minecraft", "minecraft extremo",
+        "minecraft hardcore", "minecraft con creadores",
+    ],
+    "Eventos de streamers colombianos": [
+        "evento de streamers colombianos", "streamers colombianos",
+        "creadores colombianos streaming",
+    ],
 }
 
 ALIASES_CUENTAS_CLIPS = [
@@ -912,7 +920,7 @@ def recopilar_noticias():
         for influencer in INFLUENCERS
     ]
 
-    # Noticias recientes de realities y programas donde participan colombianos.
+    # Noticias recientes de series, retos y eventos de streamers; prioridad DEDsafio Minecraft.
     consultas_programas = []
     for programa in PROGRAMAS:
         consultas_programas.extend([
@@ -1189,7 +1197,7 @@ def escribir_informe(clips, noticias):
         "",
         ", ".join(INFLUENCERS),
         "",
-        "## Programas y realities rastreados",
+        "## Series y eventos de streamers rastreados",
         "",
         ", ".join(PROGRAMAS),
         "",
