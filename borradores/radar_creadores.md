@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 10:01 PM (hora de Colombia)
+Actualizado: 09/10/2026 10:14 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 0.

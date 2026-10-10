@@ -1,16 +1,16 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 10/10/2026 03:03 UTC
+**Actualizado:** 10/10/2026 03:15 UTC
 **Periodo revisado:** últimas 48 horas
-**Feeds configurados:** 3
+**Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos: o Recortes: para priorizar cuentas que publican clips de terceros.
-**Publicaciones leídas:** 65
+**Publicaciones leídas:** 99
 **Publicaciones encontradas:** 25
 **Distribución por tipo:** Cuenta de clips/terceros: 25
 
 ## Diagnóstico del feed
 - Sin fecha verificable: 0
-- Más antiguas que 48 horas: 16
+- Más antiguas que 48 horas: 50
 - Con fecha futura: 0
 - Dentro del periodo antes de quitar duplicados: 49
 - Duplicadas: 0
