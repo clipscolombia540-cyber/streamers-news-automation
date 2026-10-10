@@ -798,16 +798,26 @@ def seleccionar_clips(videos):
     return seleccionados
 
 def recopilar_clips_programas():
-    """Busca clips de DEDsafio Minecraft y otras series/eventos de creadores."""
+    """Busca series conocidas y descubre clips de series/eventos nuevos de creadores."""
     encontrados = []
     consultas = [
+        # Seguimiento de la serie conocida.
         "DEDSAFIO Minecraft clips español",
         "DEDSAFIO 4 mejores momentos",
         "DEDSAFIO Minecraft muertes clips",
         "DEDSAFIO Minecraft reacciones clips",
         "clips DEDSAFIO Westcol Spreen",
+        # Descubrimiento de series y eventos nuevos, sin depender de tener su nombre.
         "clips series Minecraft streamers español",
         "momentos eventos Minecraft creadores clips",
+        "nueva serie Minecraft streamers clips español",
+        "nueva serie Minecraft creadores mejores momentos",
+        "nuevo evento Minecraft streamers clips",
+        "clips nueva serie de streamers español",
+        "nuevas series de streamers colombianos clips",
+        "mejores momentos serie Minecraft reciente",
+        "clips eventos streamers español últimas horas",
+        "nueva serie de creadores de contenido clips",
     ]
     senales_clip = (
         "clip", "clips", "short", "shorts", "momento", "momentos",
@@ -815,20 +825,41 @@ def recopilar_clips_programas():
         "mejores", "highlights", "limbo", "bossfight",
     )
     for consulta in consultas:
-        print("[Series y eventos] {}".format(consulta))
+        print("[Series y eventos / descubrimiento] {}".format(consulta))
         for video in buscar_youtube(consulta):
             titulo = normalizar(video.get("titulo", ""))
             canal = normalizar(video.get("canal", ""))
-            es_dedsafio = "dedsafio" in titulo or "dedsafio" in canal or "ded safio" in titulo
-            es_serie_minecraft = "minecraft" in titulo and any(
-                palabra in titulo for palabra in ("serie", "evento", "streamer", "creador")
+            es_dedsafio = (
+                "dedsafio" in titulo or "dedsafio" in canal
+                or "dedsafío" in titulo or "ded safio" in titulo
+            )
+            es_minecraft = "minecraft" in titulo or "minecraft" in canal
+            es_evento_o_serie = any(
+                palabra in titulo or palabra in canal
+                for palabra in (
+                    "serie", "series", "evento", "eventos", "streamer",
+                    "streamers", "creador", "creadores", "hardcore",
+                    "extremo", "smp",
+                )
             )
             es_clip = any(senal in titulo for senal in senales_clip) or any(
                 palabra in canal for palabra in ("clips", "clip", "recortes", "momentos")
             )
-            if not es_clip or not (es_dedsafio or es_serie_minecraft):
+            # DEDsafio se rastrea por nombre; para series nuevas aceptamos
+            # títulos Minecraft con señales claras de clip/evento/serie.
+            es_serie_minecraft = es_minecraft and (es_evento_o_serie or es_clip)
+            es_serie_streamers = es_evento_o_serie and es_clip and any(
+                palabra in titulo or palabra in canal
+                for palabra in ("streamer", "streamers", "creador", "creadores", "colombia")
+            )
+            if not es_clip or not (es_dedsafio or es_serie_minecraft or es_serie_streamers):
                 continue
-            video["creador"] = "Programa: DEDsafio Minecraft" if es_dedsafio else "Series y eventos Minecraft"
+            if es_dedsafio:
+                video["creador"] = "Programa: DEDsafio Minecraft"
+            elif es_serie_minecraft:
+                video["creador"] = "Series y eventos Minecraft"
+            else:
+                video["creador"] = "Series y eventos de streamers"
             video["categoria"] = "Clip de terceros"
             encontrados.append(video)
     return encontrados
