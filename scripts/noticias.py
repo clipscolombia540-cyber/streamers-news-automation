@@ -912,6 +912,53 @@ def recopilar_noticias():
 
 
 # ============================================================
+# BORRADORES DE COPY PARA REVISION HUMANA
+# ============================================================
+
+def generar_borrador_copy(video):
+    """Genera copy prudente a partir de metadatos, sin inventar hechos."""
+    titulo = (video.get("titulo") or "Clip por revisar").strip()
+    creador = (video.get("creador") or "").strip()
+    if not creador or creador.lower() in ("otros", "sin identificar"):
+        creador = (video.get("canal") or "este creador").strip()
+
+    hashtags = [
+        "#StreamersColombia",
+        "#ClipsColombia",
+        "#CreadoresColombianos",
+        "#EnDirecto",
+    ]
+    categoria = video.get("categoria", "")
+    if categoria == "Emergente por verificar":
+        hashtags = [
+            "#StreamerEmergente",
+            "#StreamersColombia",
+            "#ClipsColombia",
+            "#GamingColombia",
+        ]
+    elif categoria == "Influencer de respaldo":
+        hashtags = [
+            "#InfluencersColombia",
+            "#CreadoresColombianos",
+            "#ClipsColombia",
+        ]
+
+    return {
+        "gancho_a": "¿Ya habías visto este momento de {}? 👀".format(creador),
+        "gancho_b": "Mira este fragmento y cuéntanos qué opinas 👇",
+        "gancho_c": "Un momento para revisar del contenido de {}.".format(creador),
+        "titulo": titulo[:100],
+        "texto_pantalla": titulo[:70],
+        "descripcion": (
+            "Fragmento relacionado con {}. Revisa el contexto completo "
+            "en la fuente original y deja tu opinión con respeto. "
+            "Publicar solo si tienes permiso o autorización para usar el material."
+        ).format(creador),
+        "hashtags": " ".join(hashtags),
+    }
+
+
+# ============================================================
 # GENERACION DEL INFORME
 # ============================================================
 
@@ -963,6 +1010,38 @@ def escribir_informe(clips, noticias):
             "",
             "Esto no demuestra que no existan videos nuevos.",
             "Revisa los registros del workflow para conocer los descartes.",
+            "",
+        ])
+
+    lineas.extend([
+        "## Borradores de copy para clips (revisar antes de publicar)",
+        "",
+        (
+            "Los textos son propuestas iniciales basadas solo en el título y "
+            "los metadatos. Verifica el contenido real, evita sacar frases "
+            "de contexto y publica únicamente con derechos o permiso."
+        ),
+        "",
+    ])
+
+    if clips:
+        for video in clips:
+            copy = generar_borrador_copy(video)
+            lineas.extend([
+                "### {}".format(video["titulo"]),
+                "- **Gancho A:** {}".format(copy["gancho_a"]),
+                "- **Gancho B:** {}".format(copy["gancho_b"]),
+                "- **Gancho C:** {}".format(copy["gancho_c"]),
+                "- **Título sugerido:** {}".format(copy["titulo"]),
+                "- **Texto en pantalla:** {}".format(copy["texto_pantalla"]),
+                "- **Descripción:** {}".format(copy["descripcion"]),
+                "- **Hashtags:** {}".format(copy["hashtags"]),
+                "- **Fuente original:** {}".format(video.get("url", "")),
+                "",
+            ])
+    else:
+        lineas.extend([
+            "No hay clips para generar borradores en esta ejecución.",
             "",
         ])
 

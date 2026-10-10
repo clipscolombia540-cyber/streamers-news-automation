@@ -1,6 +1,7 @@
 import unittest
 from scripts.noticias import (
     es_noticia_promocional,
+    generar_borrador_copy,
     parece_contenido_de_creadores,
     titulo_probablemente_en_ingles,
 )
@@ -20,6 +21,27 @@ class FiltroEmergentesTests(unittest.TestCase):
                 "La Liendra responde a las críticas y cuenta qué pasó"
             )
         )
+
+    def test_genera_copy_sin_asegurar_hechos_no_verificados(self):
+        copy = generar_borrador_copy({
+            "titulo": "La reacción de Westcol en directo",
+            "creador": "Westcol",
+            "categoria": "Clip de terceros",
+            "canal": "Cuenta de clips",
+            "url": "https://example.com/clip",
+        })
+        self.assertIn("Westcol", copy["gancho_a"])
+        self.assertEqual(copy["titulo"], "La reacción de Westcol en directo")
+        self.assertIn("permiso", copy["descripcion"].lower())
+        self.assertTrue(copy["hashtags"].startswith("#StreamersColombia"))
+
+    def test_copy_de_emergente_usa_hashtags_de_descubrimiento(self):
+        copy = generar_borrador_copy({
+            "titulo": "Clip de streamer nuevo",
+            "creador": "Streamer nuevo",
+            "categoria": "Emergente por verificar",
+        })
+        self.assertIn("#StreamerEmergente", copy["hashtags"])
 
     def test_descarta_pokemon_que_solo_menciona_kick(self):
         video = {
