@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 08:57 PM (hora de Colombia)
+Actualizado: 09/10/2026 09:02 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 3.
@@ -18,21 +18,23 @@ Noticias recientes: 7.
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=CbOsHDY8Fq0
 
-### Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Destiny DGG Clips
-- Canal que publico: Destiny DGG Clips
-- Publicado: 09/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=pdrRjcmeYgc
-
 ### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
 - Canal que publico: Pelusa Clips Tc
 - Publicado: 08/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
+
+### ¡El ROBOT Rompió el Vidrio en Pleno Stream de WestCol! Momento Completo
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: La w clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: La w clips
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=TgF9iOCLB1w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -48,25 +50,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CbOsHDY8Fq0
 
-### Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Destiny DGG Clips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Destiny DGG Clips.
-- **Título sugerido:** Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- **Texto en pantalla:** Una de las espectadoras de Destiny se ve obligada a soportar esto...
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Destiny DGG Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pdrRjcmeYgc
-
 ### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Pelusa Clips Tc? 👀
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Pelusa Clips Tc.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
 - **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Pelusa Clips Tc. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
+
+### ¡El ROBOT Rompió el Vidrio en Pleno Stream de WestCol! Momento Completo
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ¡El ROBOT Rompió el Vidrio en Pleno Stream de WestCol! Momento Completo
+- **Texto en pantalla:** ¡El ROBOT Rompió el Vidrio en Pleno Stream de WestCol! Momento Complet
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=TgF9iOCLB1w
 
 ## Noticias y contexto
 
