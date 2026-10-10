@@ -27,6 +27,17 @@ def required(name):
     return value
 
 
+def raise_api_error(response, service):
+    """Raise a useful API error without ever printing authorization headers/tokens."""
+    if response.ok:
+        return
+    try:
+        details = response.json()
+    except ValueError:
+        details = response.text[:1500]
+    raise RuntimeError(f"{service} respondió HTTP {response.status_code}: {json.dumps(details, ensure_ascii=False)[:2500]}")
+
+
 def download_video(url, destination):
     if not url.startswith("https://"):
         raise RuntimeError("VIDEO_URL debe ser una URL HTTPS directa al archivo de video.")
@@ -61,7 +72,7 @@ def youtube_access_token():
         },
         timeout=30,
     )
-    response.raise_for_status()
+    raise_api_error(response, "Google OAuth al renovar el token")
     data = response.json()
     if not data.get("access_token"):
         raise RuntimeError("Google no devolvió un access_token para YouTube.")
@@ -94,7 +105,7 @@ def publish_youtube(video_path, title, description, tags, privacy):
         json=metadata,
         timeout=60,
     )
-    start.raise_for_status()
+    raise_api_error(start, "YouTube al iniciar la subida")
     upload_url = start.headers.get("Location")
     if not upload_url:
         raise RuntimeError("YouTube no devolvió la URL de carga reanudable.")
@@ -105,7 +116,7 @@ def publish_youtube(video_path, title, description, tags, privacy):
             headers={"Content-Type": "video/mp4"},
             timeout=(30, 600),
         )
-    upload.raise_for_status()
+    raise_api_error(upload, "YouTube al transferir el video")
     result = upload.json()
     video_id = result.get("id")
     if not video_id:
@@ -128,7 +139,7 @@ def publish_tiktok(video_path, title, privacy):
         json={},
         timeout=30,
     )
-    creator_response.raise_for_status()
+    raise_api_error(creator_response, "TikTok al consultar la cuenta")
     creator = creator_response.json()
     if creator.get("error", {}).get("code") != "ok":
         raise RuntimeError("TikTok no pudo consultar la cuenta creadora: " + json.dumps(creator.get("error", {})))
@@ -159,7 +170,7 @@ def publish_tiktok(video_path, title, privacy):
         },
         timeout=60,
     )
-    init.raise_for_status()
+    raise_api_error(init, "TikTok al iniciar la publicación")
     init_data = init.json()
     if init_data.get("error", {}).get("code") != "ok":
         raise RuntimeError("TikTok rechazó la publicación: " + json.dumps(init_data.get("error", {})))
@@ -186,7 +197,7 @@ def publish_tiktok(video_path, title, privacy):
                 },
                 timeout=(30, 300),
             )
-            put.raise_for_status()
+            raise_api_error(put, "TikTok al transferir el video")
             index += 1
     print(f"TikTok: carga enviada; publish_id={publish_id}. El estado final puede tardar en actualizarse.")
     return publish_id
