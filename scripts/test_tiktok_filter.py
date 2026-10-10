@@ -43,6 +43,29 @@ class TikTokFilterTests(unittest.TestCase):
         self.assertEqual(results, [])
         self.assertEqual(diag["fuera_periodo_antiguas"], 1)
 
+    def test_reports_recent_and_old_posts_per_feed(self):
+        fresh = {
+            **self.item(
+                "https://www.tiktok.com/@fresh/video/1",
+                "Clip reciente",
+                self.now - timedelta(hours=2),
+            ),
+            "creador": "Clipero:Feed fresco",
+        }
+        old = {
+            **self.item(
+                "https://www.tiktok.com/@old/video/2",
+                "Clip antiguo",
+                self.now - timedelta(hours=60),
+            ),
+            "creador": "TikTok:Feed viejo",
+        }
+        results, diag = filtrar_publicaciones_recientes([[fresh], [old]], self.now, 48)
+        self.assertEqual(len(results), 1)
+        self.assertEqual(diag["por_feed"]["Clipero:Feed fresco"]["seleccionadas"], 1)
+        self.assertEqual(diag["por_feed"]["TikTok:Feed viejo"]["antiguas"], 1)
+        self.assertEqual(diag["por_feed"]["TikTok:Feed viejo"]["seleccionadas"], 0)
+
     def test_excludes_unknown_and_future_dates(self):
         unknown = self.item(
             "https://www.tiktok.com/@westcol/video/unknown",
