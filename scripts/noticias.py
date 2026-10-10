@@ -927,6 +927,11 @@ def recopilar_clips_programas():
         "nueva serie Minecraft streamers clips español",
         "nuevo evento Minecraft streamers clips",
         "nuevas series de streamers colombianos clips",
+        "retos y competencias streamers colombianos clips",
+        "eventos colaboraciones IRL streamers Colombia momentos",
+        "momentos virales directos Kick Twitch Colombia clips",
+        "peleas reacciones fails sustos streamers colombianos clips",
+        "nuevas series gaming creadores colombianos shorts",
     ]
 
     # Reutilizar pistas de ejecuciones anteriores para buscar más clips del mismo tema.
@@ -957,16 +962,30 @@ def recopilar_clips_programas():
                 for palabra in (
                     "serie", "series", "evento", "eventos", "streamer",
                     "streamers", "creador", "creadores", "hardcore",
-                    "extremo", "smp",
+                    "extremo", "smp", "reto", "retos", "challenge",
+                    "challenges", "torneo", "torneos", "competencia",
+                    "competencias", "colaboracion", "colaboraciones",
+                    "collab", "irl", "viral", "pelea", "discusion",
+                    "enfrentamiento", "versus", "vs", "fail", "fails",
+                    "susto", "sustos", "reaccion", "reacciones", "directo",
                 )
             )
             es_clip = any(senal in titulo for senal in senales_clip) or any(
                 palabra in canal for palabra in ("clips", "clip", "recortes", "momentos")
             )
             es_serie_minecraft = es_minecraft and (es_evento_o_serie or es_clip)
-            es_serie_streamers = es_evento_o_serie and es_clip and any(
-                palabra in titulo or palabra in canal
-                for palabra in ("streamer", "streamers", "creador", "creadores", "colombia")
+            senales_evento = (
+                "reto", "retos", "challenge", "torneo", "competencia",
+                "colaboracion", "collab", "irl", "viral", "pelea",
+                "discusion", "enfrentamiento", "versus", " vs ", "fail",
+                "susto", "reaccion", "reacciones", "directo",
+            )
+            es_serie_streamers = es_evento_o_serie and es_clip and (
+                any(
+                    palabra in titulo or palabra in canal
+                    for palabra in ("streamer", "streamers", "creador", "creadores", "colombia")
+                )
+                or any(senal in titulo for senal in senales_evento)
             )
             if not es_clip or not (es_dedsafio or es_serie_minecraft or es_serie_streamers):
                 continue
