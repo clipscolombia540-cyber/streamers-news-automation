@@ -335,7 +335,7 @@ def parece_contenido_de_creadores(video, consulta=""):
     )
     consulta_de_red = any(
         normalizar(termino) in consulta_norm for termino in terminos_red
-    )
+    ) or "jaap" in consulta_norm or "zaviel" in consulta_norm or "monocol" in consulta_norm
     nombres_red = ("jaapz", "jaap z", "monocol_r", "monocol r", "zaviel7", "zaviel 7")
     resultado_de_red = any(normalizar(nombre) in texto for nombre in nombres_red)
 
