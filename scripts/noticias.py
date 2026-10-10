@@ -307,11 +307,12 @@ def es_cuenta_de_clips(video):
     return False
 
 
-def parece_contenido_de_creadores(video):
-    """Acepta resultados con senales explicitas de streaming y contexto colombiano."""
+def parece_contenido_de_creadores(video, consulta=""):
+    """Filtra ruido general y conserva candidatos de búsquedas específicas de la red Jaapz."""
     titulo = normalizar(video.get("titulo", ""))
     canal = normalizar(video.get("canal", ""))
     texto = "{} {}".format(titulo, canal)
+    consulta_norm = normalizar(consulta)
 
     senales_stream = (
         "streamer", "streamers", "kick", "twitch", "directo",
@@ -326,11 +327,20 @@ def parece_contenido_de_creadores(video):
     tiene_senal_stream = any(p in texto for p in senales_stream)
     tiene_contexto_colombiano = any(p in texto for p in senales_colombia)
 
-    # Una busqueda de streamers colombianos puede devolver deportes o videojuegos
-    # que solo mencionan Kick/stream. Exigimos que el resultado tambien muestre
-    # una senal colombiana en el titulo o canal antes de etiquetarlo como emergente.
-    return tiene_senal_stream and tiene_contexto_colombiano
+    # La consulta específica ya acota la búsqueda a la red de Jaapz.
+    # Permite revisar candidatos sin exigir que el resultado repita "Colombia".
+    terminos_red = (
+        "jaapz", "jaap z", "jaap_z", "monocol_r", "monocol r", "zaviel7",
+        "zaviel 7", "parchando con el jaap", "noche de terror con jaap",
+    )
+    consulta_de_red = any(
+        normalizar(termino) in consulta_norm for termino in terminos_red
+    )
 
+    # Las búsquedas generales mantienen el filtro estricto anti-ruido.
+    return tiene_senal_stream and (
+        tiene_contexto_colombiano or consulta_de_red
+    )
 
 def es_relevante_para_radar(video):
     """Evita aceptar cuentas de clips extranjeras sin relación con creadores vigilados."""
@@ -683,7 +693,7 @@ def recopilar_emergentes():
             if detectar_creador(video):
                 continue
 
-            if not parece_contenido_de_creadores(video):
+            if not parece_contenido_de_creadores(video, consulta):
                 print(
                     "  Emergente descartado por relevancia: {} | {}".format(
                         video["titulo"], video["canal"]
