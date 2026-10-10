@@ -512,6 +512,10 @@ def ejecutar_busqueda_youtube(
             "creador": "",
             "categoria": "",
             "fuente": "YouTube / yt-dlp",
+            # En busquedas planas estas metricas no siempre vienen disponibles.
+            "vistas": video.get("view_count"),
+            "likes": video.get("like_count"),
+            "duracion_segundos": video.get("duration"),
         })
 
     print(
@@ -758,6 +762,32 @@ def puntaje_tendencia(video):
     )
     puntos += 3 * sum(1 for senal in senales_fuertes if normalizar(senal) in titulo)
     puntos += sum(1 for senal in senales_medias if normalizar(senal) in titulo)
+
+    # Las metricas de plataforma pesan mas que las palabras del titulo cuando existen.
+    # Escalas conservadoras para que una cifra aislada no domine todo el radar.
+    try:
+        vistas = int(video.get("vistas") or 0)
+    except (TypeError, ValueError):
+        vistas = 0
+    try:
+        likes = int(video.get("likes") or 0)
+    except (TypeError, ValueError):
+        likes = 0
+    if vistas >= 100000:
+        puntos += 8
+    elif vistas >= 25000:
+        puntos += 6
+    elif vistas >= 5000:
+        puntos += 4
+    elif vistas >= 1000:
+        puntos += 2
+    if likes >= 10000:
+        puntos += 4
+    elif likes >= 1000:
+        puntos += 2
+    elif likes >= 100:
+        puntos += 1
+
     # Premia ligeramente los clips vinculados a una serie/evento identificado.
     creador = normalizar(video.get("creador", ""))
     if any(senal in creador for senal in ("dedsafio", "serie", "evento", "minecraft")):
@@ -1312,6 +1342,25 @@ def escribir_informe(clips, noticias):
                     video["fecha"].strftime("%d/%m/%Y %I:%M %p")
                 ),
                 "- Fuente: {}".format(video["fuente"]),
+                *(
+                    ["- Vistas reportadas por YouTube: {}".format(
+                        "{:,}".format(int(video["vistas"])).replace(",", ".")
+                    )]
+                    if video.get("vistas") is not None
+                    and str(video.get("vistas")).isdigit()
+                    else []
+                ),
+                *(
+                    ["- Me gusta reportados: {}".format(
+                        "{:,}".format(int(video["likes"])).replace(",", ".")
+                    )]
+                    if video.get("likes") is not None
+                    and str(video.get("likes")).isdigit()
+                    else []
+                ),
+                "- Puntaje heurístico de interés: {}".format(
+                    puntaje_tendencia(video)
+                ),
                 "- Enlace directo: {}".format(video["url"]),
                 "",
             ])
