@@ -88,6 +88,22 @@ class FiltroEmergentesTests(unittest.TestCase):
         seleccionados = seleccionar_clips(videos)
         self.assertEqual(len(seleccionados), 3)
 
+
+    def test_limita_dedsafio_para_dar_espacio_a_otros_temas(self):
+        from datetime import datetime
+        videos = []
+        for i in range(6):
+            videos.append({
+                "titulo": "DEDsafio Minecraft momento epico numero {}".format(i),
+                "url": "https://example.com/dedsafio-{}".format(i),
+                "fecha": datetime(2026, 10, 9, 10, i),
+                "creador": "Cuenta de clips: Canal {}".format(i),
+                "categoria": "Cuenta de clips",
+                "canal": "Canal Clips {}".format(i),
+            })
+        seleccionados = seleccionar_clips(videos)
+        self.assertEqual(len(seleccionados), 3)
+
     def test_descarta_cuenta_de_clips_extranjera_sin_relacion_colombiana(self):
         video = {
             "titulo": "Una espectadora de Destiny se ve obligada a soportar esto",
