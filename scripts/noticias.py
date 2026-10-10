@@ -222,6 +222,15 @@ def detectar_influencer(video):
     return detectar_en_alias(video, ALIASES_INFLUENCERS)
 
 
+def detectar_creador_relacionado(video):
+    """Busca el creador mencionado en el título sin confundirlo con la cuenta publicadora."""
+    solo_titulo = {"titulo": video.get("titulo", ""), "canal": ""}
+    return (
+        detectar_en_alias(solo_titulo, ALIASES_CREADORES)
+        or detectar_en_alias(solo_titulo, ALIASES_INFLUENCERS)
+    )
+
+
 def es_cuenta_de_clips(video):
     canal = normalizar(video.get("canal", ""))
     titulo = normalizar(video.get("titulo", ""))
@@ -919,6 +928,8 @@ def generar_borrador_copy(video):
     """Genera copy prudente a partir de metadatos, sin inventar hechos."""
     titulo = (video.get("titulo") or "Clip por revisar").strip()
     creador = (video.get("creador") or "").strip()
+    if video.get("categoria") == "Cuenta de clips":
+        creador = detectar_creador_relacionado(video) or creador
     if not creador or creador.lower() in ("otros", "sin identificar"):
         creador = (video.get("canal") or "este creador").strip()
 
@@ -994,6 +1005,14 @@ def escribir_informe(clips, noticias):
                 ),
                 "- Creador/canal detectado: {}".format(
                     video.get("creador", "Sin identificar")
+                ),
+                *(
+                    ["- Creador relacionado en el título: {}".format(
+                        detectar_creador_relacionado(video)
+                    )]
+                    if video.get("categoria") == "Cuenta de clips"
+                    and detectar_creador_relacionado(video)
+                    else []
                 ),
                 "- Canal que publico: {}".format(video["canal"]),
                 "- Publicado: {}".format(
