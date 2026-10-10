@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 02:06 AM (hora de Colombia)
+Actualizado: 10/10/2026 02:09 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
@@ -31,15 +31,15 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 17)
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 10/10/2026 12:00 AM
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 798
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
+- Vistas reportadas por YouTube: 499
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
@@ -47,9 +47,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: Shur en Directo
 - Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.112
+- Vistas reportadas por YouTube: 2.117
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: WEST HYPE
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 25
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=qrVUfANzuO4
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - Categoria: Clip de terceros
@@ -57,7 +67,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: INMORTAL FF
 - Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 288
+- Vistas reportadas por YouTube: 290
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
@@ -68,7 +78,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: WestClips
 - Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.903
+- Vistas reportadas por YouTube: 5.935
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
@@ -107,15 +117,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 17)
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
+- **Título sugerido:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Texto en pantalla:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
+- **Fuente original:** https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -126,6 +136,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
+- **Texto en pantalla:** Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=qrVUfANzuO4
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
