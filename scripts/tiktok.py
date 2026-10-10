@@ -268,7 +268,9 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
     max_westcol = 5
     conteo_westcol = 0
     ronda = 0
-    while len(lista) < MAX_RESULTADOS:
+    while len(lista) < MAX_RESULTADOS and any(
+        ronda < min(len(items), max_por_feed) for items in por_feed.values()
+    ):
         agregados = 0
         for feed in feeds_ordenados:
             feed_items = por_feed[feed]
@@ -284,8 +286,8 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
                 agregados += 1
                 if len(lista) >= MAX_RESULTADOS:
                     break
-        if agregados == 0:
-            break
+        # Aunque una ronda no agregue nada por el límite de Westcol, sigue
+        # avanzando para encontrar publicaciones de otros temas en las rondas siguientes.
         ronda += 1
 
     # Mantiene primero las cuentas de clips y, dentro de cada ronda,
