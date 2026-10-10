@@ -11,6 +11,16 @@ from scripts.noticias import (
 
 
 class FiltroEmergentesTests(unittest.TestCase):
+    def test_detecta_creadores_relacionados_con_jaapz(self):
+        self.assertEqual(
+            detectar_creador({"titulo": "Noche de terror con Jaap", "canal": "ZaViel7"}),
+            "ZaViel7",
+        )
+        self.assertEqual(
+            detectar_creador({"titulo": "MonoCOL_R en directo", "canal": "Kick Colombia"}),
+            "MonoCOL_R",
+        )
+
     def test_detecta_jaapz_como_creador_vigilado(self):
         self.assertEqual(
             detectar_creador({
