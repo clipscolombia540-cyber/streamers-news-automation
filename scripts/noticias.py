@@ -44,6 +44,9 @@ CREADORES = [
     "Lonche de Huevito",
     "Rey de la City",
     "Jaapz",
+    # Nodos iniciales de la red de colaboraciones detectada alrededor de Jaapz.
+    "MonoCOL_R",
+    "ZaViel7",
 ]
 
 # Busquedas abiertas para descubrir creadores que aun no conocemos.
@@ -59,6 +62,11 @@ EMERGENTES = [
     "Jaapz streamer Kick Colombia",
     "Jaap_Z clips recientes",
     "Jaapz Pasto streamer emergente",
+    "Jaapz con MonoCOL_R",
+    "Noche de terror con Jaap ZaViel7",
+    "MonoCOL_R streamer Colombia Kick",
+    "ZaViel7 streamer Colombia Kick",
+    "streamers amigos de Jaapz en Kick Colombia",
 ]
 
 # Cuentas y canales que publican clips.
@@ -106,6 +114,8 @@ ALIASES_CREADORES = {
         "reydelacity", "rey de la city", "elreywiththeclips"
     ],
     "Jaapz": ["jaapz", "jaap_z", "jaap-z", "jaap z"],
+    "MonoCOL_R": ["monocol_r", "monocol r", "monocolr", "mono col r"],
+    "ZaViel7": ["zaviel7", "zaviel 7", "za viel 7"],
 }
 
 ALIASES_INFLUENCERS = {
