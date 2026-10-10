@@ -1,9 +1,9 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 10/10/2026 03:15 UTC
+**Actualizado:** 10/10/2026 03:24 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
-**Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos: o Recortes: para priorizar cuentas que publican clips de terceros.
+**Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
 **Publicaciones leídas:** 99
 **Publicaciones encontradas:** 25
 **Distribución por tipo:** Cuenta de clips/terceros: 25

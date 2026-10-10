@@ -1,26 +1,74 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 10:14 PM (hora de Colombia)
+Actualizado: 09/10/2026 10:21 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 0.
+Clips incluidos: 3.
 Noticias recientes: 9.
-Distribución por categoría: sin clips.
+Distribución por categoría: Cuenta de clips: 1, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-No se encontraron videos con fechas verificables dentro de las ultimas 48 horas.
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
-Esto no demuestra que no existan videos nuevos.
-Revisa los registros del workflow para conocer los descartes.
+### Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante | En Casa Con Telemundo
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: En Casa Con Telemundo
+- Publicado: 09/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=e47xfq169vM
+
+### Yina Calderón suelta veneno contra Alicia Machado y Aleska Genesis, y más | En Casa Con Telemundo
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: En Casa Con Telemundo
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Enlace directo: https://www.youtube.com/watch?v=lO1IYD9EJgk
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-No hay clips para generar borradores en esta ejecución.
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
+
+### Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante | En Casa Con Telemundo
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante | En Casa Con Telemundo
+- **Texto en pantalla:** Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=e47xfq169vM
+
+### Yina Calderón suelta veneno contra Alicia Machado y Aleska Genesis, y más | En Casa Con Telemundo
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** Yina Calderón suelta veneno contra Alicia Machado y Aleska Genesis, y más | En Casa Con Telemundo
+- **Texto en pantalla:** Yina Calderón suelta veneno contra Alicia Machado y Aleska Genesis, y 
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=lO1IYD9EJgk
 
 ## Noticias y contexto
 
