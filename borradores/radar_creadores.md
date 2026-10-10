@@ -1,25 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 02:51 AM (hora de Colombia)
+Actualizado: 10/10/2026 03:15 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
+Distribución por categoría: Clip de terceros: 7.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+### GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 08/10/2026 07:00 PM
+- Canal que publico: GirlOfNox Live
+- Publicado: 10/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.495
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+- Vistas reportadas por YouTube: 111
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=kAlK1J2Vqfk
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.738
+- Vistas reportadas por YouTube: 6.874
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -35,88 +35,65 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: EchoVault
-- Publicado: 10/10/2026 01:58 AM
+- Publicado: 10/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29
+- Vistas reportadas por YouTube: 34
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
-### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 10/10/2026 01:00 AM
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
+- Vistas reportadas por YouTube: 635
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: Shur en Directo
-- Publicado: 10/10/2026 12:00 AM
+- Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.789
+- Vistas reportadas por YouTube: 3.021
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 10/10/2026 01:00 AM
+- Creador/canal detectado: Westcol
+- Canal que publico: JuxxTyty
+- Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 400
+- Vistas reportadas por YouTube: 41
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+- Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
 
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 10/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.118
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips Tc
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Thomas godenzi
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.948
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
-
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: TRENDCLIPSMEDIA
-- Creador relacionado en el título: Westcol
-- Canal que publico: TRENDCLIPSMEDIA
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+### GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Título sugerido:** GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
+- **Texto en pantalla:** GirlOfNox REACCIONA A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 17
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
+- **Fuente original:** https://www.youtube.com/watch?v=kAlK1J2Vqfk
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -138,15 +115,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
 
-### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Texto en pantalla:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+- **Título sugerido:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Texto en pantalla:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
+- **Fuente original:** https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -158,45 +135,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
-
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Título sugerido:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
+- **Texto en pantalla:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
+- **Fuente original:** https://www.youtube.com/watch?v=hkxO6_u3IE4
 
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
-
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Texto en pantalla:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #r
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ## Noticias y contexto
 
@@ -235,8 +192,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=ZqKY60jBcjA
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=erGVN-STuG8
-  - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
+  - https://www.youtube.com/watch?v=kAlK1J2Vqfk
 
 ## Busquedas de emergentes
 
