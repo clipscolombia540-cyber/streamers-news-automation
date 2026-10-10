@@ -60,6 +60,8 @@ jobs:
         run: python scripts/noticias.py
 
       - name: Ejecutar radar de TikTok
+        env:
+          TIKTOK_FEEDS: ${{ secrets.TIKTOK_FEEDS }}
         run: python scripts/tiktok.py
 
       - name: Guardar informes actualizados
