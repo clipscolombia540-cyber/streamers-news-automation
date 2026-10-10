@@ -193,5 +193,26 @@ class FiltroEmergentesTests(unittest.TestCase):
         self.assertFalse(titulo_probablemente_en_ingles("Westcol official video"))
 
 
+    def test_busqueda_de_red_jaapz_acepta_colaborador_sin_colombia_en_titulo(self):
+        from scripts.noticias import parece_contenido_de_creadores
+        video = {
+            "titulo": "Noche de terror con Jaap",
+            "canal": "ZaViel7",
+        }
+        self.assertTrue(
+            parece_contenido_de_creadores(video, "Noche de terror con Jaap ZaViel7")
+        )
+
+    def test_busqueda_general_sigue_exigiendo_contexto_colombiano(self):
+        from scripts.noticias import parece_contenido_de_creadores
+        video = {
+            "titulo": "Streamer en directo jugando Minecraft",
+            "canal": "Canal de clips",
+        }
+        self.assertFalse(
+            parece_contenido_de_creadores(video, "clips streamers colombianos ultimas horas")
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
