@@ -127,6 +127,26 @@ ALIASES_INFLUENCERS = {
 
 }
 
+# Programas/reality shows con participantes colombianos.
+# Se rastrean como noticias, separados de los clips de streamers.
+PROGRAMAS = [
+    "Desafío",
+    "MasterChef Celebrity Colombia",
+    "La casa de los famosos Colombia",
+    "Yo me llamo",
+    "La voz Colombia",
+    "Top Chef VIP",
+]
+
+ALIASES_PROGRAMAS = {
+    "Desafío": ["desafio", "desafio siglo xxi", "desafio juego de las cajas"],
+    "MasterChef Celebrity Colombia": ["masterchef celebrity colombia", "masterchef colombia"],
+    "La casa de los famosos Colombia": ["la casa de los famosos colombia", "casa de los famosos colombia"],
+    "Yo me llamo": ["yo me llamo"],
+    "La voz Colombia": ["la voz colombia", "la voz kids colombia"],
+    "Top Chef VIP": ["top chef vip"],
+}
+
 ALIASES_CUENTAS_CLIPS = [
     "westclips",
     "west clips",
@@ -892,6 +912,16 @@ def recopilar_noticias():
         for influencer in INFLUENCERS
     ]
 
+    # Noticias recientes de realities y programas donde participan colombianos.
+    consultas_programas = []
+    for programa in PROGRAMAS:
+        consultas_programas.extend([
+            '"{}" Colombia participantes'.format(programa),
+            '"{}" eliminado OR eliminada OR eliminación'.format(programa),
+            '"{}" polémica OR sorpresa OR noticia'.format(programa),
+        ])
+    consultas += consultas_programas
+
     candidatas = []
 
     for consulta in consultas:
@@ -937,10 +967,23 @@ def recopilar_noticias():
             "Otros",
         )
 
-        # No aceptar noticias genéricas sin mención verificable de un
-        # creador vigilado: evita temas ajenos como deportes o marcas.
-        if detectado == "Otros":
-            print("Noticia descartada por falta de creador relevante: {}".format(
+        # Si no es una noticia sobre un creador conocido, comprobar programas.
+        programa_detectado = next(
+            (
+                programa
+                for programa, alias in ALIASES_PROGRAMAS.items()
+                if any(normalizar(nombre) in titulo_normalizado for nombre in alias)
+            ),
+            None,
+        )
+
+        if detectado == "Otros" and programa_detectado:
+            detectado = "Programa: {}".format(programa_detectado)
+            noticia["tema"] = programa_detectado
+        elif detectado != "Otros":
+            noticia["tema"] = "Creadores"
+        else:
+            print("Noticia descartada por falta de creador o programa relevante: {}".format(
                 noticia["titulo"]
             ))
             continue
@@ -1120,9 +1163,10 @@ def escribir_informe(clips, noticias):
     if noticias:
         for noticia in noticias:
             fecha = noticia["fecha"].strftime("%d/%m/%Y %I:%M %p")
+            etiqueta = noticia.get("tema", "Creadores")
             lineas.append(
-                "- **{}** — {} — [Abrir fuente]({})".format(
-                    noticia["titulo"], fecha, noticia["url"]
+                "- **[{}] {}** — {} — [Abrir fuente]({})".format(
+                    etiqueta, noticia["titulo"], fecha, noticia["url"]
                 )
             )
         lineas.append("")
@@ -1144,6 +1188,10 @@ def escribir_informe(clips, noticias):
         "## Influencers rastreados",
         "",
         ", ".join(INFLUENCERS),
+        "",
+        "## Programas y realities rastreados",
+        "",
+        ", ".join(PROGRAMAS),
         "",
         "## Busquedas de emergentes",
         "",
