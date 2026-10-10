@@ -1,35 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:36 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:39 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: PalamiVODs
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.709
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=RKETeDxLqNg
-
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 11:11 PM
+- Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
+- Vistas reportadas por YouTube: 14.395
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -37,16 +27,27 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.090
+- Vistas reportadas por YouTube: 4.301
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 09/10/2026 10:47 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LonchiClips
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:47 PM
+- Publicado: 09/10/2026 10:46 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
@@ -63,29 +64,40 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
 
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Thomas godenzi
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+
+### Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Wclipskick
+- Creador relacionado en el título: Westcol
+- Canal que publico: Wclipskick
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=0JSgRLnQOdg
+
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
-- **Texto en pantalla:** ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=RKETeDxLqNg
-
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Texto en pantalla:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
+- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -96,6 +108,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -117,6 +139,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
 
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+
+### Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+- **Texto en pantalla:** Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #dive
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0JSgRLnQOdg
+
 ## Noticias y contexto
 
 - **[Creadores] VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - TV Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
@@ -131,7 +173,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Creadores principales vigilados
 
-Westcol, MrStivenTC, Pelicanger, Samulx, Chanty, La Sapa, Lonche de Huevito, Rey de la City
+Westcol, MrStivenTC, Pelicanger, Samulx, Chanty, La Sapa, Lonche de Huevito, Rey de la City, Jaapz
 
 ## Cuentas de clips rastreadas
 
@@ -157,7 +199,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 ## Busquedas de emergentes
 
-clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, clips de nuevos streamers colombianos
+clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, clips de nuevos streamers colombianos, Jaapz streamer Kick Colombia, Jaap_Z clips recientes, Jaapz Pasto streamer emergente
 
 ## Criterios
 
