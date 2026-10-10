@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:59 AM (hora de Colombia)
+Actualizado: 10/10/2026 01:02 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
@@ -27,29 +27,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.711
+- Vistas reportadas por YouTube: 5.769
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
-
-### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 09/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 351
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
-
-### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 10/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - Categoria: Clip de terceros
@@ -57,17 +37,27 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: INMORTAL FF
 - Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 139
+- Vistas reportadas por YouTube: 147
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+- Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
+
+### ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #freefire
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: STIVEN VIRAL
+- Publicado: 10/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=zteEoRyNaq8
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: Shur en Directo
-- Publicado: 10/10/2026 12:00 AM
+- Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 849
+- Vistas reportadas por YouTube: 852
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
@@ -77,19 +67,20 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Canal que publico: JuxxTyty
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41
+- Vistas reportadas por YouTube: 69
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Thomas godenzi
-- Publicado: 08/10/2026 07:00 PM
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+- Vistas reportadas por YouTube: 3.058
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - Categoria: Cuenta de clips
@@ -101,17 +92,6 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 - Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips Tc
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.801
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -137,25 +117,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
-- **Texto en pantalla:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
+- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
-### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #freefire
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Texto en pantalla:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #freefire
+- **Texto en pantalla:** ✨LA HPT* ESCUADRA DE CABALLOS 😡😂 Puts*Caballos Parce 🤣 #mrstiven #free
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
+- **Fuente original:** https://www.youtube.com/watch?v=zteEoRyNaq8
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -187,16 +167,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hkxO6_u3IE4
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
-
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -207,15 +177,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
 
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
+- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
 
 ## Noticias y contexto
 
