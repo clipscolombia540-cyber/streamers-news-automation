@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """Sube el Short recién generado a YouTube con privacidad privada."""
-import os
 from pathlib import Path
-from scripts.publicar import publish_youtube
+
+try:
+    from scripts.publicar import publish_youtube
+except ModuleNotFoundError:
+    # When executed as `python scripts/subir_short_generado.py`, Python adds
+    # the scripts directory (not the repository root) to sys.path.
+    from publicar import publish_youtube
 
 video = Path("salida/clips_colombia_short.mp4")
 if not video.is_file() or video.stat().st_size < 1024:
