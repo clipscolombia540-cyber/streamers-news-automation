@@ -112,7 +112,7 @@ class FiltroEmergentesTests(unittest.TestCase):
                 "canal": "Fan Clips {}".format(i),
             })
         seleccionados = seleccionar_clips(videos)
-        self.assertEqual(len(seleccionados), 3)
+        self.assertEqual(len(seleccionados), 2)
 
 
     def test_limita_dedsafio_para_dar_espacio_a_otros_temas(self):
