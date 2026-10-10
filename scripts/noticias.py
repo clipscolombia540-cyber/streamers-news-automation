@@ -741,6 +741,30 @@ def quitar_duplicados(videos):
     return list(unicos.values())
 
 
+def puntaje_tendencia(video):
+    """Puntaje heurístico de interés; no equivale a vistas ni a una tendencia oficial."""
+    titulo = normalizar(video.get("titulo", ""))
+    puntos = 0
+    senales_fuertes = (
+        "viral", "se hizo viral", "tendencia", "momento epico",
+        "momento historico", "nadie esperaba", "final inesperado",
+        "reaccion viral", "mejores momentos", "record",
+    )
+    senales_medias = (
+        "reaccion", "muertes", "muerte", "final", "ganador",
+        "ganadora", "reto", "desafio", "dedsafio", "hardcore",
+        "sorpresa", "traicion", "pelea", "troleo", "fails",
+        "fails", "clip", "clips",
+    )
+    puntos += 3 * sum(1 for senal in senales_fuertes if normalizar(senal) in titulo)
+    puntos += sum(1 for senal in senales_medias if normalizar(senal) in titulo)
+    # Premia ligeramente los clips vinculados a una serie/evento identificado.
+    creador = normalizar(video.get("creador", ""))
+    if any(senal in creador for senal in ("dedsafio", "serie", "evento", "minecraft")):
+        puntos += 1
+    return puntos
+
+
 def seleccionar_clips(videos):
     prioridad = {
         "Clip de terceros": 0,
@@ -767,6 +791,7 @@ def seleccionar_clips(videos):
         videos,
         key=lambda video: (
             prioridad.get(video.get("categoria", ""), 9),
+            -puntaje_tendencia(video),
             -video["fecha"].timestamp(),
         ),
     )
