@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 10/10/2026 21:21 UTC
+**Actualizado:** 10/10/2026 22:16 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -24,32 +24,32 @@
 
 > Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
 
-## 1. #westcol
+## 1. #westcol #samulx #cs
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 10/10/2026 03:50 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7694881434732924167
+- **Fecha reportada:** 10/10/2026 21:36 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695156095937023239
 
-## 2. #lonche #samulx #westcol
+## 2. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 03:14 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694872136539819282
+- **Fecha reportada:** 10/10/2026 21:21 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695152477016001798
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Ale clips
-- **Fecha reportada:** 10/10/2026 02:08 UTC
-- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7694855183066484000
+- **Fecha reportada:** 10/10/2026 21:22 UTC
+- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695152568317660448
 
-## 4. #westcol
+## 4. #westcol #samulx #minecraft #pvp
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 10/10/2026 03:26 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7694875256451828999
+- **Fecha reportada:** 10/10/2026 21:30 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695154761028390162
 
-## 5. WestCOL y Lonche están descubriendo muchas 💣 #lonche #samulx #westcol
+## 5. #lonche #samulx #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 02:44 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694864455548554504
+- **Fecha reportada:** 10/10/2026 03:14 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694872136539819282

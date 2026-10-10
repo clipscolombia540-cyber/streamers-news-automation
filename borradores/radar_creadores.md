@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 04:18 PM (hora de Colombia)
+Actualizado: 10/10/2026 05:13 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
+Clips incluidos: 10.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: Eufonia Studio
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42.051
+- Vistas reportadas por YouTube: 42.188
 - Puntaje heurístico de interés: 13
 - Enlace directo: https://www.youtube.com/watch?v=PdBJXZY_208
-
-### The Best Moments of the Webones in Dedsafio 4 (Day 17)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.907
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: Aquiso Clips
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.947
+- Vistas reportadas por YouTube: 14.995
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
@@ -47,7 +37,7 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.172
+- Vistas reportadas por YouTube: 2.259
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -57,7 +47,7 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.548
+- Vistas reportadas por YouTube: 8.677
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -67,7 +57,7 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: ClipsdelChow
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.674
+- Vistas reportadas por YouTube: 21.203
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
@@ -77,39 +67,31 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: Shur en Directo
 - Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.675
+- Vistas reportadas por YouTube: 7.917
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 10/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.336
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
-
-### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: JuxxTyty
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 80
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
-
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Thomas godenzi
+### THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+- Vistas reportadas por YouTube: 191.694
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=sK-FWxnh80w
+
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 10/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 64.973
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
@@ -118,9 +100,20 @@ Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.217
-- Puntaje heurístico de interés: 3
+- Vistas reportadas por YouTube: 5.352
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
+
+### MR STIVEN conoce la casa de su HERMANO TATAN | MOTOS y mas ..
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 356
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=pbT7oUYW-xg
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -135,16 +128,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=PdBJXZY_208
-
-### The Best Moments of the Webones in Dedsafio 4 (Day 17)
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -196,35 +179,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
-
-### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
+### THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
-- **Texto en pantalla:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
+- **Título sugerido:** THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
+- **Texto en pantalla:** THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hkxO6_u3IE4
+- **Fuente original:** https://www.youtube.com/watch?v=sK-FWxnh80w
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -236,6 +209,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YfnDYr4CTkA
 
+### MR STIVEN conoce la casa de su HERMANO TATAN | MOTOS y mas ..
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN conoce la casa de su HERMANO TATAN | MOTOS y mas ..
+- **Texto en pantalla:** MR STIVEN conoce la casa de su HERMANO TATAN | MOTOS y mas ..
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pbT7oUYW-xg
+
 ## Noticias y contexto
 
 - **[Creadores] Revelan fecha, lugar y hora de la boda de Luisa Fernanda W y Pipe Bueno ¿Cuándo será? - LOS40** — 10/10/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBEV1V2eVhYT3VONnJZRWtFZThCc2lYQTFTOFh4YlFBb1FYcDhMS0k5djlNVjVqZmh2cmlfZEdSbjBieXJuZy1nSXdjQ3dHTG1kTHc4ak41T1BOUE1sRjIzRzZBMWdWNF9ZaEc4U3JKNHNoM2RjY3owUTZ3T2Q5RHFmekVBQWpjWnU3YkRlTGpDUndzdTNpWEZQODVyZmh0d3BzcDF4UU5TRlVVYVJLbS1LRk1RQdIBygFBVV95cUxQbWN1RmoxSEI3akFkb1FKbGNIZTEzcEdjRTNpZm92NEp6NjJmMDhpNDBDUWRNTERyaTNVQWpJLTktcl9YNXBKdGEzNHJ0RWs3MURnTkhKUk1IWFRVbnJxdWhiTVV6RDAzVHZCWWlYcHFaTXZXTWV4V01hVlVaNzVEbmNZbFRaOUQ0MzdGM2xLRmVwdmFGRVhBaEF0VE1YZEZzWFVGaDRFTk11UHJIa0ZkY0RRUDlBRWQyQTFnZnhobVh0cXp6YS01NG9B?oc=5)
@@ -243,6 +226,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] WestCol reveló cuánto le costó su robot: la inversión supera los $330 millones - Eluniversal.com.co** — 09/10/2026 04:09 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEZZaEpYT1VraV9VbDRJcEJ5UFdfUnU5emRqd21qNWlfOGlEWFdOcXBkc1VjbzZlXzNNUGY3S1U5XzM5NHRyclRnTE5OLW1LQWhWX3FySWlPemozeUNzX3JUdUxaZU9VZDc1MndjSklVNVZZdUNfNTNHdkdFalpsQUlWQ0ZQLVlPWnhlcVFIN1NWamFkYUdUQVF1TWZSVzA0S2NvZm9HdC0wMXBudmFEWnVPVlRTTXdlQXJLSC1MV0F4ZjA2U2pkQw?oc=5)
 - **[Creadores] La Liendra a punto de ser arrestado en Aeropuerto por elemento sospechoso en equipaje - La Kalle** — 09/10/2026 02:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnk5aEx1UUZiQ3lLeS1ubjJ6TGdxclp4bWFTMlJUcTF3TTVPN3FSeGE0WHc4aXNNdFRFTVE3V0RrcjlTdlJIb0VRaXpsR2JpMTBlMnkzTUthTGxUWnZ6eFdCdHFrRWdCdlpXeFMyYU5XZi0zOXhCdUZtTTRyZ0R1UjcyRGxPa21DSVFsTzcwZDZrZnBsQkMtQ0xxb3k4dllyQTdwVEo5QlVmSFBaZWNLNk5uYldEQ2VFaC1lTnBOWUJ3THNlMTd5X2p3VWRjNWlQR2lzbzRXUG0wRUlWN3NEWWo0ZEg2eU5OcHcw0gHrAUFVX3lxTE42eTloTHVRRmJDeUt5LW5uMnpMZ3FyWnhtYVMyUlRxMXdNNU83cVJ4YTRYdzhpc010VEVNUTdXRGtyOVN2UkhvRVFpemxHYmkxMGUyeTNNS2FMbFRadnp4V0J0cWtFZ0J2Wld4UzJhTldmLTM5eEJ1Rm1NNHJnRHVSNzJEbE9rbUNJUWxPNzBkNmtmcGxCQy1DTHFveTh2WXJBN3BUSjlCVWZIUFplY0s2Tm5iV0RDZUVoLWVOcE5ZQndMc2UxN3lfandVZGM1aVBHaXNvNFdQbTBFSVY3c0RZajRkSDZ5Tk5wdzA?oc=5)
 - **[Creadores] Juan David Tejada (29 años), ‘El Agropecuario’, confiesa cuánto dinero gana en TikTok: “Ustedes por qué creen - AS Colombia** — 08/10/2026 07:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxPcWxRa1Q0aVZNbUVVMUtfeGdfMFhpeE5EZkFaRE5kTmo5QjZDVWN4bF9qVGFIbERhdk5wZDNvSXRmSzBCa3FyTjlHaEkxRTUwNTZ0RzBKa042Nmhtd3Y5YmdjZy1OcWwyaGJzUTVtbEVuOTdyNVFQZHRvM0I5WWsxVU15VDBaZnV6WjQtc2dFOUJZaDdKZVdiTF94Vmk3c005aFVKcTYxTGNoMHZ3bkpjMjNSR3Brdi04SzFSSmxRaENOWHl0Um9rN0hmSm5TbTNIU0tCaGtwVUVsWW9nb2RYSkVvdmdSYm1IVGNMemI2ZS1kRUxoaUxZUjFIdUVBWFpORGfSAZYCQVVfeXFMT2JvaUFkdkJNbWNBaXViNlNoaE9aZFM3dno2R3FfbzIzYUJJdnh4YjFnWjB5bjdzTE1qZmhXYjEySTg1RXhRWFJsTDh6WkpMdWpyVFlBclk4MTRCaXZPam5OZktnQV9QTnRybTNfdUVpamV2d0I2eWRhUHU0UTlhY1QtbENlSUZLbFRpWEhHWlJoRVo4YUpXY3I5ZFlpamFXSHFpS04yWGxpNDN3NG9GMElVZGJNM0thcWlhLXRMbkdqNENmczFYZEVvV1AwVXRsMmVQNW82UTBhOFdFWHpBMXJHNzRpRzFWcjk3cU1jSWhUUk5tOHlaUWdYbTdFQUc3T2pJb1JRVXFUNlBKOXZCY1BrSEhMbUE?oc=5)
+- **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: una apuesta por la versatilidad y el consumo de carne de cerdo en el país - La Nota Económica** — 08/10/2026 07:17 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGQ1TDhvM01uamhudUxySlRycGZKNU5jLUlUSXBqOG9tc082YWlodGd5ZHQ1ZkdsaEJ5TkYzM0l2ejRDX0czNWdQQnJSeFExcjB1MHFQT1Y1TlVSUFJKcDNiVVlZTlFMamhBY1ZfeUxpTE1ZbFBJeUxxYnIyeFY1RFAtZ3ZZN0xNS0ZjQjlDY1RQaG5QOERVSjhubHZPUHNYOVpGd1Fab2szb3l3R0VTYngwOFZ6Q1NwQUVqb1dpOU9zOHBXMkJja0dMY3oxNlA0TWJLa010RUp4dFVtSmxBbWZmWmtmWFZBTTlzcnZmdDRYREpDV0QxU1E4cmlpQWdKSC1Ocm1tOTE1SXM?oc=5)
 
 ## Creadores principales vigilados
 
