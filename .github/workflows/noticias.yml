@@ -73,6 +73,7 @@ jobs:
 
           git add borradores/radar_creadores.md
           git add borradores/clips_tiktok.md
+          git add borradores/series_detectadas.json 2>/dev/null || true
 
           if git diff --cached --quiet; then
             echo "Los informes no presentan cambios."
