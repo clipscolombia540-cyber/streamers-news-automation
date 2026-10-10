@@ -1,25 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:33 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:36 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 4.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+### ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
+- Canal que publico: PalamiVODs
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.391
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+- Vistas reportadas por YouTube: 2.709
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=RKETeDxLqNg
 
 ### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - Categoria: Clip de terceros
@@ -41,38 +41,16 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LonchiClips
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: LonchiClips
 - Publicado: 09/10/2026 10:47 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:46 PM
-- Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips Tc
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.678
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -89,15 +67,15 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+### ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Título sugerido:** ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
+- **Texto en pantalla:** ⭐ CASA MINITAS - DEDSAFIO DIA 15 HOY VAMOS AL LIMBO AAAAAA ⭐
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
+- **Fuente original:** https://www.youtube.com/watch?v=RKETeDxLqNg
 
 ### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -119,16 +97,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
-
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -138,16 +106,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -194,7 +152,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-09
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-09
-  - https://www.youtube.com/watch?v=QRuA8rumjBA
+  - https://www.youtube.com/watch?v=RKETeDxLqNg
   - https://www.youtube.com/watch?v=gz23gl74-AY
 
 ## Busquedas de emergentes
