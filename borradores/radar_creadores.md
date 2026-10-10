@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:23 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:28 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -27,9 +27,29 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.234
+- Vistas reportadas por YouTube: 5.276
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### The Best Moments of the Webones in Dedsafio 4 (Day 17)
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Aquiso Clips
+- Publicado: 09/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 313
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
+
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 09/10/2026 11:57 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 69
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
@@ -38,31 +58,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 09/10/2026 11:58 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.160
+- Vistas reportadas por YouTube: 1.412
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips Tc
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.742
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -75,25 +73,15 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 09/10/2026 11:58 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 58
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
-
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Thomas godenzi
+### xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Daily Dose of LivestreamFail
+- Canal que publico: Daily Dose of LivestreamFail
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+- Vistas reportadas por YouTube: 4.403
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=KDSsvmuYDR0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -119,45 +107,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### The Best Moments of the Webones in Dedsafio 4 (Day 17)
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
-
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Texto en pantalla:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #r
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
+- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -169,15 +127,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
+
+### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+- **Texto en pantalla:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #r
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
+
+### xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Daily Dose of LivestreamFail? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Daily Dose of LivestreamFail.
+- **Título sugerido:** xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
+- **Texto en pantalla:** xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
+- **Descripción:** Fragmento relacionado con Emergente: Daily Dose of LivestreamFail. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=KDSsvmuYDR0
 
 ## Noticias y contexto
 
@@ -231,7 +209,7 @@ clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, 
 - Prioridad de selección: clips de terceros primero, después cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.
 - Las búsquedas por creador usan consultas centradas en clips, Shorts y recortes para favorecer publicaciones de cuentas independientes.
 - La distribución por categoría permite comprobar en cada informe cuántos resultados son clips de terceros o cuentas de clips.
-- Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.
+- Filtro de emergentes: exige señal de streaming; las búsquedas enfocadas en Colombia pueden aceptar títulos sin mención literal del país y quedan para verificación manual.
 - Se buscan todas las categorias en cada ejecucion.
 - Los emergentes se marcan para revision manual.
 - Idioma objetivo: español; las consultas priorizan videos, reacciones y momentos en español. El título original puede conservar palabras en otro idioma.
