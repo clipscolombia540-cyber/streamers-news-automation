@@ -1,4 +1,4 @@
-name: Validar sintaxis Python
+name: Probar radar de creadores
 
 on:
   pull_request:
@@ -10,8 +10,9 @@ permissions:
   contents: read
 
 jobs:
-  validar-python:
+  probar-radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Descargar codigo
         uses: actions/checkout@v4
@@ -19,5 +20,22 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests yt-dlp
       - name: Comprobar sintaxis
         run: python -m py_compile scripts/noticias.py scripts/tiktok.py
+      - name: Ejecutar radar de clips y noticias
+        run: python scripts/noticias.py
+      - name: Ejecutar radar de TikTok
+        run: python scripts/tiktok.py
+      - name: Mostrar resumen generado
+        if: always()
+        run: |
+          if [ -f borradores/radar_creadores.md ]; then
+            grep -E 'Actualizado:|Clips incluidos:|Noticias recientes:' borradores/radar_creadores.md || true
+          fi
+          if [ -f borradores/clips_tiktok.md ]; then
+            grep -E 'Actualizado:|Publicaciones encontradas:' borradores/clips_tiktok.md || true
+          fi
