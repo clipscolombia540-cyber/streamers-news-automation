@@ -203,14 +203,24 @@ class FiltroEmergentesTests(unittest.TestCase):
             parece_contenido_de_creadores(video, "Noche de terror con Jaap ZaViel7")
         )
 
-    def test_busqueda_general_sigue_exigiendo_contexto_colombiano(self):
+    def test_busqueda_colombiana_acepta_clip_con_senal_stream_aunque_no_diga_colombia(self):
+        from scripts.noticias import parece_contenido_de_creadores
+        video = {
+            "titulo": "Streamer en directo jugando Minecraft",
+            "canal": "Canal de clips",
+        }
+        self.assertTrue(
+            parece_contenido_de_creadores(video, "clips streamers colombianos ultimas horas")
+        )
+
+    def test_busqueda_generica_sigue_exigiendo_contexto_colombiano(self):
         from scripts.noticias import parece_contenido_de_creadores
         video = {
             "titulo": "Streamer en directo jugando Minecraft",
             "canal": "Canal de clips",
         }
         self.assertFalse(
-            parece_contenido_de_creadores(video, "clips streamers colombianos ultimas horas")
+            parece_contenido_de_creadores(video, "clips de streamers en español")
         )
 
 
