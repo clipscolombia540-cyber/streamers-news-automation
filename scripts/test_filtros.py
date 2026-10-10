@@ -73,6 +73,21 @@ class FiltroEmergentesTests(unittest.TestCase):
         seleccionados = seleccionar_clips([recientes, tercero])
         self.assertEqual(seleccionados[0]["categoria"], "Clip de terceros")
 
+    def test_limita_clips_del_mismo_creador_aunque_sean_de_varias_cuentas(self):
+        from datetime import datetime
+        videos = []
+        for i in range(5):
+            videos.append({
+                "titulo": "Momento viral de Westcol en directo numero {}".format(i),
+                "url": "https://example.com/westcol-{}".format(i),
+                "fecha": datetime(2026, 10, 9, 10, i),
+                "creador": "Cuenta de clips: Fan {}".format(i),
+                "categoria": "Cuenta de clips",
+                "canal": "Fan Clips {}".format(i),
+            })
+        seleccionados = seleccionar_clips(videos)
+        self.assertEqual(len(seleccionados), 3)
+
     def test_descarta_cuenta_de_clips_extranjera_sin_relacion_colombiana(self):
         video = {
             "titulo": "Una espectadora de Destiny se ve obligada a soportar esto",
