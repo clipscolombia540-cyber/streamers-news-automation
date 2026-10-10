@@ -127,10 +127,11 @@ def fetch_tiktok_clips():
     return downloaded
 
 def fetch_items():
-    # Prefer real public moment metadata over generic headlines. Video files are not downloaded.
-    moments=fetch_kick_moments()
-    if moments: return moments
+    # Prefer actual public TikTok clips that were downloaded over metadata-only sources.
+    # This lets build_video use the downloaded files as footage instead of generic backgrounds.
     moments=fetch_tiktok_clips()
+    if moments: return moments
+    moments=fetch_kick_moments()
     if moments: return moments
     found=[]; seen=set()
     for query in QUERIES:
@@ -285,14 +286,14 @@ def build_video(items):
         raise RuntimeError("No se encontró video reutilizable. Configura PEXELS_API_KEY o PIXABAY_API_KEY como secreto de GitHub, o añade clips con permiso a assets/clips/. Se cancela para no publicar otra presentación.")
     has_moments=any(item.get("kind")=="moment" for item in items)
     if has_moments:
-        cards=[{"tag":"DEDSAFIO HOY","title":"LOS MOMENTOS MÁS DUROS DEL GULAG 🔥","source":"Momentos públicos de Kick",
+        cards=[{"tag":"DEDSAFIO HOY","title":"LOS MOMENTOS MÁS DUROS DEL GULAG 🔥","source":"Clips públicos encontrados",
                 "voice":"¡Mi gente, ojo a esto! Estos son algunos de los momentos destacados de Dedsafio que están circulando hoy. Vamos uno por uno, y les dejamos la fuente para que vean el contexto completo."}]
     else:
         cards=[{"tag":"RADAR DE HOY","title":"LO QUE SE MUEVE EN DEDSAFIO","source":"Clips Colombia",
                 "voice":"¡Pilas, parceros! Este es el radar de Dedsafio. Vamos con publicaciones recientes y su contexto, sin inventarnos momentos."}]
     for i,item in enumerate(items,1):
         if item.get("kind")=="moment":
-            narration=f"Momento destacado número {i}: {item['title']}. Este clip aparece en la página pública del evento de Dedsafio en Kick. Abre la fuente para ver el momento completo y su contexto."
+            narration=f"Momento destacado número {i}: {item['title']}. Esta publicación aparece en {item['source']}. Abre la fuente para ver el momento completo y su contexto."
             tag=f"MOMENTO {i}"
         else:
             narration=f"Ojo con este tema de Dedsafio: {item['title']}. El titular viene de {item['source']}. Revisa la publicación original y su contexto antes de darlo por confirmado."
