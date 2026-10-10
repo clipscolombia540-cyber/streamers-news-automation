@@ -805,6 +805,30 @@ def buscar_noticias(consulta):
     return resultados
 
 
+def es_noticia_promocional(titulo):
+    """Descarta titulares claramente publicitarios, no noticias personales o virales."""
+    titulo_normalizado = normalizar(titulo)
+    senales_comerciales = (
+        "porkcolombia",
+        "campana publicitaria",
+        "publicidad de",
+        "publicidad pagada",
+        "anuncio publicitario",
+        "contenido patrocinado",
+        "patrocinado por",
+        "patrocinio de",
+        "embajador de marca",
+        "alianza comercial",
+        "receta patrocinada",
+        "promocion de",
+        "promociona la marca",
+    )
+    return any(
+        normalizar(senal) in titulo_normalizado
+        for senal in senales_comerciales
+    )
+
+
 def recopilar_noticias():
     consultas = [
         '"{}" streamer OR directo OR polemica'.format(creador)
@@ -842,6 +866,12 @@ def recopilar_noticias():
     conteo = {}
 
     for noticia in ordenadas:
+        if es_noticia_promocional(noticia["titulo"]):
+            print("Noticia descartada por posible contenido promocional: {}".format(
+                noticia["titulo"]
+            ))
+            continue
+
         titulo_normalizado = normalizar(noticia["titulo"])
 
         todos_alias = {
