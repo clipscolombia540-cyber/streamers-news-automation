@@ -820,6 +820,7 @@ def seleccionar_clips(videos):
     seleccionados = []
     conteo = {}
     conteo_canales = {}
+    conteo_relacionados = {}
     conteo_categoria = {}
 
     for video in videos:
@@ -860,6 +861,12 @@ def seleccionar_clips(videos):
 
         # Evita que una sola cuenta publicadora ocupe gran parte del informe.
         limite_canal = 2 if categoria in ("Cuenta de clips", "Clip de terceros") else 3
+        relacionado = detectar_creador_relacionado(video)
+        # Tope transversal: los clips de fans también cuentan para el streamer mencionado.
+        # Así, varias cuentas de recortes no llenan el radar con el mismo famoso.
+        limite_relacionado = 3
+        if relacionado and conteo_relacionados.get(relacionado, 0) >= limite_relacionado:
+            continue
         if conteo.get(creador, 0) >= limite:
             continue
         if conteo_canales.get(canal, 0) >= limite_canal:
@@ -867,6 +874,8 @@ def seleccionar_clips(videos):
 
         seleccionados.append(video)
         conteo[creador] = conteo.get(creador, 0) + 1
+        if relacionado:
+            conteo_relacionados[relacionado] = conteo_relacionados.get(relacionado, 0) + 1
         conteo_canales[canal] = conteo_canales.get(canal, 0) + 1
         conteo_categoria[categoria] = conteo_categoria.get(categoria, 0) + 1
 
