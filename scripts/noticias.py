@@ -871,9 +871,9 @@ def seleccionar_clips(videos):
     videos = sorted(
         videos,
         key=lambda video: (
+            prioridad.get(video.get("categoria", ""), 9),
             -puntaje_tendencia(video),
             -video["fecha"].timestamp(),
-            prioridad.get(video.get("categoria", ""), 9),
         ),
     )
 
@@ -930,7 +930,7 @@ def seleccionar_clips(videos):
         relacionado = detectar_creador_relacionado(video)
         # Tope transversal: los clips de fans también cuentan para el streamer mencionado.
         # Así, varias cuentas de recortes no llenan el radar con el mismo famoso.
-        limite_relacionado = 3
+        limite_relacionado = 2
         if relacionado and conteo_relacionados.get(relacionado, 0) >= limite_relacionado:
             continue
         if conteo.get(creador, 0) >= limite:
@@ -1606,7 +1606,7 @@ def escribir_informe(clips, noticias):
         "- Prioridad de selección: clips de terceros primero, después cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.",
         "- Las búsquedas por creador usan consultas centradas en clips, Shorts y recortes para favorecer publicaciones de cuentas independientes.",
         "- La distribución por categoría permite comprobar en cada informe cuántos resultados son clips de terceros o cuentas de clips.",
-        "- Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.",
+        "- Filtro de emergentes: exige señal de streaming; las búsquedas enfocadas en Colombia pueden aceptar títulos sin mención literal del país y quedan para verificación manual.",
         "- Se buscan todas las categorias en cada ejecucion.",
         "- Los emergentes se marcan para revision manual.",
         "- Idioma objetivo: español; las consultas priorizan videos, reacciones y momentos en español. El título original puede conservar palabras en otro idioma.",
