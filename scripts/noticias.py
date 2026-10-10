@@ -54,14 +54,7 @@ EMERGENTES = [
     "recortes directos streamers Colombia",
     "clips twitch Colombia streamer",
     "streamer emergente colombiano",
-    "nuevo streamer colombiano Kick",
-    "clips de streamers colombianos hoy",
-    "reacciones streamers colombianos",
-    "momentos virales Kick español Colombia",
-    "clips creadores colombianos directos",
-    "streamer colombiano clips recientes",
     "clips de nuevos streamers colombianos",
-    "creadores colombianos virales streaming",
 ]
 
 # Cuentas y canales que publican clips.
