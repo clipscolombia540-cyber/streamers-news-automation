@@ -500,7 +500,16 @@ def recopilar_principales():
     """Busca recortes de terceros de creadores conocidos, no solo canales oficiales."""
     encontrados = []
     consultas = []
-    formatos = ("clips en español", "momentos en español", "reacción", "resumen del directo", "mejores momentos", "recortes en español", "shorts en español")
+    # Consultas centradas en recortes publicados por terceros; se evita
+    # gastar cupos en búsquedas demasiado generales de videos oficiales.
+    formatos = (
+        "clips en español",
+        "momentos en español",
+        "shorts en español",
+        "clip de terceros",
+        "mejores clips",
+        "recortes en español",
+    )
 
     for creador in CREADORES:
         for formato in formatos:
@@ -986,6 +995,17 @@ def escribir_informe(clips, noticias):
         "Ventana objetivo: ultimas 48 horas.",
         "Clips incluidos: {}.".format(len(clips)),
         "Noticias recientes: {}.".format(len(noticias)),
+        "Distribución por categoría: {}.".format(
+            ", ".join(
+                "{}: {}".format(categoria, cantidad)
+                for categoria, cantidad in sorted(
+                    __import__("collections").Counter(
+                        video.get("categoria", "Sin categoria")
+                        for video in clips
+                    ).items()
+                )
+            ) or "sin clips"
+        ),
         "",
         (
             "> Radar basado en metadatos publicos. Verifica cada enlace "
@@ -1114,7 +1134,9 @@ def escribir_informe(clips, noticias):
         "- Maximo por canal emergente: {}.".format(
             MAX_POR_EMERGENTE
         ),
-        "- Prioridad: clips de terceros, cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.",
+        "- Prioridad de selección: clips de terceros primero, después cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.",
+        "- Las búsquedas por creador usan consultas centradas en clips, Shorts y recortes para favorecer publicaciones de cuentas independientes.",
+        "- La distribución por categoría permite comprobar en cada informe cuántos resultados son clips de terceros o cuentas de clips.",
         "- Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.",
         "- Se buscan todas las categorias en cada ejecucion.",
         "- Los emergentes se marcan para revision manual.",
