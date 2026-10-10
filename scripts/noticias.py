@@ -463,7 +463,7 @@ def recopilar_principales():
     """Busca recortes de terceros de creadores conocidos, no solo canales oficiales."""
     encontrados = []
     consultas = []
-    formatos = ("clips", "momentos", "clip kick", "recortes", "shorts")
+    formatos = ("clips en español", "momentos en español", "reacción", "resumen del directo", "mejores momentos", "recortes en español", "shorts en español")
 
     for creador in CREADORES:
         for formato in formatos:
@@ -498,8 +498,9 @@ def recopilar_cuentas_clips():
 
     for indice, cuenta in enumerate(CUENTAS_CLIPS, 1):
         consultas = [
-            "{} clips".format(cuenta),
-            "{} shorts".format(cuenta),
+            "{} clips en español".format(cuenta),
+            "{} momentos en español".format(cuenta),
+            "{} shorts en español".format(cuenta),
         ]
 
         for consulta in consultas:
@@ -587,8 +588,9 @@ def recopilar_influencers():
     consultas = []
 
     for influencer in INFLUENCERS:
-        consultas.append((influencer, "{} video".format(influencer)))
-        consultas.append((influencer, "{} shorts".format(influencer)))
+        consultas.append((influencer, "{} video en español".format(influencer)))
+        consultas.append((influencer, "{} reacción".format(influencer)))
+        consultas.append((influencer, "{} momentos en español".format(influencer)))
 
     for indice, (influencer, consulta) in enumerate(consultas, 1):
         print(
@@ -939,6 +941,7 @@ def escribir_informe(clips, noticias):
         "- Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.",
         "- Se buscan todas las categorias en cada ejecucion.",
         "- Los emergentes se marcan para revision manual.",
+        "- Idioma objetivo: español; las consultas priorizan videos, reacciones y momentos en español. El título original puede conservar palabras en otro idioma.",
         "- Ventana temporal: 48 horas.",
         "- Deduplicacion por enlace.",
         "- Noticias separadas de los clips.",
