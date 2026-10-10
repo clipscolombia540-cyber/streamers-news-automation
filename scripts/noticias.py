@@ -328,6 +328,18 @@ def parece_contenido_de_creadores(video, consulta=""):
         normalizar(p) in texto for p in senales_colombia
     )
 
+    # Bloqueo conservador de canales/creadores internacionales conocidos:
+    # aparecer en una búsqueda sobre Colombia no convierte un clip extranjero
+    # en un emergente colombiano. Se aplica al título y al canal.
+    senales_internacionales = (
+        "xqc", "dailydoseoflivestreamfail", "livestreamfail",
+        "asmongold", "ishowspeed", "kai cenat", "kaicenat",
+        "pokimane", "destiny dgg", "hasanabi", "adin ross",
+        "speed clips", "mrbeast",
+    )
+    if any(normalizar(p) in texto for p in senales_internacionales):
+        return False
+
     # Normalizamos tanto consulta como términos: no depender de espacios o guiones.
     terminos_red = (
         "jaapz", "jaap z", "jaap_z", "monocol_r", "monocol r", "zaviel7",
