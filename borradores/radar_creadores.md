@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:40 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:43 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 8.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -27,9 +27,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.430
+- Vistas reportadas por YouTube: 5.498
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 296
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
 - Categoria: Clip de terceros
@@ -41,13 +51,23 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
 
+### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: Shur en Directo
+- Publicado: 10/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 695
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
+
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
 - Publicado: 09/10/2026 11:58 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 100
+- Vistas reportadas por YouTube: 112
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
@@ -66,9 +86,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
-- Publicado: 09/10/2026 11:58 PM
+- Publicado: 09/10/2026 11:57 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.078
+- Vistas reportadas por YouTube: 2.199
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
@@ -81,7 +101,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1.782
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
+- Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -107,6 +127,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Texto en pantalla:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
+
 ### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,6 +146,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
+
+### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- **Texto en pantalla:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -155,7 +195,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
+- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
 
 ## Noticias y contexto
 
@@ -192,8 +232,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
+  - https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
   - https://www.youtube.com/watch?v=wZRvA8FOZdw
-  - https://www.youtube.com/watch?v=erGVN-STuG8
 
 ## Busquedas de emergentes
 
