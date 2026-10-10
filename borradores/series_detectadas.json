@@ -1,19 +1,27 @@
 {
-  "actualizado": "2026-10-09T22:51:38.912165-05:00",
+  "actualizado": "2026-10-09T22:55:50.999499-05:00",
   "series": [
+    {
+      "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "canal_muestra": "CLIPERO SIN TITULO",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=9kNKLBd2--o"
+      ]
+    },
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:51:38.912165-05:00",
-      "ultima_deteccion": "2026-10-09T22:51:38.912165-05:00",
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-09T22:55:50.999499-05:00",
       "canal_muestra": "Aquiso Clips",
       "enlaces": [
-        "https://www.youtube.com/watch?v=gz23gl74-AY",
-        "https://www.youtube.com/watch?v=tW-Q2AGnSKs",
-        "https://www.youtube.com/watch?v=wWPxvI6EtEc",
-        "https://www.youtube.com/watch?v=XyxXs4XcOYI",
-        "https://www.youtube.com/watch?v=wZRvA8FOZdw"
+        "https://www.youtube.com/watch?v=wZRvA8FOZdw",
+        "https://www.youtube.com/watch?v=PdBJXZY_208"
       ]
     }
   ]
