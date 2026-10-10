@@ -1,15 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:25 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:27 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 9.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Eufonia Studio
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 40.943
+- Puntaje heurístico de interés: 13
+- Enlace directo: https://www.youtube.com/watch?v=PdBJXZY_208
+
+### Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: ANDRI
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 56.297
+- Puntaje heurístico de interés: 9
+- Enlace directo: https://www.youtube.com/watch?v=5Ly3eyNGJDo
+
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 08:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.337
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=gz23gl74-AY
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
@@ -27,20 +57,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.750
+- Vistas reportadas por YouTube: 3.978
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 10:47 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
 
 ### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
 - Categoria: Cuenta de clips
@@ -52,6 +71,27 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
+
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 09/10/2026 10:46 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
+
+### Dancing a Duck (Curbed Microphone Version) on Dedsafio 4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 09/10/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 726
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=8uzHAePkLxo
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -89,6 +129,36 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
+### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Texto en pantalla:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eu
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=PdBJXZY_208
+
+### Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Texto en pantalla:** Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=5Ly3eyNGJDo
+
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gz23gl74-AY
+
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -109,6 +179,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
+
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -119,15 +199,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
 
-### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### Dancing a Duck (Curbed Microphone Version) on Dedsafio 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
-- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Dancing a Duck (Curbed Microphone Version) on Dedsafio 4
+- **Texto en pantalla:** Dancing a Duck (Curbed Microphone Version) on Dedsafio 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
+- **Fuente original:** https://www.youtube.com/watch?v=8uzHAePkLxo
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -194,8 +274,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-09
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-09
-  - https://www.youtube.com/watch?v=wZRvA8FOZdw
-  - https://www.youtube.com/watch?v=PdBJXZY_208
+  - https://www.youtube.com/watch?v=gz23gl74-AY
+  - https://www.youtube.com/watch?v=5Ly3eyNGJDo
 
 ## Busquedas de emergentes
 
