@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:39 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:41 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
@@ -25,9 +25,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPERO SIN TITULO
-- Publicado: 09/10/2026 09:00 PM
+- Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.301
+- Vistas reportadas por YouTube: 4.480
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -81,7 +81,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Wclipskick
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=0JSgRLnQOdg
 
@@ -173,7 +173,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Creadores principales vigilados
 
-Westcol, MrStivenTC, Pelicanger, Samulx, Chanty, La Sapa, Lonche de Huevito, Rey de la City, Jaapz
+Westcol, MrStivenTC, Pelicanger, Samulx, Chanty, La Sapa, Lonche de Huevito, Rey de la City, Jaapz, MonoCOL_R, ZaViel7
 
 ## Cuentas de clips rastreadas
 
@@ -199,7 +199,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 ## Busquedas de emergentes
 
-clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, clips de nuevos streamers colombianos, Jaapz streamer Kick Colombia, Jaap_Z clips recientes, Jaapz Pasto streamer emergente
+clips streamers colombianos ultimas horas, momentos streamers colombianos Kick, mejores clips Kick Colombia, streamer colombiano viral directo, recortes directos streamers Colombia, clips twitch Colombia streamer, streamer emergente colombiano, clips de nuevos streamers colombianos, Jaapz streamer Kick Colombia, Jaap_Z clips recientes, Jaapz Pasto streamer emergente, Jaapz con MonoCOL_R, Noche de terror con Jaap ZaViel7, MonoCOL_R streamer Colombia Kick, ZaViel7 streamer Colombia Kick, streamers amigos de Jaapz en Kick Colombia
 
 ## Criterios
 
