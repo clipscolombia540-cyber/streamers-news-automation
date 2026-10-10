@@ -15,14 +15,14 @@ if not video.is_file() or video.stat().st_size < 1024:
 sources_path = Path("salida/fuentes.txt")
 sources = sources_path.read_text(encoding="utf-8") if sources_path.exists() else ""
 description = (
-    "Radar de creadores colombianos con narración y diseño originales. "
+    "Radar de Dedsafio con narración y edición originales. "
     "Los titulares se presentan como pistas para consultar la fuente; revisa el contexto completo.\n\n"
     + sources[:4500]
 )
 publish_youtube(
     str(video),
-    "Radar de streamers colombianos: últimas noticias #Shorts",
+    "DEDSAFIO HOY 🔥 Momentos y noticias #Shorts",
     description,
-    ["ClipsColombia", "StreamersColombia", "Westcol", "Shorts"],
+    ["ClipsColombia", "Dedsafio", "Streamers", "Shorts", "Gaming"],
     "private",
 )
