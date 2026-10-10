@@ -43,6 +43,7 @@ CREADORES = [
     "La Sapa",
     "Lonche de Huevito",
     "Rey de la City",
+    "Jaapz",
 ]
 
 # Busquedas abiertas para descubrir creadores que aun no conocemos.
@@ -55,6 +56,9 @@ EMERGENTES = [
     "clips twitch Colombia streamer",
     "streamer emergente colombiano",
     "clips de nuevos streamers colombianos",
+    "Jaapz streamer Kick Colombia",
+    "Jaap_Z clips recientes",
+    "Jaapz Pasto streamer emergente",
 ]
 
 # Cuentas y canales que publican clips.
@@ -101,6 +105,7 @@ ALIASES_CREADORES = {
     "Rey de la City": [
         "reydelacity", "rey de la city", "elreywiththeclips"
     ],
+    "Jaapz": ["jaapz", "jaap_z", "jaap-z", "jaap z"],
 }
 
 ALIASES_INFLUENCERS = {
