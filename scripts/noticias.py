@@ -834,7 +834,7 @@ def seleccionar_clips(videos):
 
         # No gastar espacios en publicaciones casi vacias como "#shorts #westcol".
         # Los clips con pocas vistas siguen siendo elegibles si el título aporta contexto.
-        palabras_utiles = re.findall(r"[a-z0-9]+", titulo_normalizado)
+        palabras_utiles = re.findall(r"[a-z0-9]+", titulo.lower())
         titulo_generico = (
             len(palabras_utiles) <= 2
             and not any(
