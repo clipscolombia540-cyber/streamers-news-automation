@@ -1,4 +1,3 @@
-
 name: Radar de creadores y TikTok
 
 on:
@@ -17,8 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  validar-pull-request:
-    if: github.event_name == 'pull_request'
+  validar-codigo:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -37,6 +35,7 @@ jobs:
 
   generar-radares:
     if: github.event_name != 'pull_request'
+    needs: validar-codigo
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
