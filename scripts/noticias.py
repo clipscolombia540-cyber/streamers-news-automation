@@ -918,20 +918,13 @@ def recopilar_clips_programas():
     }
     consultas = [
         "DEDSAFIO Minecraft clips español",
-        "DEDSAFIO 4 mejores momentos",
-        "DEDSAFIO Minecraft muertes clips",
-        "DEDSAFIO Minecraft reacciones clips",
+        "DEDSAFIO Minecraft muertes reacciones clips",
         "clips DEDSAFIO Westcol Spreen",
         "clips series Minecraft streamers español",
         "momentos eventos Minecraft creadores clips",
         "nueva serie Minecraft streamers clips español",
-        "nueva serie Minecraft creadores mejores momentos",
         "nuevo evento Minecraft streamers clips",
-        "clips nueva serie de streamers español",
         "nuevas series de streamers colombianos clips",
-        "mejores momentos serie Minecraft reciente",
-        "clips eventos streamers español últimas horas",
-        "nueva serie de creadores de contenido clips",
     ]
 
     # Reutilizar pistas de ejecuciones anteriores para buscar más clips del mismo tema.
