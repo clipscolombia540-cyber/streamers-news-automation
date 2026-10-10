@@ -1,6 +1,9 @@
 name: Radar de creadores y TikTok
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
@@ -34,7 +37,7 @@ jobs:
           python -m unittest scripts.test_filtros scripts.test_tiktok_filter
 
   generar-radares:
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' && github.actor != 'github-actions[bot]'
     needs: validar-codigo
     runs-on: ubuntu-latest
     timeout-minutes: 20
