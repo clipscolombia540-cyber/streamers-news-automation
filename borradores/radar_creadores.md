@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 02:45 AM (hora de Colombia)
+Actualizado: 10/10/2026 02:48 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 8.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.686
+- Vistas reportadas por YouTube: 6.702
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -35,11 +35,21 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: EchoVault
-- Publicado: 10/10/2026 01:59 AM
+- Publicado: 10/10/2026 01:58 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28
+- Vistas reportadas por YouTube: 29
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
+
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 09/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 574
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
@@ -57,7 +67,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: INMORTAL FF
 - Publicado: 10/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 388
+- Vistas reportadas por YouTube: 391
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
@@ -78,31 +88,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: WestClips
 - Publicado: 10/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.868
+- Vistas reportadas por YouTube: 7.917
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 09/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips Tc
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.947
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -127,6 +115,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- **Texto en pantalla:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
+
+### GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Texto en pantalla:** GirlOfNox REACCIONA AL CONCIERTO DE SECH EN DEDSAFIO MINECRAFT 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -168,26 +176,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
-- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
-
 ## Noticias y contexto
 
 - **[Creadores] VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - TV Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
@@ -225,8 +213,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=ZqKY60jBcjA
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
+  - https://www.youtube.com/watch?v=Wt5Wtr9ZaiM
   - https://www.youtube.com/watch?v=wZRvA8FOZdw
-  - https://www.youtube.com/watch?v=8uzHAePkLxo
 
 ## Busquedas de emergentes
 
