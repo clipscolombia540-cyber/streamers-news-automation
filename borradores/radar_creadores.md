@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 11:11 PM (hora de Colombia)
+Actualizado: 09/10/2026 11:13 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 6.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 - Canal que publico: Aquiso Clips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.372
+- Vistas reportadas por YouTube: 14.373
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
@@ -27,9 +27,20 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.350
+- Vistas reportadas por YouTube: 3.356
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 09/10/2026 10:47 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - Categoria: Cuenta de clips
@@ -60,42 +71,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 - Canal que publico: TRENDCLIPSMEDIA
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
+- Vistas reportadas por YouTube: 13
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
-
-### Westcol reacciona al golpe del robot
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips kick Latam
-- Creador relacionado en el título: Westcol
-- Canal que publico: Clips kick Latam
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 189
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=zo7xOyGboLY
-
-### 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Westcolclip26
-- Creador relacionado en el título: Westcol
-- Canal que publico: Westcolclip26
-- Publicado: 09/10/2026 11:01 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=yLmsHL-Apxg
-
-### #shorts #westcol
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clipazo
-- Creador relacionado en el título: Westcol
-- Canal que publico: Clipazo
-- Publicado: 09/10/2026 09:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 818
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NqDGmctfwV4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -120,6 +98,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cherokee Trackhawk) I LonchiClips
+- **Texto en pantalla:** Lonche jugando carreras con Kris Nava de T3r Elemento 🔥🏁 (Urus vs Cher
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=y6HMBDqOUWo
 
 ### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -150,36 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
-
-### Westcol reacciona al golpe del robot
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol reacciona al golpe del robot
-- **Texto en pantalla:** Westcol reacciona al golpe del robot
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zo7xOyGboLY
-
-### 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
-- **Texto en pantalla:** 😱 WESTCOL VIVIÓ UN DÍA DE BOMBERO CON CHANTY Y PIKIÑA… ¡QUÉ LOCURA! 🚒
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yLmsHL-Apxg
-
-### #shorts #westcol
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** #shorts #westcol
-- **Texto en pantalla:** #shorts #westcol
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NqDGmctfwV4
 
 ## Noticias y contexto
 
