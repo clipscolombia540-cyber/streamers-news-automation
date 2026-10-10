@@ -82,11 +82,33 @@ def fetch_tiktok_clips():
         '"Dedsafio Colombia" TikTok clip',
     ]
     links=[]
+    # Primero intenta páginas públicas de hashtags de TikTok con yt-dlp; no necesita API key.
+    for hashtag_url in ("https://www.tiktok.com/tag/dedsafio", "https://www.tiktok.com/tag/dedsafio4"):
+        try:
+            raw=subprocess.check_output(
+                ["yt-dlp","--flat-playlist","--dump-single-json","--playlist-end","8",hashtag_url],
+                text=True,stderr=subprocess.PIPE,timeout=60)
+            data=__import__("json").loads(raw)
+            for entry in data.get("entries",[]) or []:
+                if not entry: continue
+                link=entry.get("webpage_url") or entry.get("original_url")
+                video_id=entry.get("id")
+                author=entry.get("uploader_id") or entry.get("channel_id")
+                if not link and video_id and author:
+                    link=f"https://www.tiktok.com/@{author}/video/{video_id}"
+                if link and "tiktok.com/" in link and link not in links:
+                    links.append(link)
+            if len(links)>=4: break
+        except Exception as exc:
+            print(f"Aviso leyendo hashtag público {hashtag_url}: {exc}",file=sys.stderr)
+    # Respaldo: resultados de búsqueda indexados.
     for query in queries:
+        if len(links)>=8: break
         try:
             page=requests.get("https://www.google.com/search",params={"q":query},headers=HEADERS,timeout=20)
             if page.ok:
-                for link in re.findall(r'https?://(?:www\.)?tiktok\.com/@[^&"<> ]+/video/\d+',html.unescape(page.text)):
+                for link in re.findall(r'https?://(?:www\\.)?tiktok\\.com/@[^&"<> ]+/video/\\d+',html.unescape(page.text)):
+                    link=link.rstrip(").,;")
                     if link not in links: links.append(link)
             if len(links)>=8: break
         except Exception as exc:
