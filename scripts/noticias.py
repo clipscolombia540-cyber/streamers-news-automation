@@ -687,8 +687,7 @@ def recopilar_influencers():
 
     for influencer in INFLUENCERS:
         consultas.append((influencer, "{} clips en español".format(influencer)))
-        consultas.append((influencer, "{} momentos en español".format(influencer)))
-        consultas.append((influencer, "{} shorts en español".format(influencer)))
+        # Una búsqueda combinada cubre momentos y Shorts.
 
     for indice, (influencer, consulta) in enumerate(consultas, 1):
         print(
