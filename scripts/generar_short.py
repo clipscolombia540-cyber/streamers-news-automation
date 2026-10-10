@@ -86,7 +86,7 @@ def fetch_tiktok_clips():
         try:
             page=requests.get("https://www.google.com/search",params={"q":query},headers=HEADERS,timeout=20)
             if page.ok:
-                for link in re.findall(r'https?://(?:www\\.)?tiktok\\.com/@[^&"<> ]+/video/\\d+',html.unescape(page.text)):
+                for link in re.findall(r'https?://(?:www\.)?tiktok\.com/@[^&"<> ]+/video/\d+',html.unescape(page.text)):
                     if link not in links: links.append(link)
             if len(links)>=8: break
         except Exception as exc:
