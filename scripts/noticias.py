@@ -797,16 +797,54 @@ def seleccionar_clips(videos):
 
     return seleccionados
 
+def recopilar_clips_programas():
+    """Busca clips de DEDsafio Minecraft y otras series/eventos de creadores."""
+    encontrados = []
+    consultas = [
+        "DEDSAFIO Minecraft clips español",
+        "DEDSAFIO 4 mejores momentos",
+        "DEDSAFIO Minecraft muertes clips",
+        "DEDSAFIO Minecraft reacciones clips",
+        "clips DEDSAFIO Westcol Spreen",
+        "clips series Minecraft streamers español",
+        "momentos eventos Minecraft creadores clips",
+    ]
+    senales_clip = (
+        "clip", "clips", "short", "shorts", "momento", "momentos",
+        "muerte", "muertes", "reaccion", "reacciones", "resumen",
+        "mejores", "highlights", "limbo", "bossfight",
+    )
+    for consulta in consultas:
+        print("[Series y eventos] {}".format(consulta))
+        for video in buscar_youtube(consulta):
+            titulo = normalizar(video.get("titulo", ""))
+            canal = normalizar(video.get("canal", ""))
+            es_dedsafio = "dedsafio" in titulo or "dedsafio" in canal or "ded safio" in titulo
+            es_serie_minecraft = "minecraft" in titulo and any(
+                palabra in titulo for palabra in ("serie", "evento", "streamer", "creador")
+            )
+            es_clip = any(senal in titulo for senal in senales_clip) or any(
+                palabra in canal for palabra in ("clips", "clip", "recortes", "momentos")
+            )
+            if not es_clip or not (es_dedsafio or es_serie_minecraft):
+                continue
+            video["creador"] = "Programa: DEDsafio Minecraft" if es_dedsafio else "Series y eventos Minecraft"
+            video["categoria"] = "Clip de terceros"
+            encontrados.append(video)
+    return encontrados
+
+
 def recopilar_clips():
-    # Todas las categorias se buscan en cada ejecucion.
+    # Todas las categorias se buscan en cada ejecucion, incluidas series/eventos.
     # Los influencers ya no dependen de que falten resultados.
     principales = recopilar_principales()
     cuentas_clips = recopilar_cuentas_clips()
+    programas = recopilar_clips_programas()
     emergentes = recopilar_emergentes()
     influencers = recopilar_influencers()
 
     combinados = quitar_duplicados(
-        principales + cuentas_clips + emergentes + influencers
+        principales + cuentas_clips + programas + emergentes + influencers
     )
 
     print(
