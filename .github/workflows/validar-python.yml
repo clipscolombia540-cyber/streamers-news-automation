@@ -35,8 +35,7 @@ jobs:
         if: github.event_name != 'pull_request'
         run: python scripts/tiktok.py
       - name: Mostrar resumen generado
-        if: github.event_name != 'pull_request'
-        if: always()
+        if: always() && github.event_name != 'pull_request'
         run: |
           if [ -f borradores/radar_creadores.md ]; then
             grep -E 'Actualizado:|Clips incluidos:|Noticias recientes:' borradores/radar_creadores.md || true
