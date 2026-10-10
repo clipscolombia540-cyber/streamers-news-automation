@@ -249,13 +249,38 @@ def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORA
         "Influencer": 2,
         "Cuenta de creador": 3,
     }
-    lista = sorted(
-        encontrados.values(),
-        key=lambda item: (
-            prioridad_tipo.get(tipo_de_cuenta(item.get("creador", "")), 9),
-            -item["fecha"].timestamp(),
-        ),
-    )[:MAX_RESULTADOS]
+    # Agrupa por feed y alterna publicaciones para que una sola cuenta
+    # no ocupe todo el radar cuando publica en ráfaga.
+    por_feed = {}
+    for item in encontrados.values():
+        feed = item.get("creador", "Sin identificar")
+        por_feed.setdefault(feed, []).append(item)
+
+    for feed_items in por_feed.values():
+        feed_items.sort(key=lambda item: item["fecha"].timestamp(), reverse=True)
+
+    feeds_ordenados = sorted(
+        por_feed,
+        key=lambda feed: prioridad_tipo.get(tipo_de_cuenta(feed), 9),
+    )
+    lista = []
+    max_por_feed = 8
+    ronda = 0
+    while len(lista) < MAX_RESULTADOS:
+        agregados = 0
+        for feed in feeds_ordenados:
+            feed_items = por_feed[feed]
+            if ronda < min(len(feed_items), max_por_feed):
+                lista.append(feed_items[ronda])
+                agregados += 1
+                if len(lista) >= MAX_RESULTADOS:
+                    break
+        if agregados == 0:
+            break
+        ronda += 1
+
+    # Mantiene primero las cuentas de clips y, dentro de cada ronda,
+    # favorece publicaciones recientes.
     return lista, diagnostico
 
 
