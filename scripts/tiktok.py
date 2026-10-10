@@ -47,6 +47,20 @@ def obtener_feeds():
     return dict(FEEDS)
 
 
+def descripcion_configuracion_feeds():
+    """Explica si se usa una lista de feeds personalizada o el feed predeterminado."""
+    if os.environ.get("TIKTOK_FEEDS", "").strip():
+        return (
+            "Configuración: feeds personalizados desde TIKTOK_FEEDS. "
+            "Se revisan únicamente las cuentas incluidas en esa variable."
+        )
+    return (
+        "Aviso: TIKTOK_FEEDS no está configurado; se usa únicamente el feed "
+        "predeterminado de Westcol. Para ampliar la cobertura, configura feeds "
+        "RSS recientes de varios creadores en el secreto de GitHub."
+    )
+
+
 def convertir_fecha(texto):
     if not texto:
         return None
@@ -246,6 +260,7 @@ def crear_informe():
         f"**Actualizado:** {ahora.strftime('%d/%m/%Y %H:%M UTC')}",
         f"**Periodo revisado:** últimas {HORAS} horas",
         f"**Feeds configurados:** {len(feeds)}",
+        f"**Estado de configuración:** {descripcion_configuracion_feeds()}",
         f"**Publicaciones leídas:** {diagnostico['leidas']}",
         f"**Publicaciones encontradas:** {len(lista)}",
         "",
