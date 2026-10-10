@@ -43,6 +43,16 @@ class FiltroEmergentesTests(unittest.TestCase):
         })
         self.assertIn("#StreamerEmergente", copy["hashtags"])
 
+    def test_copy_de_cuenta_de_clips_detecta_creador_del_titulo(self):
+        copy = generar_borrador_copy({
+            "titulo": "MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON",
+            "creador": "Cuenta de clips: Pelusa Clips Tc",
+            "categoria": "Cuenta de clips",
+            "canal": "Pelusa Clips Tc",
+        })
+        self.assertIn("MrStivenTC", copy["gancho_a"])
+        self.assertIn("MrStivenTC", copy["descripcion"])
+
     def test_descarta_pokemon_que_solo_menciona_kick(self):
         video = {
             "titulo": "ABRIMOS POKEMON TCG | Kick Stream",
