@@ -285,6 +285,15 @@ def parece_contenido_de_creadores(video):
     return tiene_senal_stream and tiene_contexto_colombiano
 
 
+def es_relevante_para_radar(video):
+    """Evita aceptar cuentas de clips extranjeras sin relación con creadores vigilados."""
+    return bool(
+        detectar_creador(video)
+        or detectar_influencer(video)
+        or parece_contenido_de_creadores(video)
+    )
+
+
 def canal_parece_oficial(video, creador):
     """Descarta publicaciones del canal oficial al buscar recortes de terceros."""
     canal = normalizar(video.get("canal", ""))
@@ -520,6 +529,10 @@ def recopilar_principales():
 
         for video in buscar_youtube(consulta):
             if es_cuenta_de_clips(video):
+                detectado = detectar_creador(video)
+                if detectado != creador:
+                    print("  Cuenta de clips descartada por no mencionar a {}: {}".format(creador, video.get("titulo", "")))
+                    continue
                 video["creador"] = "Cuenta de clips: {}".format(video.get("canal", "Canal no identificado"))
                 video["categoria"] = "Cuenta de clips"
                 encontrados.append(video)
@@ -559,6 +572,10 @@ def recopilar_cuentas_clips():
             for video in buscar_youtube(consulta):
                 canal = normalizar(video.get("canal", ""))
                 titulo = normalizar(video.get("titulo", ""))
+
+                if not es_relevante_para_radar(video):
+                    print("  Cuenta de clips descartada por falta de relación colombiana verificable: {}".format(video.get("titulo", "")))
+                    continue
 
                 # Evita etiquetar cualquier video del streamer original
                 # como una cuenta de clips por el simple titulo.
@@ -602,6 +619,9 @@ def recopilar_emergentes():
 
         for video in buscar_youtube(consulta):
             if es_cuenta_de_clips(video):
+                if not es_relevante_para_radar(video):
+                    print("  Clip descartado por falta de relación colombiana verificable: {}".format(video.get("titulo", "")))
+                    continue
                 video["creador"] = "Cuenta de clips: {}".format(
                     video["canal"]
                 )
@@ -647,6 +667,9 @@ def recopilar_influencers():
 
         for video in buscar_youtube(consulta):
             if es_cuenta_de_clips(video):
+                if not es_relevante_para_radar(video):
+                    print("  Clip de influencer descartado por falta de relación verificable: {}".format(video.get("titulo", "")))
+                    continue
                 video["creador"] = "Cuenta de clips: {}".format(
                     video["canal"]
                 )

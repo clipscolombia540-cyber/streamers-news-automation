@@ -3,6 +3,7 @@ from scripts.noticias import (
     es_noticia_promocional,
     generar_borrador_copy,
     parece_contenido_de_creadores,
+    es_relevante_para_radar,
     titulo_probablemente_en_ingles,
     seleccionar_clips,
 )
@@ -71,6 +72,20 @@ class FiltroEmergentesTests(unittest.TestCase):
         }
         seleccionados = seleccionar_clips([recientes, tercero])
         self.assertEqual(seleccionados[0]["categoria"], "Clip de terceros")
+
+    def test_descarta_cuenta_de_clips_extranjera_sin_relacion_colombiana(self):
+        video = {
+            "titulo": "Una espectadora de Destiny se ve obligada a soportar esto",
+            "canal": "Destiny DGG Clips",
+        }
+        self.assertFalse(es_relevante_para_radar(video))
+
+    def test_acepta_cuenta_de_clips_que_menciona_streamer_vigilado(self):
+        video = {
+            "titulo": "Westcol se sorprende en pleno directo",
+            "canal": "La w clips",
+        }
+        self.assertTrue(es_relevante_para_radar(video))
 
     def test_descarta_pokemon_que_solo_menciona_kick(self):
         video = {
