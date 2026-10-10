@@ -784,6 +784,24 @@ def puntaje_tendencia(video):
     return puntos
 
 
+def detectar_evento_video(video):
+    """Identifica eventos/series recurrentes para que no saturen el radar."""
+    texto = normalizar("{} {}".format(
+        video.get("titulo", ""),
+        video.get("serie", video.get("evento", "")),
+    ))
+    if any(normalizar(alias) in texto for alias in ALIASES_PROGRAMAS["DEDsafio Minecraft"]):
+        return "dedsafio"
+    if any(p in texto for p in (
+        "minecraftextremo", "minecrafthardcore", "serie de minecraft",
+        "series de minecraft", "minecraft con streamers",
+        "minecraft de streamers", "evento de minecraft",
+        "eventos de minecraft",
+    )):
+        return "minecraft_streamers"
+    return None
+
+
 def seleccionar_clips(videos):
     prioridad = {
         "Clip de terceros": 0,
@@ -821,6 +839,7 @@ def seleccionar_clips(videos):
     conteo = {}
     conteo_canales = {}
     conteo_relacionados = {}
+    conteo_eventos = {}
     conteo_categoria = {}
 
     for video in videos:
@@ -861,6 +880,11 @@ def seleccionar_clips(videos):
 
         # Evita que una sola cuenta publicadora ocupe gran parte del informe.
         limite_canal = 2 if categoria in ("Cuenta de clips", "Clip de terceros") else 3
+        evento = detectar_evento_video(video)
+        limite_evento = 3 if evento == "dedsafio" else 4
+        if evento and conteo_eventos.get(evento, 0) >= limite_evento:
+            continue
+
         relacionado = detectar_creador_relacionado(video)
         # Tope transversal: los clips de fans también cuentan para el streamer mencionado.
         # Así, varias cuentas de recortes no llenan el radar con el mismo famoso.
@@ -876,6 +900,8 @@ def seleccionar_clips(videos):
         conteo[creador] = conteo.get(creador, 0) + 1
         if relacionado:
             conteo_relacionados[relacionado] = conteo_relacionados.get(relacionado, 0) + 1
+        if evento:
+            conteo_eventos[evento] = conteo_eventos.get(evento, 0) + 1
         conteo_canales[canal] = conteo_canales.get(canal, 0) + 1
         conteo_categoria[categoria] = conteo_categoria.get(categoria, 0) + 1
 
