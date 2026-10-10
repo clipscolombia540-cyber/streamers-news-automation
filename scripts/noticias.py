@@ -80,7 +80,15 @@ INFLUENCERS = [
     "Tulio Recomienda",
     "La Segura",
     "Los de Nam",
+    "La Liendra",
+    "Yeferson Cossio",
+    "Dani Duke",
+    "Luisa Fernanda W",
+    "Pautips",
+    "Aida Victoria Merlano",
+    "Kika Nieto",
 ]
+
 
 ALIASES_CREADORES = {
     "Westcol": ["westcol"],
@@ -104,6 +112,14 @@ ALIASES_INFLUENCERS = {
     "Tulio Recomienda": ["tulio recomienda", "tuliorecomienda"],
     "La Segura": ["la segura", "lasegura"],
     "Los de Nam": ["los de nam", "losdenam", "los de ñam"],
+    "La Liendra": ["la liendra", "laliendra"],
+    "Yeferson Cossio": ["yeferson cossio", "yefersoncossio"],
+    "Dani Duke": ["dani duke", "daniduke"],
+    "Luisa Fernanda W": ["luisa fernanda w", "luisafw", "luisa fernanda"],
+    "Pautips": ["pautips", "paula galindo"],
+    "Aida Victoria Merlano": ["aida victoria", "aidavictoria", "aida victoria merlano"],
+    "Kika Nieto": ["kika nieto", "kikanieto"],
+
 }
 
 ALIASES_CUENTAS_CLIPS = [
@@ -208,7 +224,7 @@ def es_cuenta_de_clips(video):
 
 
 def parece_contenido_de_creadores(video):
-    """Filtro conservador para que las busquedas abiertas no acepten cualquier viral."""
+    """Acepta resultados con senales explicitas de streaming y contexto colombiano."""
     titulo = normalizar(video.get("titulo", ""))
     canal = normalizar(video.get("canal", ""))
     texto = "{} {}".format(titulo, canal)
@@ -216,22 +232,20 @@ def parece_contenido_de_creadores(video):
     senales_stream = (
         "streamer", "streamers", "kick", "twitch", "directo",
         "directos", "stream", "clips", "clip", "recortes",
-        "momentos de stream",
+        "momentos de stream", "reaccion a stream",
     )
-    senales_contexto = (
+    senales_colombia = (
         "colombia", "colombiano", "colombiana", "colombianos",
-        "streamer", "kick", "twitch", "directo", "clips",
-        "clip", "recortes", "momentos", "reaccion", "reacciones",
+        "colombianas", "colombian",
     )
 
     tiene_senal_stream = any(p in texto for p in senales_stream)
-    tiene_contexto = any(p in texto for p in senales_contexto)
-    # Evita que una palabra aislada como "viral", "gaming" o "shorts"
-    # convierta un video de futbol, Pokemon u otro tema en un resultado.
-    tiene_formato_clip = any(
-        p in texto for p in ("clip", "clips", "recortes", "momentos", "directo", "streamer", "kick", "twitch")
-    )
-    return tiene_senal_stream and tiene_contexto and tiene_formato_clip
+    tiene_contexto_colombiano = any(p in texto for p in senales_colombia)
+
+    # Una busqueda de streamers colombianos puede devolver deportes o videojuegos
+    # que solo mencionan Kick/stream. Exigimos que el resultado tambien muestre
+    # una senal colombiana en el titulo o canal antes de etiquetarlo como emergente.
+    return tiene_senal_stream and tiene_contexto_colombiano
 
 
 def canal_parece_oficial(video, creador):
