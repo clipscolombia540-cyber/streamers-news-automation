@@ -4,6 +4,7 @@ from scripts.noticias import (
     generar_borrador_copy,
     parece_contenido_de_creadores,
     titulo_probablemente_en_ingles,
+    seleccionar_clips,
 )
 
 
@@ -52,6 +53,24 @@ class FiltroEmergentesTests(unittest.TestCase):
         })
         self.assertIn("MrStivenTC", copy["gancho_a"])
         self.assertIn("MrStivenTC", copy["descripcion"])
+
+    def test_selecciona_clips_de_terceros_antes_que_respaldo(self):
+        recientes = {
+            "titulo": "Video oficial de Westcol",
+            "url": "https://example.com/oficial",
+            "fecha": __import__("datetime").datetime(2026, 10, 10, 10, 0),
+            "creador": "Westcol",
+            "categoria": "Principal",
+        }
+        tercero = {
+            "titulo": "Clip de Westcol publicado por fan",
+            "url": "https://example.com/tercero",
+            "fecha": __import__("datetime").datetime(2026, 10, 9, 10, 0),
+            "creador": "Westcol",
+            "categoria": "Clip de terceros",
+        }
+        seleccionados = seleccionar_clips([recientes, tercero])
+        self.assertEqual(seleccionados[0]["categoria"], "Clip de terceros")
 
     def test_descarta_pokemon_que_solo_menciona_kick(self):
         video = {
