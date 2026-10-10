@@ -806,12 +806,14 @@ def seleccionar_clips(videos):
             )
         )
 
+    # Priorizar señales de interes y actualidad antes que el tipo de fuente.
+    # La categoria solo desempata resultados con puntajes y fechas similares.
     videos = sorted(
         videos,
         key=lambda video: (
-            prioridad.get(video.get("categoria", ""), 9),
             -puntaje_tendencia(video),
             -video["fecha"].timestamp(),
+            prioridad.get(video.get("categoria", ""), 9),
         ),
     )
 
