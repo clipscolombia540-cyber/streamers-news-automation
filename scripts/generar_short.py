@@ -73,9 +73,6 @@ def fetch_kick_moments():
 def fetch_tiktok_clips():
     """Busca clips públicos de Dedsafio en páginas indexadas y descarga unos pocos para un borrador privado."""
     CLIPS.mkdir(parents=True, exist_ok=True)
-    existing=sorted(p for p in CLIPS.glob("*") if p.suffix.lower() in {".mp4",".mov",".mkv",".webm"})
-    if existing:
-        return []
     queries=[
         '"Dedsafio" site:tiktok.com/@',
         '"Dedsafio 4" streamer site:tiktok.com',
