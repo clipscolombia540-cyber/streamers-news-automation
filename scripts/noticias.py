@@ -333,8 +333,11 @@ def parece_contenido_de_creadores(video, consulta=""):
         "jaapz", "jaap z", "jaap_z", "monocol_r", "monocol r", "zaviel7",
         "zaviel 7", "parchando con el jaap", "noche de terror con jaap",
     )
-    consulta_de_red = any(
-        normalizar(termino) in consulta_norm for termino in terminos_red
+    consulta_de_red = (
+        any(normalizar(termino) in consulta_norm for termino in terminos_red)
+        or ("jaap" in consulta_norm and any(
+            nombre in consulta_norm for nombre in ("zaviel7", "monocolr", "jaapz")
+        ))
     )
 
     # En búsquedas de la red Jaapz, el propio nombre del colaborador
