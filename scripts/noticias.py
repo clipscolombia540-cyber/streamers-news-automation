@@ -935,7 +935,8 @@ def escribir_informe(clips, noticias):
         "- Maximo por canal emergente: {}.".format(
             MAX_POR_EMERGENTE
         ),
-        "- Prioridad: principales, cuentas de clips, emergentes e influencers.",
+        "- Prioridad: clips de terceros, cuentas de clips, emergentes e influencers; los canales oficiales quedan como respaldo.",
+        "- Filtro de emergentes: exige una senal de streaming y una referencia explicita a Colombia en el titulo o canal.",
         "- Se buscan todas las categorias en cada ejecucion.",
         "- Los emergentes se marcan para revision manual.",
         "- Ventana temporal: 48 horas.",
