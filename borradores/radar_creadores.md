@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:13 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:16 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Aquiso Clips
 - Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 247
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
+- Vistas reportadas por YouTube: 14.418
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
 - Categoria: Clip de terceros
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Aquiso Clips
 - Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 241
+- Vistas reportadas por YouTube: 260
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
 
@@ -45,22 +45,11 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 09/10/2026 11:59 PM
+- Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
-
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 09/10/2026 02:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.738
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=EUjTdRgBXmU
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -80,19 +69,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: WestClips
 - Publicado: 09/10/2026 11:57 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 614
+- Vistas reportadas por YouTube: 768
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Thomas godenzi
-- Publicado: 08/10/2026 07:00 PM
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 09/10/2026 11:57 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 36
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -138,16 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
 
-### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
-
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -168,25 +147,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
 ## Noticias y contexto
 
@@ -224,7 +193,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=erGVN-STuG8
-  - https://www.youtube.com/watch?v=QRuA8rumjBA
+  - https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ## Busquedas de emergentes
 
