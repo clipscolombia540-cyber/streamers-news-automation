@@ -145,10 +145,9 @@ def leer_feed(creador, url):
     return resultados
 
 
-def crear_informe():
-    ahora = datetime.now(timezone.utc)
-    limite = ahora - timedelta(hours=HORAS)
-
+def filtrar_publicaciones_recientes(publicaciones_por_creador, ahora, horas=HORAS):
+    """Filtra por fecha verificable, deduplica y devuelve contadores transparentes."""
+    limite = ahora - timedelta(hours=horas)
     encontrados = {}
     diagnostico = {
         "leidas": 0,
@@ -159,27 +158,17 @@ def crear_informe():
         "dentro_periodo": 0,
     }
 
-    for creador, url in FEEDS.items():
-        print(f"Consultando TikTok de {creador}...")
-
-        publicaciones = leer_feed(creador, url)
+    for publicaciones in publicaciones_por_creador:
         diagnostico["leidas"] += len(publicaciones)
-
         for item in publicaciones:
-            fecha = item["fecha"]
+            fecha = item.get("fecha")
 
             if fecha is None:
                 diagnostico["sin_fecha"] += 1
-                print(
-                    "Publicación omitida por fecha desconocida: "
-                    + item["titulo"]
-                )
                 continue
-
             if fecha > ahora:
                 diagnostico["fecha_futura"] += 1
                 continue
-
             if fecha < limite:
                 diagnostico["fuera_periodo_antiguas"] += 1
                 continue
@@ -188,13 +177,14 @@ def crear_informe():
             clave = re.sub(
                 r"[^a-z0-9]",
                 "",
-                item["enlace"].lower().rstrip("/")
+                item.get("enlace", "").lower().rstrip("/")
             )
-
+            if not clave:
+                # Sin URL no se puede deduplicar ni enlazar de forma fiable.
+                continue
             if clave in encontrados:
                 diagnostico["duplicadas"] += 1
                 continue
-
             encontrados[clave] = item
 
     lista = sorted(
@@ -202,6 +192,24 @@ def crear_informe():
         key=lambda item: item["fecha"],
         reverse=True
     )[:MAX_RESULTADOS]
+    return lista, diagnostico
+
+
+def crear_informe():
+    ahora = datetime.now(timezone.utc)
+    publicaciones_por_creador = []
+
+    for creador, url in FEEDS.items():
+        print(f"Consultando TikTok de {creador}...")
+        publicaciones = leer_feed(creador, url)
+        # Conservamos el nombre del creador asignado por el feed.
+        publicaciones_por_creador.append(publicaciones)
+
+    lista, diagnostico = filtrar_publicaciones_recientes(
+        publicaciones_por_creador, ahora, HORAS
+    )
+    for clave, cantidad in diagnostico.items():
+        print(f"Diagnóstico TikTok - {clave}: {cantidad}")
 
     lineas = [
         "# Radar de clips de TikTok",
