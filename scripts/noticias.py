@@ -189,7 +189,8 @@ def titulo_probablemente_en_ingles(titulo):
         return False
     espanolas = sum(1 for p in palabras if normalizar(p) in PALABRAS_ES)
     inglesas = sum(1 for p in palabras if normalizar(p) in PALABRAS_EN)
-    return inglesas >= 2 and espanolas == 0
+    # Evita descartar por dos palabras ambiguas; exige tres señales inglesas.
+    return inglesas >= 3 and espanolas == 0
 
 
 def detectar_en_alias(video, grupos):
