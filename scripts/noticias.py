@@ -819,13 +819,35 @@ def seleccionar_clips(videos):
 
     seleccionados = []
     conteo = {}
+    conteo_canales = {}
+    conteo_categoria = {}
 
     for video in videos:
         if len(seleccionados) >= MAX_RESULTADOS:
             break
 
-        creador = video.get("creador") or "Sin identificar"
+        titulo = limpiar(video.get("titulo", ""))
         categoria = video.get("categoria", "")
+        creador = video.get("creador") or "Sin identificar"
+        canal = limpiar(video.get("canal", "")) or "Canal no identificado"
+        titulo_normalizado = normalizar(titulo)
+
+        # No gastar espacios en publicaciones casi vacias como "#shorts #westcol".
+        # Los clips con pocas vistas siguen siendo elegibles si el título aporta contexto.
+        palabras_utiles = re.findall(r"[a-z0-9]+", titulo_normalizado)
+        titulo_generico = (
+            len(palabras_utiles) <= 2
+            and not any(
+                normalizar(senal) in titulo_normalizado
+                for senal in (
+                    "viral", "reaccion", "pelea", "desafio", "dedsafio",
+                    "momento", "reto", "fails", "final", "partido",
+                )
+            )
+        )
+        if titulo_generico:
+            print("  Titulo demasiado generico omitido: {}".format(titulo))
+            continue
 
         if creador.lower() == "westcol":
             limite = MAX_WESTCOL
@@ -836,12 +858,20 @@ def seleccionar_clips(videos):
         else:
             limite = MAX_POR_CREADOR
 
+        # Evita que una sola cuenta publicadora ocupe gran parte del informe.
+        limite_canal = 2 if categoria in ("Cuenta de clips", "Clip de terceros") else 3
         if conteo.get(creador, 0) >= limite:
+            continue
+        if conteo_canales.get(canal, 0) >= limite_canal:
             continue
 
         seleccionados.append(video)
         conteo[creador] = conteo.get(creador, 0) + 1
+        conteo_canales[canal] = conteo_canales.get(canal, 0) + 1
+        conteo_categoria[categoria] = conteo_categoria.get(categoria, 0) + 1
 
+    print("Distribucion final por categoria: {}".format(conteo_categoria))
+    print("Canales publicadores representados: {}".format(len(conteo_canales)))
     return seleccionados
 
 def cargar_catalogo_series():
