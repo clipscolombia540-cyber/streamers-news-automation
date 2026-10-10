@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:28 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:40 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: Aquiso Clips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.423
+- Vistas reportadas por YouTube: 14.440
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
@@ -25,31 +25,41 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPERO SIN TITULO
-- Publicado: 09/10/2026 08:00 PM
+- Publicado: 09/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.276
+- Vistas reportadas por YouTube: 5.430
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 17)
+### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 11:00 PM
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 313
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
+- Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
-- Publicado: 09/10/2026 11:57 PM
+- Publicado: 09/10/2026 11:58 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69
+- Vistas reportadas por YouTube: 100
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Thomas godenzi
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
@@ -58,30 +68,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: WestClips
 - Publicado: 09/10/2026 11:58 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.412
+- Vistas reportadas por YouTube: 2.078
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: TRENDCLIPSMEDIA
-- Creador relacionado en el título: Westcol
-- Canal que publico: TRENDCLIPSMEDIA
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
+- Vistas reportadas por YouTube: 1.782
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
-
-### xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Daily Dose of LivestreamFail
-- Canal que publico: Daily Dose of LivestreamFail
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.403
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=KDSsvmuYDR0
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -107,15 +107,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### The Best Moments of the Webones in Dedsafio 4 (Day 17)
+### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 17)
+- **Título sugerido:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
+- **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
 
 ### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -127,6 +127,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -137,25 +147,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Texto en pantalla:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #r
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
-
-### xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Daily Dose of LivestreamFail? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Daily Dose of LivestreamFail.
-- **Título sugerido:** xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
-- **Texto en pantalla:** xQc Gambles His Entire Net Worth! | Best Twitch, YT and Kick Clips
-- **Descripción:** Fragmento relacionado con Emergente: Daily Dose of LivestreamFail. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=KDSsvmuYDR0
+- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Noticias y contexto
 
