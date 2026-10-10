@@ -4,6 +4,7 @@ Usa clips locales SOLO si el operador tiene permiso para reutilizarlos. Sin clip
 crea una pieza animada de noticias y lo indica en el artefacto de fuentes.
 """
 import asyncio, html, os, re, subprocess, sys, textwrap, xml.etree.ElementTree as ET
+from html.parser import HTMLParser
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -29,7 +30,49 @@ def run(cmd):
 def clean(s):
     return re.sub(r"\s+"," ",html.unescape(re.sub(r"<[^>]+>","",s or ""))).strip()
 
+KICK_EVENT_URL="https://kick.com/events/01a0a3d9-602d-7db9-84f4-f740827ec04f?no-embedded-player=1"
+
+class LinkParser(HTMLParser):
+    def __init__(self):
+        super().__init__(); self.links=[]; self._href=None; self._text=[]
+    def handle_starttag(self,tag,attrs):
+        if tag=="a":
+            self._href=dict(attrs).get("href",""); self._text=[]
+    def handle_data(self,data):
+        if self._href is not None: self._text.append(data)
+    def handle_endtag(self,tag):
+        if tag=="a" and self._href is not None:
+            self.links.append((self._href,clean(" ".join(self._text))))
+            self._href=None; self._text=[]
+
+def fetch_kick_moments():
+    """Read public highlight links/titles from Kick's Dedsafio event page; never downloads video."""
+    try:
+        response=requests.get(KICK_EVENT_URL,headers=HEADERS,timeout=25)
+        response.raise_for_status()
+        parser=LinkParser(); parser.feed(response.text)
+        found=[]; seen=set()
+        for href,title in parser.links:
+            low=href.lower()
+            if not title or len(title)<3 or not any(x in low for x in ("/clip","/clips/","/video/","/videos/")):
+                continue
+            if href.startswith("/"): href="https://kick.com"+href
+            if not href.startswith("https://kick.com/") or title.lower() in seen: continue
+            seen.add(title.lower())
+            found.append({"title":title,"link":href,"source":"Kick · momento destacado","age":0,"kind":"moment"})
+            if len(found)>=3: break
+        if found:
+            print(f"MOMENTOS_KICK_ENCONTRADOS={len(found)}")
+            return found
+        print("Kick cargó la página sin enlaces de momentos legibles; se usará el RSS de respaldo.")
+    except Exception as exc:
+        print(f"Advertencia al leer momentos de Kick: {exc}",file=sys.stderr)
+    return []
+
 def fetch_items():
+    # Prefer real public moment metadata over generic headlines. Video files are not downloaded.
+    moments=fetch_kick_moments()
+    if moments: return moments
     found=[]; seen=set()
     for query in QUERIES:
         url="https://news.google.com/rss/search?q="+quote(query)+"&hl=es-419&gl=CO&ceid=CO:es-419"
@@ -47,7 +90,7 @@ def fetch_items():
                 except Exception: age=999999999
                 if 0 <= age <= 2*86400:
                     seen.add(title.lower())
-                    found.append({"title":title,"link":link,"source":source,"age":age})
+                    found.append({"title":title,"link":link,"source":source,"age":age,"kind":"news"})
         except Exception as exc:
             print(f"Advertencia RSS {query!r}: {exc}",file=sys.stderr)
     found.sort(key=lambda x:x["age"])
@@ -128,13 +171,23 @@ def build_video(items):
         print(f"CLIPS_AUTORIZADOS_ENCONTRADOS={len(clips)}")
     else:
         print("AVISO: no hay clips locales autorizados; se usará fondo animado original, no metraje de terceros.")
-    cards=[{"tag":"LO DE HOY","title":"¡Pilas! Esto se está moviendo en Dedsafio","source":"Clips Colombia",
-            "voice":"¡Pilas, parceros! Este es el radar de Dedsafio. Vamos con los titulares recientes y el contexto, sin inventarnos momentos."}]
+    has_moments=any(item.get("kind")=="moment" for item in items)
+    if has_moments:
+        cards=[{"tag":"DEDSAFIO HOY","title":"LOS MOMENTOS MÁS DUROS DEL GULAG 🔥","source":"Momentos públicos de Kick",
+                "voice":"¡Mi gente, ojo a esto! Estos son algunos de los momentos destacados de Dedsafio que están circulando hoy. Vamos uno por uno, y les dejamos la fuente para que vean el contexto completo."}]
+    else:
+        cards=[{"tag":"RADAR DE HOY","title":"LO QUE SE MUEVE EN DEDSAFIO","source":"Clips Colombia",
+                "voice":"¡Pilas, parceros! Este es el radar de Dedsafio. Vamos con publicaciones recientes y su contexto, sin inventarnos momentos."}]
     for i,item in enumerate(items,1):
-        cards.append({"tag":f"TEMA {i}","title":item["title"],"source":item["source"],
-          "voice":f"Ojo con este tema de Dedsafio: {item['title']}. El titular viene de {item['source']}. Antes de darlo por confirmado, revisa la publicación original y su contexto."})
-    cards.append({"tag":"COMENTA","title":"¿Cuál fue el momento más duro de hoy?","source":"Clips Colombia",
-      "voice":"Ahora te toca a ti: ¿cuál fue el mejor momento de Dedsafio hoy? Déjalo en comentarios y comparte el radar."})
+        if item.get("kind")=="moment":
+            narration=f"Momento destacado número {i}: {item['title']}. Este clip aparece en la página pública del evento de Dedsafio en Kick. Abre la fuente para ver el momento completo y su contexto."
+            tag=f"MOMENTO {i}"
+        else:
+            narration=f"Ojo con este tema de Dedsafio: {item['title']}. El titular viene de {item['source']}. Revisa la publicación original y su contexto antes de darlo por confirmado."
+            tag=f"TEMA {i}"
+        cards.append({"tag":tag,"title":item["title"],"source":item["source"],"voice":narration})
+    cards.append({"tag":"TU TURNO","title":"¿CUÁL FUE EL MEJOR MOMENTO?","source":"Clips Colombia",
+      "voice":"Ahora te toca a ti, mi gente: ¿cuál fue el mejor momento de Dedsafio? Déjalo en comentarios y comparte el radar."})
     total=len(cards); segments=[]; sources=[]
     for idx,card in enumerate(cards,1):
         img=WORK/f"card_{idx:02d}.jpg"; aud=WORK/f"voice_{idx:02d}.mp3"; seg=WORK/f"segment_{idx:02d}.mp4"
@@ -167,7 +220,7 @@ def main():
     if not items:
         raise RuntimeError("No encontré titulares de Dedsafio recientes en las últimas 48 horas. No se publica un resumen inventado.")
     video,clips=build_video(items)
-    lines=["Short narrado de radar Dedsafio. Los titulares no prueban por sí solos los detalles; abre las fuentes originales.",
+    lines=["Short narrado de momentos destacados/radar Dedsafio. Se usan títulos y enlaces públicos; el generador NO descarga ni reutiliza automáticamente el metraje de terceros. Abre las fuentes originales para ver el contexto.",
            "Clips de video: "+(f"{len(clips)} archivo(s) local(es) autorizados." if clips else "No incluidos; faltan archivos de video autorizados en assets/clips/.")]
     lines += [f"- {i['title']}\n  Fuente: {i['source']}\n  Enlace: {i['link']}" for i in items]
     (OUT/"fuentes.txt").write_text("\n\n".join(lines),encoding="utf-8")
