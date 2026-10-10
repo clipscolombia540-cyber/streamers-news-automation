@@ -12,25 +12,27 @@ from pathlib import Path
 
 import requests
 
+
 # ============================================================
-# CONFIGURACIÓN GENERAL
+# CONFIGURACION GENERAL
 # ============================================================
 
 COLOMBIA = timezone(timedelta(hours=-5))
 AHORA = datetime.now(COLOMBIA)
 LIMITE = AHORA - timedelta(hours=48)
 
-MAX_RESULTADOS = 25
-MAX_WESTCOL = 2
-MAX_POR_CREADOR = 3
-MAX_POR_EMERGENTE = 2
+# Cupo amplio para que no se quede el radar en pocos clips.
+MAX_RESULTADOS = 60
+MAX_WESTCOL = 8
+MAX_POR_CREADOR = 8
+MAX_POR_EMERGENTE = 5
 MAX_NOTICIAS = 15
-MAX_ITEMS_BUSQUEDA = 8
+MAX_ITEMS_BUSQUEDA = 12
+MAX_POR_CUENTA_CLIPS = 8
 
 CARPETA = Path("borradores")
 SALIDA = CARPETA / "radar_creadores.md"
 
-# Prioridad 1: creadores principales.
 CREADORES = [
     "Westcol",
     "MrStivenTC",
@@ -42,46 +44,72 @@ CREADORES = [
     "Rey de la City",
 ]
 
-# Prioridad 2: búsqueda abierta de streamers emergentes.
+# Busquedas abiertas para descubrir creadores que aun no conocemos.
 EMERGENTES = [
     "streamer colombiano Kick",
     "streamer colombiano viral",
     "clips streamers Colombia",
     "streamer colombiano directo",
     "clips Kick Colombia",
+    "clips streamers colombianos hoy",
+    "mejores clips Kick Colombia",
+    "streamer colombiano reaccion viral",
 ]
 
-# Prioridad 3: influencers de respaldo.
-# Solo se buscan si los clips principales y emergentes
-# no completan el cupo de 25.
+# Cuentas y canales que publican clips.
+# Se separan del streamer original para que no compartan su limite.
+CUENTAS_CLIPS = [
+    "Westclips",
+    "West Clips Colombia",
+    "Clips de streamers Colombia",
+    "Clips Kick Colombia",
+]
+
 INFLUENCERS = [
     "JuanDa",
     "El Mindo",
-    "Ami Rodríguez",
+    "Ami Rodriguez",
     "Tulio Recomienda",
     "La Segura",
-    "Los de Ñam",
+    "Los de Nam",
 ]
 
 ALIASES_CREADORES = {
-    "Westcol": ["westcol", "west clips", "westclips"],
+    "Westcol": ["westcol"],
     "MrStivenTC": ["mrstiventc", "mr stiven", "mrstiven", "stiven tc"],
     "Pelicanger": ["pelicanger"],
     "Samulx": ["samulx"],
     "Chanty": ["chanty"],
     "La Sapa": ["la sapa", "lasapa"],
-    "Lonche de Huevito": ["lonche de huevito", "lonchewey", "lonche"],
-    "Rey de la City": ["reydelacity", "rey de la city", "elreywiththeclips"],
+    "Lonche de Huevito": [
+        "lonche de huevito", "lonchewey", "lonche"
+    ],
+    "Rey de la City": [
+        "reydelacity", "rey de la city", "elreywiththeclips"
+    ],
 }
 
 ALIASES_INFLUENCERS = {
     "JuanDa": ["juanda", "juan da"],
     "El Mindo": ["el mindo", "elmindo"],
-    "Ami Rodríguez": ["ami rodriguez", "amirodriguez"],
+    "Ami Rodriguez": ["ami rodriguez", "amirodriguez"],
     "Tulio Recomienda": ["tulio recomienda", "tuliorecomienda"],
     "La Segura": ["la segura", "lasegura"],
-    "Los de Ñam": ["los de ñam", "los de nam", "losdenam"],
+    "Los de Nam": ["los de nam", "losdenam", "los de ñam"],
 }
+
+ALIASES_CUENTAS_CLIPS = [
+    "westclips",
+    "west clips",
+    "westclip",
+    "clips de streamers",
+    "clips kick",
+    "streamer clips",
+    "clips colombia",
+    "clip colombia",
+    "clips de kick",
+    "recortes de streamers",
+]
 
 CABECERAS = {
     "User-Agent": (
@@ -92,16 +120,20 @@ CABECERAS = {
 
 
 # ============================================================
-# LIMPIEZA Y DETECCIÓN
+# LIMPIEZA Y DETECCION
 # ============================================================
 
 def limpiar(texto):
-    return re.sub(r"\s+", " ", html.unescape(str(texto or ""))).strip()
+    return re.sub(
+        r"\s+", " ", html.unescape(str(texto or ""))
+    ).strip()
 
 
 def normalizar(texto):
     texto = unicodedata.normalize("NFKD", limpiar(texto).lower())
-    texto = "".join(c for c in texto if not unicodedata.combining(c))
+    texto = "".join(
+        c for c in texto if not unicodedata.combining(c)
+    )
     return re.sub(r"[^a-z0-9]", "", texto)
 
 
@@ -109,13 +141,14 @@ def detectar_en_alias(video, grupos):
     titulo = normalizar(video.get("titulo", ""))
     canal = normalizar(video.get("canal", ""))
 
-    # El título tiene prioridad para evitar atribuciones erróneas.
+    # Primero se busca en el titulo.
     for nombre, alias in grupos.items():
         for variante in alias:
             clave = normalizar(variante)
             if clave and clave in titulo:
                 return nombre
 
+    # Despues se busca en el canal.
     for nombre, alias in grupos.items():
         for variante in alias:
             clave = normalizar(variante)
@@ -133,23 +166,41 @@ def detectar_influencer(video):
     return detectar_en_alias(video, ALIASES_INFLUENCERS)
 
 
-def es_relevante_principal(video, creador):
-    return detectar_creador(video) == creador
+def es_cuenta_de_clips(video):
+    canal = normalizar(video.get("canal", ""))
+    titulo = normalizar(video.get("titulo", ""))
 
+    # La cuenta publicadora tiene prioridad para clasificar clips.
+    # Asi, un video de Westclips no consume el cupo de Westcol.
+    for alias in ALIASES_CUENTAS_CLIPS:
+        clave = normalizar(alias)
+        if clave and clave in canal:
+            return True
 
-def es_relevante_influencer(video, influencer):
-    return detectar_influencer(video) == influencer
+    # Algunas cuentas de clips tienen el nombre del streamer
+    # en el canal, pero anuncian que son una cuenta de clips.
+    palabras_clip = [
+        "clips", "clip", "recortes", "momentos",
+    ]
+    if any(p in canal for p in palabras_clip):
+        return True
+
+    # En busquedas especificas, el titulo tambien puede identificar
+    # una cuenta de clips, siempre que el canal indique que los publica.
+    if "westclips" in titulo and any(
+        p in canal for p in palabras_clip
+    ):
+        return True
+
+    return False
 
 
 def parece_contenido_de_creadores(video):
-    """
-    Filtro amplio para búsquedas de emergentes.
-    No exige que el canal ya sea conocido.
-    Como la búsqueda es abierta, estos resultados se etiquetan
-    para revisión manual y no se presentan como verificados.
-    """
     texto = normalizar(
-        f"{video.get('titulo', '')} {video.get('canal', '')}"
+        "{} {}".format(
+            video.get("titulo", ""),
+            video.get("canal", ""),
+        )
     )
 
     palabras = [
@@ -160,7 +211,37 @@ def parece_contenido_de_creadores(video):
         "creadores", "influencer", "influencers", "shorts",
     ]
 
-    return any(normalizar(palabra) in texto for palabra in palabras)
+    return any(normalizar(p) in texto for p in palabras)
+
+
+def clasificar_video(video, categoria_preferida=None):
+    """
+    Clasifica primero las cuentas de clips para no confundirlas
+    con el streamer mencionado en el titulo.
+    """
+    if es_cuenta_de_clips(video):
+        video["creador"] = "Cuenta de clips: {}".format(
+            video.get("canal", "Canal no identificado")
+        )
+        video["categoria"] = "Cuenta de clips"
+        return video
+
+    creador = detectar_creador(video)
+    if creador:
+        video["creador"] = creador
+        video["categoria"] = "Principal"
+        return video
+
+    influencer = detectar_influencer(video)
+    if influencer:
+        video["creador"] = influencer
+        video["categoria"] = "Influencer de respaldo"
+        return video
+
+    canal = video.get("canal") or "Canal no identificado"
+    video["creador"] = "Emergente: {}".format(canal)
+    video["categoria"] = categoria_preferida or "Emergente por verificar"
+    return video
 
 
 # ============================================================
@@ -197,10 +278,12 @@ def dentro_de_ventana(fecha):
 
 
 # ============================================================
-# BÚSQUEDA EN YOUTUBE
+# BUSQUEDA EN YOUTUBE
 # ============================================================
 
-def ejecutar_busqueda_youtube(consulta, max_items=MAX_ITEMS_BUSQUEDA):
+def ejecutar_busqueda_youtube(
+    consulta, max_items=MAX_ITEMS_BUSQUEDA
+):
     comando = [
         sys.executable,
         "-m", "yt_dlp",
@@ -211,7 +294,7 @@ def ejecutar_busqueda_youtube(consulta, max_items=MAX_ITEMS_BUSQUEDA):
         "--no-warnings",
         "--ignore-errors",
         "--playlist-end", str(max_items),
-        f"ytsearch{max_items}:{consulta}",
+        "ytsearch{}:{}".format(max_items, consulta),
     ]
 
     proceso = subprocess.run(
@@ -226,11 +309,12 @@ def ejecutar_busqueda_youtube(consulta, max_items=MAX_ITEMS_BUSQUEDA):
 
     if not salida:
         print(
-            f"YouTube no devolvió resultados para '{consulta}'. "
-            f"Código: {proceso.returncode}"
+            "YouTube no devolvio resultados para '{}'. Codigo: {}".format(
+                consulta, proceso.returncode
+            )
         )
         if error:
-            print(f"Detalle: {error}")
+            print("Detalle: {}".format(error))
         return []
 
     try:
@@ -261,6 +345,9 @@ def ejecutar_busqueda_youtube(consulta, max_items=MAX_ITEMS_BUSQUEDA):
 
         fecha = fecha_youtube(video)
 
+        # Se mantiene el filtro de 48 horas.
+        # Si YouTube no proporciona una fecha verificable,
+        # el resultado no se presenta como reciente.
         if fecha is None:
             sin_fecha += 1
             continue
@@ -270,16 +357,23 @@ def ejecutar_busqueda_youtube(consulta, max_items=MAX_ITEMS_BUSQUEDA):
             continue
 
         video_id = video.get("id")
-        enlace = video.get("webpage_url") or video.get("original_url")
+        enlace = (
+            video.get("webpage_url")
+            or video.get("original_url")
+        )
 
         if not enlace and video_id:
-            enlace = f"https://www.youtube.com/watch?v={video_id}"
+            enlace = "https://www.youtube.com/watch?v={}".format(
+                video_id
+            )
 
         if not enlace:
             continue
 
         resultados.append({
-            "titulo": limpiar(video.get("title") or "Video sin título"),
+            "titulo": limpiar(
+                video.get("title") or "Video sin titulo"
+            ),
             "url": enlace,
             "canal": limpiar(
                 video.get("channel")
@@ -294,14 +388,13 @@ def ejecutar_busqueda_youtube(consulta, max_items=MAX_ITEMS_BUSQUEDA):
         })
 
     print(
-        f"  Resultados brutos: {len(videos)} | "
-        f"sin fecha: {sin_fecha} | "
-        f"fuera de 48 h: {fuera_ventana} | "
-        f"válidos: {len(resultados)}"
+        "  Brutos: {} | sin fecha: {} | fuera de 48 h: {} | validos: {}".format(
+            len(videos), sin_fecha, fuera_ventana, len(resultados)
+        )
     )
 
     if error and not resultados:
-        print(f"Aviso yt-dlp: {error}")
+        print("Aviso yt-dlp: {}".format(error))
 
     return resultados
 
@@ -310,36 +403,45 @@ def buscar_youtube(consulta):
     try:
         return ejecutar_busqueda_youtube(consulta)
     except subprocess.TimeoutExpired:
-        print(f"Tiempo agotado buscando: {consulta}")
+        print("Tiempo agotado buscando: {}".format(consulta))
     except Exception as error:
-        print(f"Error buscando '{consulta}': {error}")
+        print("Error buscando '{}': {}".format(consulta, error))
 
     return []
 
 
 # ============================================================
-# RECOPILAR PRINCIPALES, EMERGENTES E INFLUENCERS
+# RECOPILACION DE TODAS LAS CATEGORIAS
 # ============================================================
 
 def recopilar_principales():
     encontrados = []
+    consultas = []
 
-    consultas = [
-        (creador, f"{creador} clips")
-        for creador in CREADORES
-    ]
-    consultas += [
-        (creador, f"{creador} shorts")
-        for creador in CREADORES
-    ]
+    for creador in CREADORES:
+        consultas.append((creador, "{} clips".format(creador)))
+        consultas.append((creador, "{} shorts".format(creador)))
 
     for indice, (creador, consulta) in enumerate(consultas, 1):
-        print(f"[Principales {indice}/{len(consultas)}] {consulta}")
+        print(
+            "[Principales {}/{}] {}".format(
+                indice, len(consultas), consulta
+            )
+        )
 
         for video in buscar_youtube(consulta):
-            detectado = detectar_creador(video)
+            # Una cuenta de clips debe quedar separada,
+            # incluso cuando el titulo mencione al streamer.
+            if es_cuenta_de_clips(video):
+                video["creador"] = "Cuenta de clips: {}".format(
+                    video["canal"]
+                )
+                video["categoria"] = "Cuenta de clips"
+                encontrados.append(video)
+                continue
 
-            if not es_relevante_principal(video, creador):
+            detectado = detectar_creador(video)
+            if detectado != creador:
                 continue
 
             video["creador"] = detectado
@@ -349,28 +451,89 @@ def recopilar_principales():
     return encontrados
 
 
+def recopilar_cuentas_clips():
+    encontrados = []
+
+    for indice, cuenta in enumerate(CUENTAS_CLIPS, 1):
+        consultas = [
+            "{} clips".format(cuenta),
+            "{} shorts".format(cuenta),
+        ]
+
+        for consulta in consultas:
+            print(
+                "[Cuentas de clips {}/{}] {}".format(
+                    indice, len(CUENTAS_CLIPS), consulta
+                )
+            )
+
+            for video in buscar_youtube(consulta):
+                canal = normalizar(video.get("canal", ""))
+                titulo = normalizar(video.get("titulo", ""))
+
+                # Evita etiquetar cualquier video del streamer original
+                # como una cuenta de clips por el simple titulo.
+                canal_indica_clips = (
+                    any(
+                        normalizar(alias) in canal
+                        for alias in ALIASES_CUENTAS_CLIPS
+                    )
+                    or any(
+                        palabra in canal
+                        for palabra in ("clips", "clip", "recortes")
+                    )
+                )
+
+                if not canal_indica_clips:
+                    # En una consulta exacta de una cuenta de clips,
+                    # aceptamos el resultado solo si el titulo o canal
+                    # mantiene una relacion clara con esa cuenta.
+                    clave_cuenta = normalizar(cuenta)
+                    if clave_cuenta not in canal and clave_cuenta not in titulo:
+                        continue
+
+                video["creador"] = "Cuenta de clips: {}".format(
+                    video["canal"]
+                )
+                video["categoria"] = "Cuenta de clips"
+                encontrados.append(video)
+
+    return encontrados
+
+
 def recopilar_emergentes():
     encontrados = []
 
     for indice, consulta in enumerate(EMERGENTES, 1):
-        print(f"[Emergentes {indice}/{len(EMERGENTES)}] {consulta}")
+        print(
+            "[Emergentes {}/{}] {}".format(
+                indice, len(EMERGENTES), consulta
+            )
+        )
 
         for video in buscar_youtube(consulta):
-            detectado = detectar_creador(video)
+            if es_cuenta_de_clips(video):
+                video["creador"] = "Cuenta de clips: {}".format(
+                    video["canal"]
+                )
+                video["categoria"] = "Cuenta de clips"
+                encontrados.append(video)
+                continue
 
-            # Si es un creador principal, no lo duplicamos como emergente.
-            if detectado:
+            # Si es un creador conocido, no lo duplicamos como emergente.
+            if detectar_creador(video):
                 continue
 
             if not parece_contenido_de_creadores(video):
                 print(
-                    f"  Emergente descartado por relevancia: "
-                    f"{video['titulo']} | {video['canal']}"
+                    "  Emergente descartado por relevancia: {} | {}".format(
+                        video["titulo"], video["canal"]
+                    )
                 )
                 continue
 
             canal = video["canal"] or "Canal no identificado"
-            video["creador"] = f"Emergente: {canal}"
+            video["creador"] = "Emergente: {}".format(canal)
             video["categoria"] = "Emergente por verificar"
             encontrados.append(video)
 
@@ -379,19 +542,30 @@ def recopilar_emergentes():
 
 def recopilar_influencers():
     encontrados = []
-
     consultas = []
+
     for influencer in INFLUENCERS:
-        consultas.append((influencer, f"{influencer} video"))
-        consultas.append((influencer, f"{influencer} shorts"))
+        consultas.append((influencer, "{} video".format(influencer)))
+        consultas.append((influencer, "{} shorts".format(influencer)))
 
     for indice, (influencer, consulta) in enumerate(consultas, 1):
-        print(f"[Influencers {indice}/{len(consultas)}] {consulta}")
+        print(
+            "[Influencers {}/{}] {}".format(
+                indice, len(consultas), consulta
+            )
+        )
 
         for video in buscar_youtube(consulta):
-            detectado = detectar_influencer(video)
+            if es_cuenta_de_clips(video):
+                video["creador"] = "Cuenta de clips: {}".format(
+                    video["canal"]
+                )
+                video["categoria"] = "Cuenta de clips"
+                encontrados.append(video)
+                continue
 
-            if not es_relevante_influencer(video, influencer):
+            detectado = detectar_influencer(video)
+            if detectado != influencer:
                 continue
 
             video["creador"] = detectado
@@ -400,6 +574,10 @@ def recopilar_influencers():
 
     return encontrados
 
+
+# ============================================================
+# DEDUPLICACION Y SELECCION
+# ============================================================
 
 def quitar_duplicados(videos):
     unicos = {}
@@ -414,39 +592,12 @@ def quitar_duplicados(videos):
     return list(unicos.values())
 
 
-def recopilar_clips():
-    # Siempre se recopilan principales y emergentes primero.
-    principales = recopilar_principales()
-    emergentes = recopilar_emergentes()
-
-    base = quitar_duplicados(principales + emergentes)
-    seleccion_base = seleccionar_clips(base)
-
-    # Solo se buscan influencers si los resultados anteriores
-    # no llenan el cupo total.
-    if len(seleccion_base) < MAX_RESULTADOS:
-        faltantes = MAX_RESULTADOS - len(seleccion_base)
-        print(
-            f"Solo hay {len(seleccion_base)} clips priorizados. "
-            f"Buscando influencers para cubrir hasta {faltantes} espacios."
-        )
-
-        influencers = recopilar_influencers()
-        combinados = quitar_duplicados(base + influencers)
-        return seleccionar_clips(combinados)
-
-    return seleccion_base
-
-
-# ============================================================
-# SELECCIÓN POR PRIORIDAD Y LÍMITES
-# ============================================================
-
 def seleccionar_clips(videos):
     prioridad = {
         "Principal": 0,
-        "Emergente por verificar": 1,
-        "Influencer de respaldo": 2,
+        "Cuenta de clips": 1,
+        "Emergente por verificar": 2,
+        "Influencer de respaldo": 3,
     }
 
     videos = sorted(
@@ -469,6 +620,8 @@ def seleccionar_clips(videos):
 
         if creador.lower() == "westcol":
             limite = MAX_WESTCOL
+        elif categoria == "Cuenta de clips":
+            limite = MAX_POR_CUENTA_CLIPS
         elif categoria == "Emergente por verificar":
             limite = MAX_POR_EMERGENTE
         else:
@@ -483,13 +636,42 @@ def seleccionar_clips(videos):
     return seleccionados
 
 
+def recopilar_clips():
+    # Todas las categorias se buscan en cada ejecucion.
+    # Los influencers ya no dependen de que falten resultados.
+    principales = recopilar_principales()
+    cuentas_clips = recopilar_cuentas_clips()
+    emergentes = recopilar_emergentes()
+    influencers = recopilar_influencers()
+
+    combinados = quitar_duplicados(
+        principales + cuentas_clips + emergentes + influencers
+    )
+
+    print(
+        "Candidatos unicos antes de limites: {}".format(
+            len(combinados)
+        )
+    )
+
+    seleccionados = seleccionar_clips(combinados)
+
+    print(
+        "Clips seleccionados para el informe: {}".format(
+            len(seleccionados)
+        )
+    )
+
+    return seleccionados
+
+
 # ============================================================
 # NOTICIAS DE GOOGLE NEWS RSS
 # ============================================================
 
 def buscar_noticias(consulta):
     parametros = {
-        "q": f"{consulta} when:2d",
+        "q": "{} when:2d".format(consulta),
         "hl": "es-419",
         "gl": "CO",
         "ceid": "CO:es-419",
@@ -533,29 +715,32 @@ def buscar_noticias(consulta):
                 })
 
     except Exception as error:
-        print(f"Error en Google News ({consulta}): {error}")
+        print("Error en Google News ({}): {}".format(consulta, error))
 
     return resultados
 
 
 def recopilar_noticias():
     consultas = [
-        f'"{creador}" streamer OR directo OR polémica'
+        '"{}" streamer OR directo OR polemica'.format(creador)
         for creador in CREADORES
     ]
+
     consultas += [
         "streamer colombiano Kick viral",
         "creador de contenido colombiano streamer",
+        "clips streamer Colombia viral",
     ]
+
     consultas += [
-        f'"{influencer}" creador contenido'
+        '"{}" creador contenido'.format(influencer)
         for influencer in INFLUENCERS
     ]
 
     candidatas = []
 
     for consulta in consultas:
-        print(f"Google News: {consulta}")
+        print("Google News: {}".format(consulta))
         candidatas.extend(buscar_noticias(consulta))
 
     unicas = {}
@@ -574,13 +759,15 @@ def recopilar_noticias():
     for noticia in ordenadas:
         titulo_normalizado = normalizar(noticia["titulo"])
 
+        todos_alias = {
+            **ALIASES_CREADORES,
+            **ALIASES_INFLUENCERS,
+        }
+
         detectado = next(
             (
                 creador
-                for creador, alias in {
-                    **ALIASES_CREADORES,
-                    **ALIASES_INFLUENCERS,
-                }.items()
+                for creador, alias in todos_alias.items()
                 if any(
                     normalizar(nombre) in titulo_normalizado
                     for nombre in alias
@@ -602,26 +789,25 @@ def recopilar_noticias():
 
 
 # ============================================================
-# GENERACIÓN DEL INFORME
+# GENERACION DEL INFORME
 # ============================================================
 
 def escribir_informe(clips, noticias):
     CARPETA.mkdir(parents=True, exist_ok=True)
 
     lineas = [
-        "# Radar automático de creadores y clips",
+        "# Radar automatico de creadores y clips",
         "",
-        (
-            f"Actualizado: {AHORA.strftime('%d/%m/%Y %I:%M %p')} "
-            "(hora de Colombia)"
+        "Actualizado: {} (hora de Colombia)".format(
+            AHORA.strftime("%d/%m/%Y %I:%M %p")
         ),
         "",
-        "Ventana objetivo: últimas 48 horas.",
-        f"Clips incluidos: {len(clips)}.",
-        f"Noticias recientes: {len(noticias)}.",
+        "Ventana objetivo: ultimas 48 horas.",
+        "Clips incluidos: {}.".format(len(clips)),
+        "Noticias recientes: {}.".format(len(noticias)),
         "",
         (
-            "> Radar basado en metadatos públicos. Verifica cada enlace "
+            "> Radar basado en metadatos publicos. Verifica cada enlace "
             "y los derechos antes de publicar."
         ),
         "",
@@ -632,22 +818,25 @@ def escribir_informe(clips, noticias):
     if clips:
         for video in clips:
             lineas.extend([
-                f"### {video['titulo']}",
-                f"- Categoría: {video.get('categoria', 'Sin categoría')}",
-                f"- Creador/canal detectado: {video['creador']}",
-                f"- Canal que publicó: {video['canal']}",
-                (
-                    f"- Publicado: "
-                    f"{video['fecha'].strftime('%d/%m/%Y %I:%M %p')}"
+                "### {}".format(video["titulo"]),
+                "- Categoria: {}".format(
+                    video.get("categoria", "Sin categoria")
                 ),
-                f"- Fuente: {video['fuente']}",
-                f"- Enlace directo: {video['url']}",
+                "- Creador/canal detectado: {}".format(
+                    video.get("creador", "Sin identificar")
+                ),
+                "- Canal que publico: {}".format(video["canal"]),
+                "- Publicado: {}".format(
+                    video["fecha"].strftime("%d/%m/%Y %I:%M %p")
+                ),
+                "- Fuente: {}".format(video["fuente"]),
+                "- Enlace directo: {}".format(video["url"]),
                 "",
             ])
     else:
         lineas.extend([
             "No se encontraron videos con fechas verificables "
-            "dentro de las últimas 48 horas.",
+            "dentro de las ultimas 48 horas.",
             "",
             "Esto no demuestra que no existan videos nuevos.",
             "Revisa los registros del workflow para conocer los descartes.",
@@ -663,8 +852,9 @@ def escribir_informe(clips, noticias):
         for noticia in noticias:
             fecha = noticia["fecha"].strftime("%d/%m/%Y %I:%M %p")
             lineas.append(
-                f"- **{noticia['titulo']}** — {fecha} — "
-                f"[Abrir fuente]({noticia['url']})"
+                "- **{}** — {} — [Abrir fuente]({})".format(
+                    noticia["titulo"], fecha, noticia["url"]
+                )
             )
         lineas.append("")
     else:
@@ -678,37 +868,49 @@ def escribir_informe(clips, noticias):
         "",
         ", ".join(CREADORES),
         "",
-        "## Influencers de respaldo",
+        "## Cuentas de clips rastreadas",
+        "",
+        ", ".join(CUENTAS_CLIPS),
+        "",
+        "## Influencers rastreados",
         "",
         ", ".join(INFLUENCERS),
         "",
-        "## Búsquedas de emergentes",
+        "## Busquedas de emergentes",
         "",
         ", ".join(EMERGENTES),
         "",
         "## Criterios",
         "",
-        f"- Máximo total: {MAX_RESULTADOS} clips.",
-        f"- Máximo de Westcol: {MAX_WESTCOL}.",
-        f"- Máximo por creador identificado: {MAX_POR_CREADOR}.",
-        f"- Máximo por canal emergente: {MAX_POR_EMERGENTE}.",
-        "- Prioridad: principales, emergentes y luego influencers.",
-        "- Los emergentes se marcan para revisión manual.",
+        "- Maximo total: {} clips.".format(MAX_RESULTADOS),
+        "- Maximo de Westcol: {}.".format(MAX_WESTCOL),
+        "- Maximo por creador identificado: {}.".format(
+            MAX_POR_CREADOR
+        ),
+        "- Maximo por cuenta de clips: {}.".format(
+            MAX_POR_CUENTA_CLIPS
+        ),
+        "- Maximo por canal emergente: {}.".format(
+            MAX_POR_EMERGENTE
+        ),
+        "- Prioridad: principales, cuentas de clips, emergentes e influencers.",
+        "- Se buscan todas las categorias en cada ejecucion.",
+        "- Los emergentes se marcan para revision manual.",
         "- Ventana temporal: 48 horas.",
-        "- Deduplicación por enlace.",
+        "- Deduplicacion por enlace.",
         "- Noticias separadas de los clips.",
         "",
         "## Limitaciones",
         "",
         (
-            "Las búsquedas públicas no garantizan cobertura completa "
-            "de YouTube, Kick o TikTok. Los canales emergentes necesitan "
-            "verificación manual."
+            "Las busquedas publicas no garantizan cobertura completa "
+            "de YouTube, Kick o TikTok. El numero de resultados depende "
+            "de lo que devuelva el buscador y de las fechas disponibles."
         ),
         (
             "No descargues ni republices videos ajenos sin permiso. "
-            "Añade comentario, análisis o contexto original y revisa "
-            "las políticas de monetización de cada plataforma."
+            "Anade comentario, analisis o contexto original y revisa "
+            "las politicas de monetizacion de cada plataforma."
         ),
         "",
     ])
@@ -716,8 +918,9 @@ def escribir_informe(clips, noticias):
     SALIDA.write_text("\n".join(lineas), encoding="utf-8")
 
     print(
-        f"Informe guardado: {SALIDA} | "
-        f"clips: {len(clips)} | noticias: {len(noticias)}"
+        "Informe guardado: {} | clips: {} | noticias: {}".format(
+            SALIDA, len(clips), len(noticias)
+        )
     )
 
 
@@ -727,9 +930,14 @@ def escribir_informe(clips, noticias):
 
 def main():
     print("=" * 60)
-    print("RADAR GRATUITO DE CREADORES")
-    print(f"Hora Colombia: {AHORA.strftime('%d/%m/%Y %I:%M %p')}")
-    print(f"Ventana desde: {LIMITE.strftime('%d/%m/%Y %I:%M %p')}")
+    print("RADAR DE CREADORES Y CLIPS")
+    print("Hora Colombia: {}".format(
+        AHORA.strftime("%d/%m/%Y %I:%M %p")
+    ))
+    print("Ventana desde: {}".format(
+        LIMITE.strftime("%d/%m/%Y %I:%M %p")
+    ))
+    print("Maximo de clips: {}".format(MAX_RESULTADOS))
     print("=" * 60)
 
     clips = recopilar_clips()
