@@ -1,0 +1,41 @@
+name: Generar Short narrado de Clips Colombia
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generar-short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar FFmpeg y fuentes
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: python -m pip install requests pillow edge-tts
+
+      - name: Generar video narrado vertical
+        run: python scripts/generar_short.py
+
+      - name: Guardar video y fuentes como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: clips-colombia-short
+          path: |
+            salida/clips_colombia_short.mp4
+            salida/fuentes.txt
+          if-no-files-found: error
+          retention-days: 7
