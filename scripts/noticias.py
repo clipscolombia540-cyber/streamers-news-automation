@@ -308,10 +308,10 @@ def es_cuenta_de_clips(video):
 
 
 def parece_contenido_de_creadores(video, consulta=""):
-    """Filtra ruido general y conserva candidatos de búsquedas específicas de la red Jaapz."""
-    titulo = normalizar(video.get("titulo", ""))
-    canal = normalizar(video.get("canal", ""))
-    texto = "{} {}".format(titulo, canal)
+    """Filtra ruido general y permite candidatos de búsquedas de la red Jaapz."""
+    texto = normalizar("{} {}".format(
+        video.get("titulo", ""), video.get("canal", "")
+    ))
     consulta_norm = normalizar(consulta)
 
     senales_stream = (
@@ -323,29 +323,22 @@ def parece_contenido_de_creadores(video, consulta=""):
         "colombia", "colombiano", "colombiana", "colombianos",
         "colombianas", "colombian",
     )
+    tiene_senal_stream = any(normalizar(p) in texto for p in senales_stream)
+    tiene_contexto_colombiano = any(
+        normalizar(p) in texto for p in senales_colombia
+    )
 
-    tiene_senal_stream = any(p in texto for p in senales_stream)
-    tiene_contexto_colombiano = any(p in texto for p in senales_colombia)
-
-    # La consulta específica ya acota la búsqueda a la red de Jaapz.
-    # Permite revisar candidatos sin exigir que el resultado repita "Colombia".
+    # Normalizamos tanto consulta como términos: no depender de espacios o guiones.
     terminos_red = (
         "jaapz", "jaap z", "jaap_z", "monocol_r", "monocol r", "zaviel7",
         "zaviel 7", "parchando con el jaap", "noche de terror con jaap",
     )
-    consulta_de_red = (
-        any(normalizar(termino) in consulta_norm for termino in terminos_red)
-        or ("jaap" in consulta_norm and any(
-            nombre in consulta_norm for nombre in ("zaviel7", "monocolr", "jaapz")
-        ))
+    consulta_de_red = any(
+        normalizar(termino) in consulta_norm for termino in terminos_red
     )
-
-    # En búsquedas de la red Jaapz, el propio nombre del colaborador
-    # puede identificar el resultado aunque título/canal no diga "stream".
-    nombres_red = ("jaapz", "jaapz", "monocolr", "zaviel7")
+    nombres_red = ("jaapz", "jaap z", "monocol_r", "monocol r", "zaviel7", "zaviel 7")
     resultado_de_red = any(normalizar(nombre) in texto for nombre in nombres_red)
 
-    # Las búsquedas generales mantienen el filtro estricto anti-ruido.
     if consulta_de_red:
         return tiene_senal_stream or resultado_de_red
     return tiene_senal_stream and tiene_contexto_colombiano
