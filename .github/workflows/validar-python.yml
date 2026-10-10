@@ -25,7 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install requests yt-dlp
       - name: Comprobar sintaxis
-        run: python -m py_compile scripts/noticias.py scripts/tiktok.py
+        run: |
+          python -m py_compile scripts/noticias.py scripts/tiktok.py scripts/test_filtros.py
+          python -m unittest scripts.test_filtros
       - name: Ejecutar radar de clips y noticias
         run: python scripts/noticias.py
       - name: Ejecutar radar de TikTok
