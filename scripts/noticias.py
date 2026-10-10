@@ -589,10 +589,9 @@ def recopilar_cuentas_clips():
     encontrados = []
 
     for indice, cuenta in enumerate(CUENTAS_CLIPS, 1):
+        # Una consulta combinada por cuenta evita repetir búsquedas casi idénticas.
         consultas = [
-            "{} clips en español".format(cuenta),
-            "{} momentos en español".format(cuenta),
-            "{} shorts en español".format(cuenta),
+            "{} clips shorts momentos en español Colombia".format(cuenta),
         ]
 
         for consulta in consultas:
