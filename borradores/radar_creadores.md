@@ -1,73 +1,38 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 09:17 PM (hora de Colombia)
+Actualizado: 09/10/2026 09:37 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 3.
+Clips incluidos: 1.
 Noticias recientes: 7.
-Distribución por categoría: Cuenta de clips: 1, Influencer de respaldo: 2.
+Distribución por categoría: Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: muñetones clips
-- Canal que publico: muñetones clips
-- Publicado: 09/10/2026 07:00 AM
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=Q-lZzChlayU
-
-### Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum | Lo Sé Todo
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Luisa Fernanda W
-- Canal que publico: Lo Sé Todo Colombia
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=LrTqmUJoTOE
-
-### Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcohol y cómo Dios cambió su vida
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Luisa Fernanda W
-- Canal que publico: Candela Estéreo
-- Publicado: 09/10/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=NB1CAPt97eA
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: muñetones clips? 👀
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: muñetones clips.
-- **Título sugerido:** ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
-- **Texto en pantalla:** ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
-- **Descripción:** Fragmento relacionado con Cuenta de clips: muñetones clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Q-lZzChlayU
-
-### Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum | Lo Sé Todo
-- **Gancho A:** ¿Ya habías visto este momento de Luisa Fernanda W? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Luisa Fernanda W.
-- **Título sugerido:** Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum | Lo Sé Todo
-- **Texto en pantalla:** Pipe Bueno habla sobre su boda con Luisa Fernanda W y su nuevo álbum |
-- **Descripción:** Fragmento relacionado con Luisa Fernanda W. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=LrTqmUJoTOE
-
-### Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcohol y cómo Dios cambió su vida
-- **Gancho A:** ¿Ya habías visto este momento de Luisa Fernanda W? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Luisa Fernanda W.
-- **Título sugerido:** Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcohol y cómo Dios cambió su vida
-- **Texto en pantalla:** Pipe Bueno habla de su boda con Luisa Fernanda W, del pasado, el alcoh
-- **Descripción:** Fragmento relacionado con Luisa Fernanda W. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=NB1CAPt97eA
+- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Noticias y contexto
 

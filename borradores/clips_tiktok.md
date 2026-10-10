@@ -1,9 +1,9 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 10/10/2026 02:19 UTC
+**Actualizado:** 10/10/2026 02:39 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 1
-**Estado de configuración:** Aviso: TIKTOK_FEEDS no está configurado; se usa únicamente el feed predeterminado de Westcol. Para ampliar la cobertura, configura feeds RSS recientes de varios creadores en el secreto de GitHub.
+**Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos: o Recortes: para priorizar cuentas que publican clips de terceros.
 **Publicaciones leídas:** 15
 **Publicaciones encontradas:** 0
 **Distribución por tipo:** sin publicaciones recientes
