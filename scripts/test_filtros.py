@@ -11,6 +11,12 @@ from scripts.noticias import (
 
 
 class FiltroEmergentesTests(unittest.TestCase):
+    def test_busquedas_de_red_jaapz_incluyen_vods_y_grupo(self):
+        from scripts.noticias import EMERGENTES
+        self.assertIn("Parchando con el Jaap Kick", EMERGENTES)
+        self.assertIn("Parchando con los reales streamer Colombia Kick", EMERGENTES)
+        self.assertIn("Jaap_Z invitados directo Colombia", EMERGENTES)
+
     def test_detecta_creadores_relacionados_con_jaapz(self):
         self.assertEqual(
             detectar_creador({"titulo": "Noche de terror con Jaap", "canal": "ZaViel7"}),
