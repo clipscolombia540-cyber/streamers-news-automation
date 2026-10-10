@@ -546,7 +546,7 @@ def recopilar_principales():
     # gastar cupos en búsquedas demasiado generales de videos oficiales.
     formatos = (
         "clips en español",
-        "momentos en español",
+        # Se priorizan consultas complementarias para reducir tiempo total.
         "shorts en español",
         "clip de terceros",
         "mejores clips",
