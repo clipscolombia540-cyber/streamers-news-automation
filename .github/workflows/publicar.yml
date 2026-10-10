@@ -1,0 +1,101 @@
+name: Publicar video en YouTube Shorts y TikTok
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_url:
+        description: "URL HTTPS directa al MP4 autorizado (no URL de YouTube/TikTok)"
+        required: true
+        type: string
+      title:
+        description: "Título / caption"
+        required: true
+        type: string
+      description:
+        description: "Descripción para YouTube"
+        required: false
+        type: string
+      tags:
+        description: "Hashtags separados por coma, sin # obligatorio"
+        required: false
+        default: "StreamersColombia,ClipsColombia,Shorts"
+        type: string
+      platforms:
+        description: "Dónde publicar"
+        required: true
+        default: "youtube,tiktok"
+        type: choice
+        options:
+          - youtube,tiktok
+          - youtube
+          - tiktok
+      youtube_privacy:
+        description: "Privacidad de YouTube (primera prueba recomendada: private)"
+        required: true
+        default: "private"
+        type: choice
+        options:
+          - private
+          - unlisted
+          - public
+      tiktok_privacy:
+        description: "Privacidad de TikTok (primera prueba recomendada: SELF_ONLY)"
+        required: true
+        default: "SELF_ONLY"
+        type: choice
+        options:
+          - SELF_ONLY
+          - PUBLIC_TO_EVERYONE
+          - MUTUAL_FOLLOW_FRIENDS
+          - FOLLOWER_OF_CREATOR
+      confirm_rights:
+        description: "Confirmo que tengo derechos/permiso para publicar este video"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publicar-video-redes
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    if: ${{ inputs.confirm_rights == true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Descargar código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencia
+        run: python -m pip install requests
+
+      - name: Publicar video seleccionado
+        env:
+          VIDEO_URL: ${{ inputs.video_url }}
+          VIDEO_TITLE: ${{ inputs.title }}
+          VIDEO_DESCRIPTION: ${{ inputs.description }}
+          VIDEO_TAGS: ${{ inputs.tags }}
+          PUBLISH_TO: ${{ inputs.platforms }}
+          YOUTUBE_PRIVACY: ${{ inputs.youtube_privacy }}
+          TIKTOK_PRIVACY: ${{ inputs.tiktok_privacy }}
+          CONFIRM_RIGHTS: ${{ inputs.confirm_rights }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+        run: python scripts/publicar.py
+
+      - name: No publicar sin confirmación de derechos
+        if: ${{ inputs.confirm_rights != true }}
+        run: |
+          echo "Publicación detenida: no se confirmó que el video se puede publicar."
+          exit 1
