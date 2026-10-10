@@ -40,3 +40,34 @@ Desde el navegador del celular:
 El informe muestra cuántos feeds se consultaron, publicaciones leídas y cuántas tenían fecha verificable en las últimas 48 horas. Si todos los posts son antiguos, revisa si el proveedor RSS sigue actualizando ese feed o genera uno nuevo.
 
 **Importante:** el informe es una lista de candidatos, no una autorización para republicar. Verifica el video completo, el contexto, las reglas de la plataforma y los permisos correspondientes antes de publicar.
+
+
+## Publicar automáticamente en YouTube Shorts y TikTok
+
+El workflow `.github/workflows/publicar.yml` automatiza la carga del archivo y la publicación en las dos plataformas. La primera versión se ejecuta manualmente desde GitHub Actions; no publica por su cuenta los enlaces del radar porque esos enlaces no son archivos editados ni implican permiso para reutilizar el contenido.
+
+### Preparar secretos de GitHub
+
+Abre **Settings → Secrets and variables → Actions → New repository secret**. Crea los secretos necesarios:
+
+- `YOUTUBE_CLIENT_ID`
+- `YOUTUBE_CLIENT_SECRET`
+- `YOUTUBE_REFRESH_TOKEN`
+- `TIKTOK_ACCESS_TOKEN`
+
+Para YouTube, configura un proyecto en [Google Cloud Console](https://console.cloud.google.com/), habilita **YouTube Data API v3**, configura OAuth para el canal correcto y genera un refresh token con el alcance `https://www.googleapis.com/auth/youtube.upload`. No uses una cuenta de servicio para YouTube.
+
+Para TikTok, registra una aplicación en [TikTok for Developers](https://developers.tiktok.com/), agrega **Content Posting API**, consigue aprobación para `video.publish` y autoriza la cuenta que va a publicar. TikTok restringe a privado el contenido publicado por clientes que todavía no hayan pasado su auditoría; la publicación pública depende de esa aprobación. El token de TikTok puede caducar y deberá renovarse cuando corresponda.
+
+**Nunca pegues tokens, contraseñas ni secretos en el código, en los informes o en este chat.** Guárdalos únicamente en GitHub Secrets.
+
+### Ejecutar una publicación de prueba
+
+1. Prepara un MP4 vertical 9:16 con edición, subtítulos y aporte original; utiliza material propio o con permiso explícito.
+2. Hospeda el archivo en una URL HTTPS directa al MP4 que GitHub Actions pueda descargar. No uses la página de un video de YouTube o TikTok como `VIDEO_URL`.
+3. Abre **Actions → Publicar video en YouTube Shorts y TikTok → Run workflow**.
+4. Introduce la URL, título, descripción y hashtags.
+5. Para la primera prueba, deja YouTube en `private` y TikTok en `SELF_ONLY`; marca la confirmación de derechos solo si realmente tienes autorización.
+6. Ejecuta el workflow y revisa el resultado en cada cuenta antes de cambiar la privacidad a pública.
+
+El publicador limita la descarga a 250 MB por video. Esta primera versión no crea ni edita videos a partir de los candidatos del radar, no programa publicaciones futuras y no salta las aprobaciones de las plataformas. La selección de material autorizado y la URL del MP4 siguen siendo entradas necesarias.
