@@ -48,6 +48,9 @@ class FiltroEmergentesTests(unittest.TestCase):
     def test_no_asume_ingles_por_nombre_corto(self):
         self.assertFalse(titulo_probablemente_en_ingles("Westcol vs Mr Stiven"))
 
+    def test_no_descarta_por_dos_palabras_inglesas_ambiguas(self):
+        self.assertFalse(titulo_probablemente_en_ingles("Westcol official video"))
+
 
 if __name__ == "__main__":
     unittest.main()
