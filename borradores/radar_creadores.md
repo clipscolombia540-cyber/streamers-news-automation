@@ -1,35 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:16 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:18 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 11:00 PM
+- Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.418
+- Vistas reportadas por YouTube: 14.419
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
-
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 260
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -37,19 +27,31 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.069
+- Vistas reportadas por YouTube: 5.136
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 10/10/2026 12:00 AM
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 09/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=erGVN-STuG8
+- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
+
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.739
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -67,45 +69,36 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
-- Publicado: 09/10/2026 11:57 PM
+- Publicado: 09/10/2026 11:58 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 768
+- Vistas reportadas por YouTube: 913
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 09/10/2026 11:57 PM
+### 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: momentoswestcolhd
+- Creador relacionado en el título: Westcol
+- Canal que publico: momentoswestcolhd
+- Publicado: 09/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+- Enlace directo: https://www.youtube.com/watch?v=oT89bYMw91M
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Texto en pantalla:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
-
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Texto en pantalla:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
+- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -117,15 +110,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Texto en pantalla:** ZILVERK MUERE EN EL LIMBO en el Dedsafio 4 Minecraft
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=erGVN-STuG8
+- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -147,15 +140,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Texto en pantalla:** ✨MrStiven PLAYS FREE FIRE LIKE IT'S 2020 AGAIN!! 😈🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
+- **Texto en pantalla:** 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
+- **Fuente original:** https://www.youtube.com/watch?v=oT89bYMw91M
 
 ## Noticias y contexto
 
@@ -192,8 +185,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=erGVN-STuG8
   - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=erGVN-STuG8
 
 ## Busquedas de emergentes
 
