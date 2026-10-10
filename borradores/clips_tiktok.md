@@ -1,10 +1,10 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 10/10/2026 03:46 UTC
+**Actualizado:** 10/10/2026 03:51 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
-**Publicaciones leídas:** 105
+**Publicaciones leídas:** 106
 **Publicaciones encontradas:** 24
 **Distribución por tipo:** Cuenta de clips/terceros: 24
 
@@ -12,7 +12,7 @@
 - Sin fecha verificable: 0
 - Más antiguas que 48 horas: 50
 - Con fecha futura: 0
-- Dentro del periodo antes de quitar duplicados: 55
+- Dentro del periodo antes de quitar duplicados: 56
 - Duplicadas: 0
 
 > Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
@@ -26,8 +26,8 @@
 ## 2. #lonche #samulx #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 02:16 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694857273918721287
+- **Fecha reportada:** 10/10/2026 03:14 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694872136539819282
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -41,11 +41,11 @@
 - **Fecha reportada:** 10/10/2026 03:18 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7694873180799847688
 
-## 5. WestCOL dejó en visto a Alina Rose 😬 #lonche #samulx #soypan #westcol
+## 5. WestCOL y Lonche están descubriendo muchas 💣 #lonche #samulx #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 02:01 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694853422230785288
+- **Fecha reportada:** 10/10/2026 02:44 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694864455548554504
 
 ## 6. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -59,11 +59,11 @@
 - **Fecha reportada:** 10/10/2026 02:57 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7694867925097925896
 
-## 8. #westcol
+## 8. #lonche #samulx #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 01:56 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694852111502167302
+- **Fecha reportada:** 10/10/2026 02:16 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694857273918721287
 
 ## 9. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -77,11 +77,11 @@
 - **Fecha reportada:** 10/10/2026 02:41 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7694863778613071156
 
-## 11. Dejaron a Lonche solo con la chica  #lonche #samulx #soypan #westcol
+## 11. WestCOL dejó en visto a Alina Rose 😬 #lonche #samulx #soypan #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 01:56 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694852176052489490
+- **Fecha reportada:** 10/10/2026 02:01 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694853422230785288
 
 ## 12. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -98,8 +98,8 @@
 ## 14. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 01:24 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694843911889571073
+- **Fecha reportada:** 10/10/2026 01:56 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694852111502167302
 
 ## 15. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -113,11 +113,11 @@
 - **Fecha reportada:** 10/10/2026 02:23 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7694859137372622098
 
-## 17. #westcol
+## 17. Dejaron a Lonche solo con la chica  #lonche #samulx #soypan #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 01:19 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694842731381738760
+- **Fecha reportada:** 10/10/2026 01:56 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694852176052489490
 
 ## 18. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -134,8 +134,8 @@
 ## 20. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 01:17 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694842043310427400
+- **Fecha reportada:** 10/10/2026 01:24 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694843911889571073
 
 ## 21. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -152,8 +152,8 @@
 ## 23. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 01:12 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694840759597452596
+- **Fecha reportada:** 10/10/2026 01:19 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7694842731381738760
 
 ## 24. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros

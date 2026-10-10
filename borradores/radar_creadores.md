@@ -1,23 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 10:43 PM (hora de Colombia)
+Actualizado: 09/10/2026 10:47 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 13.
+Clips incluidos: 16.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influencer de respaldo: 3.
+Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 5, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Eufonia Studio
-- Publicado: 09/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
 ### ELDED REACCIONA A LOS MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 16
 - Categoria: Clip de terceros
@@ -25,15 +17,19 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: FAN DEL DED
 - Publicado: 09/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 53.495
+- Puntaje heurístico de interés: 12
 - Enlace directo: https://www.youtube.com/watch?v=L-Kww7DdF3M
 
-### 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Pedricoking
-- Publicado: 09/10/2026 09:58 PM
+- Canal que publico: Eufonia Studio
+- Publicado: 09/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=pxNTZP8ZXCw
+- Vistas reportadas por YouTube: 24.380
+- Puntaje heurístico de interés: 11
+- Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
 ### MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
 - Categoria: Clip de terceros
@@ -41,6 +37,8 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: FAN DEL DED
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 29.898
+- Puntaje heurístico de interés: 11
 - Enlace directo: https://www.youtube.com/watch?v=zkkAGZeARNA
 
 ### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
@@ -49,23 +47,9 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: GirlOfNox Live
 - Publicado: 09/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.314
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=gz23gl74-AY
-
-### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 15
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=tW-Q2AGnSKs
-
-### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=XyxXs4XcOYI
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
@@ -73,7 +57,39 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: Aquiso Clips
 - Publicado: 09/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 14.345
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 15
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.530
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=tW-Q2AGnSKs
+
+### 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Pedricoking
+- Publicado: 09/10/2026 09:58 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 91
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=pxNTZP8ZXCw
+
+### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 11
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=XyxXs4XcOYI
 
 ### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - Categoria: Clip de terceros
@@ -81,7 +97,31 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: Thomas godenzi
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 09/10/2026 10:46 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=VBKTaulgNzU
+
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.620
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### #shorts #westcol
 - Categoria: Cuenta de clips
@@ -90,7 +130,30 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: Clipazo
 - Publicado: 09/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 792
+- Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NqDGmctfwV4
+
+### ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: muñetones clips
+- Canal que publico: muñetones clips
+- Publicado: 09/10/2026 07:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 43
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=Q-lZzChlayU
+
+### Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Wclipskick
+- Creador relacionado en el título: Westcol
+- Canal que publico: Wclipskick
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=0JSgRLnQOdg
 
 ### Yina Calderón incendia con lo que dijo de Randy y otro famoso cantante | En Casa Con Telemundo
 - Categoria: Influencer de respaldo
@@ -98,6 +161,8 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: En Casa Con Telemundo
 - Publicado: 09/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.046
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=e47xfq169vM
 
 ### EL AGROPECUARIO: Yina Calderón y Westcol HABLAN de Los Videos FILTRADOS
@@ -114,21 +179,13 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Influence
 - Canal que publico: En Casa Con Telemundo
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.142
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lO1IYD9EJgk
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Texto en pantalla:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufoni
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
 ### ELDED REACCIONA A LOS MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 16
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -140,15 +197,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=L-Kww7DdF3M
 
-### 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
-- **Texto en pantalla:** 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Título sugerido:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Texto en pantalla:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufoni
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pxNTZP8ZXCw
+- **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
 ### MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -170,6 +227,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=gz23gl74-AY
 
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
+
 ### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 15
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -179,6 +246,86 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tW-Q2AGnSKs
+
+### 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Texto en pantalla:** 🤔LLEGA ROIER Y SE VA DED MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 18 😂
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pxNTZP8ZXCw
+
+### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 16
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gz23gl74-AY
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+
+### Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemando 🐓) I LonchiClips
+- **Texto en pantalla:** Lonche y Willito x Kris de T3r Elemento (Platicando, tomando y quemand
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=VBKTaulgNzU
+
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Texto en pantalla:** MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yF3YeJBlVMs
+
+### #shorts #westcol
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** #shorts #westcol
+- **Texto en pantalla:** #shorts #westcol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NqDGmctfwV4
+
+### ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: muñetones clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: muñetones clips.
+- **Título sugerido:** ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- **Texto en pantalla:** ¿justicia o exceso? EPA COLOMBIA se lo merecia: el Muñe
+- **Descripción:** Fragmento relacionado con Cuenta de clips: muñetones clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Q-lZzChlayU
+
+### Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #diversion #humor
+- **Texto en pantalla:** Westcol y Blessd con el robot 😂😂 #shorts #westcol #blessd #risas #dive
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0JSgRLnQOdg
 
 ### MUERTE DE JUANSGUARNIZO en Dedsafio 4 Minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
