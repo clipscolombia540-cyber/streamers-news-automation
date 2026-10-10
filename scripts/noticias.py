@@ -46,14 +46,18 @@ CREADORES = [
 
 # Busquedas abiertas para descubrir creadores que aun no conocemos.
 EMERGENTES = [
-    "streamer colombiano Kick",
-    "streamer colombiano viral",
-    "clips streamers Colombia",
-    "streamer colombiano directo",
-    "clips Kick Colombia",
-    "clips streamers colombianos hoy",
+    "clips streamers colombianos ultimas horas",
+    "momentos streamers colombianos Kick",
     "mejores clips Kick Colombia",
-    "streamer colombiano reaccion viral",
+    "streamer colombiano viral directo",
+    "recortes directos streamers Colombia",
+    "clips twitch Colombia streamer",
+    "streamer emergente colombiano",
+    "nuevo streamer colombiano Kick",
+    "clips de streamers colombianos hoy",
+    "reacciones streamers colombianos",
+    "momentos virales Kick español Colombia",
+    "clips creadores colombianos directos",
 ]
 
 # Cuentas y canales que publican clips.
@@ -63,6 +67,10 @@ CUENTAS_CLIPS = [
     "West Clips Colombia",
     "Clips de streamers Colombia",
     "Clips Kick Colombia",
+    "Clips Colombia",
+    "Momentos de Streamers",
+    "Recortes de Streamers",
+    "Clips de Kick Colombia",
 ]
 
 INFLUENCERS = [
@@ -109,6 +117,10 @@ ALIASES_CUENTAS_CLIPS = [
     "clip colombia",
     "clips de kick",
     "recortes de streamers",
+    "momentos de streamers",
+    "streamer colombiano clips",
+    "clips colombianos",
+    "clips de colombia",
 ]
 
 CABECERAS = {
@@ -196,23 +208,42 @@ def es_cuenta_de_clips(video):
 
 
 def parece_contenido_de_creadores(video):
-    texto = normalizar(
-        "{} {}".format(
-            video.get("titulo", ""),
-            video.get("canal", ""),
-        )
+    """Filtro conservador para que las busquedas abiertas no acepten cualquier viral."""
+    titulo = normalizar(video.get("titulo", ""))
+    canal = normalizar(video.get("canal", ""))
+    texto = "{} {}".format(titulo, canal)
+
+    senales_stream = (
+        "streamer", "streamers", "kick", "twitch", "directo",
+        "directos", "stream", "clips", "clip", "recortes",
+        "momentos de stream",
+    )
+    senales_contexto = (
+        "colombia", "colombiano", "colombiana", "colombianos",
+        "streamer", "kick", "twitch", "directo", "clips",
+        "clip", "recortes", "momentos", "reaccion", "reacciones",
     )
 
-    palabras = [
-        "streamer", "stream", "kick", "twitch", "directo",
-        "directos", "clip", "clips", "viral", "gaming",
-        "gameplay", "colombia", "colombiano", "colombiana",
-        "reaccion", "reacciones", "podcast", "creador",
-        "creadores", "influencer", "influencers", "shorts",
-    ]
+    tiene_senal_stream = any(p in texto for p in senales_stream)
+    tiene_contexto = any(p in texto for p in senales_contexto)
+    # Evita que una palabra aislada como "viral", "gaming" o "shorts"
+    # convierta un video de futbol, Pokemon u otro tema en un resultado.
+    tiene_formato_clip = any(
+        p in texto for p in ("clip", "clips", "recortes", "momentos", "directo", "streamer", "kick", "twitch")
+    )
+    return tiene_senal_stream and tiene_contexto and tiene_formato_clip
 
-    return any(normalizar(p) in texto for p in palabras)
 
+def canal_parece_oficial(video, creador):
+    """Descarta publicaciones del canal oficial al buscar recortes de terceros."""
+    canal = normalizar(video.get("canal", ""))
+    alias = ALIASES_CREADORES.get(creador, [normalizar(creador)])
+    palabras_clip = ("clip", "clips", "recortes", "momentos", "fan", "fans")
+    if any(p in canal for p in palabras_clip):
+        return False
+    return any(normalizar(a) == canal for a in alias if normalizar(a)) or any(
+        normalizar(a) in canal and len(normalizar(a)) >= 5 for a in alias
+    )
 
 def clasificar_video(video, categoria_preferida=None):
     """
@@ -415,27 +446,21 @@ def buscar_youtube(consulta):
 # ============================================================
 
 def recopilar_principales():
+    """Busca recortes de terceros de creadores conocidos, no solo canales oficiales."""
     encontrados = []
     consultas = []
+    formatos = ("clips", "momentos", "clip kick", "recortes", "shorts")
 
     for creador in CREADORES:
-        consultas.append((creador, "{} clips".format(creador)))
-        consultas.append((creador, "{} shorts".format(creador)))
+        for formato in formatos:
+            consultas.append((creador, "{} {}".format(creador, formato)))
 
     for indice, (creador, consulta) in enumerate(consultas, 1):
-        print(
-            "[Principales {}/{}] {}".format(
-                indice, len(consultas), consulta
-            )
-        )
+        print("[Clips de terceros {}/{}] {}".format(indice, len(consultas), consulta))
 
         for video in buscar_youtube(consulta):
-            # Una cuenta de clips debe quedar separada,
-            # incluso cuando el titulo mencione al streamer.
             if es_cuenta_de_clips(video):
-                video["creador"] = "Cuenta de clips: {}".format(
-                    video["canal"]
-                )
+                video["creador"] = "Cuenta de clips: {}".format(video.get("canal", "Canal no identificado"))
                 video["categoria"] = "Cuenta de clips"
                 encontrados.append(video)
                 continue
@@ -444,12 +469,15 @@ def recopilar_principales():
             if detectado != creador:
                 continue
 
+            if canal_parece_oficial(video, creador):
+                print("  Canal oficial omitido para priorizar terceros: {}".format(video.get("canal", "")))
+                continue
+
             video["creador"] = detectado
-            video["categoria"] = "Principal"
+            video["categoria"] = "Clip de terceros"
             encontrados.append(video)
 
     return encontrados
-
 
 def recopilar_cuentas_clips():
     encontrados = []
@@ -594,10 +622,11 @@ def quitar_duplicados(videos):
 
 def seleccionar_clips(videos):
     prioridad = {
-        "Principal": 0,
+        "Clip de terceros": 0,
         "Cuenta de clips": 1,
         "Emergente por verificar": 2,
         "Influencer de respaldo": 3,
+        "Principal": 4,
     }
 
     videos = sorted(
@@ -620,7 +649,7 @@ def seleccionar_clips(videos):
 
         if creador.lower() == "westcol":
             limite = MAX_WESTCOL
-        elif categoria == "Cuenta de clips":
+        elif categoria in ("Cuenta de clips", "Clip de terceros"):
             limite = MAX_POR_CUENTA_CLIPS
         elif categoria == "Emergente por verificar":
             limite = MAX_POR_EMERGENTE
@@ -634,7 +663,6 @@ def seleccionar_clips(videos):
         conteo[creador] = conteo.get(creador, 0) + 1
 
     return seleccionados
-
 
 def recopilar_clips():
     # Todas las categorias se buscan en cada ejecucion.
