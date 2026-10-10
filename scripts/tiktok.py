@@ -150,34 +150,52 @@ def crear_informe():
     limite = ahora - timedelta(hours=HORAS)
 
     encontrados = {}
+    diagnostico = {
+        "leidas": 0,
+        "sin_fecha": 0,
+        "fuera_periodo_antiguas": 0,
+        "fecha_futura": 0,
+        "duplicadas": 0,
+        "dentro_periodo": 0,
+    }
 
     for creador, url in FEEDS.items():
         print(f"Consultando TikTok de {creador}...")
 
         publicaciones = leer_feed(creador, url)
+        diagnostico["leidas"] += len(publicaciones)
 
         for item in publicaciones:
             fecha = item["fecha"]
 
-            # No inventar ni asumir fechas que no estén verificadas.
             if fecha is None:
+                diagnostico["sin_fecha"] += 1
                 print(
                     "Publicación omitida por fecha desconocida: "
                     + item["titulo"]
                 )
                 continue
 
-            if fecha < limite or fecha > ahora:
+            if fecha > ahora:
+                diagnostico["fecha_futura"] += 1
                 continue
 
+            if fecha < limite:
+                diagnostico["fuera_periodo_antiguas"] += 1
+                continue
+
+            diagnostico["dentro_periodo"] += 1
             clave = re.sub(
                 r"[^a-z0-9]",
                 "",
                 item["enlace"].lower().rstrip("/")
             )
 
-            if clave not in encontrados:
-                encontrados[clave] = item
+            if clave in encontrados:
+                diagnostico["duplicadas"] += 1
+                continue
+
+            encontrados[clave] = item
 
     lista = sorted(
         encontrados.values(),
@@ -191,7 +209,15 @@ def crear_informe():
         f"**Actualizado:** {ahora.strftime('%d/%m/%Y %H:%M UTC')}",
         f"**Periodo revisado:** últimas {HORAS} horas",
         f"**Feeds configurados:** {len(FEEDS)}",
+        f"**Publicaciones leídas:** {diagnostico['leidas']}",
         f"**Publicaciones encontradas:** {len(lista)}",
+        "",
+        "## Diagnóstico del feed",
+        f"- Sin fecha verificable: {diagnostico['sin_fecha']}",
+        f"- Más antiguas que {HORAS} horas: {diagnostico['fuera_periodo_antiguas']}",
+        f"- Con fecha futura: {diagnostico['fecha_futura']}",
+        f"- Dentro del periodo antes de quitar duplicados: {diagnostico['dentro_periodo']}",
+        f"- Duplicadas: {diagnostico['duplicadas']}",
         "",
         "> Este informe depende de los feeds RSS configurados. "
         "No representa todo TikTok. Verifica el contenido y el enlace "
@@ -200,22 +226,34 @@ def crear_informe():
     ]
 
     if not lista:
+        if diagnostico["leidas"] and diagnostico["fuera_periodo_antiguas"] == diagnostico["leidas"]:
+            motivo = (
+                "El feed sí entregó publicaciones, pero todas son más antiguas "
+                f"que {HORAS} horas. Puede que el feed esté desactualizado."
+            )
+        elif diagnostico["sin_fecha"]:
+            motivo = (
+                "Algunas publicaciones no traen fecha verificable; no se "
+                "incluyen para evitar presentar contenido viejo como nuevo."
+            )
+        else:
+            motivo = (
+                "El feed no entregó publicaciones con fecha verificable "
+                f"dentro de las últimas {HORAS} horas."
+            )
+
         lineas.extend([
-            "No se encontraron publicaciones con fecha verificable "
-            "dentro del periodo revisado.",
+            "No se encontraron publicaciones recientes verificables.",
             "",
-            "Esto no confirma que no existan videos nuevos. "
-            "Puede que el feed no los haya entregado o que no incluya "
-            "fechas verificables.",
+            motivo,
+            "Esto no confirma que no existan videos nuevos en TikTok; "
+            "solo describe lo que entregó el feed configurado.",
             "",
         ])
 
     else:
         for numero, item in enumerate(lista, start=1):
-            fecha = item["fecha"].strftime(
-                "%d/%m/%Y %H:%M UTC"
-            )
-
+            fecha = item["fecha"].strftime("%d/%m/%Y %H:%M UTC")
             lineas.extend([
                 f"## {numero}. {item['titulo']}",
                 f"- **Creador:** {item['creador']}",
@@ -227,13 +265,10 @@ def crear_informe():
     carpeta = os.path.dirname(ARCHIVO_SALIDA)
     os.makedirs(carpeta, exist_ok=True)
 
-    with open(
-        ARCHIVO_SALIDA,
-        "w",
-        encoding="utf-8"
-    ) as archivo:
+    with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as archivo:
         archivo.write("\n".join(lineas))
 
+    print("Diagnóstico TikTok: " + str(diagnostico))
     print(f"Informe guardado en {ARCHIVO_SALIDA}")
     print(f"Publicaciones incluidas: {len(lista)}")
 
