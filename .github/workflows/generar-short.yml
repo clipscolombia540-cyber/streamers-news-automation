@@ -31,6 +31,9 @@ jobs:
         run: python -m py_compile scripts/generar_short.py scripts/subir_short_generado.py scripts/publicar.py
 
       - name: Generar video narrado vertical
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: python scripts/generar_short.py
 
       - name: Guardar video y fuentes como artefacto
