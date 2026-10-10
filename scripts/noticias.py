@@ -32,6 +32,7 @@ MAX_POR_CUENTA_CLIPS = 8
 
 CARPETA = Path("borradores")
 SALIDA = CARPETA / "radar_creadores.md"
+CATALOGO_SERIES = CARPETA / "series_detectadas.json"
 
 CREADORES = [
     "Westcol",
@@ -797,17 +798,84 @@ def seleccionar_clips(videos):
 
     return seleccionados
 
+def cargar_catalogo_series():
+    """Lee el catalogo persistente de pistas de series/eventos descubiertos."""
+    try:
+        datos = json.loads(CATALOGO_SERIES.read_text(encoding="utf-8"))
+        pistas = datos.get("series", [])
+        return pistas if isinstance(pistas, list) else []
+    except (OSError, json.JSONDecodeError, AttributeError):
+        return []
+
+
+def guardar_catalogo_series(series):
+    """Guarda pistas nuevas para volver a buscarlas en ejecuciones futuras."""
+    CARPETA.mkdir(parents=True, exist_ok=True)
+    ordenadas = sorted(
+        series.values(),
+        key=lambda item: item.get("ultima_deteccion", ""),
+        reverse=True,
+    )[:100]
+    CATALOGO_SERIES.write_text(
+        json.dumps(
+            {"actualizado": AHORA.isoformat(), "series": ordenadas},
+            ensure_ascii=False,
+            indent=2,
+        ) + "\\n",
+        encoding="utf-8",
+    )
+
+
+def inferir_pista_serie(video):
+    """Extrae un nombre candidato; las pistas inferidas deben revisarse antes de tratarlas como serie confirmada."""
+    titulo = limpiar(video.get("titulo", ""))
+    normal = normalizar(titulo)
+    if "dedsafio" in normal or "dedsafío" in titulo.lower() or "ded safio" in normal:
+        return "DEDsafio Minecraft"
+
+    # Formatos con nombre relativamente identificable.
+    patrones = [
+        r"([A-Z0-9][A-Za-z0-9'’_-]*(?:\\s+[A-Z0-9][A-Za-z0-9'’_-]*){0,3}\\s+SMP)\\b",
+        r"\\b(Minecraft\\s+(?:Extremo|Hardcore))\\b",
+        r"\\b(?:serie|evento)\\s+(?:de\\s+)?Minecraft\\s+(?:con|de)\\s+([A-Za-z0-9'’_-]+(?:\\s+[A-Za-z0-9'’_-]+){0,2})",
+    ]
+    for patron in patrones:
+        coincidencia = re.search(patron, titulo, flags=re.IGNORECASE)
+        if coincidencia:
+            nombre = limpiar(coincidencia.group(1)).strip(" -|:")
+            if len(nombre) >= 4 and normalizar(nombre) not in {
+                "minecraft", "serie de minecraft", "evento de minecraft"
+            }:
+                return nombre
+
+    # Si no se reconoce un nombre formal, conservar una pista del título
+    # para búsquedas posteriores sin presentarla como serie confirmada.
+    limpio = re.sub(
+        r"(?i)\\b(mejores momentos|momentos|reacciones?|muertes?|clips?|shorts?|highlights|resumen|español|espanol|parte \\d+|día \\d+|dia \\d+)\\b",
+        " ",
+        titulo,
+    )
+    limpio = re.sub(r"[|:—–_-]+", " ", limpio)
+    limpio = limpiar(limpio)
+    if len(limpio.split()) >= 2:
+        return limpio[:100]
+    return None
+
+
 def recopilar_clips_programas():
-    """Busca series conocidas y descubre clips de series/eventos nuevos de creadores."""
+    """Busca series conocidas, sigue pistas guardadas y descubre nuevas."""
     encontrados = []
+    catalogo = {
+        normalizar(item.get("nombre", "")): item
+        for item in cargar_catalogo_series()
+        if isinstance(item, dict) and item.get("nombre")
+    }
     consultas = [
-        # Seguimiento de la serie conocida.
         "DEDSAFIO Minecraft clips español",
         "DEDSAFIO 4 mejores momentos",
         "DEDSAFIO Minecraft muertes clips",
         "DEDSAFIO Minecraft reacciones clips",
         "clips DEDSAFIO Westcol Spreen",
-        # Descubrimiento de series y eventos nuevos, sin depender de tener su nombre.
         "clips series Minecraft streamers español",
         "momentos eventos Minecraft creadores clips",
         "nueva serie Minecraft streamers clips español",
@@ -819,20 +887,30 @@ def recopilar_clips_programas():
         "clips eventos streamers español últimas horas",
         "nueva serie de creadores de contenido clips",
     ]
+
+    # Reutilizar pistas de ejecuciones anteriores para buscar más clips del mismo tema.
+    pistas_previas = sorted(
+        catalogo.values(),
+        key=lambda item: item.get("ultima_deteccion", ""),
+        reverse=True,
+    )[:8]
+    for pista in pistas_previas:
+        nombre = limpiar(pista.get("nombre", ""))
+        if nombre and normalizar(nombre) != normalizar("DEDsafio Minecraft"):
+            consultas.append('"{}" clips'.format(nombre[:90]))
+            consultas.append('"{}" mejores momentos'.format(nombre[:90]))
+
     senales_clip = (
         "clip", "clips", "short", "shorts", "momento", "momentos",
         "muerte", "muertes", "reaccion", "reacciones", "resumen",
         "mejores", "highlights", "limbo", "bossfight",
     )
-    for consulta in consultas:
+    for consulta in dict.fromkeys(consultas):
         print("[Series y eventos / descubrimiento] {}".format(consulta))
         for video in buscar_youtube(consulta):
             titulo = normalizar(video.get("titulo", ""))
             canal = normalizar(video.get("canal", ""))
-            es_dedsafio = (
-                "dedsafio" in titulo or "dedsafio" in canal
-                or "dedsafío" in titulo or "ded safio" in titulo
-            )
+            es_dedsafio = "dedsafio" in titulo or "dedsafio" in canal or "ded safio" in titulo
             es_minecraft = "minecraft" in titulo or "minecraft" in canal
             es_evento_o_serie = any(
                 palabra in titulo or palabra in canal
@@ -845,8 +923,6 @@ def recopilar_clips_programas():
             es_clip = any(senal in titulo for senal in senales_clip) or any(
                 palabra in canal for palabra in ("clips", "clip", "recortes", "momentos")
             )
-            # DEDsafio se rastrea por nombre; para series nuevas aceptamos
-            # títulos Minecraft con señales claras de clip/evento/serie.
             es_serie_minecraft = es_minecraft and (es_evento_o_serie or es_clip)
             es_serie_streamers = es_evento_o_serie and es_clip and any(
                 palabra in titulo or palabra in canal
@@ -854,14 +930,37 @@ def recopilar_clips_programas():
             )
             if not es_clip or not (es_dedsafio or es_serie_minecraft or es_serie_streamers):
                 continue
+
             if es_dedsafio:
+                nombre_pista = "DEDsafio Minecraft"
                 video["creador"] = "Programa: DEDsafio Minecraft"
-            elif es_serie_minecraft:
-                video["creador"] = "Series y eventos Minecraft"
             else:
-                video["creador"] = "Series y eventos de streamers"
+                nombre_pista = inferir_pista_serie(video)
+                video["creador"] = (
+                    "Series y eventos Minecraft" if es_serie_minecraft
+                    else "Series y eventos de streamers"
+                )
             video["categoria"] = "Clip de terceros"
             encontrados.append(video)
+
+            if nombre_pista:
+                clave = normalizar(nombre_pista)
+                existente = catalogo.get(clave, {})
+                enlaces = list(existente.get("enlaces", []))
+                if video.get("url") and video["url"] not in enlaces:
+                    enlaces.insert(0, video["url"])
+                catalogo[clave] = {
+                    "nombre": nombre_pista,
+                    "tipo": "serie_o_tema_candidato",
+                    "confirmada": bool(es_dedsafio or existente.get("confirmada", False)),
+                    "primera_deteccion": existente.get("primera_deteccion", AHORA.isoformat()),
+                    "ultima_deteccion": AHORA.isoformat(),
+                    "canal_muestra": video.get("canal", ""),
+                    "enlaces": enlaces[:5],
+                }
+
+    guardar_catalogo_series(catalogo)
+    print("Pistas de series/eventos guardadas en catalogo: {}".format(len(catalogo)))
     return encontrados
 
 
