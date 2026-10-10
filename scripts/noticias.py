@@ -835,9 +835,9 @@ def inferir_pista_serie(video):
 
     # Formatos con nombre relativamente identificable.
     patrones = [
-        r"([A-Z0-9][A-Za-z0-9'’_-]*(?:\\s+[A-Z0-9][A-Za-z0-9'’_-]*){0,3}\\s+SMP)\\b",
-        r"\\b(Minecraft\\s+(?:Extremo|Hardcore))\\b",
-        r"\\b(?:serie|evento)\\s+(?:de\\s+)?Minecraft\\s+(?:con|de)\\s+([A-Za-z0-9'’_-]+(?:\\s+[A-Za-z0-9'’_-]+){0,2})",
+        r"([A-Z0-9][A-Za-z0-9'’_-]*(?:\s+[A-Z0-9][A-Za-z0-9'’_-]*){0,3}\s+SMP)\b",
+        r"\b(Minecraft\s+(?:Extremo|Hardcore))\b",
+        r"\b(?:serie|evento)\s+(?:de\s+)?Minecraft\s+(?:con|de)\s+([A-Za-z0-9'’_-]+(?:\s+[A-Za-z0-9'’_-]+){0,2})",
     ]
     for patron in patrones:
         coincidencia = re.search(patron, titulo, flags=re.IGNORECASE)
@@ -851,7 +851,7 @@ def inferir_pista_serie(video):
     # Si no se reconoce un nombre formal, conservar una pista del título
     # para búsquedas posteriores sin presentarla como serie confirmada.
     limpio = re.sub(
-        r"(?i)\\b(mejores momentos|momentos|reacciones?|muertes?|clips?|shorts?|highlights|resumen|español|espanol|parte \\d+|día \\d+|dia \\d+)\\b",
+        r"(?i)\b(mejores momentos|momentos|reacciones?|muertes?|clips?|shorts?|highlights|resumen|español|espanol|parte \d+|día \d+|dia \d+)\b",
         " ",
         titulo,
     )
