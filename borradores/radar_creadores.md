@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 12:01 AM (hora de Colombia)
+Actualizado: 10/10/2026 12:04 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 6.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Eufonia Studio
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.001
-- Puntaje heurístico de interés: 13
-- Enlace directo: https://www.youtube.com/watch?v=PdBJXZY_208
 
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
@@ -27,19 +17,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Aquiso Clips
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.407
+- Vistas reportadas por YouTube: 14.409
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
-
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 11:11 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 188
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -50,6 +30,17 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Vistas reportadas por YouTube: 4.930
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips Tc
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.728
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
 - Categoria: Cuenta de clips
@@ -68,9 +59,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: INMORTAL FF
 - Publicado: 09/10/2026 11:57 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
+
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Thomas godenzi
+- Publicado: 08/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
@@ -98,16 +99,6 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Texto en pantalla:** ¿UN CHURRI MALVADO? | DEDSAFIO DÍA 15: MEJORES MOMENTOS Y MUERTES | Eu
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PdBJXZY_208
-
 ### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -117,16 +108,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
-
-### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Texto en pantalla:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 17)
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QRuA8rumjBA
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -158,25 +139,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
-
-### 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
-- **Texto en pantalla:** 'SÓLO ME QUIEREN POR DINERO': WESTCOL SIN FILTRO 💸
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=oT89bYMw91M
+- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
 
 ## Noticias y contexto
 
@@ -213,8 +184,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=QRuA8rumjBA
-  - https://www.youtube.com/watch?v=RKETeDxLqNg
+  - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=PdBJXZY_208
 
 ## Busquedas de emergentes
 
