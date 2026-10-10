@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-10T09:13:44.695525-05:00",
+  "actualizado": "2026-10-10T11:13:57.373975-05:00",
   "series": [
     {
       "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-10T09:13:44.695525-05:00",
+      "ultima_deteccion": "2026-10-10T11:13:57.373975-05:00",
       "canal_muestra": "CLIPERO SIN TITULO",
       "enlaces": [
         "https://www.youtube.com/watch?v=9kNKLBd2--o"
@@ -17,10 +17,21 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-10T02:12:37.998609-05:00",
-      "ultima_deteccion": "2026-10-10T09:13:44.695525-05:00",
+      "ultima_deteccion": "2026-10-10T11:13:57.373975-05:00",
       "canal_muestra": "EchoVault",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZqKY60jBcjA"
+      ]
+    },
+    {
+      "nombre": "Pereira juega con verity en minecraft… y acaba fatal",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-10T07:18:32.106186-05:00",
+      "ultima_deteccion": "2026-10-10T11:13:57.373975-05:00",
+      "canal_muestra": "Directo al Clip",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=IkOk0r9JxLc"
       ]
     },
     {
@@ -36,17 +47,6 @@
         "https://www.youtube.com/watch?v=wrTJo9TbIeA",
         "https://www.youtube.com/watch?v=wZRvA8FOZdw",
         "https://www.youtube.com/watch?v=4PNmPPGiFdg"
-      ]
-    },
-    {
-      "nombre": "Pereira juega con verity en minecraft… y acaba fatal",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-10T07:18:32.106186-05:00",
-      "ultima_deteccion": "2026-10-10T09:13:44.695525-05:00",
-      "canal_muestra": "Directo al Clip",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=IkOk0r9JxLc"
       ]
     }
   ]
