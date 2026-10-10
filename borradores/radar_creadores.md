@@ -1,30 +1,14 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/10/2026 08:30 PM (hora de Colombia)
+Actualizado: 09/10/2026 08:38 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 11.
+Clips incluidos: 2.
+Noticias recientes: 9.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### SECH WANTS TO TAKE MY ROBOT 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Canal que publico: WestClips
-- Publicado: 09/10/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=O2S3skU8jhg
-
-### WESTCOL TALKS ABOUT THE PUNCH THE ROBOT GAVE HIM 🤣
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Canal que publico: WestClips
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=Wr5wv_xlCPI
 
 ### Una de las espectadoras de Destiny se ve obligada a soportar esto...
 - Categoria: Cuenta de clips
@@ -34,60 +18,18 @@ Noticias recientes: 11.
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=pdrRjcmeYgc
 
-### REYDELACITY CATCHES HIS GIRLFRIEND SNEAKING INTO HIS GAMER ROOM… IT GOES WRONG! 😂😭🎮
+### MR STIVEN vs AMERICANO 4KT y PIRLO420 | PARTIDO por 1 MILLON
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Canal que publico: ElReyWithTheClips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips Tc
+- Canal que publico: Pelusa Clips Tc
 - Publicado: 08/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=-jko2ye8sxQ
-
-### REYDELACITY REACTS TO I entered Memo ATR's dangerous block and the police showed up.😳🚔🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Canal que publico: ElReyWithTheClips
-- Publicado: 08/10/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=aKuRl7m73BI
-
-### WESTCOL REACTS TO THE TRUE STORY OF GARAVITO | JORDI WILD
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Canal que publico: WestClips
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=DGvx_5AF0xQ
-
-### REYDELACITY REACTS TO HARDENRD - JUDAS61 (Official Video)
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Canal que publico: ElReyWithTheClips
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=bUMJ50RCwiQ
-
-### REYDELACITY REACTS TO MINI LAJA -TRENDING (Official Video)
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Canal que publico: ElReyWithTheClips
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=lVu7Q0aNXIU
-
-### EVERYTHING HAS AN EXPLANATION - WESTCOL X CAMILO CIFUENTES X BLESSD | FULL TALK
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Canal que publico: WestClips
-- Publicado: 08/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=fWaAUPuOiKM
+- Enlace directo: https://www.youtube.com/watch?v=yF3YeJBlVMs
 
 ## Noticias y contexto
 
 - **VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - TV Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
-- **El Agropecuario sería participante de La Casa de los Famosos Colombia ¿Cuándo se estrena? - LOS40** — 09/10/2026 05:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2NlSU5JdkhJaGloYWJsdzdvcGlpeHhZZnhMaWVNTm9EM0dRLTdRNUJ5V1lGZFFkYlk5U2dJcXpNRDNOLXpMOG5MejB1Q1FmdVZwQmdidUhrUklFTm5LSkVoSW5fQjh5bzdtel9nNFpybkw5ZVFhWklwdkkwTXBoZFVvU0R5MHRqakNhSWR5Q203a1hwMFd2R0VkZUdza3BvcmJMdzV1NTBKWVJBejMwOTVmeXlmSWdUVmg1ajR3ZzlWYk9iOE53RTI2eHNWNzNS0gHQAUFVX3lxTE1nY2VJTkl2SEloaWhhYmx3N29waWl4eFlmeExpZU1Ob0QzR1EtN1E1QnlXWUZkUWRiWTlTZ0lxek1EM04tekw4bkx6MHVDUWZ1VnBCZ2J1SGtSSUVObktKRWhJbl9COHlvN216X2c0WnJuTDllUWFaSXB2STBNcGhkVW9TRHkwdGpqQ2FJZHlDbTdrWHAwV3ZHRWRlR3NrcG9yYkx3NXU1MEpZUkF6MzA5NWZ5eWZJZ1RWaDVqNHdnOVZiT2I4TndFMjZ4c1Y3M1I?oc=5)
 - **WestCol reveló cuánto le costó su robot: la inversión supera los $330 millones - Eluniversal.com.co** — 09/10/2026 04:09 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEZZaEpYT1VraV9VbDRJcEJ5UFdfUnU5emRqd21qNWlfOGlEWFdOcXBkc1VjbzZlXzNNUGY3S1U5XzM5NHRyclRnTE5OLW1LQWhWX3FySWlPemozeUNzX3JUdUxaZU9VZDc1MndjSklVNVZZdUNfNTNHdkdFalpsQUlWQ0ZQLVlPWnhlcVFIN1NWamFkYUdUQVF1TWZSVzA0S2NvZm9HdC0wMXBudmFEWnVPVlRTTXdlQXJLSC1MV0F4ZjA2U2pkQw?oc=5)
-- **¿Se puede monetizar contenido sin tener miles de seguidores? Esto dice la plataforma Clapper - Minuto60** — 09/10/2026 03:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjFzblVjem50RG5FVXdadzdLVjZWdWJQcFVmSEFJSm9CUHZoU1NtWURlRkxMOUlrd1pNN3R6RVVfNy1WR2VkZ3hncUFLWlBwSUVhRHF6dTh2WHhEekJiaWtJS0gtOThTNG5FTkg3dEpmQzZvQjItNG1pRkZqSk9NUTBSc0VjU2VoblVmbFp4cHYzbElUSUZWZ1JxOUU0VUs3?oc=5)
 - **La Liendra a punto de ser arrestado en Aeropuerto por elemento sospechoso en equipaje - La Kalle** — 09/10/2026 02:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnk5aEx1UUZiQ3lLeS1ubjJ6TGdxclp4bWFTMlJUcTF3TTVPN3FSeGE0WHc4aXNNdFRFTVE3V0RrcjlTdlJIb0VRaXpsR2JpMTBlMnkzTUthTGxUWnZ6eFdCdHFrRWdCdlpXeFMyYU5XZi0zOXhCdUZtTTRyZ0R1UjcyRGxPa21DSVFsTzcwZDZrZnBsQkMtQ0xxb3k4dllyQTdwVEo5QlVmSFBaZWNLNk5uYldEQ2VFaC1lTnBOWUJ3THNlMTd5X2p3VWRjNWlQR2lzbzRXUG0wRUlWN3NEWWo0ZEg2eU5OcHcw0gHrAUFVX3lxTE42eTloTHVRRmJDeUt5LW5uMnpMZ3FyWnhtYVMyUlRxMXdNNU83cVJ4YTRYdzhpc010VEVNUTdXRGtyOVN2UkhvRVFpemxHYmkxMGUyeTNNS2FMbFRadnp4V0J0cWtFZ0J2Wld4UzJhTldmLTM5eEJ1Rm1NNHJnRHVSNzJEbE9rbUNJUWxPNzBkNmtmcGxCQy1DTHFveTh2WXJBN3BUSjlCVWZIUFplY0s2Tm5iV0RDZUVoLWVOcE5ZQndMc2UxN3lfandVZGM1aVBHaXNvNFdQbTBFSVY3c0RZajRkSDZ5Tk5wdzA?oc=5)
 - **Juan David Tejada (29 años), ‘El Agropecuario’, confiesa cuánto dinero gana en TikTok: “Ustedes por qué creen - AS Colombia** — 08/10/2026 07:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYm9pQWR2Qk1tY0FpdWI2U2hoT1pkUzd2ejZHcV9vMjNhQkl2eHhiMWdaMHluN3NMTWpmaFdiMTJJODVFeFFYUmxMOHpaSkx1anJUWUFyWTgxNEJpdk9qbk5mS2dBX1BOdHJtM191RWlqZXZ3QjZ5ZGFQdTRROWFjVC1sQ2VJRktsVGlYSEdaUmhFWjhhSldjcjlkWWlqYVdIcWlLTjJYbGk0M3c0b0YwSVVkYk0zS2FxaWEtdExuR2o0Q2ZzMVhkRW9XUDBVdGwyZVA1bzZRMGE4V0VYekExckc3NGlHMVZyOTdxTWNJaFRSTm04eVpRZ1htN0VBRzdPaklvUlFVcVQ2UEo5dkJjUGtISExtQdIBlgJBVV95cUxPYm9pQWR2Qk1tY0FpdWI2U2hoT1pkUzd2ejZHcV9vMjNhQkl2eHhiMWdaMHluN3NMTWpmaFdiMTJJODVFeFFYUmxMOHpaSkx1anJUWUFyWTgxNEJpdk9qbk5mS2dBX1BOdHJtM191RWlqZXZ3QjZ5ZGFQdTRROWFjVC1sQ2VJRktsVGlYSEdaUmhFWjhhSldjcjlkWWlqYVdIcWlLTjJYbGk0M3c0b0YwSVVkYk0zS2FxaWEtdExuR2o0Q2ZzMVhkRW9XUDBVdGwyZVA1bzZRMGE4V0VYekExckc3NGlHMVZyOTdxTWNJaFRSTm04eVpRZ1htN0VBRzdPaklvUlFVcVQ2UEo5dkJjUGtISExtQQ?oc=5)
 - **Porkcolombia y Tulio Recomienda se unen para impulsar el consumo de carne de cerdo en las regiones - Diario La Libertad** — 08/10/2026 04:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmVISXNQdUVabEUxQnJCWldTaThtMUdNbS1GLUEwVnd2YXI3NTRYT1d6R0p5azFlX2czdlBtalRWME5zd01KWXEyTDNaM3EyX3RyLVpfb1FIMldPYmVuWlZqZDFocUJSN3c0OEEtR1ctXzR1dy0wSm9INGFkYU9BYVVhdFFvTzNxaXFTN0hSRndJUUtkU051X0tXTzhzM2NFN3p6aUpkN184ZC1WYmlRV2x2VUpRVDBOZnU4eEtDSzNCdnplYWpUOW91Mmd1cHZDZGtLa25B?oc=5)
