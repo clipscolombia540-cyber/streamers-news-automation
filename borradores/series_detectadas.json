@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-10T13:16:43.120476-05:00",
+  "actualizado": "2026-10-10T15:14:04.239761-05:00",
   "series": [
     {
       "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-10T13:16:43.120476-05:00",
+      "ultima_deteccion": "2026-10-10T15:14:04.239761-05:00",
       "canal_muestra": "CLIPERO SIN TITULO",
       "enlaces": [
         "https://www.youtube.com/watch?v=9kNKLBd2--o"
@@ -17,10 +17,36 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-10T02:12:37.998609-05:00",
-      "ultima_deteccion": "2026-10-10T13:16:43.120476-05:00",
+      "ultima_deteccion": "2026-10-10T15:14:04.239761-05:00",
       "canal_muestra": "EchoVault",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZqKY60jBcjA"
+      ]
+    },
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-10T15:14:04.239761-05:00",
+      "canal_muestra": "Aquiso Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=VAqe0V7Aj3Y",
+        "https://www.youtube.com/watch?v=wrTJo9TbIeA",
+        "https://www.youtube.com/watch?v=wZRvA8FOZdw",
+        "https://www.youtube.com/watch?v=ZDEuuLMsUAw",
+        "https://www.youtube.com/watch?v=PdBJXZY_208"
+      ]
+    },
+    {
+      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
+      "ultima_deteccion": "2026-10-10T15:14:04.239761-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
       ]
     },
     {
@@ -32,21 +58,6 @@
       "canal_muestra": "Directo al Clip",
       "enlaces": [
         "https://www.youtube.com/watch?v=IkOk0r9JxLc"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-10T13:16:43.120476-05:00",
-      "canal_muestra": "Aquiso Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=wrTJo9TbIeA",
-        "https://www.youtube.com/watch?v=wZRvA8FOZdw",
-        "https://www.youtube.com/watch?v=ZDEuuLMsUAw",
-        "https://www.youtube.com/watch?v=PdBJXZY_208",
-        "https://www.youtube.com/watch?v=kAlK1J2Vqfk"
       ]
     }
   ]
