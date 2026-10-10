@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 11:51 AM (hora de Colombia)
+Actualizado: 10/10/2026 11:54 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Eufonia Studio
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.664
+- Vistas reportadas por YouTube: 32.700
 - Puntaje heurístico de interés: 13
 - Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
@@ -27,19 +27,19 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Eufonia Studio
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.560
+- Vistas reportadas por YouTube: 41.569
 - Puntaje heurístico de interés: 13
 - Enlace directo: https://www.youtube.com/watch?v=PdBJXZY_208
 
-### Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: ANDRI
-- Publicado: 08/10/2026 07:00 PM
+- Canal que publico: Aquiso Clips
+- Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 64.104
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=5Ly3eyNGJDo
+- Vistas reportadas por YouTube: 14.724
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Shur en Directo
 - Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.985
+- Vistas reportadas por YouTube: 6.003
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
@@ -67,7 +67,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 631
+- Vistas reportadas por YouTube: 644
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -77,7 +77,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Directo al Clip
 - Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.600
+- Vistas reportadas por YouTube: 3.644
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=IkOk0r9JxLc
 
@@ -91,26 +91,25 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=NnnZH2RxZmA
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+### Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Thomas godenzi
-- Publicado: 08/10/2026 07:00 PM
+- Canal que publico: WEST HYPE
+- Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=m8S_gX33-0w
+- Vistas reportadas por YouTube: 27
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=qrVUfANzuO4
 
-### THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 08/10/2026 07:00 PM
+### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: JuxxTyty
+- Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 190.829
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=sK-FWxnh80w
+- Vistas reportadas por YouTube: 74
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
@@ -119,7 +118,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:01 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 406
+- Vistas reportadas por YouTube: 434
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
@@ -147,15 +146,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=PdBJXZY_208
 
-### Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
-- **Texto en pantalla:** Farfadox logró lo IMPOSIBLE en el Limbo (Dedsafío 4) Clip
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5Ly3eyNGJDo
+- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -207,25 +206,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NnnZH2RxZmA
 
-### 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+### Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
-- **Texto en pantalla:** 🔥 WESTCOL NO DEJA DE SORPRENDER 😂💀 #Westcol #Shorts
+- **Título sugerido:** Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
+- **Texto en pantalla:** Westcol e Iker Casillas en El Elegido: charla y retos | Parte 1
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m8S_gX33-0w
+- **Fuente original:** https://www.youtube.com/watch?v=qrVUfANzuO4
 
-### THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
+### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
-- **Texto en pantalla:** THIS ROBOT ALMOST HIT ME LIVE 😨 | DANCING WITH A ROBOT | WESTCOL
+- **Título sugerido:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
+- **Texto en pantalla:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=sK-FWxnh80w
+- **Fuente original:** https://www.youtube.com/watch?v=hkxO6_u3IE4
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -275,8 +274,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=IkOk0r9JxLc
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
-  - https://www.youtube.com/watch?v=tW-Q2AGnSKs
   - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=ZDEuuLMsUAw
 
 ## Busquedas de emergentes
 
