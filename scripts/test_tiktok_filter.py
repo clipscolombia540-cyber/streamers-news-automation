@@ -2,7 +2,12 @@ import unittest
 from unittest.mock import patch
 from datetime import datetime, timedelta, timezone
 
-from scripts.tiktok import convertir_fecha, filtrar_publicaciones_recientes, obtener_feeds
+from scripts.tiktok import (
+    convertir_fecha,
+    descripcion_configuracion_feeds,
+    filtrar_publicaciones_recientes,
+    obtener_feeds,
+)
 
 
 class TikTokFilterTests(unittest.TestCase):
@@ -81,6 +86,23 @@ class TikTokFilterTests(unittest.TestCase):
             feeds = obtener_feeds()
         self.assertEqual(len(feeds), 2)
         self.assertEqual(feeds["Emergente"], "https://example.com/emergente.xml")
+
+    def test_reports_when_only_default_feed_is_used(self):
+        with patch.dict("os.environ", {"TIKTOK_FEEDS": ""}):
+            self.assertIn(
+                "únicamente el feed predeterminado de Westcol",
+                descripcion_configuracion_feeds(),
+            )
+
+    def test_reports_custom_feed_configuration(self):
+        with patch.dict(
+            "os.environ",
+            {"TIKTOK_FEEDS": "Westcol=https://example.com/westcol.xml"},
+        ):
+            self.assertIn(
+                "feeds personalizados",
+                descripcion_configuracion_feeds(),
+            )
 
     def test_invalid_environment_uses_default_feed(self):
         with patch.dict("os.environ", {"TIKTOK_FEEDS": "esto-no-es-un-feed"}):
