@@ -33,7 +33,7 @@ jobs:
         run: python -m pip install requests yt-dlp
       - name: Comprobar sintaxis y filtros
         run: |
-          python -m py_compile scripts/noticias.py scripts/tiktok.py scripts/test_filtros.py scripts/test_tiktok_filter.py
+          python -m py_compile scripts/noticias.py scripts/tiktok.py scripts/publicar.py scripts/test_filtros.py scripts/test_tiktok_filter.py
           python -m unittest scripts.test_filtros scripts.test_tiktok_filter
 
   generar-radares:
