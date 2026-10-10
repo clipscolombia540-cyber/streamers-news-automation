@@ -1,6 +1,6 @@
 # Radar automático de creadores y clips
 
-Actualizado: 09/10/2026 07:15 PM (hora de Colombia)
+Actualizado: 09/10/2026 07:24 PM (hora de Colombia)
 
 Ventana objetivo: últimas 48 horas.
 Clips candidatos encontrados: 7.
@@ -13,7 +13,7 @@ Noticias recientes encontradas: 4.
 ### SECH QUIERE LLEVARSE MI ROBOT 🤣 | WESTCOL
 - Creador detectado: Westcol
 - Canal que publicó: WestClips
-- Publicado: 09/10/2026 07:05 PM
+- Publicado: 09/10/2026 07:06 PM
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=O2S3skU8jhg
 
@@ -45,12 +45,12 @@ Noticias recientes encontradas: 4.
 - Fuente: YouTube / yt-dlp
 - Enlace directo: https://www.youtube.com/watch?v=aKuRl7m73BI
 
-### REYDELACITY REACTS TO HARDENRD - JUDAS61 (Official Video)
+### REYDELACITY REACTS TO MINI LAJA -TRENDING (Official Video)
 - Creador detectado: Rey de la City
 - Canal que publicó: ElReyWithTheClips
-- Publicado: 08/10/2026 08:00 PM
+- Publicado: 08/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Enlace directo: https://www.youtube.com/watch?v=bUMJ50RCwiQ
+- Enlace directo: https://www.youtube.com/watch?v=lVu7Q0aNXIU
 
 ### MR STIVEN SHOWS US HIS BROTHER TATAN'S NEW MOTORCYCLE IT'S INCREDIBLE! @MrStivenTc
 - Creador detectado: MrStivenTC
