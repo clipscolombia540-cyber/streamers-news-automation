@@ -41,3 +41,13 @@ jobs:
           if [ -f borradores/clips_tiktok.md ]; then
             grep -E 'Actualizado:|Publicaciones encontradas:' borradores/clips_tiktok.md || true
           fi
+      - name: Adjuntar informes para revisión
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: informes-radar-prueba
+          path: |
+            borradores/radar_creadores.md
+            borradores/clips_tiktok.md
+          if-no-files-found: warn
+          retention-days: 7
