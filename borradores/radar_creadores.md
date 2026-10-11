@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 03:15 AM (hora de Colombia)
+Actualizado: 11/10/2026 05:14 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 10.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.175
+- Vistas reportadas por YouTube: 9.189
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -37,9 +37,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: ClipsdelChow
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.248
+- Vistas reportadas por YouTube: 23.470
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
+
+### TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 11/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 472
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=ujircjM56RY
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
@@ -47,9 +57,40 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: Shur en Directo
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.049
+- Vistas reportadas por YouTube: 9.132
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 10/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=ilyGtxONL1g
+
+### Captain Cat and the Dedsafio roleplayers
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 10/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 765
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=X4grQDHkT2g
+
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 84.666
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
@@ -58,7 +99,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.145
+- Vistas reportadas por YouTube: 14.789
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
@@ -69,7 +110,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 10/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.081
+- Vistas reportadas por YouTube: 3.461
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=LVuRmiwBZ64
 
@@ -107,6 +148,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
 
+### TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
+- **Texto en pantalla:** TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ujircjM56RY
+
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,6 +167,36 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ilyGtxONL1g
+
+### Captain Cat and the Dedsafio roleplayers
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Captain Cat and the Dedsafio roleplayers
+- **Texto en pantalla:** Captain Cat and the Dedsafio roleplayers
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=X4grQDHkT2g
+
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -173,8 +254,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-11
+  - https://www.youtube.com/watch?v=X4grQDHkT2g
   - https://www.youtube.com/watch?v=vz5pnGIEZZ4
-  - https://www.youtube.com/watch?v=ZDEuuLMsUAw
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=IkOk0r9JxLc
 

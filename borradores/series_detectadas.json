@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-11T03:15:49.939047-05:00",
+  "actualizado": "2026-10-11T05:14:55.811332-05:00",
   "series": [
     {
       "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-11T03:15:49.939047-05:00",
+      "ultima_deteccion": "2026-10-11T05:14:55.811332-05:00",
       "canal_muestra": "CLIPERO SIN TITULO",
       "enlaces": [
         "https://www.youtube.com/watch?v=9kNKLBd2--o"
@@ -17,7 +17,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-10T02:12:37.998609-05:00",
-      "ultima_deteccion": "2026-10-11T03:15:49.939047-05:00",
+      "ultima_deteccion": "2026-10-11T05:14:55.811332-05:00",
       "canal_muestra": "EchoVault",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZqKY60jBcjA"
@@ -28,7 +28,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
-      "ultima_deteccion": "2026-10-11T03:15:49.939047-05:00",
+      "ultima_deteccion": "2026-10-11T05:14:55.811332-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=4NXT2bzpiP8"
@@ -39,14 +39,14 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-11T01:20:00.869753-05:00",
-      "canal_muestra": "Dedsafio 4 Minecraft",
+      "ultima_deteccion": "2026-10-11T05:14:55.811332-05:00",
+      "canal_muestra": "GirlOfNox Live",
       "enlaces": [
+        "https://www.youtube.com/watch?v=X4grQDHkT2g",
         "https://www.youtube.com/watch?v=vz5pnGIEZZ4",
         "https://www.youtube.com/watch?v=ZDEuuLMsUAw",
         "https://www.youtube.com/watch?v=ujircjM56RY",
-        "https://www.youtube.com/watch?v=ilyGtxONL1g",
-        "https://www.youtube.com/watch?v=wZRvA8FOZdw"
+        "https://www.youtube.com/watch?v=ilyGtxONL1g"
       ]
     },
     {
