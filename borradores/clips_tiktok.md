@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 11/10/2026 20:16 UTC
+**Actualizado:** 11/10/2026 22:18 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -10,13 +10,13 @@
 
 ## Diagnóstico del feed
 - Sin fecha verificable: 0
-- Más antiguas que 48 horas: 40
+- Más antiguas que 48 horas: 39
 - Con fecha futura: 0
-- Dentro del periodo antes de quitar duplicados: 69
+- Dentro del periodo antes de quitar duplicados: 70
 - Duplicadas: 0
 
 ### Resultado por feed
-- **Clipero:Ale clips**: 25 leídas; 19 recientes; 6 antiguas; 0 sin fecha; 1 seleccionadas.
+- **Clipero:Ale clips**: 25 leídas; 20 recientes; 5 antiguas; 0 sin fecha; 1 seleccionadas.
 - **Clipero:Saraclips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **Clipero:Sofia Clips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **TikTok:estevagoqueclips**: 9 leídas; 0 recientes; 9 antiguas; 0 sin fecha; 0 seleccionadas.
@@ -39,8 +39,8 @@
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Ale clips
-- **Fecha reportada:** 11/10/2026 03:17 UTC
-- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695244109971262752
+- **Fecha reportada:** 11/10/2026 20:48 UTC
+- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695514893583174945
 
 ## 4. #samulx #maggiepepev #dedsafio #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
