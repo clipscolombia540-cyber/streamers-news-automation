@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 07:19 AM (hora de Colombia)
+Actualizado: 11/10/2026 09:14 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
+Clips incluidos: 10.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: Eufonia Studio
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.589
+- Vistas reportadas por YouTube: 35.637
 - Puntaje heurístico de interés: 13
 - Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
-
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.563
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -47,7 +37,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.693
+- Vistas reportadas por YouTube: 2.716
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -57,19 +47,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: ClipsdelChow
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.555
+- Vistas reportadas por YouTube: 23.657
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
-
-### TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 11/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 642
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=ujircjM56RY
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
@@ -77,9 +57,29 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: Shur en Directo
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.163
+- Vistas reportadas por YouTube: 9.205
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### MUERTE DE ANSICHAN en el Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 11/10/2026 08:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=19yWSh-GJBg
+
+### MUERTE DE WEREVERWERO en el Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 10/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=gNGHrmSx8Ns
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
@@ -88,7 +88,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.060
+- Vistas reportadas por YouTube: 15.386
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
@@ -99,7 +99,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 10/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.642
+- Vistas reportadas por YouTube: 3.966
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=LVuRmiwBZ64
 
@@ -110,20 +110,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 - Canal que publico: TRENDCLIPSMEDIA
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 102
+- Vistas reportadas por YouTube: 105
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
-
-### WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Trending Streamers Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: Trending Streamers Clips
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 138
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5CY7SUu8vcw
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -138,16 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
-
-### The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -179,16 +158,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
 
-### TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- **Texto en pantalla:** TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ujircjM56RY
-
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -198,6 +167,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
+
+### MUERTE DE ANSICHAN en el Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE ANSICHAN en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE ANSICHAN en el Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=19yWSh-GJBg
+
+### MUERTE DE WEREVERWERO en el Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE WEREVERWERO en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE WEREVERWERO en el Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gNGHrmSx8Ns
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -229,16 +218,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
 
-### WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
-- **Texto en pantalla:** WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5CY7SUu8vcw
-
 ## Noticias y contexto
 
 - **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxPUVBQTUMwb0NrR1BfUlJZMFlpaDRnRTBkWjJ5RUE2RlI1X3FIWGdNWTFvWkxtR01rWWJJV3I2eWZpV1RRUUlObGp4bmQ5bGpRLW1EaFVhdWxPc1p2dENzeUwxNFhXOWtXTDlMaXdxWEY0NnItVXRFaHhOVXBMdWYydlM1Y2FMS0pyRjU4c0ZBbTY3VW1uU2dFeF9TOWc1WDF3RER1bXZKNVo5TU5vZl9xdkxENlQxa1lpS1QxSFE3NndfOUxGTEJCaFZkb0VRczNRbnBoLW55TEM1VFA2TFIwbnNiRzFxRENCLXF1Y0dmY3VYa0htcm1mU0Z0d1ZVY1VVbHVJ0gGDAkFVX3lxTE9RUFBNQzBvQ2tHUF9SUlkwWWloNGdFMGRaMnlFQTZGUjVfcUhYZ01ZMW9aTG1HTWtZYklXcjZ5ZmlXVFFRSU5sanhuZDlsalEtbURoVWF1bE9zWnZ0Q3N5TDE0WFc5a1dMOUxpd3FYRjQ2ci1VdEVoeE5VcEx1ZjJ2UzVjYUxLSnJGNThzRkFtNjdVbW5TZ0V4X1M5ZzVYMXdERHVtdko1WjlNTm9mX3F2TEQ2VDFrWWlLVDFIUTc2d185TEZMQkJoVmRvRVFzM1FucGgtbnlMQzVUUDZMUjBuc2JHMXFEQ0ItcXVjR2ZjdVhrSG1ybWZTRnR3VlVjVVVsdUk?oc=5)
@@ -246,6 +225,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Revelan fecha, lugar y hora de la boda de Luisa Fernanda W y Pipe Bueno ¿Cuándo será? - LOS40** — 10/10/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBEV1V2eVhYT3VONnJZRWtFZThCc2lYQTFTOFh4YlFBb1FYcDhMS0k5djlNVjVqZmh2cmlfZEdSbjBieXJuZy1nSXdjQ3dHTG1kTHc4ak41T1BOUE1sRjIzRzZBMWdWNF9ZaEc4U3JKNHNoM2RjY3owUTZ3T2Q5RHFmekVBQWpjWnU3YkRlTGpDUndzdTNpWEZQODVyZmh0d3BzcDF4UU5TRlVVYVJLbS1LRk1RQdIBygFBVV95cUxQbWN1RmoxSEI3akFkb1FKbGNIZTEzcEdjRTNpZm92NEp6NjJmMDhpNDBDUWRNTERyaTNVQWpJLTktcl9YNXBKdGEzNHJ0RWs3MURnTkhKUk1IWFRVbnJxdWhiTVV6RDAzVHZCWWlYcHFaTXZXTWV4V01hVlVaNzVEbmNZbFRaOUQ0MzdGM2xLRmVwdmFGRVhBaEF0VE1YZEZzWFVGaDRFTk11UHJIa0ZkY0RRUDlBRWQyQTFnZnhobVh0cXp6YS01NG9B?oc=5)
 - **[Creadores] VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - TV Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
 - **[Creadores] WestCol reveló cuánto le costó su robot: la inversión supera los $330 millones - Eluniversal.com.co** — 09/10/2026 04:09 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEZZaEpYT1VraV9VbDRJcEJ5UFdfUnU5emRqd21qNWlfOGlEWFdOcXBkc1VjbzZlXzNNUGY3S1U5XzM5NHRyclRnTE5OLW1LQWhWX3FySWlPemozeUNzX3JUdUxaZU9VZDc1MndjSklVNVZZdUNfNTNHdkdFalpsQUlWQ0ZQLVlPWnhlcVFIN1NWamFkYUdUQVF1TWZSVzA0S2NvZm9HdC0wMXBudmFEWnVPVlRTTXdlQXJLSC1MV0F4ZjA2U2pkQw?oc=5)
+- **[Creadores] La Liendra a punto de ser arrestado en Aeropuerto por elemento sospechoso en equipaje - La Kalle** — 09/10/2026 02:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFZ0T3k4dmZMa3duVFJPOHdtTlZSU2NwRzJRYWlucVFZUTlFZll4NFNaSlUwRXdMa2RSRFFSTTdLMmRfRkE3cFlTRFpjalVaWnlLS3IzNWU3TC1VTHpKeDdmZzNyN0h3ZmM3Z1hfbXBqNkUxeDVnNWJyVFJBMDVXYkNXaGRLbEpjM05wSlBMdTBLZTFBODEwaTcwMnR5djR6UlotRVozVXdfV3c3Sk50NUVQd3VMa3pCdkxnNHF5TG9zQTh0dW9INFRZTjk0aURfYnJ5ZG5GNGw0dkJpM0HSAesBQVVfeXFMTjZ5OWhMdVFGYkN5S3ktbm4yekxncXJaeG1hUzJSVHExd001TzdxUnhhNFh3OGlzTXRURU1RN1dEa3I5U3ZSSG9FUWl6bEdiaTEwZTJ5M01LYUxsVFp2enhXQnRxa0VnQnZaV3hTMmFOV2YtMzl4QnVGbU00cmdEdVI3MkRsT2ttQ0lRbE83MGQ2a2ZwbEJDLUNMcW95OHZZckE3cFRKOUJVZkhQWmVjSzZObmJXRENlRWgtZU5wTllCd0xzZTE3eV9qd1VkYzVpUEdpc280V1BtMEVJVjdzRFlqNGRINnlOTnB3MA?oc=5)
 - **[Creadores] La Liendra a punto de ser arrestado en Aeropuerto por elemento sospechoso en equipaje - La Kalle** — 09/10/2026 02:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnk5aEx1UUZiQ3lLeS1ubjJ6TGdxclp4bWFTMlJUcTF3TTVPN3FSeGE0WHc4aXNNdFRFTVE3V0RrcjlTdlJIb0VRaXpsR2JpMTBlMnkzTUthTGxUWnZ6eFdCdHFrRWdCdlpXeFMyYU5XZi0zOXhCdUZtTTRyZ0R1UjcyRGxPa21DSVFsTzcwZDZrZnBsQkMtQ0xxb3k4dllyQTdwVEo5QlVmSFBaZWNLNk5uYldEQ2VFaC1lTnBOWUJ3THNlMTd5X2p3VWRjNWlQR2lzbzRXUG0wRUlWN3NEWWo0ZEg2eU5OcHcw0gHrAUFVX3lxTE42eTloTHVRRmJDeUt5LW5uMnpMZ3FyWnhtYVMyUlRxMXdNNU83cVJ4YTRYdzhpc010VEVNUTdXRGtyOVN2UkhvRVFpemxHYmkxMGUyeTNNS2FMbFRadnp4V0J0cWtFZ0J2Wld4UzJhTldmLTM5eEJ1Rm1NNHJnRHVSNzJEbE9rbUNJUWxPNzBkNmtmcGxCQy1DTHFveTh2WXJBN3BUSjlCVWZIUFplY0s2Tm5iV0RDZUVoLWVOcE5ZQndMc2UxN3lfandVZGM1aVBHaXNvNFdQbTBFSVY3c0RZajRkSDZ5Tk5wdzA?oc=5)
 
 ## Creadores principales vigilados
@@ -275,8 +255,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-11
-  - https://www.youtube.com/watch?v=wZRvA8FOZdw
-  - https://www.youtube.com/watch?v=z4VAzIYkd64
+  - https://www.youtube.com/watch?v=19yWSh-GJBg
+  - https://www.youtube.com/watch?v=_Kmqdtx2tWo
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=IkOk0r9JxLc
 
