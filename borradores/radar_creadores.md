@@ -1,45 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 01:20 AM (hora de Colombia)
+Actualizado: 11/10/2026 03:15 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 6.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Eufonia Studio
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.210
-- Puntaje heurístico de interés: 13
-- Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
-
-### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 18
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 11/10/2026 01:10 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=ujircjM56RY
-
-### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: EchoVault
-- Publicado: 10/10/2026 02:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.630
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -47,9 +17,19 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.074
+- Vistas reportadas por YouTube: 9.175
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: EchoVault
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.635
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
 ### STREAMERS REACT TO CRAFT'S THOR COSPLAY
 - Categoria: Clip de terceros
@@ -57,7 +37,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: ClipsdelChow
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.914
+- Vistas reportadas por YouTube: 23.248
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
@@ -67,30 +47,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: Shur en Directo
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.980
+- Vistas reportadas por YouTube: 9.049
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=ilyGtxONL1g
-
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 80.621
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
@@ -99,7 +58,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.978
+- Vistas reportadas por YouTube: 14.145
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
@@ -110,43 +69,13 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 10/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.068
+- Vistas reportadas por YouTube: 3.081
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=LVuRmiwBZ64
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Texto en pantalla:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufoni
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
-
-### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 18
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 18
-- **Texto en pantalla:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 18
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ujircjM56RY
-
-### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
-- **Texto en pantalla:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -157,6 +86,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- **Texto en pantalla:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
 
 ### STREAMERS REACT TO CRAFT'S THOR COSPLAY
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -177,26 +116,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- **Texto en pantalla:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ilyGtxONL1g
-
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
