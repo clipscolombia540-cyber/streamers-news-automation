@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 11/10/2026 18:20 UTC
+**Actualizado:** 11/10/2026 20:16 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -30,11 +30,11 @@
 - **Fecha reportada:** 11/10/2026 04:17 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695259526110399752
 
-## 2. #westcol
+## 2. #westcol #qc396x2610 #rdjavi #clarent
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 11/10/2026 04:49 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695267794304191796
+- **Fecha reportada:** 11/10/2026 17:55 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695470339492515092
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -48,8 +48,8 @@
 - **Fecha reportada:** 11/10/2026 03:57 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695254322640063752
 
-## 5. #westcol
+## 5. #westcol #qc396x2610 #rdjavi
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 11/10/2026 04:00 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695254985621261569
+- **Fecha reportada:** 11/10/2026 16:38 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695450608974728469
