@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 11/10/2026 10:17 UTC
+**Actualizado:** 11/10/2026 12:22 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -33,8 +33,8 @@
 ## 2. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 11/10/2026 04:00 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695254985621261569
+- **Fecha reportada:** 11/10/2026 04:49 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695267794304191796
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -48,8 +48,8 @@
 - **Fecha reportada:** 11/10/2026 03:57 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695254322640063752
 
-## 5. El miedo al fracaso #westcol #qc330x2610 #efren
+## 5. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 11/10/2026 02:58 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695239339042753844
+- **Fecha reportada:** 11/10/2026 04:00 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695254985621261569

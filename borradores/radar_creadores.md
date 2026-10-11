@@ -1,23 +1,43 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 05:14 AM (hora de Colombia)
+Actualizado: 11/10/2026 07:19 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 11.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
+### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Eufonia Studio
+- Publicado: 10/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 35.589
+- Puntaje heurístico de interés: 13
+- Enlace directo: https://www.youtube.com/watch?v=ZDEuuLMsUAw
+
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Aquiso Clips
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 15.563
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=wZRvA8FOZdw
+
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPERO SIN TITULO
-- Publicado: 09/10/2026 07:00 PM
+- Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.189
+- Vistas reportadas por YouTube: 9.181
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
@@ -25,9 +45,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: EchoVault
-- Publicado: 09/10/2026 07:00 PM
+- Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.635
+- Vistas reportadas por YouTube: 2.693
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -35,9 +55,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: ClipsdelChow
-- Publicado: 09/10/2026 07:00 PM
+- Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.470
+- Vistas reportadas por YouTube: 23.555
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
@@ -47,7 +67,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: GirlOfNox Live
 - Publicado: 11/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 472
+- Vistas reportadas por YouTube: 642
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=ujircjM56RY
 
@@ -55,42 +75,11 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: Shur en Directo
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.132
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=ilyGtxONL1g
-
-### Captain Cat and the Dedsafio roleplayers
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Capitan Clipero
-- Publicado: 10/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 765
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=X4grQDHkT2g
-
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 84.666
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
+- Vistas reportadas por YouTube: 9.163
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
@@ -99,7 +88,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.789
+- Vistas reportadas por YouTube: 15.060
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
@@ -110,13 +99,55 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 10/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.461
+- Vistas reportadas por YouTube: 3.642
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=LVuRmiwBZ64
+
+### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: TRENDCLIPSMEDIA
+- Creador relacionado en el título: Westcol
+- Canal que publico: TRENDCLIPSMEDIA
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 102
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
+
+### WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Trending Streamers Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Trending Streamers Clips
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 138
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=5CY7SUu8vcw
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
+- **Texto en pantalla:** NUTRIALLOWEEN | DEDSAFIO 4 DÍA 16: MEJORES MOMENTOS Y MUERTES | Eufoni
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZDEuuLMsUAw
+
+### The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Texto en pantalla:** The Best Moments of the Webones in Dedsafio 4 (Day 16)
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=wZRvA8FOZdw
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -168,36 +199,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- **Texto en pantalla:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ilyGtxONL1g
-
-### Captain Cat and the Dedsafio roleplayers
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Captain Cat and the Dedsafio roleplayers
-- **Texto en pantalla:** Captain Cat and the Dedsafio roleplayers
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=X4grQDHkT2g
-
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
-
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -217,6 +218,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=LVuRmiwBZ64
+
+### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+- **Texto en pantalla:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #r
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
+
+### WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed Itself
+- **Texto en pantalla:** WestCOL's $100K Robot Punched Him While Dancing, then Self-destructed 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=5CY7SUu8vcw
 
 ## Noticias y contexto
 
@@ -254,8 +275,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-11
-  - https://www.youtube.com/watch?v=X4grQDHkT2g
-  - https://www.youtube.com/watch?v=vz5pnGIEZZ4
+  - https://www.youtube.com/watch?v=wZRvA8FOZdw
+  - https://www.youtube.com/watch?v=z4VAzIYkd64
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=IkOk0r9JxLc
 
