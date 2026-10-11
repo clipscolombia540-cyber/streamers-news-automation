@@ -1,15 +1,41 @@
 {
-  "actualizado": "2026-10-11T09:14:26.542643-05:00",
+  "actualizado": "2026-10-11T11:14:53.685423-05:00",
   "series": [
     {
       "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-11T09:14:26.542643-05:00",
+      "ultima_deteccion": "2026-10-11T11:14:53.685423-05:00",
       "canal_muestra": "CLIPERO SIN TITULO",
       "enlaces": [
         "https://www.youtube.com/watch?v=9kNKLBd2--o"
+      ]
+    },
+    {
+      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
+      "ultima_deteccion": "2026-10-11T11:14:53.685423-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
+      ]
+    },
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-11T11:14:53.685423-05:00",
+      "canal_muestra": "Eufonia Studio",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=Q9VWBv-Uu9U",
+        "https://www.youtube.com/watch?v=wZRvA8FOZdw",
+        "https://www.youtube.com/watch?v=ZDEuuLMsUAw",
+        "https://www.youtube.com/watch?v=bbRva_qzoqE",
+        "https://www.youtube.com/watch?v=ujircjM56RY"
       ]
     },
     {
@@ -21,32 +47,6 @@
       "canal_muestra": "EchoVault",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZqKY60jBcjA"
-      ]
-    },
-    {
-      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
-      "ultima_deteccion": "2026-10-11T09:14:26.542643-05:00",
-      "canal_muestra": "ClipsdelChow",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-11T09:14:26.542643-05:00",
-      "canal_muestra": "Dedsafio 4 Minecraft",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=19yWSh-GJBg",
-        "https://www.youtube.com/watch?v=_Kmqdtx2tWo",
-        "https://www.youtube.com/watch?v=gNGHrmSx8Ns",
-        "https://www.youtube.com/watch?v=wZRvA8FOZdw",
-        "https://www.youtube.com/watch?v=z4VAzIYkd64"
       ]
     },
     {
