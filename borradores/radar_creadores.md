@@ -1,10 +1,10 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/10/2026 09:14 PM (hora de Colombia)
+Actualizado: 10/10/2026 11:15 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
-Noticias recientes: 5.
+Noticias recientes: 7.
 Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.477
+- Vistas reportadas por YouTube: 2.554
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
-
-### STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: ClipsdelChow
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.307
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -37,29 +27,39 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.992
+- Vistas reportadas por YouTube: 9.074
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: ClipsdelChow
+- Publicado: 09/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 22.606
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: Shur en Directo
-- Publicado: 09/10/2026 11:00 PM
+- Publicado: 09/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.595
+- Vistas reportadas por YouTube: 8.832
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
+### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: JuxxTyty
-- Publicado: 09/10/2026 07:00 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 86
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=hkxO6_u3IE4
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=ilyGtxONL1g
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
@@ -68,7 +68,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: WestClips
 - Publicado: 10/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 73.662
+- Vistas reportadas por YouTube: 76.883
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
@@ -79,7 +79,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.561
+- Vistas reportadas por YouTube: 11.329
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
@@ -97,16 +97,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
 
-### STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- **Texto en pantalla:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
-
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,6 +106,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- **Texto en pantalla:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
 
 ### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -127,15 +127,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
-### WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
-- **Texto en pantalla:** WESTCOL Y BLESSD USAN EL ROBOT... SALE MAL😱😱
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hkxO6_u3IE4
+- **Fuente original:** https://www.youtube.com/watch?v=ilyGtxONL1g
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -159,6 +159,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxPUVBQTUMwb0NrR1BfUlJZMFlpaDRnRTBkWjJ5RUE2RlI1X3FIWGdNWTFvWkxtR01rWWJJV3I2eWZpV1RRUUlObGp4bmQ5bGpRLW1EaFVhdWxPc1p2dENzeUwxNFhXOWtXTDlMaXdxWEY0NnItVXRFaHhOVXBMdWYydlM1Y2FMS0pyRjU4c0ZBbTY3VW1uU2dFeF9TOWc1WDF3RER1bXZKNVo5TU5vZl9xdkxENlQxa1lpS1QxSFE3NndfOUxGTEJCaFZkb0VRczNRbnBoLW55TEM1VFA2TFIwbnNiRzFxRENCLXF1Y0dmY3VYa0htcm1mU0Z0d1ZVY1VVbHVJ0gGDAkFVX3lxTE9RUFBNQzBvQ2tHUF9SUlkwWWloNGdFMGRaMnlFQTZGUjVfcUhYZ01ZMW9aTG1HTWtZYklXcjZ5ZmlXVFFRSU5sanhuZDlsalEtbURoVWF1bE9zWnZ0Q3N5TDE0WFc5a1dMOUxpd3FYRjQ2ci1VdEVoeE5VcEx1ZjJ2UzVjYUxLSnJGNThzRkFtNjdVbW5TZ0V4X1M5ZzVYMXdERHVtdko1WjlNTm9mX3F2TEQ2VDFrWWlLVDFIUTc2d185TEZMQkJoVmRvRVFzM1FucGgtbnlMQzVUUDZMUjBuc2JHMXFEQ0ItcXVjR2ZjdVhrSG1ybWZTRnR3VlVjVVVsdUk?oc=5)
+- **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRzN4ZkwwRk9kbkFoMjUzdVdZTzdNV0hyeDRmMDhBX09qd0tKRE53dHVBT0xDSUVSVWI4Wk5sakJncTc5dG13eUZQdi1yRmNJRFBzVzlIbUxxeU9FV09QM0p6UU4yRDZOd3pHblJnN0N1b3Izcl8xVFNUVkszWTdacWxpV1lSWG9ldTlSak5oYk1NcXZaeE1qSXYwN0VXX3hfUUN4VVRWeS00b3d0bVFPbWczaGFENlVfV21DMElSX0J1ekhpLTQxbFo1QmY0VVFRSXlFQTNtY0FSTUZQMkI3QWZOcDZINW9X?oc=5)
 - **[Creadores] Pipe Bueno sorprendió al revelar el lugar donde se casará con Luisa Fernanda W: Está a 180 metros bajo tierra - Publimetro Colombia** — 10/10/2026 04:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWtfT3VvaHdOYi1wTC1zRW5VY2ljVkt2djN3eldQRDVmaU90bGYzY19NYkVOSUJMTTBMQnNZTnF4VW9WemVSMk1ZMFBDNUtSTkhYa1AtUUdsSzByWGlELVhDZlZCQUtXUHdSZGtCS3BiWEtFV0hpUS1tMjJodW5zVFJlLWpsRVd3dkxocjNsUmx2Mk5vV3FScEZpLXBRSG9aNWVBQWthbUc2LVJ4Wnk1anloQVIwV0FHcVBESWZxU292TF9EYVhhVkczc0dlLXhad3pKOEtPZkw2MFc1d3NVVS02SGJvcGdtQjhUOUNUazZ1UGZh?oc=5)
 - **[Creadores] Revelan fecha, lugar y hora de la boda de Luisa Fernanda W y Pipe Bueno ¿Cuándo será? - LOS40** — 10/10/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBEV1V2eVhYT3VONnJZRWtFZThCc2lYQTFTOFh4YlFBb1FYcDhMS0k5djlNVjVqZmh2cmlfZEdSbjBieXJuZy1nSXdjQ3dHTG1kTHc4ak41T1BOUE1sRjIzRzZBMWdWNF9ZaEc4U3JKNHNoM2RjY3owUTZ3T2Q5RHFmekVBQWpjWnU3YkRlTGpDUndzdTNpWEZQODVyZmh0d3BzcDF4UU5TRlVVYVJLbS1LRk1RQdIBygFBVV95cUxQbWN1RmoxSEI3akFkb1FKbGNIZTEzcEdjRTNpZm92NEp6NjJmMDhpNDBDUWRNTERyaTNVQWpJLTktcl9YNXBKdGEzNHJ0RWs3MURnTkhKUk1IWFRVbnJxdWhiTVV6RDAzVHZCWWlYcHFaTXZXTWV4V01hVlVaNzVEbmNZbFRaOUQ0MzdGM2xLRmVwdmFGRVhBaEF0VE1YZEZzWFVGaDRFTk11UHJIa0ZkY0RRUDlBRWQyQTFnZnhobVh0cXp6YS01NG9B?oc=5)
 - **[Creadores] VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - TV Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
@@ -192,8 +194,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-10
+  - https://www.youtube.com/watch?v=ilyGtxONL1g
   - https://www.youtube.com/watch?v=wZRvA8FOZdw
-  - https://www.youtube.com/watch?v=QRuA8rumjBA
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
   - https://www.youtube.com/watch?v=IkOk0r9JxLc
 
