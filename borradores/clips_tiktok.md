@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 11/10/2026 00:26 UTC
+**Actualizado:** 11/10/2026 02:17 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -10,13 +10,13 @@
 
 ## Diagnóstico del feed
 - Sin fecha verificable: 0
-- Más antiguas que 48 horas: 45
+- Más antiguas que 48 horas: 43
 - Con fecha futura: 0
-- Dentro del periodo antes de quitar duplicados: 64
+- Dentro del periodo antes de quitar duplicados: 66
 - Duplicadas: 0
 
 ### Resultado por feed
-- **Clipero:Ale clips**: 25 leídas; 14 recientes; 11 antiguas; 0 sin fecha; 1 seleccionadas.
+- **Clipero:Ale clips**: 25 leídas; 16 recientes; 9 antiguas; 0 sin fecha; 1 seleccionadas.
 - **Clipero:Saraclips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **Clipero:Sofia Clips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **TikTok:estevagoqueclips**: 9 leídas; 0 recientes; 9 antiguas; 0 sin fecha; 0 seleccionadas.
@@ -24,32 +24,32 @@
 
 > Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
 
-## 1. #westcol #dedsafio
+## 1. #westcol #samulx #lonche #dedsafio
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 10/10/2026 23:15 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695181639806242055
+- **Fecha reportada:** 11/10/2026 00:40 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695203787434102024
 
 ## 2. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 23:18 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695182494429203730
+- **Fecha reportada:** 11/10/2026 01:08 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695210720945769734
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Ale clips
-- **Fecha reportada:** 10/10/2026 22:59 UTC
-- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695177596136344864
+- **Fecha reportada:** 11/10/2026 00:14 UTC
+- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695196939066871072
 
-## 4. #westcol #lonche #lonchedehuevito
+## 4. #samulx #lonche #lonchedehuevito #elded #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 10/10/2026 22:45 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695174124401954056
+- **Fecha reportada:** 11/10/2026 00:36 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695202753861160200
 
-## 5. Tiene que tener una estrategia en la vida #westcol #qc396x2610 #efren
+## 5. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 10/10/2026 22:33 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695171013675420934
+- **Fecha reportada:** 11/10/2026 00:39 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695203287166897414
