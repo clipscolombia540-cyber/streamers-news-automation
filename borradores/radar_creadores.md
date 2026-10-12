@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 05:15 PM (hora de Colombia)
+Actualizado: 11/10/2026 07:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
+Clips incluidos: 7.
+Noticias recientes: 4.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: ClipsdelChow
-- Publicado: 09/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.197
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.071
+- Vistas reportadas por YouTube: 3.132
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -47,7 +37,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: Shur en Directo
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.518
+- Vistas reportadas por YouTube: 9.640
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
@@ -61,17 +51,6 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 92.322
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
-
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
@@ -79,45 +58,35 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.828
+- Vistas reportadas por YouTube: 20.746
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
 
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
+### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: TRENDCLIPSMEDIA
-- Creador relacionado en el título: Westcol
-- Canal que publico: TRENDCLIPSMEDIA
-- Publicado: 09/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 11/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 120
+- Vistas reportadas por YouTube: 15
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KdaA90R4vWU
+- Enlace directo: https://www.youtube.com/watch?v=PPk3lC43pss
 
 ### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clipzy Cs
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Clipzy Cs
-- Publicado: 11/10/2026 04:36 PM
+- Publicado: 11/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- **Texto en pantalla:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -159,16 +128,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
-
 ### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -179,15 +138,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YfnDYr4CTkA
 
-### 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #robot
-- **Texto en pantalla:** 🇨🇴 WESTCOL AND BLESSD VS THE ROBOT 🤖😂#westcol #blessd #westcolclips #r
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- **Texto en pantalla:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KdaA90R4vWU
+- **Fuente original:** https://www.youtube.com/watch?v=PPk3lC43pss
 
 ### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -205,7 +164,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxPUVBQTUMwb0NrR1BfUlJZMFlpaDRnRTBkWjJ5RUE2RlI1X3FIWGdNWTFvWkxtR01rWWJJV3I2eWZpV1RRUUlObGp4bmQ5bGpRLW1EaFVhdWxPc1p2dENzeUwxNFhXOWtXTDlMaXdxWEY0NnItVXRFaHhOVXBMdWYydlM1Y2FMS0pyRjU4c0ZBbTY3VW1uU2dFeF9TOWc1WDF3RER1bXZKNVo5TU5vZl9xdkxENlQxa1lpS1QxSFE3NndfOUxGTEJCaFZkb0VRczNRbnBoLW55TEM1VFA2TFIwbnNiRzFxRENCLXF1Y0dmY3VYa0htcm1mU0Z0d1ZVY1VVbHVJ0gGDAkFVX3lxTE9RUFBNQzBvQ2tHUF9SUlkwWWloNGdFMGRaMnlFQTZGUjVfcUhYZ01ZMW9aTG1HTWtZYklXcjZ5ZmlXVFFRSU5sanhuZDlsalEtbURoVWF1bE9zWnZ0Q3N5TDE0WFc5a1dMOUxpd3FYRjQ2ci1VdEVoeE5VcEx1ZjJ2UzVjYUxLSnJGNThzRkFtNjdVbW5TZ0V4X1M5ZzVYMXdERHVtdko1WjlNTm9mX3F2TEQ2VDFrWWlLVDFIUTc2d185TEZMQkJoVmRvRVFzM1FucGgtbnlMQzVUUDZMUjBuc2JHMXFEQ0ItcXVjR2ZjdVhrSG1ybWZTRnR3VlVjVVVsdUk?oc=5)
 - **[Creadores] Pipe Bueno sorprendió al revelar el lugar donde se casará con Luisa Fernanda W: Está a 180 metros bajo tierra - Publimetro Colombia** — 10/10/2026 04:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWtfT3VvaHdOYi1wTC1zRW5VY2ljVkt2djN3eldQRDVmaU90bGYzY19NYkVOSUJMTTBMQnNZTnF4VW9WemVSMk1ZMFBDNUtSTkhYa1AtUUdsSzByWGlELVhDZlZCQUtXUHdSZGtCS3BiWEtFV0hpUS1tMjJodW5zVFJlLWpsRVd3dkxocjNsUmx2Mk5vV3FScEZpLXBRSG9aNWVBQWthbUc2LVJ4Wnk1anloQVIwV0FHcVBESWZxU292TF9EYVhhVkczc0dlLXhad3pKOEtPZkw2MFc1d3NVVS02SGJvcGdtQjhUOUNUazZ1UGZh?oc=5)
 - **[Creadores] Revelan fecha, lugar y hora de la boda de Luisa Fernanda W y Pipe Bueno ¿Cuándo será? - LOS40** — 10/10/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBEV1V2eVhYT3VONnJZRWtFZThCc2lYQTFTOFh4YlFBb1FYcDhMS0k5djlNVjVqZmh2cmlfZEdSbjBieXJuZy1nSXdjQ3dHTG1kTHc4ak41T1BOUE1sRjIzRzZBMWdWNF9ZaEc4U3JKNHNoM2RjY3owUTZ3T2Q5RHFmekVBQWpjWnU3YkRlTGpDUndzdTNpWEZQODVyZmh0d3BzcDF4UU5TRlVVYVJLbS1LRk1RQdIBygFBVV95cUxQbWN1RmoxSEI3akFkb1FKbGNIZTEzcEdjRTNpZm92NEp6NjJmMDhpNDBDUWRNTERyaTNVQWpJLTktcl9YNXBKdGEzNHJ0RWs3MURnTkhKUk1IWFRVbnJxdWhiTVV6RDAzVHZCWWlYcHFaTXZXTWV4V01hVlVaNzVEbmNZbFRaOUQ0MzdGM2xLRmVwdmFGRVhBaEF0VE1YZEZzWFVGaDRFTk11UHJIa0ZkY0RRUDlBRWQyQTFnZnhobVh0cXp6YS01NG9B?oc=5)
-- **[Creadores] VIDEO: robot humanoide golpea a Westcol en plena transmisión y después provoca más incidentes - Azteca Chihuahua** — 09/10/2026 06:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZmTTQ5T0JnUGNXbnVwMHZNa1VDdUd3WlpwLXc0dkdnUlFmUlE3TmlnSEhIb1VDbThLb0lYRDVNTElTLW9hR3FLVVdpSW9XdmhTS3h5ak81TnpOUzZVTUpidy1wLTRETU90Ym1MVkQ4UnhmbXRBSnlxbTM3Y1E4Qk5KNHctLU5TUlZCQ281S0pVZG5aZ0VtZ0hqSWZoaHVCdmNPWDZ0Z2VUMG9fVmFnWHM1VUVicTVva3BqMUFfbk1RV1lsamF4X2NiMlRDcEtHMm8yZQ?oc=5)
 
 ## Creadores principales vigilados
 
@@ -229,10 +187,10 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=9kNKLBd2--o
-- **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
-  - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=ZqKY60jBcjA
+- **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
+  - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=lecp9_K7ddY
   - https://www.youtube.com/watch?v=x51R-9V3jiA
