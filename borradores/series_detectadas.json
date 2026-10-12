@@ -1,6 +1,21 @@
 {
-  "actualizado": "2026-10-12T03:20:51.768134-05:00",
+  "actualizado": "2026-10-12T05:19:24.161156-05:00",
   "series": [
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-12T05:19:24.161156-05:00",
+      "canal_muestra": "Dedsafio 4 Minecraft",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=ilyGtxONL1g",
+        "https://www.youtube.com/watch?v=ujircjM56RY",
+        "https://www.youtube.com/watch?v=BX51eIfg4Pg",
+        "https://www.youtube.com/watch?v=lecp9_K7ddY",
+        "https://www.youtube.com/watch?v=x51R-9V3jiA"
+      ]
+    },
     {
       "nombre": "¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4",
       "tipo": "serie_o_tema_candidato",
@@ -32,21 +47,6 @@
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=4NXT2bzpiP8"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-11T15:14:09.743122-05:00",
-      "canal_muestra": "Dedsafio 4 Minecraft",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=lecp9_K7ddY",
-        "https://www.youtube.com/watch?v=x51R-9V3jiA",
-        "https://www.youtube.com/watch?v=kAlK1J2Vqfk",
-        "https://www.youtube.com/watch?v=X4grQDHkT2g",
-        "https://www.youtube.com/watch?v=XUA0IDwxP1w"
       ]
     },
     {
