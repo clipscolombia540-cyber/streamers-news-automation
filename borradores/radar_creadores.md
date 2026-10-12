@@ -1,56 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/10/2026 01:24 AM (hora de Colombia)
+Actualizado: 12/10/2026 03:20 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 3.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
+Distribución por categoría: Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: EchoVault
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.461
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
-
-### AMILCAR ¡SE ENFRENTA al TEAM WESTCOL y SAMU le RESPONDE!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Shur en Directo
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.921
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=qXS5Hw5O1pg
-
-### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Kick momen
-- Publicado: 11/10/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
-
-### Westcol habla de sus clips virales!
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Streamers-Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: Streamers-Clips
-- Publicado: 11/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=RirxQ3VUit4
 
 ### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - Categoria: Cuenta de clips
@@ -59,53 +18,35 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 11/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.586
+- Vistas reportadas por YouTube: 3.183
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
+
+### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clipzy Cs
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Clipzy Cs
+- Publicado: 11/10/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 20
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
+
+### EL BENDITO HACE QUE EL ROBOT DESTRUYA TODO MI SETUP | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MedaYork Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: MedaYork Clips
+- Publicado: 11/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 16
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=gpa7dlPEnj0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
-- **Texto en pantalla:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
-
-### AMILCAR ¡SE ENFRENTA al TEAM WESTCOL y SAMU le RESPONDE!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** AMILCAR ¡SE ENFRENTA al TEAM WESTCOL y SAMU le RESPONDE!
-- **Texto en pantalla:** AMILCAR ¡SE ENFRENTA al TEAM WESTCOL y SAMU le RESPONDE!
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=qXS5Hw5O1pg
-
-### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Texto en pantalla:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
-
-### Westcol habla de sus clips virales!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol habla de sus clips virales!
-- **Texto en pantalla:** Westcol habla de sus clips virales!
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=RirxQ3VUit4
 
 ### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -116,6 +57,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
+
+### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- **Texto en pantalla:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA E
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Z9HMnBgCWAg
+
+### EL BENDITO HACE QUE EL ROBOT DESTRUYA TODO MI SETUP | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** EL BENDITO HACE QUE EL ROBOT DESTRUYA TODO MI SETUP | WESTCOL
+- **Texto en pantalla:** EL BENDITO HACE QUE EL ROBOT DESTRUYA TODO MI SETUP | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gpa7dlPEnj0
 
 ## Noticias y contexto
 

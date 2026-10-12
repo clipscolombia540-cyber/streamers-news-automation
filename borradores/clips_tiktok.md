@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 12/10/2026 06:27 UTC
+**Actualizado:** 12/10/2026 08:24 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -24,11 +24,11 @@
 
 > Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
 
-## 1. #montoyatr #dedsafio #westcol #lonche #samulx
+## 1. #lasapaaaaa #westcol #tatianarepizo
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 12/10/2026 04:47 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695638350954351890
+- **Fecha reportada:** 12/10/2026 06:35 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695666225627696402
 
 ## 2. #qc396x2610 #rdjavi #clarent
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -42,11 +42,11 @@
 - **Fecha reportada:** 11/10/2026 20:48 UTC
 - **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695514893583174945
 
-## 4. #lasapaaaaa #westcol #amaranta
+## 4. #lasapaaaaa #tatianarepizo #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 12/10/2026 04:19 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695631109618502920
+- **Fecha reportada:** 12/10/2026 06:01 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7695657457078521096
 
 ## 5. #westcol #qc396x2610 #rdjavi #clarent
 - **Tipo de cuenta:** Cuenta de clips/terceros
