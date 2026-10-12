@@ -1,19 +1,19 @@
 {
-  "actualizado": "2026-10-12T05:19:24.161156-05:00",
+  "actualizado": "2026-10-12T07:29:15.003691-05:00",
   "series": [
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-12T05:19:24.161156-05:00",
+      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
       "canal_muestra": "Dedsafio 4 Minecraft",
       "enlaces": [
+        "https://www.youtube.com/watch?v=_3NAqa-iXKk",
+        "https://www.youtube.com/watch?v=K1E4fyqpyeQ",
         "https://www.youtube.com/watch?v=ilyGtxONL1g",
         "https://www.youtube.com/watch?v=ujircjM56RY",
-        "https://www.youtube.com/watch?v=BX51eIfg4Pg",
-        "https://www.youtube.com/watch?v=lecp9_K7ddY",
-        "https://www.youtube.com/watch?v=x51R-9V3jiA"
+        "https://www.youtube.com/watch?v=BX51eIfg4Pg"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-10T02:12:37.998609-05:00",
-      "ultima_deteccion": "2026-10-12T01:24:48.144277-05:00",
+      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
       "canal_muestra": "EchoVault",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZqKY60jBcjA"
@@ -32,7 +32,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-11T19:25:38.060548-05:00",
+      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
       "canal_muestra": "CLIPERO SIN TITULO",
       "enlaces": [
         "https://www.youtube.com/watch?v=9kNKLBd2--o"
@@ -43,10 +43,21 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
-      "ultima_deteccion": "2026-10-11T17:15:09.896579-05:00",
+      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=4NXT2bzpiP8"
+      ]
+    },
+    {
+      "nombre": "ALL of STAR's TOTEMS against the BOSS (STAR TRYHARD 💪) DEDCHALLENGE",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-12T07:29:15.003691-05:00",
+      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
+      "canal_muestra": "Enano Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=pxsHWSsCHv0"
       ]
     },
     {

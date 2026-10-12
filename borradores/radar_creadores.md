@@ -1,64 +1,124 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/10/2026 05:19 AM (hora de Colombia)
+Actualizado: 12/10/2026 07:29 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
-Noticias recientes: 1.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1.
+Clips incluidos: 11.
+Noticias recientes: 4.
+Distribución por categoría: Clip de terceros: 10, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
+### STREAMERS REACT TO CRAFT'S THOR COSPLAY
 - Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: ClipsdelChow
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.884
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=ujircjM56RY
+- Vistas reportadas por YouTube: 27.782
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
 
-### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 18) #dedsafio #minecraft
+### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
 - Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Querubin_Clips
-- Publicado: 11/10/2026 02:00 PM
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: EchoVault
+- Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14
+- Vistas reportadas por YouTube: 3.579
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
+
+### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: CLIPERO SIN TITULO
+- Publicado: 10/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9.575
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### YOLO'S ROBOT #4 CHALLENGED WESTCOL'S AND #2 WENT TO A PARTY! 🤖🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Arcano Aventuras 26
+- Publicado: 11/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9.614
 - Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=BX51eIfg4Pg
+- Enlace directo: https://www.youtube.com/watch?v=AfLQqcx-yRc
+
+### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: Shur en Directo
+- Publicado: 10/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9.870
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
 ### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 10/10/2026 07:00 PM
+- Publicado: 11/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 21
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=ilyGtxONL1g
 
+### MUERTE DE SOYPAN en el Dedsafio 4 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 11/10/2026 09:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=K1E4fyqpyeQ
+
+### ALL of STAR's TOTEMS against the BOSS (STAR TRYHARD 💪) DEDCHALLENGE
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Enano Clips
+- Publicado: 12/10/2026 07:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 43
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=pxsHWSsCHv0
+
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: Kick momen
-- Publicado: 11/10/2026 05:00 PM
+- Publicado: 11/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
+
+### The FEUD between WESTCOL and SPREEN
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: APShow
+- Publicado: 11/10/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 538
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=nHKm0LO1sIc
 
 ### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 11/10/2026 08:00 PM
+- Publicado: 11/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.487
+- Vistas reportadas por YouTube: 3.674
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
@@ -66,25 +126,55 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- **Texto en pantalla:** TEAM MINITAS REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 18
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- **Texto en pantalla:** STREAMERS REACT TO CRAFT'S THOR COSPLAY
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ujircjM56RY
+- **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
 
-### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 18) #dedsafio #minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 18) #dedsafio #minecraft
-- **Texto en pantalla:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 18) #dedsafio #min
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
+- **Texto en pantalla:** ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=BX51eIfg4Pg
+- **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
+
+### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
+- **Texto en pantalla:** CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
+
+### YOLO'S ROBOT #4 CHALLENGED WESTCOL'S AND #2 WENT TO A PARTY! 🤖🔥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** YOLO'S ROBOT #4 CHALLENGED WESTCOL'S AND #2 WENT TO A PARTY! 🤖🔥
+- **Texto en pantalla:** YOLO'S ROBOT #4 CHALLENGED WESTCOL'S AND #2 WENT TO A PARTY! 🤖🔥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=AfLQqcx-yRc
+
+### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- **Texto en pantalla:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
 ### MUERTE DE TINYCHERRY en el Dedsafio 4 Minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -96,6 +186,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ilyGtxONL1g
 
+### MUERTE DE SOYPAN en el Dedsafio 4 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE SOYPAN en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE SOYPAN en el Dedsafio 4 Minecraft
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=K1E4fyqpyeQ
+
+### ALL of STAR's TOTEMS against the BOSS (STAR TRYHARD 💪) DEDCHALLENGE
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** ALL of STAR's TOTEMS against the BOSS (STAR TRYHARD 💪) DEDCHALLENGE
+- **Texto en pantalla:** ALL of STAR's TOTEMS against the BOSS (STAR TRYHARD 💪) DEDCHALLENGE
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pxsHWSsCHv0
+
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -105,6 +215,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
+
+### The FEUD between WESTCOL and SPREEN
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** The FEUD between WESTCOL and SPREEN
+- **Texto en pantalla:** The FEUD between WESTCOL and SPREEN
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=nHKm0LO1sIc
 
 ### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -119,6 +239,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 ## Noticias y contexto
 
 - **[Creadores] Tulio Recomienda recorrerá 10 ciudades para impulsar nuevas formas de consumir carne de cerdo - Portafolio.co** — 11/10/2026 11:33 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSm1pbGJ0SUdGbXdIOTg4TmNoYUZ6aVZ2THl0by1FcVN3ekp3dklzWjRFX1BhZXFzSnpTaWhMTjgxZGtlTld0QVB4Zmg2WVhKUnBpeXFINXdKY0V3RmJrcFBWSUpDcklwTC1Lbnh5NVNoQXpkQmpvQWlUUVU4aC1paGlMRWJBdmVBSUl5b1M2cFN0Tk5OSFdHZ0hMNEhRRE1QamlhYjl3OGhieXJLc05GZjlBZlduSmNjNm4zVmo3NnVVZDV2OFNWSTR5bUFoMmRocm9FcEI1a3RvZ2pp0gHiAUFVX3lxTE5Qcjdxb0stWjdEYmNTcUlxcmVnZlBuQUxMR2RaSFV5RjZzTFIyWjlCOEhveFFWWlI2VklGMm1XdzBucmZXOVhlNGRBWVdDeTVpYktwMFYyUllKRW93ZVN1anhPV3ZwRk1MTHV5LV9RZmJwcnd2Y1BJWEx2OXg3aFdnczYtYlhER25KclJ5ZHFQMXJfVUpxN0tJVmNDQWxIcUlHSUxHeV9ZOUdQUnhWdS11VGlrWlVtdTNJVDBxa2doMVM4S1FfamtpdFlOLV9lREFtTkpQN3p3UkhPSWRWMlhKa2c?oc=5)
+- **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxPUVBQTUMwb0NrR1BfUlJZMFlpaDRnRTBkWjJ5RUE2RlI1X3FIWGdNWTFvWkxtR01rWWJJV3I2eWZpV1RRUUlObGp4bmQ5bGpRLW1EaFVhdWxPc1p2dENzeUwxNFhXOWtXTDlMaXdxWEY0NnItVXRFaHhOVXBMdWYydlM1Y2FMS0pyRjU4c0ZBbTY3VW1uU2dFeF9TOWc1WDF3RER1bXZKNVo5TU5vZl9xdkxENlQxa1lpS1QxSFE3NndfOUxGTEJCaFZkb0VRczNRbnBoLW55TEM1VFA2TFIwbnNiRzFxRENCLXF1Y0dmY3VYa0htcm1mU0Z0d1ZVY1VVbHVJ0gGDAkFVX3lxTE9RUFBNQzBvQ2tHUF9SUlkwWWloNGdFMGRaMnlFQTZGUjVfcUhYZ01ZMW9aTG1HTWtZYklXcjZ5ZmlXVFFRSU5sanhuZDlsalEtbURoVWF1bE9zWnZ0Q3N5TDE0WFc5a1dMOUxpd3FYRjQ2ci1VdEVoeE5VcEx1ZjJ2UzVjYUxLSnJGNThzRkFtNjdVbW5TZ0V4X1M5ZzVYMXdERHVtdko1WjlNTm9mX3F2TEQ2VDFrWWlLVDFIUTc2d185TEZMQkJoVmRvRVFzM1FucGgtbnlMQzVUUDZMUjBuc2JHMXFEQ0ItcXVjR2ZjdVhrSG1ybWZTRnR3VlVjVVVsdUk?oc=5)
+- **[Creadores] Pipe Bueno sorprendió al revelar el lugar donde se casará con Luisa Fernanda W: Está a 180 metros bajo tierra - Publimetro Colombia** — 10/10/2026 04:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWtfT3VvaHdOYi1wTC1zRW5VY2ljVkt2djN3eldQRDVmaU90bGYzY19NYkVOSUJMTTBMQnNZTnF4VW9WemVSMk1ZMFBDNUtSTkhYa1AtUUdsSzByWGlELVhDZlZCQUtXUHdSZGtCS3BiWEtFV0hpUS1tMjJodW5zVFJlLWpsRVd3dkxocjNsUmx2Mk5vV3FScEZpLXBRSG9aNWVBQWthbUc2LVJ4Wnk1anloQVIwV0FHcVBESWZxU292TF9EYVhhVkczc0dlLXhad3pKOEtPZkw2MFc1d3NVVS02SGJvcGdtQjhUOUNUazZ1UGZh?oc=5)
+- **[Creadores] Revelan fecha, lugar y hora de la boda de Luisa Fernanda W y Pipe Bueno ¿Cuándo será? - LOS40** — 10/10/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBEV1V2eVhYT3VONnJZRWtFZThCc2lYQTFTOFh4YlFBb1FYcDhMS0k5djlNVjVqZmh2cmlfZEdSbjBieXJuZy1nSXdjQ3dHTG1kTHc4ak41T1BOUE1sRjIzRzZBMWdWNF9ZaEc4U3JKNHNoM2RjY3owUTZ3T2Q5RHFmekVBQWpjWnU3YkRlTGpDUndzdTNpWEZQODVyZmh0d3BzcDF4UU5TRlVVYVJLbS1LRk1RQdIBygFBVV95cUxQbWN1RmoxSEI3akFkb1FKbGNIZTEzcEdjRTNpZm92NEp6NjJmMDhpNDBDUWRNTERyaTNVQWpJLTktcl9YNXBKdGEzNHJ0RWs3MURnTkhKUk1IWFRVbnJxdWhiTVV6RDAzVHZCWWlYcHFaTXZXTWV4V01hVlVaNzVEbmNZbFRaOUQ0MzdGM2xLRmVwdmFGRVhBaEF0VE1YZEZzWFVGaDRFTk11UHJIa0ZkY0RRUDlBRWQyQTFnZnhobVh0cXp6YS01NG9B?oc=5)
 
 ## Creadores principales vigilados
 
@@ -141,14 +264,16 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-12
-  - https://www.youtube.com/watch?v=ilyGtxONL1g
-  - https://www.youtube.com/watch?v=ujircjM56RY
+  - https://www.youtube.com/watch?v=_3NAqa-iXKk
+  - https://www.youtube.com/watch?v=K1E4fyqpyeQ
 - **¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=ZqKY60jBcjA
-- **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-11
+- **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=9kNKLBd2--o
-- **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
+- **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=4NXT2bzpiP8
+- **ALL of STAR's TOTEMS against the BOSS (STAR TRYHARD 💪) DEDCHALLENGE** (candidata por revisar) — última detección: 2026-10-12
+  - https://www.youtube.com/watch?v=pxsHWSsCHv0
 - **MICTIA AND THE WARDEN FARMING (IT GOES WRONG XD) CHALLENGE 4** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=6-SdyCVIFOs
 - **Pereira juega con verity en minecraft… y acaba fatal** (candidata por revisar) — última detección: 2026-10-10
