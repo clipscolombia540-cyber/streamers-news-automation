@@ -1,19 +1,52 @@
 {
-  "actualizado": "2026-10-12T07:29:15.003691-05:00",
+  "actualizado": "2026-10-12T09:22:03.238700-05:00",
   "series": [
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
-      "canal_muestra": "Dedsafio 4 Minecraft",
+      "ultima_deteccion": "2026-10-12T09:22:03.238700-05:00",
+      "canal_muestra": "Aquiso Clips",
       "enlaces": [
+        "https://www.youtube.com/watch?v=QcRlTTn04_M",
         "https://www.youtube.com/watch?v=_3NAqa-iXKk",
         "https://www.youtube.com/watch?v=K1E4fyqpyeQ",
         "https://www.youtube.com/watch?v=ilyGtxONL1g",
-        "https://www.youtube.com/watch?v=ujircjM56RY",
-        "https://www.youtube.com/watch?v=BX51eIfg4Pg"
+        "https://www.youtube.com/watch?v=ujircjM56RY"
+      ]
+    },
+    {
+      "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-12T09:22:03.238700-05:00",
+      "canal_muestra": "CLIPERO SIN TITULO",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=9kNKLBd2--o"
+      ]
+    },
+    {
+      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
+      "ultima_deteccion": "2026-10-12T09:22:03.238700-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
+      ]
+    },
+    {
+      "nombre": "Did STAR SURVIVE the BOSS? 😨 (All totems) CHALLENGE",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-12T09:22:03.238700-05:00",
+      "ultima_deteccion": "2026-10-12T09:22:03.238700-05:00",
+      "canal_muestra": "Enano Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=pxsHWSsCHv0"
       ]
     },
     {
@@ -25,28 +58,6 @@
       "canal_muestra": "EchoVault",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZqKY60jBcjA"
-      ]
-    },
-    {
-      "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
-      "canal_muestra": "CLIPERO SIN TITULO",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=9kNKLBd2--o"
-      ]
-    },
-    {
-      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
-      "ultima_deteccion": "2026-10-12T07:29:15.003691-05:00",
-      "canal_muestra": "ClipsdelChow",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
       ]
     },
     {
