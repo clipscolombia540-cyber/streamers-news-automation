@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 09:17 PM (hora de Colombia)
+Actualizado: 11/10/2026 11:18 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 6.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,29 +17,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.113
+- Vistas reportadas por YouTube: 3.350
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
-
-### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: Shur en Directo
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.725
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Kick momen
-- Publicado: 11/10/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
@@ -48,20 +28,42 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: WestClips
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 95.944
+- Vistas reportadas por YouTube: 97.833
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
+### Westcol habla de sus clips virales!
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestCol CLIPS
+- Creador/canal detectado: Cuenta de clips: Streamers-Clips
 - Creador relacionado en el título: Westcol
-- Canal que publico: WestCol CLIPS
+- Canal que publico: Streamers-Clips
+- Publicado: 11/10/2026 11:03 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=RirxQ3VUit4
+
+### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 10/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 22.383
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
+
+### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
 - Publicado: 11/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=-310ujG0-0w
+- Vistas reportadas por YouTube: 1.331
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
 ### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
 - Categoria: Cuenta de clips
@@ -88,26 +90,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZqKY60jBcjA
 
-### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Texto en pantalla:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Texto en pantalla:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
-
 ### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -118,15 +100,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
+### Westcol habla de sus clips virales!
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
-- **Texto en pantalla:** HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
+- **Título sugerido:** Westcol habla de sus clips virales!
+- **Texto en pantalla:** Westcol habla de sus clips virales!
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-310ujG0-0w
+- **Fuente original:** https://www.youtube.com/watch?v=RirxQ3VUit4
+
+### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
+- **Texto en pantalla:** ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divert
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YfnDYr4CTkA
+
+### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- **Texto en pantalla:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CRE
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
 
 ### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
