@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/10/2026 09:22 AM (hora de Colombia)
+Actualizado: 12/10/2026 11:17 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 7.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.909
+- Vistas reportadas por YouTube: 28.070
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=4NXT2bzpiP8
-
-### Best Moments of the Goofballs in Dedsafio 4 (Day 18)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Aquiso Clips
-- Publicado: 11/10/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.893
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=QcRlTTn04_M
 
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - Categoria: Clip de terceros
@@ -37,29 +27,19 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: CLIPERO SIN TITULO
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.609
+- Vistas reportadas por YouTube: 9.620
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: Shur en Directo
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.905
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### MUERTE DE JELTY en el Dedsafio 4 Minecraft.
+### MUERTE DE CHARLITOS en el Dedsafio 4 Minecraft
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Dedsafio 4 Minecraft
 - Publicado: 11/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=_3NAqa-iXKk
+- Enlace directo: https://www.youtube.com/watch?v=bbRva_qzoqE
 
 ### Did STAR SURVIVE the BOSS? 😨 (All totems) CHALLENGE
 - Categoria: Clip de terceros
@@ -67,7 +47,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 12/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 309
+- Vistas reportadas por YouTube: 746
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=pxsHWSsCHv0
 
@@ -88,7 +68,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: WestClips
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 101.584
+- Vistas reportadas por YouTube: 102.010
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
@@ -99,19 +79,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 11/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.911
+- Vistas reportadas por YouTube: 4.171
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
-
-### BIENVENIDO A LO MEJOR DE LA SEMANA EN FELOFUTBOLOFICIAL I #futbol #streamlive #livestream
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: FelofutbolOficial
-- Canal que publico: FelofutbolOficial
-- Publicado: 11/10/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 94
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=A-RYD3LcB0w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -127,16 +97,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=4NXT2bzpiP8
 
-### Best Moments of the Goofballs in Dedsafio 4 (Day 18)
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Best Moments of the Goofballs in Dedsafio 4 (Day 18)
-- **Texto en pantalla:** Best Moments of the Goofballs in Dedsafio 4 (Day 18)
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QcRlTTn04_M
-
 ### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -147,25 +107,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
-### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Texto en pantalla:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
-
-### MUERTE DE JELTY en el Dedsafio 4 Minecraft.
+### MUERTE DE CHARLITOS en el Dedsafio 4 Minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MUERTE DE JELTY en el Dedsafio 4 Minecraft.
-- **Texto en pantalla:** MUERTE DE JELTY en el Dedsafio 4 Minecraft.
+- **Título sugerido:** MUERTE DE CHARLITOS en el Dedsafio 4 Minecraft
+- **Texto en pantalla:** MUERTE DE CHARLITOS en el Dedsafio 4 Minecraft
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_3NAqa-iXKk
+- **Fuente original:** https://www.youtube.com/watch?v=bbRva_qzoqE
 
 ### Did STAR SURVIVE the BOSS? 😨 (All totems) CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -207,22 +157,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
 
-### BIENVENIDO A LO MEJOR DE LA SEMANA EN FELOFUTBOLOFICIAL I #futbol #streamlive #livestream
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: FelofutbolOficial? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: FelofutbolOficial.
-- **Título sugerido:** BIENVENIDO A LO MEJOR DE LA SEMANA EN FELOFUTBOLOFICIAL I #futbol #streamlive #livestream
-- **Texto en pantalla:** BIENVENIDO A LO MEJOR DE LA SEMANA EN FELOFUTBOLOFICIAL I #futbol #str
-- **Descripción:** Fragmento relacionado con Emergente: FelofutbolOficial. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=A-RYD3LcB0w
-
 ## Noticias y contexto
 
+- **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - elcronista.co** — 12/10/2026 08:34 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
 - **[Creadores] Tulio Recomienda recorrerá 10 ciudades para impulsar nuevas formas de consumir carne de cerdo - Portafolio.co** — 11/10/2026 11:33 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSm1pbGJ0SUdGbXdIOTg4TmNoYUZ6aVZ2THl0by1FcVN3ekp3dklzWjRFX1BhZXFzSnpTaWhMTjgxZGtlTld0QVB4Zmg2WVhKUnBpeXFINXdKY0V3RmJrcFBWSUpDcklwTC1Lbnh5NVNoQXpkQmpvQWlUUVU4aC1paGlMRWJBdmVBSUl5b1M2cFN0Tk5OSFdHZ0hMNEhRRE1QamlhYjl3OGhieXJLc05GZjlBZlduSmNjNm4zVmo3NnVVZDV2OFNWSTR5bUFoMmRocm9FcEI1a3RvZ2pp0gHiAUFVX3lxTE5Qcjdxb0stWjdEYmNTcUlxcmVnZlBuQUxMR2RaSFV5RjZzTFIyWjlCOEhveFFWWlI2VklGMm1XdzBucmZXOVhlNGRBWVdDeTVpYktwMFYyUllKRW93ZVN1anhPV3ZwRk1MTHV5LV9RZmJwcnd2Y1BJWEx2OXg3aFdnczYtYlhER25KclJ5ZHFQMXJfVUpxN0tJVmNDQWxIcUlHSUxHeV9ZOUdQUnhWdS11VGlrWlVtdTNJVDBxa2doMVM4S1FfamtpdFlOLV9lREFtTkpQN3p3UkhPSWRWMlhKa2c?oc=5)
 - **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxPUVBQTUMwb0NrR1BfUlJZMFlpaDRnRTBkWjJ5RUE2RlI1X3FIWGdNWTFvWkxtR01rWWJJV3I2eWZpV1RRUUlObGp4bmQ5bGpRLW1EaFVhdWxPc1p2dENzeUwxNFhXOWtXTDlMaXdxWEY0NnItVXRFaHhOVXBMdWYydlM1Y2FMS0pyRjU4c0ZBbTY3VW1uU2dFeF9TOWc1WDF3RER1bXZKNVo5TU5vZl9xdkxENlQxa1lpS1QxSFE3NndfOUxGTEJCaFZkb0VRczNRbnBoLW55TEM1VFA2TFIwbnNiRzFxRENCLXF1Y0dmY3VYa0htcm1mU0Z0d1ZVY1VVbHVJ0gGDAkFVX3lxTE9RUFBNQzBvQ2tHUF9SUlkwWWloNGdFMGRaMnlFQTZGUjVfcUhYZ01ZMW9aTG1HTWtZYklXcjZ5ZmlXVFFRSU5sanhuZDlsalEtbURoVWF1bE9zWnZ0Q3N5TDE0WFc5a1dMOUxpd3FYRjQ2ci1VdEVoeE5VcEx1ZjJ2UzVjYUxLSnJGNThzRkFtNjdVbW5TZ0V4X1M5ZzVYMXdERHVtdko1WjlNTm9mX3F2TEQ2VDFrWWlLVDFIUTc2d185TEZMQkJoVmRvRVFzM1FucGgtbnlMQzVUUDZMUjBuc2JHMXFEQ0ItcXVjR2ZjdVhrSG1ybWZTRnR3VlVjVVVsdUk?oc=5)
 - **[Creadores] Pipe Bueno sorprendió al revelar el lugar donde se casará con Luisa Fernanda W: Está a 180 metros bajo tierra - Publimetro Colombia** — 10/10/2026 04:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWtfT3VvaHdOYi1wTC1zRW5VY2ljVkt2djN3eldQRDVmaU90bGYzY19NYkVOSUJMTTBMQnNZTnF4VW9WemVSMk1ZMFBDNUtSTkhYa1AtUUdsSzByWGlELVhDZlZCQUtXUHdSZGtCS3BiWEtFV0hpUS1tMjJodW5zVFJlLWpsRVd3dkxocjNsUmx2Mk5vV3FScEZpLXBRSG9aNWVBQWthbUc2LVJ4Wnk1anloQVIwV0FHcVBESWZxU292TF9EYVhhVkczc0dlLXhad3pKOEtPZkw2MFc1d3NVVS02SGJvcGdtQjhUOUNUazZ1UGZh?oc=5)
-- **[Creadores] Revelan fecha, lugar y hora de la boda de Luisa Fernanda W y Pipe Bueno ¿Cuándo será? - LOS40** — 10/10/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBEV1V2eVhYT3VONnJZRWtFZThCc2lYQTFTOFh4YlFBb1FYcDhMS0k5djlNVjVqZmh2cmlfZEdSbjBieXJuZy1nSXdjQ3dHTG1kTHc4ak41T1BOUE1sRjIzRzZBMWdWNF9ZaEc4U3JKNHNoM2RjY3owUTZ3T2Q5RHFmekVBQWpjWnU3YkRlTGpDUndzdTNpWEZQODVyZmh0d3BzcDF4UU5TRlVVYVJLbS1LRk1RQdIBygFBVV95cUxQbWN1RmoxSEI3akFkb1FKbGNIZTEzcEdjRTNpZm92NEp6NjJmMDhpNDBDUWRNTERyaTNVQWpJLTktcl9YNXBKdGEzNHJ0RWs3MURnTkhKUk1IWFRVbnJxdWhiTVV6RDAzVHZCWWlYcHFaTXZXTWV4V01hVlVaNzVEbmNZbFRaOUQ0MzdGM2xLRmVwdmFGRVhBaEF0VE1YZEZzWFVGaDRFTk11UHJIa0ZkY0RRUDlBRWQyQTFnZnhobVh0cXp6YS01NG9B?oc=5)
 
 ## Creadores principales vigilados
 
@@ -245,8 +185,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-12
+  - https://www.youtube.com/watch?v=bbRva_qzoqE
   - https://www.youtube.com/watch?v=QcRlTTn04_M
-  - https://www.youtube.com/watch?v=_3NAqa-iXKk
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-12
