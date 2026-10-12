@@ -1,6 +1,28 @@
 {
-  "actualizado": "2026-10-12T11:17:54.944407-05:00",
+  "actualizado": "2026-10-12T13:18:02.733268-05:00",
   "series": [
+    {
+      "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-12T13:18:02.733268-05:00",
+      "canal_muestra": "CLIPERO SIN TITULO",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=9kNKLBd2--o"
+      ]
+    },
+    {
+      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
+      "ultima_deteccion": "2026-10-12T13:18:02.733268-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
+      ]
+    },
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
@@ -14,28 +36,6 @@
         "https://www.youtube.com/watch?v=_3NAqa-iXKk",
         "https://www.youtube.com/watch?v=K1E4fyqpyeQ",
         "https://www.youtube.com/watch?v=ilyGtxONL1g"
-      ]
-    },
-    {
-      "nombre": "CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-12T11:17:54.944407-05:00",
-      "canal_muestra": "CLIPERO SIN TITULO",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=9kNKLBd2--o"
-      ]
-    },
-    {
-      "nombre": "STREAMERS REACT TO CRAFT'S THOR COSPLAY",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-10T15:14:04.239761-05:00",
-      "ultima_deteccion": "2026-10-12T11:17:54.944407-05:00",
-      "canal_muestra": "ClipsdelChow",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=4NXT2bzpiP8"
       ]
     },
     {
