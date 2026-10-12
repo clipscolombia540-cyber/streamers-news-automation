@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 11/10/2026 07:25 PM (hora de Colombia)
+Actualizado: 11/10/2026 09:17 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 6.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: CLIPERO SIN TITULO
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.356
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
 
 ### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: EchoVault
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.132
+- Vistas reportadas por YouTube: 3.113
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=ZqKY60jBcjA
 
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Shur en Directo
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.640
+- Vistas reportadas por YouTube: 9.725
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
@@ -47,31 +37,31 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Kick momen
 - Publicado: 11/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Moroclips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Moroclips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
 - Publicado: 10/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.746
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=YfnDYr4CTkA
+- Vistas reportadas por YouTube: 95.944
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+### HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 11/10/2026 01:00 PM
+- Creador/canal detectado: Cuenta de clips: WestCol CLIPS
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestCol CLIPS
+- Publicado: 11/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=PPk3lC43pss
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=-310ujG0-0w
 
 ### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
 - Categoria: Cuenta de clips
@@ -80,23 +70,13 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Clipzy Cs
 - Publicado: 11/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- **Texto en pantalla:** CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
 
 ### ¡EMPEZÓ EL PERMADED! 💀🔥 | REACCIONES TEAM WEBONES CORP | DESAFÍO 4 DÍA 17
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -128,25 +108,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divertidos🥵
-- **Texto en pantalla:** ✨ES IMPOSIBLE COMPLETAR ESTE P*TO RETO GENTE😂|Mrstiven Momentos Divert
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Texto en pantalla:** CHUPISTREAM Y AMONG US CON PUDINES 😈 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YfnDYr4CTkA
+- **Fuente original:** https://www.youtube.com/watch?v=_4zQMPXkooE
 
-### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- **Texto en pantalla:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
+- **Texto en pantalla:** HABRANDO CON PARTICIPANTES DEL DEDSAFIO 4 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PPk3lC43pss
+- **Fuente original:** https://www.youtube.com/watch?v=-310ujG0-0w
 
 ### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -185,10 +165,10 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-11
-  - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **¡EMPEZÓ EL PERMADED! 💀🔥 TEAM WEBONES CORP DESAFÍO 4** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=ZqKY60jBcjA
+- **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-11
+  - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-11
   - https://www.youtube.com/watch?v=4NXT2bzpiP8
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-11
