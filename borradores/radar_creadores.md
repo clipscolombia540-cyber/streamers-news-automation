@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 01:22 PM (hora de Colombia)
+Actualizado: 13/10/2026 03:27 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 12.
+Clips incluidos: 9.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPTAMINA
-- Publicado: 12/10/2026 03:00 PM
+- Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.938
+- Vistas reportadas por YouTube: 55.462
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -27,19 +27,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Canal que publico: GirlOfNox Live
 - Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.107
+- Vistas reportadas por YouTube: 1.535
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=PTLcjhEqjvs
-
-### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Directo al Clip
-- Publicado: 12/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.381
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
 
 ### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 19) #dedsafio #minecraft
 - Categoria: Clip de terceros
@@ -47,17 +37,17 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Canal que publico: Querubin_Clips
 - Publicado: 13/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=xIc9MM1CcC0
 
-### La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+### La mu3rt3 de Capitan Gato en el Momento Revil más injusto | Dedsafio 4
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: Capitan Clipero
 - Publicado: 13/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 343
+- Vistas reportadas por YouTube: 936
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=IQCpuijdqS8
 
@@ -71,17 +61,6 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clipzy Cs
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Clipzy Cs
-- Publicado: 12/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.488
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
-
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
@@ -89,8 +68,8 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.993
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 31.223
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
@@ -100,9 +79,20 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.576
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 27.889
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+
+### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clipzy Cs
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Clipzy Cs
+- Publicado: 12/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.295
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -111,31 +101,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.407
+- Vistas reportadas por YouTube: 4.194
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
-
-### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 11/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 66
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=PPk3lC43pss
-
-### MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips
-- Publicado: 13/10/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=FffSn3clJ68
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -161,16 +129,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=PTLcjhEqjvs
 
-### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
-- **Texto en pantalla:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA L
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3StznNQA5XI
-
 ### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 19) #dedsafio #minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -181,12 +139,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xIc9MM1CcC0
 
-### La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+### La mu3rt3 de Capitan Gato en el Momento Revil más injusto | Dedsafio 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
-- **Texto en pantalla:** La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+- **Título sugerido:** La mu3rt3 de Capitan Gato en el Momento Revil más injusto | Dedsafio 4
+- **Texto en pantalla:** La mu3rt3 de Capitan Gato en el Momento Revil más injusto | Dedsafio 4
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=IQCpuijdqS8
@@ -200,16 +158,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
-
-### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
-- **Texto en pantalla:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA E
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Z9HMnBgCWAg
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -231,6 +179,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
+### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- **Texto en pantalla:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA E
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Z9HMnBgCWAg
+
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -241,31 +199,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
 
-### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- **Texto en pantalla:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PPk3lC43pss
-
-### MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
-- **Texto en pantalla:** MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=FffSn3clJ68
-
 ## Noticias y contexto
 
+- **[Creadores] Luisa Castro y Westcol estarían esperando su primer hijo; FOTO lo confirmaría - La Kalle** — 13/10/2026 12:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVlVQMWJvcGROZGd0M0NUTVBUeVRrank2R25vMG5Pc1RiQU1zUlVsc0twdEUzWkhiUmhLZXJPbDNySXFVQTh2M2EzejNUNTg2aWFTX1RqbHdKOG5tUl9SSHlMeWQ2cndvcXY0V1g5UjFndmxRcXU0ZzZWck5nRkc2VWZIY000X2RKbmUxOFZaWmJHdFlQRFJCYmxoVnRxbGxsdDA5OVN6TkxtOFlja3pkTlZaT3l6ZnJBQ3Y3RU1fbUgyaHlBaEZVWk5sQ0ZMRXVLX2c?oc=5)
 - **[Creadores] Luisa Castro y Westcol desatan rumores de embarazo tras publicaciones en redes sociales - El Frente** — 13/10/2026 11:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTEzaW5LMlRJazkzN3B1VGhZMUt4aHk1ai16Z3pncGh4NW5scFd0UEJubFdPVnI1enBIWkZ4OWx0SzEzVC1XdFNwVkFJWjF6OXcyMnR3NmVyNUIyMFdkc01HelVsM0xUQnVfZ3lyZ2tEeEY2TXhCM0k5SWlxM3NnS0lPRUs4TUlEdk9waURSTmxMVjRpMDExblFIZC0wZUNzeGFjUVFHUnh2cGt6ekpNV0hn?oc=5)
 - **[Creadores] Luisa Fernanda W reveló la insólita manera como Pipe Bueno escondía drogas en la casa - Publimetro Colombia** — 13/10/2026 10:12 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVVEcmVSZ0hKdjJQdTdQdG80dUpsMFowVURncjlvdjBEQ3k4anEtSkRwRjk4WktQb1FHZlFpY25xTEdueWtCSmM5bjVkckk3YjNDTFVMT2xfVlVYVzVTUFVKd2xlOWNXMlN2ekczUnh0YVRONFdUZnBrck9sWFExX3p1X1FMdXpyTTdtNWU0bFNHTWdIS0NsNGl4NTQ4eXFjUjZRRHBLckYtdWFRNFlYZnFoZzY3Njl4aldFaURQNHJFVWFVSVlwM21PeXktNVNuaWFJVENR?oc=5)
-- **[Creadores] Luisa Castro estaría embarazada de Westcol: esta es la publicación en redes sociales que desató los rumores - Infobae** — 13/10/2026 10:06 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVlQVU9tRDAyeGR5bmt3b01leWVzajFHdTBpUU0xZ2hXcThrLWd4QWs2X3lHZFpFOHBNcjM4enFkN3EzdFJMYlo4V0YwZ1lFMkl5dGlsQ0xhcllNX0cwbVc3bGt5cVJZZy1neXdSX3FlWmc3bkpBYTdjaldhaEZEY0w2TlFjUDVnX21uVjAyQTloRTVVRkdFNnpscE1DOHZZcHl5SV9nenQtbjdXRkpZcGtiSEN2WUUxRzdwMTdUdzczUU01NjV2aV9FbHZGY3YxOU9aRndlMGZjUkNlY2pLYnFreXpzZ9IBgAJBVV95cUxNd2FTUUo0TE9uVUJyNUpMT0Y0QXlWLW4ybDdnSmxaV1IwWDRLR0RpZmx2YVJXTVJaeGkxQXpvRXB1Y3JQTTVhM19ndkhCTjRzNEN3TTItY29KQTltRFF6M2FwWjlXU1NyYzZiRW1GVUJwQ1pUOG9pdWFQTnYxNTZxZlNKMEtTNjZSUVRuX2VwS1ZTNHFrSjdIcHNfemd4cjR6eGhjZXZvSEtyQ25jNHduTnZqOEdRN1dSZmxYc1JEd2VVQWdfRHo4MjdkM053azJrOFB4UFRHaXZwYnBVNjVaU0QwUjRmLVlyYV9Zb1NheG9heFgxWnhYS0tHWDFrQk9h?oc=5)
 - **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - El Cronista** — 12/10/2026 01:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
 
 ## Creadores principales vigilados

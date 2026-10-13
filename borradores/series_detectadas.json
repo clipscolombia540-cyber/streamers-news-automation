@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-13T13:22:50.715930-05:00",
+  "actualizado": "2026-10-13T15:27:28.881801-05:00",
   "series": [
     {
       "nombre": "MINECRAFT EXTREMO",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-13T01:23:53.211520-05:00",
-      "ultima_deteccion": "2026-10-13T13:22:50.715930-05:00",
+      "ultima_deteccion": "2026-10-13T15:27:28.881801-05:00",
       "canal_muestra": "CLIPTAMINA",
       "enlaces": [
         "https://www.youtube.com/watch?v=gsGIFRuBgE0",
@@ -18,8 +18,8 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-13T13:22:50.715930-05:00",
-      "canal_muestra": "GirlOfNox Live",
+      "ultima_deteccion": "2026-10-13T15:27:28.881801-05:00",
+      "canal_muestra": "Querubin_Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=PTLcjhEqjvs",
         "https://www.youtube.com/watch?v=xIc9MM1CcC0",
