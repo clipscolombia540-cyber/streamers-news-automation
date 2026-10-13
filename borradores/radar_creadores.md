@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 03:20 AM (hora de Colombia)
+Actualizado: 13/10/2026 05:18 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.082
+- Vistas reportadas por YouTube: 20.669
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Directo al Clip
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.688
+- Vistas reportadas por YouTube: 6.414
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
 
@@ -41,17 +41,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 11/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.121
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
-
 ### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
@@ -59,20 +48,31 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.205
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.561
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
 
-### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WClips
-- Publicado: 13/10/2026 03:02 AM
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 11/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=E3kMCb-fe5Y
+- Vistas reportadas por YouTube: 6.226
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 13/10/2026 02:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.137
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
 - Categoria: Cuenta de clips
@@ -81,7 +81,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Pelusa Clips
 - Publicado: 13/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
+- Vistas reportadas por YouTube: 15
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=H7RsGNO06Jw
 
@@ -119,16 +119,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- **Texto en pantalla:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CRE
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
-
 ### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -139,15 +129,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
-### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- **Texto en pantalla:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CRE
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
-- **Texto en pantalla:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=E3kMCb-fe5Y
+- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
