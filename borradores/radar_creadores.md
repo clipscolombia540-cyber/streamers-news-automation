@@ -1,25 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/10/2026 09:17 PM (hora de Colombia)
+Actualizado: 12/10/2026 11:18 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 3.
-Noticias recientes: 3.
+Noticias recientes: 2.
 Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
+### WESTCOL X LEYENDAS DEL VALLENATO
 - Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Kick momen
-- Publicado: 11/10/2026 07:00 PM
+- Creador/canal detectado: Westcol
+- Canal que publico: FAN PAGES
+- Publicado: 12/10/2026 10:35 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
+- Vistas reportadas por YouTube: 11
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
+- Enlace directo: https://www.youtube.com/watch?v=R_wxKnDKdFY
 
 ### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - Categoria: Cuenta de clips
@@ -28,34 +28,34 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 2.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 11/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.721
+- Vistas reportadas por YouTube: 5.984
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
-### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+### WESTCOL APRENDE A TOCAR EL ACORDEON
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El LOBO CLIP
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: El LOBO CLIP
-- Publicado: 12/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: Paisa Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Paisa Clips
+- Publicado: 12/10/2026 10:55 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=snc3jzZtnys
+- Enlace directo: https://www.youtube.com/watch?v=PPiwKzH6Nis
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### WESTCOL X LEYENDAS DEL VALLENATO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Texto en pantalla:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL X LEYENDAS DEL VALLENATO
+- **Texto en pantalla:** WESTCOL X LEYENDAS DEL VALLENATO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
+- **Fuente original:** https://www.youtube.com/watch?v=R_wxKnDKdFY
 
 ### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -67,21 +67,20 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
 
-### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### WESTCOL APRENDE A TOCAR EL ACORDEON
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- **Texto en pantalla:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL APRENDE A TOCAR EL ACORDEON
+- **Texto en pantalla:** WESTCOL APRENDE A TOCAR EL ACORDEON
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=snc3jzZtnys
+- **Fuente original:** https://www.youtube.com/watch?v=PPiwKzH6Nis
 
 ## Noticias y contexto
 
 - **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - El Cronista** — 12/10/2026 01:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
 - **[Creadores] Tulio Recomienda recorrerá 10 ciudades para impulsar nuevas formas de consumir carne de cerdo - Portafolio.co** — 11/10/2026 11:33 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSm1pbGJ0SUdGbXdIOTg4TmNoYUZ6aVZ2THl0by1FcVN3ekp3dklzWjRFX1BhZXFzSnpTaWhMTjgxZGtlTld0QVB4Zmg2WVhKUnBpeXFINXdKY0V3RmJrcFBWSUpDcklwTC1Lbnh5NVNoQXpkQmpvQWlUUVU4aC1paGlMRWJBdmVBSUl5b1M2cFN0Tk5OSFdHZ0hMNEhRRE1QamlhYjl3OGhieXJLc05GZjlBZlduSmNjNm4zVmo3NnVVZDV2OFNWSTR5bUFoMmRocm9FcEI1a3RvZ2pp0gHiAUFVX3lxTE5Qcjdxb0stWjdEYmNTcUlxcmVnZlBuQUxMR2RaSFV5RjZzTFIyWjlCOEhveFFWWlI2VklGMm1XdzBucmZXOVhlNGRBWVdDeTVpYktwMFYyUllKRW93ZVN1anhPV3ZwRk1MTHV5LV9RZmJwcnd2Y1BJWEx2OXg3aFdnczYtYlhER25KclJ5ZHFQMXJfVUpxN0tJVmNDQWxIcUlHSUxHeV9ZOUdQUnhWdS11VGlrWlVtdTNJVDBxa2doMVM4S1FfamtpdFlOLV9lREFtTkpQN3p3UkhPSWRWMlhKa2c?oc=5)
-- **[Creadores] Omar Murillo elogió a El Agropecuario, ex de Aida Victoria, después de que se filtrara su video íntimo: “A fuego” - Infobae** — 10/10/2026 09:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxPUVBQTUMwb0NrR1BfUlJZMFlpaDRnRTBkWjJ5RUE2RlI1X3FIWGdNWTFvWkxtR01rWWJJV3I2eWZpV1RRUUlObGp4bmQ5bGpRLW1EaFVhdWxPc1p2dENzeUwxNFhXOWtXTDlMaXdxWEY0NnItVXRFaHhOVXBMdWYydlM1Y2FMS0pyRjU4c0ZBbTY3VW1uU2dFeF9TOWc1WDF3RER1bXZKNVo5TU5vZl9xdkxENlQxa1lpS1QxSFE3NndfOUxGTEJCaFZkb0VRczNRbnBoLW55TEM1VFA2TFIwbnNiRzFxRENCLXF1Y0dmY3VYa0htcm1mU0Z0d1ZVY1VVbHVJ0gGDAkFVX3lxTE9RUFBNQzBvQ2tHUF9SUlkwWWloNGdFMGRaMnlFQTZGUjVfcUhYZ01ZMW9aTG1HTWtZYklXcjZ5ZmlXVFFRSU5sanhuZDlsalEtbURoVWF1bE9zWnZ0Q3N5TDE0WFc5a1dMOUxpd3FYRjQ2ci1VdEVoeE5VcEx1ZjJ2UzVjYUxLSnJGNThzRkFtNjdVbW5TZ0V4X1M5ZzVYMXdERHVtdko1WjlNTm9mX3F2TEQ2VDFrWWlLVDFIUTc2d185TEZMQkJoVmRvRVFzM1FucGgtbnlMQzVUUDZMUjBuc2JHMXFEQ0ItcXVjR2ZjdVhrSG1ybWZTRnR3VlVjVVVsdUk?oc=5)
 
 ## Creadores principales vigilados
 
