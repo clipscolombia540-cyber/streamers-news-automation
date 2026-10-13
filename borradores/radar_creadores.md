@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 07:23 AM (hora de Colombia)
+Actualizado: 13/10/2026 09:20 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 2.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
+Clips incluidos: 7.
+Noticias recientes: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.337
-- Puntaje heurístico de interés: 8
+- Vistas reportadas por YouTube: 27.759
+- Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
-
-### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Directo al Clip
-- Publicado: 12/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.953
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
 
 ### STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
 - Categoria: Clip de terceros
@@ -41,16 +31,6 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=PcsrdwjArY0
 
-### REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y llega la policia. 🚔🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Crissx
-- Publicado: 12/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 59
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=GnoklAPsU70
-
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
@@ -61,17 +41,6 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 13/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.093
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
-
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
@@ -79,9 +48,31 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.748
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 9.101
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
+
+### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 13/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 10.788
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+
+### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 12/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.278
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
 ### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
 - Categoria: Cuenta de clips
@@ -90,20 +81,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: Pelusa Clips
 - Publicado: 13/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21
+- Vistas reportadas por YouTube: 26
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=H7RsGNO06Jw
-
-### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El LOBO CLIP
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: El LOBO CLIP
-- Publicado: 12/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=snc3jzZtnys
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -119,16 +99,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=gsGIFRuBgE0
 
-### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
-- **Texto en pantalla:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA L
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3StznNQA5XI
-
 ### STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -138,16 +108,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=PcsrdwjArY0
-
-### REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y llega la policia. 🚔🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y llega la policia. 🚔🔥
-- **Texto en pantalla:** REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y lle
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GnoklAPsU70
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -159,6 +119,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
 
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
+
 ### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -169,15 +139,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
-### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
+- **Texto en pantalla:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CRE
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
+- **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
 
 ### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -189,18 +159,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=H7RsGNO06Jw
 
-### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- **Texto en pantalla:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=snc3jzZtnys
-
 ## Noticias y contexto
 
+- **[Creadores] Este es el video de la violenta pelea callejera que protagonizó Cris Valencia: recibió varios puñetazos y señaló a fanáticos de Westcol - Infobae** — 13/10/2026 07:49 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUEp6UXZ2ek5JNzk0MzByVldsMU1CRFIyQWZXNE1sZlRDN0hkRVQ1NWtNdEFGa214ZXJGaWd3RnRiaW8wNzM3MldLZkhhX3ZtOUkzZUZ3MnhSSU1fNU1hUzlVTGhjTVFBUnRYakpySmU4eXJoTjZPbl9QRE84Mm9nRFhiTkZGSzdjYzRGc09qNkkyTWxPNGFyd0ZDMDI2YXAza0tmdElIUXkyYkMxUG1aMkFPX3pYNUl0THJ1WUlJbFhNeHJVRmw2a29SSFh5NnZ4U25GMUI5VmtlbGxZbUVMQXF6T200VzF5RTZSQXNZcjlaZXRTeEQyZDdTd3VIUjBJb00yWUJILXZ6RmPSAaYCQVVfeXFMTjVfbVhCOXFYNURfdWd6azJ5YkZWdVNkT0djMm90U0lwZlNXS0JSd2tlc0FNVV9BWFhYaHBNZFZjbDFrYXY2WGI5Y1ctc0NpR1FDdHZwS0pDdHJjZkN4TWRqNWV0VVFrSW5aMVZ6N2lDRTE4ekxxMkh6dXZKZ1Q0UTdqUVVyS1kzaTlVdS15Y3E2T3BwQVo5blFGUGVyYTI5ZnRJSXNPUGRueE9neDdPbC1pR3NUUDBMdmVGczcyRno4eGNPSVJmUmtWaG1wTXZRQ0RIYkJWanFoMzdSeGJYWHdvZmo4dGo2d2VkM2U3WU1RYy1famg4Si10VTd3OHU3eDg3TEItQ1RIcDkyWVpFTjhNUllBTktpSGZYdWN0QkpBM1BlTE1n?oc=5)
 - **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - El Cronista** — 12/10/2026 01:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
 - **[Creadores] Tulio Recomienda recorrerá 10 ciudades para impulsar nuevas formas de consumir carne de cerdo - Portafolio.co** — 11/10/2026 11:33 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSm1pbGJ0SUdGbXdIOTg4TmNoYUZ6aVZ2THl0by1FcVN3ekp3dklzWjRFX1BhZXFzSnpTaWhMTjgxZGtlTld0QVB4Zmg2WVhKUnBpeXFINXdKY0V3RmJrcFBWSUpDcklwTC1Lbnh5NVNoQXpkQmpvQWlUUVU4aC1paGlMRWJBdmVBSUl5b1M2cFN0Tk5OSFdHZ0hMNEhRRE1QamlhYjl3OGhieXJLc05GZjlBZlduSmNjNm4zVmo3NnVVZDV2OFNWSTR5bUFoMmRocm9FcEI1a3RvZ2pp0gHiAUFVX3lxTE5Qcjdxb0stWjdEYmNTcUlxcmVnZlBuQUxMR2RaSFV5RjZzTFIyWjlCOEhveFFWWlI2VklGMm1XdzBucmZXOVhlNGRBWVdDeTVpYktwMFYyUllKRW93ZVN1anhPV3ZwRk1MTHV5LV9RZmJwcnd2Y1BJWEx2OXg3aFdnczYtYlhER25KclJ5ZHFQMXJfVUpxN0tJVmNDQWxIcUlHSUxHeV9ZOUdQUnhWdS11VGlrWlVtdTNJVDBxa2doMVM4S1FfamtpdFlOLV9lREFtTkpQN3p3UkhPSWRWMlhKa2c?oc=5)
 
