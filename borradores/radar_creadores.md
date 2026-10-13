@@ -1,35 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/10/2026 05:14 PM (hora de Colombia)
+Actualizado: 12/10/2026 07:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 3.
 Noticias recientes: 3.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: CLIPERO SIN TITULO
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.807
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=9kNKLBd2--o
-
-### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: Shur en Directo
-- Publicado: 10/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.999
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=x0jUfECc4PI
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - Categoria: Clip de terceros
@@ -37,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: Kick momen
 - Publicado: 11/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
 
@@ -48,27 +28,16 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 11/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.371
+- Vistas reportadas por YouTube: 5.570
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
-
-### HAY MUCHA ENVIDIA EN EL DEDSAFIO | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Paisa Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: Paisa Clips
-- Publicado: 12/10/2026 05:09 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=Rudu7Ka5dKQ
 
 ### #lapiquiña #shorts #westcol
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clipazo
 - Creador relacionado en el título: Westcol
 - Canal que publico: Clipazo
-- Publicado: 12/10/2026 04:51 PM
+- Publicado: 12/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
@@ -77,26 +46,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- **Texto en pantalla:** CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=9kNKLBd2--o
-
-### SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Texto en pantalla:** SAMULX ¡EXPLOTA por ROBO contra JUANSGUARNIZO!
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=x0jUfECc4PI
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -117,16 +66,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
-
-### HAY MUCHA ENVIDIA EN EL DEDSAFIO | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** HAY MUCHA ENVIDIA EN EL DEDSAFIO | WESTCOL
-- **Texto en pantalla:** HAY MUCHA ENVIDIA EN EL DEDSAFIO | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Rudu7Ka5dKQ
 
 ### #lapiquiña #shorts #westcol
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
