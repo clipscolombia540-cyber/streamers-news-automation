@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 01:23 AM (hora de Colombia)
+Actualizado: 13/10/2026 03:20 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 7.
 Noticias recientes: 2.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: CLIPTAMINA
+- Publicado: 12/10/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 17.082
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
 ### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
 - Categoria: Clip de terceros
@@ -17,29 +27,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: Directo al Clip
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.858
-- Puntaje heurístico de interés: 3
+- Vistas reportadas por YouTube: 5.688
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
-
-### ✨GARENA!!😡 ME FRITO EL HPT* RAYO 🤣 Estoy Kgao* Parce 😂 - #mrstiven #freefire
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 12/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.090
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=227PTjO3oXU
-
-### WESTCOL X LEYENDAS DEL VALLENATO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: FAN PAGES
-- Publicado: 12/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=R_wxKnDKdFY
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - Categoria: Clip de terceros
@@ -67,15 +57,47 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
-- Publicado: 13/10/2026 12:53 AM
+- Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 508
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 2.205
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+
+### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WClips
+- Publicado: 13/10/2026 03:02 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=E3kMCb-fe5Y
+
+### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips
+- Publicado: 13/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=H7RsGNO06Jw
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
+- **Texto en pantalla:** LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gsGIFRuBgE0
 
 ### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -86,26 +108,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3StznNQA5XI
-
-### ✨GARENA!!😡 ME FRITO EL HPT* RAYO 🤣 Estoy Kgao* Parce 😂 - #mrstiven #freefire
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨GARENA!!😡 ME FRITO EL HPT* RAYO 🤣 Estoy Kgao* Parce 😂 - #mrstiven #freefire
-- **Texto en pantalla:** ✨GARENA!!😡 ME FRITO EL HPT* RAYO 🤣 Estoy Kgao* Parce 😂 - #mrstiven #fr
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=227PTjO3oXU
-
-### WESTCOL X LEYENDAS DEL VALLENATO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL X LEYENDAS DEL VALLENATO
-- **Texto en pantalla:** WESTCOL X LEYENDAS DEL VALLENATO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=R_wxKnDKdFY
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -137,6 +139,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
+### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- **Texto en pantalla:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=E3kMCb-fe5Y
+
+### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+- **Texto en pantalla:** MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=H7RsGNO06Jw
+
 ## Noticias y contexto
 
 - **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - El Cronista** — 12/10/2026 01:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
@@ -163,6 +185,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-13
+  - https://www.youtube.com/watch?v=gsGIFRuBgE0
   - https://www.youtube.com/watch?v=3StznNQA5XI
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=9kNKLBd2--o
