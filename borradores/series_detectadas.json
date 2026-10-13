@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-10-13T09:20:36.047435-05:00",
+  "actualizado": "2026-10-13T11:18:49.224367-05:00",
   "series": [
     {
       "nombre": "MINECRAFT EXTREMO",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-13T01:23:53.211520-05:00",
-      "ultima_deteccion": "2026-10-13T09:20:36.047435-05:00",
-      "canal_muestra": "CLIPTAMINA",
+      "ultima_deteccion": "2026-10-13T11:18:49.224367-05:00",
+      "canal_muestra": "Directo al Clip",
       "enlaces": [
         "https://www.youtube.com/watch?v=gsGIFRuBgE0",
         "https://www.youtube.com/watch?v=3StznNQA5XI"
@@ -18,10 +18,25 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-13T07:23:31.384947-05:00",
-      "ultima_deteccion": "2026-10-13T09:20:36.047435-05:00",
+      "ultima_deteccion": "2026-10-13T11:18:49.224367-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=PcsrdwjArY0"
+      ]
+    },
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-13T11:18:49.224367-05:00",
+      "canal_muestra": "Dedsafio 4 Minecraft",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=lecp9_K7ddY",
+        "https://www.youtube.com/watch?v=bbRva_qzoqE",
+        "https://www.youtube.com/watch?v=QcRlTTn04_M",
+        "https://www.youtube.com/watch?v=_3NAqa-iXKk",
+        "https://www.youtube.com/watch?v=K1E4fyqpyeQ"
       ]
     },
     {
@@ -44,21 +59,6 @@
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=4NXT2bzpiP8"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-12T11:17:54.944407-05:00",
-      "canal_muestra": "Dedsafio 4 Minecraft",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=bbRva_qzoqE",
-        "https://www.youtube.com/watch?v=QcRlTTn04_M",
-        "https://www.youtube.com/watch?v=_3NAqa-iXKk",
-        "https://www.youtube.com/watch?v=K1E4fyqpyeQ",
-        "https://www.youtube.com/watch?v=ilyGtxONL1g"
       ]
     },
     {
