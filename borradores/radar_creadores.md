@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 11:18 AM (hora de Colombia)
+Actualizado: 13/10/2026 01:22 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
+Clips incluidos: 12.
+Noticias recientes: 4.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.061
+- Vistas reportadas por YouTube: 43.938
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
+
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 13/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.107
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=PTLcjhEqjvs
 
 ### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
 - Categoria: Clip de terceros
@@ -27,29 +37,29 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: Directo al Clip
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.434
+- Vistas reportadas por YouTube: 9.381
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
 
-### STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: ClipsdelChow
-- Publicado: 11/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.549
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=PcsrdwjArY0
-
-### MUERTE DE VICKYPALAMI en Dedsafio 4 Minecraft
+### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 19) #dedsafio #minecraft
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 11/10/2026 07:00 PM
+- Canal que publico: Querubin_Clips
+- Publicado: 13/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=lecp9_K7ddY
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=xIc9MM1CcC0
+
+### La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 13/10/2026 12:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 343
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=IQCpuijdqS8
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - Categoria: Clip de terceros
@@ -68,7 +78,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: Clipzy Cs
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.010
+- Vistas reportadas por YouTube: 5.488
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
 
@@ -79,7 +89,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.816
+- Vistas reportadas por YouTube: 20.993
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
@@ -90,20 +100,42 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.454
+- Vistas reportadas por YouTube: 19.576
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
 
-### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 13/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.407
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 11/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 66
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=PPk3lC43pss
+
+### MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Pelusa Clips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: Pelusa Clips
-- Publicado: 13/10/2026 12:00 AM
+- Publicado: 13/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33
+- Vistas reportadas por YouTube: 12
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=H7RsGNO06Jw
+- Enlace directo: https://www.youtube.com/watch?v=FffSn3clJ68
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -119,6 +151,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=gsGIFRuBgE0
 
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=PTLcjhEqjvs
+
 ### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -129,25 +171,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3StznNQA5XI
 
-### STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
-- **Texto en pantalla:** STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PcsrdwjArY0
-
-### MUERTE DE VICKYPALAMI en Dedsafio 4 Minecraft
+### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 19) #dedsafio #minecraft
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MUERTE DE VICKYPALAMI en Dedsafio 4 Minecraft
-- **Texto en pantalla:** MUERTE DE VICKYPALAMI en Dedsafio 4 Minecraft
+- **Título sugerido:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 19) #dedsafio #minecraft
+- **Texto en pantalla:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 19) #dedsafio #min
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lecp9_K7ddY
+- **Fuente original:** https://www.youtube.com/watch?v=xIc9MM1CcC0
+
+### La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+- **Texto en pantalla:** La mu3rt3 de Capitan Gato en el Momento Revil más difícil | Dedsafio 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=IQCpuijdqS8
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -189,23 +231,42 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
-### MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN JUGANDO FREE FIRE CON ZELIKA
-- **Texto en pantalla:** MR STIVEN JUGANDO FREE FIRE CON ZELIKA
+- **Título sugerido:** 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
+- **Texto en pantalla:** 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=H7RsGNO06Jw
+- **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- **Texto en pantalla:** Un dia comprando armas en Estados Unidos con Lonche 🔫I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=PPk3lC43pss
+
+### MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
+- **Texto en pantalla:** MR STIVEN NUEVAMENTE LIMITADO EN KICK | HABLANDO CLARO
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=FffSn3clJ68
 
 ## Noticias y contexto
 
+- **[Creadores] Luisa Castro y Westcol desatan rumores de embarazo tras publicaciones en redes sociales - El Frente** — 13/10/2026 11:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTEzaW5LMlRJazkzN3B1VGhZMUt4aHk1ai16Z3pncGh4NW5scFd0UEJubFdPVnI1enBIWkZ4OWx0SzEzVC1XdFNwVkFJWjF6OXcyMnR3NmVyNUIyMFdkc01HelVsM0xUQnVfZ3lyZ2tEeEY2TXhCM0k5SWlxM3NnS0lPRUs4TUlEdk9waURSTmxMVjRpMDExblFIZC0wZUNzeGFjUVFHUnh2cGt6ekpNV0hn?oc=5)
 - **[Creadores] Luisa Fernanda W reveló la insólita manera como Pipe Bueno escondía drogas en la casa - Publimetro Colombia** — 13/10/2026 10:12 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVVEcmVSZ0hKdjJQdTdQdG80dUpsMFowVURncjlvdjBEQ3k4anEtSkRwRjk4WktQb1FHZlFpY25xTEdueWtCSmM5bjVkckk3YjNDTFVMT2xfVlVYVzVTUFVKd2xlOWNXMlN2ekczUnh0YVRONFdUZnBrck9sWFExX3p1X1FMdXpyTTdtNWU0bFNHTWdIS0NsNGl4NTQ4eXFjUjZRRHBLckYtdWFRNFlYZnFoZzY3Njl4aldFaURQNHJFVWFVSVlwM21PeXktNVNuaWFJVENR?oc=5)
-- **[Creadores] Luisa Castro estaría embarazada de Westcol: esta es la publicación en redes sociales que desató los rumores - Infobae** — 13/10/2026 10:02 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVlQVU9tRDAyeGR5bmt3b01leWVzajFHdTBpUU0xZ2hXcThrLWd4QWs2X3lHZFpFOHBNcjM4enFkN3EzdFJMYlo4V0YwZ1lFMkl5dGlsQ0xhcllNX0cwbVc3bGt5cVJZZy1neXdSX3FlWmc3bkpBYTdjaldhaEZEY0w2TlFjUDVnX21uVjAyQTloRTVVRkdFNnpscE1DOHZZcHl5SV9nenQtbjdXRkpZcGtiSEN2WUUxRzdwMTdUdzczUU01NjV2aV9FbHZGY3YxOU9aRndlMGZjUkNlY2pLYnFreXpzZw?oc=5)
-- **[Creadores] Filtran video de la hija de Karina García con trabajador de Westcol - Noticias RCN** — 13/10/2026 09:44 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkk1TlZDTE1yM29INUxLZHFxaUlvcGFBZXRSTGpxblo1aDViU01qYm13dkhxRi1nWUcxcV9vejVKZUp4U1BqVnNzcDBuNHN6Z3daQ0RDZ1puN3I3clRwam9ZQW5KTmpaaUlyd2wtMnNqeFNqY1VSdU5yZmZxVlc3cV96ZWpzRVFxdFV0VDN4Zng0bHE4R0F6SGNRS1rSAZwBQVVfeXFMUDUzRWZ3WnhnM21mV0ttZjFUY0VDUndqMmdIVURjSEZ6UzV1OVU0OTBkSkVvN3JaX3Y4bXoxUC1nM0tET1NGZmF0aVNFdGZuMjRsd0FLYjhGaHhzdWp1RTRNM0VTNXhhV1RWeUxMRXlpT0hjVk5mRXVybGJPT3lxNVBWZEtsQUx0S2xLQTFOb2kxRVFmZllhVWpGeU9l?oc=5)
+- **[Creadores] Luisa Castro estaría embarazada de Westcol: esta es la publicación en redes sociales que desató los rumores - Infobae** — 13/10/2026 10:06 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVlQVU9tRDAyeGR5bmt3b01leWVzajFHdTBpUU0xZ2hXcThrLWd4QWs2X3lHZFpFOHBNcjM4enFkN3EzdFJMYlo4V0YwZ1lFMkl5dGlsQ0xhcllNX0cwbVc3bGt5cVJZZy1neXdSX3FlWmc3bkpBYTdjaldhaEZEY0w2TlFjUDVnX21uVjAyQTloRTVVRkdFNnpscE1DOHZZcHl5SV9nenQtbjdXRkpZcGtiSEN2WUUxRzdwMTdUdzczUU01NjV2aV9FbHZGY3YxOU9aRndlMGZjUkNlY2pLYnFreXpzZ9IBgAJBVV95cUxNd2FTUUo0TE9uVUJyNUpMT0Y0QXlWLW4ybDdnSmxaV1IwWDRLR0RpZmx2YVJXTVJaeGkxQXpvRXB1Y3JQTTVhM19ndkhCTjRzNEN3TTItY29KQTltRFF6M2FwWjlXU1NyYzZiRW1GVUJwQ1pUOG9pdWFQTnYxNTZxZlNKMEtTNjZSUVRuX2VwS1ZTNHFrSjdIcHNfemd4cjR6eGhjZXZvSEtyQ25jNHduTnZqOEdRN1dSZmxYc1JEd2VVQWdfRHo4MjdkM053azJrOFB4UFRHaXZwYnBVNjVaU0QwUjRmLVlyYV9Zb1NheG9heFgxWnhYS0tHWDFrQk9h?oc=5)
 - **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - El Cronista** — 12/10/2026 01:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
-- **[Creadores] Tulio Recomienda recorrerá 10 ciudades para impulsar nuevas formas de consumir carne de cerdo - Portafolio.co** — 11/10/2026 11:33 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSm1pbGJ0SUdGbXdIOTg4TmNoYUZ6aVZ2THl0by1FcVN3ekp3dklzWjRFX1BhZXFzSnpTaWhMTjgxZGtlTld0QVB4Zmg2WVhKUnBpeXFINXdKY0V3RmJrcFBWSUpDcklwTC1Lbnh5NVNoQXpkQmpvQWlUUVU4aC1paGlMRWJBdmVBSUl5b1M2cFN0Tk5OSFdHZ0hMNEhRRE1QamlhYjl3OGhieXJLc05GZjlBZlduSmNjNm4zVmo3NnVVZDV2OFNWSTR5bUFoMmRocm9FcEI1a3RvZ2pp0gHiAUFVX3lxTE5Qcjdxb0stWjdEYmNTcUlxcmVnZlBuQUxMR2RaSFV5RjZzTFIyWjlCOEhveFFWWlI2VklGMm1XdzBucmZXOVhlNGRBWVdDeTVpYktwMFYyUllKRW93ZVN1anhPV3ZwRk1MTHV5LV9RZmJwcnd2Y1BJWEx2OXg3aFdnczYtYlhER25KclJ5ZHFQMXJfVUpxN0tJVmNDQWxIcUlHSUxHeV9ZOUdQUnhWdS11VGlrWlVtdTNJVDBxa2doMVM4S1FfamtpdFlOLV9lREFtTkpQN3p3UkhPSWRWMlhKa2c?oc=5)
 
 ## Creadores principales vigilados
 
@@ -230,11 +291,11 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-13
   - https://www.youtube.com/watch?v=gsGIFRuBgE0
   - https://www.youtube.com/watch?v=3StznNQA5XI
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-13
+  - https://www.youtube.com/watch?v=PTLcjhEqjvs
+  - https://www.youtube.com/watch?v=xIc9MM1CcC0
 - **STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY** (candidata por revisar) — última detección: 2026-10-13
   - https://www.youtube.com/watch?v=PcsrdwjArY0
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-13
-  - https://www.youtube.com/watch?v=lecp9_K7ddY
-  - https://www.youtube.com/watch?v=bbRva_qzoqE
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-12
