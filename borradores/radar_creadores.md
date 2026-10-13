@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/10/2026 07:26 PM (hora de Colombia)
+Actualizado: 12/10/2026 09:17 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 3.
@@ -26,22 +26,22 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 2.
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 11/10/2026 08:00 PM
+- Publicado: 11/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.570
+- Vistas reportadas por YouTube: 5.721
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
-### #lapiquiña #shorts #westcol
+### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clipazo
-- Creador relacionado en el título: Westcol
-- Canal que publico: Clipazo
-- Publicado: 12/10/2026 05:00 PM
+- Creador/canal detectado: Cuenta de clips: El LOBO CLIP
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: El LOBO CLIP
+- Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xoP3tiNuy6E
+- Enlace directo: https://www.youtube.com/watch?v=snc3jzZtnys
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -67,15 +67,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
 
-### #lapiquiña #shorts #westcol
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** #lapiquiña #shorts #westcol
-- **Texto en pantalla:** #lapiquiña #shorts #westcol
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- **Texto en pantalla:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xoP3tiNuy6E
+- **Fuente original:** https://www.youtube.com/watch?v=snc3jzZtnys
 
 ## Noticias y contexto
 
