@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 05:18 AM (hora de Colombia)
+Actualizado: 13/10/2026 07:23 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 9.
 Noticias recientes: 2.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.669
+- Vistas reportadas por YouTube: 23.337
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -27,15 +27,35 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Directo al Clip
 - Publicado: 12/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.414
+- Vistas reportadas por YouTube: 6.953
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
+
+### STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: ClipsdelChow
+- Publicado: 11/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 21.479
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=PcsrdwjArY0
+
+### REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y llega la policia. 🚔🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Crissx
+- Publicado: 12/10/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 59
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=GnoklAPsU70
 
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: Kick momen
-- Publicado: 11/10/2026 07:00 PM
+- Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 0
@@ -48,20 +68,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.561
+- Vistas reportadas por YouTube: 7.093
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
-
-### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 11/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.226
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - Categoria: Cuenta de clips
@@ -70,7 +79,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.137
+- Vistas reportadas por YouTube: 4.748
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
@@ -81,9 +90,20 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Pelusa Clips
 - Publicado: 13/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15
+- Vistas reportadas por YouTube: 21
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=H7RsGNO06Jw
+
+### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: El LOBO CLIP
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: El LOBO CLIP
+- Publicado: 12/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=snc3jzZtnys
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -109,6 +129,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3StznNQA5XI
 
+### STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
+- **Texto en pantalla:** STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=PcsrdwjArY0
+
+### REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y llega la policia. 🚔🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y llega la policia. 🚔🔥
+- **Texto en pantalla:** REYDELACITY REACCIONA A Entré en el peligroso bloque de Memo ATR y lle
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GnoklAPsU70
+
 ### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -129,16 +169,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
-### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- **Texto en pantalla:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CRE
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
-
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -158,6 +188,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=H7RsGNO06Jw
+
+### mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- **Texto en pantalla:** mr Stiven tc parchando con la cabra🐐🔥🔥🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=snc3jzZtnys
 
 ## Noticias y contexto
 
@@ -187,6 +227,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-13
   - https://www.youtube.com/watch?v=gsGIFRuBgE0
   - https://www.youtube.com/watch?v=3StznNQA5XI
+- **STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY** (candidata por revisar) — última detección: 2026-10-13
+  - https://www.youtube.com/watch?v=PcsrdwjArY0
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
   - https://www.youtube.com/watch?v=9kNKLBd2--o
 - **STREAMERS REACT TO CRAFT'S THOR COSPLAY** (candidata por revisar) — última detección: 2026-10-12

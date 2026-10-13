@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 13/10/2026 10:21 UTC
+**Actualizado:** 13/10/2026 12:26 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -10,13 +10,13 @@
 
 ## Diagnóstico del feed
 - Sin fecha verificable: 0
-- Más antiguas que 48 horas: 55
+- Más antiguas que 48 horas: 44
 - Con fecha futura: 0
-- Dentro del periodo antes de quitar duplicados: 54
+- Dentro del periodo antes de quitar duplicados: 65
 - Duplicadas: 0
 
 ### Resultado por feed
-- **Clipero:Ale clips**: 25 leídas; 4 recientes; 21 antiguas; 0 sin fecha; 1 seleccionadas.
+- **Clipero:Ale clips**: 25 leídas; 15 recientes; 10 antiguas; 0 sin fecha; 1 seleccionadas.
 - **Clipero:Saraclips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **Clipero:Sofia Clips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **TikTok:estevagoqueclips**: 9 leídas; 0 recientes; 9 antiguas; 0 sin fecha; 0 seleccionadas.
@@ -30,17 +30,17 @@
 - **Fecha reportada:** 13/10/2026 05:44 UTC
 - **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696024244454460690
 
-## 2. #reydelacity #kickclips #westcol
+## 2. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 13/10/2026 03:40 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695992061186657543
+- **Fecha reportada:** 13/10/2026 05:42 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696023728185969938
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Ale clips
-- **Fecha reportada:** 12/10/2026 23:05 UTC
-- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7695921380843359520
+- **Fecha reportada:** 13/10/2026 05:31 UTC
+- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7696020718584106272
 
 ## 4. #westcol #aida
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -51,5 +51,5 @@
 ## 5. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 13/10/2026 03:36 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7695991305104592136
+- **Fecha reportada:** 13/10/2026 05:40 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696023021802327303

@@ -1,16 +1,27 @@
 {
-  "actualizado": "2026-10-13T05:18:56.931870-05:00",
+  "actualizado": "2026-10-13T07:23:31.384947-05:00",
   "series": [
     {
       "nombre": "MINECRAFT EXTREMO",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-13T01:23:53.211520-05:00",
-      "ultima_deteccion": "2026-10-13T05:18:56.931870-05:00",
+      "ultima_deteccion": "2026-10-13T07:23:31.384947-05:00",
       "canal_muestra": "CLIPTAMINA",
       "enlaces": [
         "https://www.youtube.com/watch?v=gsGIFRuBgE0",
         "https://www.youtube.com/watch?v=3StznNQA5XI"
+      ]
+    },
+    {
+      "nombre": "STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-13T07:23:31.384947-05:00",
+      "ultima_deteccion": "2026-10-13T07:23:31.384947-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=PcsrdwjArY0"
       ]
     },
     {
