@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 14/10/2026 05:29 AM (hora de Colombia)
+Actualizado: 14/10/2026 06:38 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 5.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 61.748
+- Vistas reportadas por YouTube: 61.822
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -27,49 +27,39 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 - Canal que publico: Directo al Clip
 - Publicado: 13/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.485
+- Vistas reportadas por YouTube: 5.910
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=F7rbaaMmjr0
 
-### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 13/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.886
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=ZaiqxcEru_A
-
-### «Westcol hablando de lo que se sufre con el vallenato 😂🎶»#Westcol #NelsonVelasquez #shorts
+### WESTCOL X LEYENDAS DEL VALLENATO
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Kickxtreme
-- Publicado: 14/10/2026 12:00 AM
+- Canal que publico: FAN PAGES
+- Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 58
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=UEb3g_kXBws
+- Enlace directo: https://www.youtube.com/watch?v=R_wxKnDKdFY
 
-### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69.867
+- Vistas reportadas por YouTube: 44.654
 - Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
+- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 13/10/2026 11:00 AM
+- Publicado: 13/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.252
+- Vistas reportadas por YouTube: 22.405
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
 
@@ -97,35 +87,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=F7rbaaMmjr0
 
-### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
-- **Texto en pantalla:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #m
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZaiqxcEru_A
-
-### «Westcol hablando de lo que se sufre con el vallenato 😂🎶»#Westcol #NelsonVelasquez #shorts
+### WESTCOL X LEYENDAS DEL VALLENATO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** «Westcol hablando de lo que se sufre con el vallenato 😂🎶»#Westcol #NelsonVelasquez #shorts
-- **Texto en pantalla:** «Westcol hablando de lo que se sufre con el vallenato 😂🎶»#Westcol #Nel
+- **Título sugerido:** WESTCOL X LEYENDAS DEL VALLENATO
+- **Texto en pantalla:** WESTCOL X LEYENDAS DEL VALLENATO
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UEb3g_kXBws
+- **Fuente original:** https://www.youtube.com/watch?v=R_wxKnDKdFY
 
-### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Título sugerido:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Texto en pantalla:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
+- **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -169,8 +149,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=F7rbaaMmjr0
   - https://www.youtube.com/watch?v=1WFuY0uZU_k
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-14
+  - https://www.youtube.com/watch?v=eZJXP8VA5w4
   - https://www.youtube.com/watch?v=Wk3uIczDTlg
-  - https://www.youtube.com/watch?v=LU_BpmqUtsM
 - **STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY** (candidata por revisar) — última detección: 2026-10-13
   - https://www.youtube.com/watch?v=PcsrdwjArY0
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12

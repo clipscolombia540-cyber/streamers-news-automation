@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-14T05:29:09.494132-05:00",
+  "actualizado": "2026-10-14T06:38:53.182309-05:00",
   "series": [
     {
       "nombre": "MINECRAFT EXTREMO",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-13T01:23:53.211520-05:00",
-      "ultima_deteccion": "2026-10-14T05:29:09.494132-05:00",
+      "ultima_deteccion": "2026-10-14T06:38:53.182309-05:00",
       "canal_muestra": "Directo al Clip",
       "enlaces": [
         "https://www.youtube.com/watch?v=F7rbaaMmjr0",
@@ -20,14 +20,14 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-14T03:30:39.792438-05:00",
-      "canal_muestra": "Pedricoking",
+      "ultima_deteccion": "2026-10-14T06:38:53.182309-05:00",
+      "canal_muestra": "Capitan Clipero",
       "enlaces": [
+        "https://www.youtube.com/watch?v=eZJXP8VA5w4",
         "https://www.youtube.com/watch?v=Wk3uIczDTlg",
         "https://www.youtube.com/watch?v=LU_BpmqUtsM",
         "https://www.youtube.com/watch?v=BCd7jPgmToY",
-        "https://www.youtube.com/watch?v=PTLcjhEqjvs",
-        "https://www.youtube.com/watch?v=xIc9MM1CcC0"
+        "https://www.youtube.com/watch?v=PTLcjhEqjvs"
       ]
     },
     {
