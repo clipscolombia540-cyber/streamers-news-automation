@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 14/10/2026 06:38 AM (hora de Colombia)
+Actualizado: 14/10/2026 07:34 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 11.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,11 +15,31 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPTAMINA
-- Publicado: 12/10/2026 07:00 PM
+- Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 61.822
+- Vistas reportadas por YouTube: 61.957
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
+
+### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 20
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 14/10/2026 07:22 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=YC4FsMMzFYA
+
+### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Directo al Clip
+- Publicado: 13/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12.589
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=3StznNQA5XI
 
 ### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
 - Categoria: Clip de terceros
@@ -27,30 +47,62 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Canal que publico: Directo al Clip
 - Publicado: 13/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.910
+- Vistas reportadas por YouTube: 6.356
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=F7rbaaMmjr0
 
-### WESTCOL X LEYENDAS DEL VALLENATO
+### TODAS las MUERTES de MINECRAFT EXTREMO de AGUS, AURON Y PEREIRA. PARTE 2... (Día 6-11)
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: FAN PAGES
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Peereira Clips
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 58
+- Vistas reportadas por YouTube: 374
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=4vNjcOfS02g
+
+### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Kick momen
+- Publicado: 12/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 11
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=R_wxKnDKdFY
+- Enlace directo: https://www.youtube.com/watch?v=5i7WDOQGfzI
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 13/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 70.227
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
-- Publicado: 12/10/2026 07:00 PM
+- Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44.654
+- Vistas reportadas por YouTube: 44.728
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+
+### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clipzy Cs
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Clipzy Cs
+- Publicado: 12/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9.872
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -59,9 +111,20 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.405
+- Vistas reportadas por YouTube: 22.570
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Pelusa Clips
+- Publicado: 14/10/2026 03:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=U17jYTTlPTY
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -77,6 +140,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=gsGIFRuBgE0
 
+### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 20
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 20
+- **Texto en pantalla:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 20
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YC4FsMMzFYA
+
+### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA LA CAÑA A CAROLA DIA 1
+- **Texto en pantalla:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO Y FABIANA LE TIRA L
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3StznNQA5XI
+
 ### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -87,15 +170,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=F7rbaaMmjr0
 
-### WESTCOL X LEYENDAS DEL VALLENATO
+### TODAS las MUERTES de MINECRAFT EXTREMO de AGUS, AURON Y PEREIRA. PARTE 2... (Día 6-11)
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** TODAS las MUERTES de MINECRAFT EXTREMO de AGUS, AURON Y PEREIRA. PARTE 2... (Día 6-11)
+- **Texto en pantalla:** TODAS las MUERTES de MINECRAFT EXTREMO de AGUS, AURON Y PEREIRA. PARTE
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=4vNjcOfS02g
+
+### Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
+- **Texto en pantalla:** Wescol GIFTS a 2027 LAMBORGHINI to Rey de la City! 😱🔥
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=5i7WDOQGfzI
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL X LEYENDAS DEL VALLENATO
-- **Texto en pantalla:** WESTCOL X LEYENDAS DEL VALLENATO
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=R_wxKnDKdFY
+- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -107,6 +210,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
 
+### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+- **Texto en pantalla:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA E
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Z9HMnBgCWAg
+
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,6 +229,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
+- **Texto en pantalla:** MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=U17jYTTlPTY
 
 ## Noticias y contexto
 
@@ -146,11 +269,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-14
+  - https://www.youtube.com/watch?v=4vNjcOfS02g
   - https://www.youtube.com/watch?v=F7rbaaMmjr0
-  - https://www.youtube.com/watch?v=1WFuY0uZU_k
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-14
+  - https://www.youtube.com/watch?v=YC4FsMMzFYA
   - https://www.youtube.com/watch?v=eZJXP8VA5w4
-  - https://www.youtube.com/watch?v=Wk3uIczDTlg
 - **STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY** (candidata por revisar) — última detección: 2026-10-13
   - https://www.youtube.com/watch?v=PcsrdwjArY0
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
