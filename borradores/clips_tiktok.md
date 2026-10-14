@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 14/10/2026 02:28 UTC
+**Actualizado:** 14/10/2026 04:31 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -24,11 +24,11 @@
 
 > Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
 
-## 1. #westcol
+## 1. #samulx #coldified #dedsafio #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 13/10/2026 05:44 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696024244454460690
+- **Fecha reportada:** 14/10/2026 03:52 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696366350494649618
 
 ## 2. #samulx #dedsafio #dedsafiominecraft
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -42,11 +42,11 @@
 - **Fecha reportada:** 13/10/2026 05:31 UTC
 - **Enlace:** https://www.tiktok.com/@ale__clips1/video/7696020718584106272
 
-## 4. #westcol #aida
+## 4. #samulx #raakun #dedsafio #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 13/10/2026 05:27 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696019742343154952
+- **Fecha reportada:** 14/10/2026 03:31 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696360927393893640
 
 ## 5. #elchanty #kickclips
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -60,11 +60,11 @@
 - **Fecha reportada:** 13/10/2026 05:21 UTC
 - **Enlace:** https://www.tiktok.com/@ale__clips1/video/7696018147136048417
 
-## 7. #westcol #aida #luisacastro #aidavictoriamerlano
+## 7. #samulx #vegetta777 #dedsafio #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 13/10/2026 05:16 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696016891759873298
+- **Fecha reportada:** 14/10/2026 00:32 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696314905619713288
 
 ## 8. #elchanty #kickclips
 - **Tipo de cuenta:** Cuenta de clips/terceros

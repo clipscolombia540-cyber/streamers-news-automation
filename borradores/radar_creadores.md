@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 09:25 PM (hora de Colombia)
+Actualizado: 13/10/2026 11:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 10.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Pedricoking
+- Publicado: 12/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5.124
+- Puntaje heurístico de interés: 10
+- Enlace directo: https://www.youtube.com/watch?v=BCd7jPgmToY
 
 ### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 60.477
+- Vistas reportadas por YouTube: 60.965
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -25,21 +35,41 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPTAMINA
-- Publicado: 13/10/2026 03:00 PM
+- Publicado: 13/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.011
+- Vistas reportadas por YouTube: 21.651
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=1WFuY0uZU_k
 
-### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
 - Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 13/10/2026 09:11 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 68
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ZaiqxcEru_A
+- Vistas reportadas por YouTube: 2.147
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=PTLcjhEqjvs
+
+### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 19 y 20)
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Aquiso Clips
+- Publicado: 13/10/2026 11:19 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 37
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=LU_BpmqUtsM
+
+### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Directo al Clip
+- Publicado: 13/10/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.384
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=F7rbaaMmjr0
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - Categoria: Cuenta de clips
@@ -48,7 +78,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.382
+- Vistas reportadas por YouTube: 60.852
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
@@ -59,7 +89,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 38.741
+- Vistas reportadas por YouTube: 41.432
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
 
@@ -70,13 +100,34 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.534
+- Vistas reportadas por YouTube: 16.890
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### Wescol con el rey de la city 🏙️
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Marcos clips la
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Marcos clips la
+- Publicado: 13/10/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=oe6jq5hULgQ
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- **Texto en pantalla:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=BCd7jPgmToY
 
 ### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -98,15 +149,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1WFuY0uZU_k
 
-### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
-- **Texto en pantalla:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #m
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- **Texto en pantalla:** TEAM MINITAS REACT TO DEDSAFIO MINECRAFT 4 CLIPS | DAY 19
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZaiqxcEru_A
+- **Fuente original:** https://www.youtube.com/watch?v=PTLcjhEqjvs
+
+### Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 19 y 20)
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 19 y 20)
+- **Texto en pantalla:** Los Mejores Momentos de los Webones en Dedsafio 4 (Dia 19 y 20)
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=LU_BpmqUtsM
+
+### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
+- **Texto en pantalla:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro inte
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=F7rbaaMmjr0
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -137,6 +208,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### Wescol con el rey de la city 🏙️
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** Wescol con el rey de la city 🏙️
+- **Texto en pantalla:** Wescol con el rey de la city 🏙️
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=oe6jq5hULgQ
 
 ## Noticias y contexto
 
@@ -170,8 +251,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=F7rbaaMmjr0
   - https://www.youtube.com/watch?v=1WFuY0uZU_k
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-13
-  - https://www.youtube.com/watch?v=BCd7jPgmToY
-  - https://www.youtube.com/watch?v=PTLcjhEqjvs
+  - https://www.youtube.com/watch?v=Wk3uIczDTlg
+  - https://www.youtube.com/watch?v=LU_BpmqUtsM
 - **STREAMERS REACT TO CRAFT'S SAITAMA COSPLAY** (candidata por revisar) — última detección: 2026-10-13
   - https://www.youtube.com/watch?v=PcsrdwjArY0
 - **CRAFT TRIES GRAVITY WITH CHERRY [IN MINECRAFT CHALLENGE]** (candidata por revisar) — última detección: 2026-10-12
