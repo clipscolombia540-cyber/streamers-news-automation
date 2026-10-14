@@ -1,37 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 14/10/2026 03:26 PM (hora de Colombia)
+Actualizado: 14/10/2026 05:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 4.
 Noticias recientes: 6.
-Distribución por categoría: Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 13/10/2026 07:00 PM
+### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Mejores clips de streams
+- Publicado: 14/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 74.116
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 13/10/2026 07:00 PM
+### 🤖 ¡EL ROBOT DE 100.000$ GOLPEÓ A WESTCOL! 🤯😂 | REACCION
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: NKYandy Live
+- Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 46.761
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+- Vistas reportadas por YouTube: 41
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=ZY-iuPUTYJc
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -40,44 +38,44 @@ Distribución por categoría: Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.157
+- Vistas reportadas por YouTube: 31.221
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
 
-### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
+### WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clipzy Cs
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Clipzy Cs
-- Publicado: 12/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 14/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.057
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=Z9HMnBgCWAg
+- Vistas reportadas por YouTube: 956
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=QXx3YrZnuFc
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- **Texto en pantalla:** BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
+- **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+### 🤖 ¡EL ROBOT DE 100.000$ GOLPEÓ A WESTCOL! 🤯😂 | REACCION
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
-- **Texto en pantalla:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Título sugerido:** 🤖 ¡EL ROBOT DE 100.000$ GOLPEÓ A WESTCOL! 🤯😂 | REACCION
+- **Texto en pantalla:** 🤖 ¡EL ROBOT DE 100.000$ GOLPEÓ A WESTCOL! 🤯😂 | REACCION
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
+- **Fuente original:** https://www.youtube.com/watch?v=ZY-iuPUTYJc
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -89,23 +87,23 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
 
-### AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA EVIDENCIAS… 😳🔥
-- **Texto en pantalla:** AMIGO DE REYDELACITY (AjSoWaveyyy) LO ACUSA DE TRAICIONERO Y MUESTRA E
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Texto en pantalla:** WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Z9HMnBgCWAg
+- **Fuente original:** https://www.youtube.com/watch?v=QXx3YrZnuFc
 
 ## Noticias y contexto
 
+- **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRMd2I3R1hudFEzdE1tQmc5Z0xEV2U2LVdDZ2hITVZtSmt3ek1XTE1VVjZ0eWV6ZjJJcWQ4MFF6a3BiZ295MUVfbGlreUZCVUQ3SFhlZzJkSzRqNm1KQzdxN3luNEhfMk5tS3I2bU9lWGpiNmUtelc2Qll2U3c2WDFuMTctbWpaUWI4eGV5aTE5N295R2pWZnpFUFVzZFN6VlNXS004ampRNW54d1VnamJDTTZZWGlKTXhKYmNwRjdtOUEwaTFOT2hYamVaOEQ3Ymg3dmhIdkh6Ykt2VmfSAesBQVVfeXFMTmltLVA1Y2I3WFNEVGxZX21LbUEtZ3VnZjQzUU5HbXRLREpMSlJ6Y0ZET3c1V3Zidnl2WXZ6bzBDWHl0dnY5UU9FQzh3QUJvdXI3VmtiYkNKMUI3NmJISGhFMm0tWkhXcWxBaXg0T2lOdTdpSDZiNkNxc2ppYmR3eEhkYi0wSWVPbDBfTlR3LW5obkFjbjlRaXdfSWhVVGNFeGc2V1VGOXY2c2pwNzF3eGFrUHNqUTVIMUFkbEJUdUctMUhrc0R1cG8tYzJBc1lwUFFPTmktZnhMNkFvYUxMU25sR0FrdEZab245aw?oc=5)
 - **[Creadores] De Manizales al ring de Westcol: cantante Herrera alista su pelea contra JH en Bogotá y presenta canción - La Patria** — 14/10/2026 11:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHROdzRHd3BZZlE0NWMzYkJaajBvQjU0aFNTaUozVWhqVVZPVkYtS3lUdEdfSWtwZWw1Rld0NHYxWGxCenJ6eWlReDlyWTViaFBoSElVMG5udmctZ2pHeE9wWmVEM0l6bndTYTdsNDZjOU1PM29sOVlSVWZfYTRadVg0cS1PeUh0VmNoYnhvTXpuOU5zMG11SkNJWXJzSTg3N0lnSTFWTmVNUlp5ampsazBtMWlaS29jMFJ5N2txMEVtZw?oc=5)
 - **[Creadores] Luisa Fernanda W reveló cómo descubrió que Pipe Bueno consumía sustancias psicoactivas | El Colombiano - El Colombiano** — 14/10/2026 10:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURIZFR6Tjhwc1hzUDhQMUFkMEtNNFhqMHZjVTJad1hUSXhadzNIZ3h3NjBQSU0yN01YbzBNbkpHanZMejRYTzJ3WFVhc3p3VVItYlhJVGFjZVNaekJjR1VYZ2FKWXNHdTVfXzlmYTV1VG1FdGh5Z1lQUUJSbjU1ZnhMSnRaZVpLZHJCakNwWWphbFdGNnF0Nk1FelRFU294RDFnQ3hwOXdvcDhJeW52cdIBtgFBVV95cUxOMDdkcnRBbkEyQlpXc25iRDg2Zm1USzdMOWNXYlduOW9xX3llNUhiUHlmUGEtempFaFh3QncxemtveEtIT0RuWGlWd0IzaVd2bF9lOVFORjBWY3I3d2xvMWVnOXlSaDdFTjIzQWJ4bW9SSEZQSTBueEx0M0Zkc2p5STJEOUxqVVJQTjVpWEtsbGc5T25wWmg1WnJYaXVPRkMtb3ktZVRTWE1tTkhJeXhzUkZ6YTRFdw?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno: los detalles de su esperada boda - KienyKe** — 14/10/2026 06:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0dxOWhCSHNRSWM4VnBiQ1FZb3Nsa0N2X0YtR1lrd1Q3WXgzV0psWHZxcU15eVdmRVFKUExsZUxlWlQwTTlmdW5HdVJ1OXZ0M0hQdzhacGd5R19GZnNCOE9YY1hWclJyRjZ4aTRQS2pIU0gwOTZjbmRsYTRvLXNmYXpSX29KQTI1RHF0eERjQnB2RVNaZ2c?oc=5)
 - **[Creadores] ¿Problemas legales para Juanda Caribe? Documento mostraría que Sheila Gándara busca embargarlo - Eluniversal.com.co** — 13/10/2026 06:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY19rUU00SU9MUjFDM2xObnotbjZBQ1hDZ2h3YVhtTEJLeVVyWUlrYlR4cHFoWm50ZTZFZVc0ZGlnbmgtQ1lmTDRwTzdUcjU3bUZIaXNNbkx0ZGItNDNJRkNKZ3RmTHM1MkttN0xiemgxbkQtOTJ6OTB6WUFlSVlCWVFiZ080TEpTS1B2SU0tMThKVnFRRE1IUU5Mb3dYNzF2QkpGWUdCNGRkSV8taUZ3OTJfR05YRXRNa2FFY09qT21KN01UZkNxUTJYNGF1SjlfN1g2OW0zUW90NXFjYXc?oc=5)
-- **[Creadores] Inesperada confesión de WestCol sobre Aida Victoria reavivó rumores: "Todavía la ama" - La Kalle** — 13/10/2026 06:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb19td001LWREdFRvQk5KTTcwMXV2RGd4MFhtT2UxOFN5dEprX2xwVmw1TFA4TVJNTFd1ay12MlJtTnNsNm9iNmV4S3NUNHJjYUtfSE9SeU8wSmdTVmF1dHV3LTMyOVM5QWF0VE9hRE9rV3lFWXFndjhKNGpvZDJ3NE5aVkwyZWVXQ0VScDAxaXdqU242NXBkRXlrTkp3YmN0VWU3SXlYZXVqeUYyS09pX1pncGdnRjFibFU3VGdfNXdrMUtXcG1LcUVtZEJncmpQX0EyWGFlYUg4Z9IB5wFBVV95cUxOekt4M2FLUFpfTkRJWUZBczRFSFJxY2VrTVdSS3h1MXRXX0F4VXFxNVdHdjFGekxZRVUzWnp4MVdoZ1AxclNGTWJhWHhGQ1ZZU1p5RkVDWTdqcE8tVHhKMDhybjFqbXZCSXBrdlFZYWtIZ1VOZHR1Ymp5N0RDT25pSmthTXVUTTlHakgzbzRzUFdRY1FZbjc2MFl3ZEFDRC1tYlduVk84cWZjU3QwTm44V3k1dzFwV0RibVNWNTMyTTNQVTk0NDV0RDRGNHdFOW44RGEtczRJUTY2bkhLUE1ZTW5ORHJ4a1U?oc=5)
 - **[Creadores] ⁠¿Sheila pidió embargar a Juanda Caribe? Este detalle lo revelaría todo - Candela** — 13/10/2026 03:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDA3a0psM0dvWjFWanNNMDJpdHFaSEtKV2k2OWRVTVYtZjlKLVV3bHFRblppZXFHM2p0S3hSdWlVZTdacWQ3SUM2R1dEZGExTmRGSlVCU1RlYllsNGZqamQwOURQRkM2dTM3Tk5TUE0xR2FCN1JNZ1hwOG1EZ3g1clhNNU9PbnJ4dFVNYWVsU2c4R0h1djdIVUdn?oc=5)
 
 ## Creadores principales vigilados
@@ -128,6 +126,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-14
+  - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-14
   - https://www.youtube.com/watch?v=_eiY8C9ca-k
   - https://www.youtube.com/watch?v=LU_BpmqUtsM
