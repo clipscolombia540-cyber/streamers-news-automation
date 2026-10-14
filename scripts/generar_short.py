@@ -128,59 +128,58 @@ def fetch_tiktok_clips():
 
 
 def fetch_youtube_clips():
-    """Busca videos públicos cortos relacionados con Dedsafio para una prueba privada; no evade restricciones."""
-    CLIPS.mkdir(parents=True, exist_ok=True)
+    """Busca metadatos de clips de varios creadores; no descarga ni reutiliza videos sin permiso."""
     queries = [
-        "Dedsafio 4 clips momentos streamer Colombia",
-        "Dedsafio 4 gulag clips",
-        "Dedsafio streamer reacción clip",
+        ("Dedsafio 4 clips momentos streamer Colombia", ("dedsafio", "gulag", "desafio 4")),
+        ("Westcol clips momentos reacción Colombia", ("westcol",)),
+        ("MrStivenTC clips momentos reacción", ("mrstiventc", "stiventc")),
+        ("Pelicanger clips momentos streamer", ("pelicanger",)),
+        ("Samulx clips momentos streamer", ("samulx",)),
+        ("Chanty streamer clips Colombia", ("chanty",)),
+        ("La Sapa streamer clips Colombia", ("sapa", "sapaaaaa")),
+        ("Lonche de Huevito clips streamer", ("lonche",)),
+        ("Rey de la City clips streamer Colombia", ("rey de la city", "reydelacity")),
+        ("Jaapz clips streamer Colombia", ("jaapz", "jaap_z")),
     ]
-    downloaded = []
+    found = []
     seen = set()
-    idx = 0
-    for query in queries:
-        if len(downloaded) >= 3:
-            break
+    for query, keywords in queries:
         try:
             raw = subprocess.check_output(
                 ["yt-dlp", "--flat-playlist", "--dump-single-json", "--playlist-end", "8",
                  "ytsearch8:" + query],
                 text=True, stderr=subprocess.PIPE, timeout=75)
             data = __import__("json").loads(raw)
-            for entry in data.get("entries", []) or []:
+            entries = data.get("entries", []) or []
+            matches = 0
+            for entry in entries:
                 if not entry:
                     continue
                 title = clean(entry.get("title", ""))
                 video_id = entry.get("id")
                 link = entry.get("webpage_url") or entry.get("original_url") or entry.get("url")
-                # yt-dlp suele devolver solo el ID en búsquedas planas de YouTube.
                 if video_id and (not link or not str(link).startswith(("http://", "https://"))):
                     link = f"https://www.youtube.com/watch?v={video_id}"
                 duration = entry.get("duration")
-                if not link or "youtube.com/" not in link and "youtu.be/" not in link:
+                if not link or ("youtube.com/" not in link and "youtu.be/" not in link):
                     continue
-                if link in seen or not title or not any(k in title.lower() for k in ("dedsafio", "gulag", "desafio 4")):
+                low_title = title.lower()
+                if link in seen or not title or not any(k in low_title for k in keywords):
                     continue
                 if duration is not None and (duration <= 0 or duration > 180):
                     continue
                 seen.add(link)
-                idx += 1
-                template = str(CLIPS / f"youtube_dedsafio_{idx}.%(ext)s")
-                try:
-                    run(["yt-dlp", "--no-playlist", "--no-warnings", "--max-filesize", "80M",
-                         "--match-filter", "duration <= 180", "-o", template, link])
-                    candidates = sorted(CLIPS.glob(f"youtube_dedsafio_{idx}.*"))
-                    video = next((p for p in candidates if p.suffix.lower() in {".mp4", ".mov", ".mkv", ".webm"} and p.stat().st_size > 100_000), None)
-                    if video:
-                        downloaded.append({"title": title, "link": link, "source": "YouTube · resultado público", "age": 0, "kind": "moment"})
-                        print(f"YOUTUBE_CLIP_DESCARGADO={link}")
-                        if len(downloaded) >= 3:
-                            break
-                except Exception as exc:
-                    print(f"Aviso descargando resultado de YouTube {link}: {exc}", file=sys.stderr)
+                found.append({"title": title, "link": link, "source": "YouTube · resultado para revisar", "age": 0, "kind": "candidate"})
+                matches += 1
+                if len(found) >= 25:
+                    break
+            print(f"YOUTUBE_BUSQUEDA={query!r}; resultados={len(entries)}; coinciden_titulo={matches}")
+            if len(found) >= 25:
+                break
         except Exception as exc:
-            print(f"Aviso buscando videos cortos en YouTube ({query}): {exc}", file=sys.stderr)
-    return downloaded
+            print(f"Aviso buscando en YouTube ({query}): {exc}", file=sys.stderr)
+    print(f"YOUTUBE_CANDIDATOS_PARA_REVISION={len(found)}")
+    return found
 
 
 def fetch_items():
