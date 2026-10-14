@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/10/2026 07:32 PM (hora de Colombia)
+Actualizado: 13/10/2026 09:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 6.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 59.747
+- Vistas reportadas por YouTube: 60.477
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -25,74 +25,54 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: CLIPTAMINA
-- Publicado: 13/10/2026 04:00 PM
+- Publicado: 13/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.083
+- Vistas reportadas por YouTube: 15.011
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=1WFuY0uZU_k
 
-### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
 - Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Pedricoking
-- Publicado: 13/10/2026 12:00 AM
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 13/10/2026 09:11 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.809
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=BCd7jPgmToY
-
-### Westcol muere en Dedsafío: el combate y su reacción | 10 de octubre
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: WEST HYPE
-- Publicado: 12/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=7unEVOLjQU0
-
-### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Directo al Clip
-- Publicado: 13/10/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 633
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=F7rbaaMmjr0
+- Vistas reportadas por YouTube: 68
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=ZaiqxcEru_A
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
-- Publicado: 13/10/2026 03:00 AM
+- Publicado: 13/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44.876
+- Vistas reportadas por YouTube: 52.382
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
+
+### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 13/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 38.741
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 13/10/2026 12:00 PM
+- Publicado: 13/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.461
+- Vistas reportadas por YouTube: 13.534
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
-
-### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 12/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.878
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=hwGrNQJLOao
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -118,35 +98,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1WFuY0uZU_k
 
-### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- **Texto en pantalla:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
+- **Texto en pantalla:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #m
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=BCd7jPgmToY
-
-### Westcol muere en Dedsafío: el combate y su reacción | 10 de octubre
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol muere en Dedsafío: el combate y su reacción | 10 de octubre
-- **Texto en pantalla:** Westcol muere en Dedsafío: el combate y su reacción | 10 de octubre
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=7unEVOLjQU0
-
-### AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro intenta ligar con fabiana
-- **Texto en pantalla:** AURON Y FABIANA SEVILLANO JUEGAN MINECRAFT EXTREMO DÍA 2 😳 Keroro inte
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=F7rbaaMmjr0
+- **Fuente original:** https://www.youtube.com/watch?v=ZaiqxcEru_A
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -158,6 +118,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
 
+### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Texto en pantalla:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
+
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -168,21 +138,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
 
-### REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CREÍA! 👽😂
-- **Texto en pantalla:** REYDELACITY Y SUS AMIGOS SALEN VESTIDOS DE ALIENS… ¡LA GENTE NO LO CRE
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hwGrNQJLOao
-
 ## Noticias y contexto
 
 - **[Creadores] ¿Problemas legales para Juanda Caribe? Documento mostraría que Sheila Gándara busca embargarlo - Eluniversal.com.co** — 13/10/2026 06:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY19rUU00SU9MUjFDM2xObnotbjZBQ1hDZ2h3YVhtTEJLeVVyWUlrYlR4cHFoWm50ZTZFZVc0ZGlnbmgtQ1lmTDRwTzdUcjU3bUZIaXNNbkx0ZGItNDNJRkNKZ3RmTHM1MkttN0xiemgxbkQtOTJ6OTB6WUFlSVlCWVFiZ080TEpTS1B2SU0tMThKVnFRRE1IUU5Mb3dYNzF2QkpGWUdCNGRkSV8taUZ3OTJfR05YRXRNa2FFY09qT21KN01UZkNxUTJYNGF1SjlfN1g2OW0zUW90NXFjYXc?oc=5)
-- **[Creadores] Inesperada confesión de WestCol sobre Aida Victoria reavivó rumores: "Todavía la ama" - La Kalle** — 13/10/2026 06:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekt4M2FLUFpfTkRJWUZBczRFSFJxY2VrTVdSS3h1MXRXX0F4VXFxNVdHdjFGekxZRVUzWnp4MVdoZ1AxclNGTWJhWHhGQ1ZZU1p5RkVDWTdqcE8tVHhKMDhybjFqbXZCSXBrdlFZYWtIZ1VOZHR1Ymp5N0RDT25pSmthTXVUTTlHakgzbzRzUFdRY1FZbjc2MFl3ZEFDRC1tYlduVk84cWZjU3QwTm44V3k1dzFwV0RibVNWNTMyTTNQVTk0NDV0RDRGNHdFOW44RGEtczRJUTY2bkhLUE1ZTW5ORHJ4a1XSAecBQVVfeXFMTnpLeDNhS1BaX05ESVlGQXM0RUhScWNla01XUkt4dTF0V19BeFVxcTVXR3YxRnpMWUVVM1p6eDFXaGdQMXJTRk1iYVh4RkNWWVNaeUZFQ1k3anBPLVR4SjA4cm4xam12Qklwa3ZRWWFrSGdVTmR0dWJqeTdEQ09uaUprYU11VE05R2pIM280c1BXUWNRWW43NjBZd2RBQ0QtbWJXblZPOHFmY1N0ME5uOFd5NXcxcFdEYm1TVjUzMk0zUFU5NDQ1dEQ0RjR3RTluOERhLXM0SVE2Nm5IS1BNWU1uTkRyeGtV?oc=5)
-- **[Creadores] Paleta Drácula y Westcol activan retos con premios para ganar entradas a Stream Fighters y sillas gamer - El Tiempo** — 13/10/2026 05:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWURQb3YwcGFlUFQ0aThXNVZCZmFRSGhlQ1U5cDg0eDlSSDZZMkVzRXU3MUJoRmFwclFiamo5SUtDWkhTeUp0ZUdKR3ZHb1dhZkxkQ21ER0Y5WWpUT21VVG9GQldMM3p0Nkp3eFVUbTlfYnBhRXBtT2lfN1pRYUdnRHhENTZESk5iRjNzNmM5eklVOWRCTzlOQnVpYkRoSnQ5UzZrdUdKTU9MQlZEUmZIdXhYWXVrcXA4Q3dKRVF6THZObjFES2t1aHl3R1ZkZ0FrMldJbFZoNmx5WHdYTHpScVpqanDSAeoBQVVfeXFMTTJMZ0t0RTJuNzJiWVdoWmNjLXF2emFScXpOMU1mZzc3bmUzWG1adVFwN0RURWNWT29fdXRTNUlpNWs1VXk4M3pCTVRCMk5RMF9BTVpDSmpfdGYxU2RneUhzeHI5VFdDenE1dkdNMkE3bmJNd3JxRjNzVk5GOWVUUWJMWDJDRlFWZGRzbnVHYkhRUXp4SGlZc0daX19fMFl6cGJJVW42c1lUbWkwNUl5U2xEZkxSSDNrTE5qbmlnS2tJcnd2SVc0ZHpuS09TakFDTmhjOGZFVXRhOFlxRFZnbUhmYmZKalIzcjdn?oc=5)
+- **[Creadores] Inesperada confesión de WestCol sobre Aida Victoria reavivó rumores: "Todavía la ama" - La Kalle** — 13/10/2026 06:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb19td001LWREdFRvQk5KTTcwMXV2RGd4MFhtT2UxOFN5dEprX2xwVmw1TFA4TVJNTFd1ay12MlJtTnNsNm9iNmV4S3NUNHJjYUtfSE9SeU8wSmdTVmF1dHV3LTMyOVM5QWF0VE9hRE9rV3lFWXFndjhKNGpvZDJ3NE5aVkwyZWVXQ0VScDAxaXdqU242NXBkRXlrTkp3YmN0VWU3SXlYZXVqeUYyS09pX1pncGdnRjFibFU3VGdfNXdrMUtXcG1LcUVtZEJncmpQX0EyWGFlYUg4Z9IB5wFBVV95cUxOekt4M2FLUFpfTkRJWUZBczRFSFJxY2VrTVdSS3h1MXRXX0F4VXFxNVdHdjFGekxZRVUzWnp4MVdoZ1AxclNGTWJhWHhGQ1ZZU1p5RkVDWTdqcE8tVHhKMDhybjFqbXZCSXBrdlFZYWtIZ1VOZHR1Ymp5N0RDT25pSmthTXVUTTlHakgzbzRzUFdRY1FZbjc2MFl3ZEFDRC1tYlduVk84cWZjU3QwTm44V3k1dzFwV0RibVNWNTMyTTNQVTk0NDV0RDRGNHdFOW44RGEtczRJUTY2bkhLUE1ZTW5ORHJ4a1U?oc=5)
+- **[Creadores] Video | Cris Valencia fue agredido brutalmente por un grupo de jóvenes en Caldas y le echó la culpa a seguidores de Westcol | El Colombiano - El Colombiano** — 13/10/2026 05:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNE9fV1dZUFZqQnZ3TFJraFM1RER2ZEE4N1VyOHdlTkRGRl9NNmhYNHRNWVlDNU9FNUlyRU56OHZ6QWFwXzYwWGtfTUNPQm1yMmV1TnZCTE4tSzhrRzgwZDBzU2lCRDZSQkhWbjg2NXczczFMMUtkaUtTdWFqQkhxb2FKSjR4dXdKc0pOQjhSelFLWDhzb1hyYVFpaEZobXZNQmE4NFlpX1hFQdIBrwFBVV95cUxNczktdlNrTXJfckM1czAtaWNVNHdMeE1Na1A1UGp3eXZCR2lnVk50d0kyQzZZNmJOUzlIQkhVbHVrZmpuLWpwVlRzWXN5NURkSXhoaGlmb2ZFTTIwSmNXaW8wWHJ6TDh3VDc2RXBQam1qWUZnZndaYk5FZnNWY3kwaUU3OWF1WnA2YzVLelhVcVFpNnJ2U3VTNGNNNWlXbjZjQ0JTY1BnaW8xMkFIMUVJ?oc=5)
 - **[Creadores] ⁠¿Sheila pidió embargar a Juanda Caribe? Este detalle lo revelaría todo - Candela** — 13/10/2026 03:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDA3a0psM0dvWjFWanNNMDJpdHFaSEtKV2k2OWRVTVYtZjlKLVV3bHFRblppZXFHM2p0S3hSdWlVZTdacWQ3SUM2R1dEZGExTmRGSlVCU1RlYllsNGZqamQwOURQRkM2dTM3Tk5TUE0xR2FCN1JNZ1hwOG1EZ3g1clhNNU9PbnJ4dFVNYWVsU2c4R0h1djdIVUdn?oc=5)
 - **[Creadores] Tulio Recomienda llegará a Ibagué para promover la carne de cerdo colombiana - El Cronista** — 12/10/2026 01:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpmNjVycU5HTzhJaUY5SHhQd2hhNTRYZlFDRjZJVzcySVVfeTdoWkNlaFRiNl9YVDhOeTVaODBLNjdwSzhUWkg4TjJ3TVFLTFdoMXhGWFFTMFE5bURYaHNvU2VQemplYlJFNURuV0FiZEx1ajJXeDBGcEdiWWlqUHVRaHFobW11SUhHa1g5QktqRjVNUFplTzZRMEd6RXhrZFUzbUlWWFU1dGs?oc=5)
 
