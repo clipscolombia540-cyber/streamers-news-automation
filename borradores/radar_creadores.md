@@ -1,35 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 14/10/2026 03:30 AM (hora de Colombia)
+Actualizado: 14/10/2026 05:29 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 6.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO DIA 2
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: CLIPTAMINA
-- Publicado: 13/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.397
-- Puntaje heurístico de interés: 10
-- Enlace directo: https://www.youtube.com/watch?v=1WFuY0uZU_k
-
-### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Pedricoking
-- Publicado: 12/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.361
-- Puntaje heurístico de interés: 10
-- Enlace directo: https://www.youtube.com/watch?v=BCd7jPgmToY
 
 ### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
 - Categoria: Clip de terceros
@@ -37,7 +17,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: CLIPTAMINA
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 61.569
+- Vistas reportadas por YouTube: 61.748
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=gsGIFRuBgE0
 
@@ -47,15 +27,25 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: Directo al Clip
 - Publicado: 13/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.659
-- Puntaje heurístico de interés: 3
+- Vistas reportadas por YouTube: 5.485
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=F7rbaaMmjr0
+
+### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 13/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.886
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ZaiqxcEru_A
 
 ### «Westcol hablando de lo que se sufre con el vallenato 😂🎶»#Westcol #NelsonVelasquez #shorts
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Kickxtreme
-- Publicado: 14/10/2026 01:00 AM
+- Publicado: 14/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
@@ -68,7 +58,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: WestClips
 - Publicado: 12/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69.044
+- Vistas reportadas por YouTube: 69.867
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
@@ -77,46 +67,15 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 13/10/2026 12:00 PM
+- Publicado: 13/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.649
+- Vistas reportadas por YouTube: 22.252
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
-
-### MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips
-- Publicado: 14/10/2026 03:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=U17jYTTlPTY
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO DIA 2
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO DIA 2
-- **Texto en pantalla:** LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO DIA 2
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1WFuY0uZU_k
-
-### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- **Texto en pantalla:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=BCd7jPgmToY
 
 ### LOS MEJORES MOMENTOS DE AURONPLAY Y FABIANA EN MINECRAFT EXTREMO
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -137,6 +96,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=F7rbaaMmjr0
+
+### ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #mrstiven
+- **Texto en pantalla:** ✨GARENA 😡 YOU CAN'T PLAY WITH THAT FUCKING CHIDORI 😂 - Powers Hpts* #m
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZaiqxcEru_A
 
 ### «Westcol hablando de lo que se sufre con el vallenato 😂🎶»#Westcol #NelsonVelasquez #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -167,16 +136,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
-
-### MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
-- **Texto en pantalla:** MR STIVEN LE DLECARA TODO SU AMOR A JULISSA | STREAM COMPLETO
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=U17jYTTlPTY
 
 ## Noticias y contexto
 
