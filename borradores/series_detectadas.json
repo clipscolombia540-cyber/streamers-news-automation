@@ -1,6 +1,21 @@
 {
-  "actualizado": "2026-10-14T11:30:55.614206-05:00",
+  "actualizado": "2026-10-14T13:32:33.257100-05:00",
   "series": [
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-14T13:32:33.257100-05:00",
+      "canal_muestra": "PameClips25",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=_eiY8C9ca-k",
+        "https://www.youtube.com/watch?v=LU_BpmqUtsM",
+        "https://www.youtube.com/watch?v=XG6HvsmI74w",
+        "https://www.youtube.com/watch?v=elGhRN05Jy8",
+        "https://www.youtube.com/watch?v=YC4FsMMzFYA"
+      ]
+    },
     {
       "nombre": "MINECRAFT EXTREMO",
       "tipo": "serie_o_tema_candidato",
@@ -14,21 +29,6 @@
         "https://www.youtube.com/watch?v=1WFuY0uZU_k",
         "https://www.youtube.com/watch?v=gsGIFRuBgE0",
         "https://www.youtube.com/watch?v=3StznNQA5XI"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-14T11:30:55.614206-05:00",
-      "canal_muestra": "Aquiso Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=YC4FsMMzFYA",
-        "https://www.youtube.com/watch?v=eZJXP8VA5w4",
-        "https://www.youtube.com/watch?v=Wk3uIczDTlg",
-        "https://www.youtube.com/watch?v=LU_BpmqUtsM",
-        "https://www.youtube.com/watch?v=BCd7jPgmToY"
       ]
     },
     {
