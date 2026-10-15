@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 14/10/2026 09:26 PM (hora de Colombia)
+Actualizado: 14/10/2026 11:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 6.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -27,29 +27,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1.
 - Canal que publico: Directo al Clip
 - Publicado: 14/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 626
+- Vistas reportadas por YouTube: 969
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=RykI7OKOT-8
-
-### WESTCOL CUENTA QUE AIDA FUE LA QUE HIZO QUE LE GUSTARA EL VALLENATO!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: WEST.GANGALA
-- Publicado: 14/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=FpKNDJoqDoM
-
-### WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: La Zona del Stream
-- Publicado: 14/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ZMplawib-vE
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -58,9 +38,42 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.119
+- Vistas reportadas por YouTube: 37.405
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### LOS MEJORES MOMENTOS DE WESTCOL ESTA SEMANA PORFA SIGUEME PARA MAS-WETSCOL CLIPS
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: CLIPS WESTCOL
+- Creador relacionado en el título: Westcol
+- Canal que publico: CLIPS WESTCOL
+- Publicado: 14/10/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=g6i3cJW4G4M
+
+### WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 14/10/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3.539
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=QXx3YrZnuFc
+
+### REYDELACITY REACCIONA A KEYVIEM - MIL MARES FT MENOR BRONX ( VIDEO OFICIAL )
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 14/10/2026 11:11 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 49
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=xdSpzxihD5A
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -86,26 +99,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=RykI7OKOT-8
 
-### WESTCOL CUENTA QUE AIDA FUE LA QUE HIZO QUE LE GUSTARA EL VALLENATO!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL CUENTA QUE AIDA FUE LA QUE HIZO QUE LE GUSTARA EL VALLENATO!
-- **Texto en pantalla:** WESTCOL CUENTA QUE AIDA FUE LA QUE HIZO QUE LE GUSTARA EL VALLENATO!
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=FpKNDJoqDoM
-
-### WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
-- **Texto en pantalla:** WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZMplawib-vE
-
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -115,6 +108,36 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### LOS MEJORES MOMENTOS DE WESTCOL ESTA SEMANA PORFA SIGUEME PARA MAS-WETSCOL CLIPS
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** LOS MEJORES MOMENTOS DE WESTCOL ESTA SEMANA PORFA SIGUEME PARA MAS-WETSCOL CLIPS
+- **Texto en pantalla:** LOS MEJORES MOMENTOS DE WESTCOL ESTA SEMANA PORFA SIGUEME PARA MAS-WET
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=g6i3cJW4G4M
+
+### WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Texto en pantalla:** WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=QXx3YrZnuFc
+
+### REYDELACITY REACCIONA A KEYVIEM - MIL MARES FT MENOR BRONX ( VIDEO OFICIAL )
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY REACCIONA A KEYVIEM - MIL MARES FT MENOR BRONX ( VIDEO OFICIAL )
+- **Texto en pantalla:** REYDELACITY REACCIONA A KEYVIEM - MIL MARES FT MENOR BRONX ( VIDEO OFI
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xdSpzxihD5A
 
 ## Noticias y contexto
 
