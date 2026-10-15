@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 15/10/2026 07:34 AM (hora de Colombia)
+Actualizado: 15/10/2026 09:31 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
-Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Clips incluidos: 5.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: Directo al Clip
 - Publicado: 14/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.113
+- Vistas reportadas por YouTube: 2.297
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=RykI7OKOT-8
 
@@ -31,16 +31,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### SALIMOS A LA CALLE DISFRAZADOS DE ALIENÍGENAS 💀👽 | Reydelacity
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: basuquito
-- Publicado: 14/10/2026 10:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 308
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=en63Yg1FKp0
-
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
@@ -48,7 +38,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 14/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.768
+- Vistas reportadas por YouTube: 42.283
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
 
@@ -59,20 +49,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: WestcolClips
 - Publicado: 14/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.899
+- Vistas reportadas por YouTube: 6.091
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=QXx3YrZnuFc
-
-### MrStiven momentos destacados
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: CLIP VIRAL DETODITO
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: CLIP VIRAL DETODITO
-- Publicado: 15/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xISJO-Bdzv8
 
 ### MR STIVEN NUEVAMENTE LIMITADO POR WESTCOL | HABLANDO CLARO
 - Categoria: Cuenta de clips
@@ -109,16 +88,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### SALIMOS A LA CALLE DISFRAZADOS DE ALIENÍGENAS 💀👽 | Reydelacity
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** SALIMOS A LA CALLE DISFRAZADOS DE ALIENÍGENAS 💀👽 | Reydelacity
-- **Texto en pantalla:** SALIMOS A LA CALLE DISFRAZADOS DE ALIENÍGENAS 💀👽 | Reydelacity
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=en63Yg1FKp0
-
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -139,16 +108,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=QXx3YrZnuFc
 
-### MrStiven momentos destacados
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStiven momentos destacados
-- **Texto en pantalla:** MrStiven momentos destacados
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xISJO-Bdzv8
-
 ### MR STIVEN NUEVAMENTE LIMITADO POR WESTCOL | HABLANDO CLARO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -161,8 +120,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: un - Diario del Cauca** — 15/10/2026 09:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUp4WWJRdU1rTkFERWJDVXpRa3l1Qll3R0tsdXk2MTF0VmJDWm9aT1FqX2tFUTdGOTNzaXRHVHRpbHdnU3BySENkOXMxb3ZEUmowbTJJdkpRVF8xaWpXTjdLWl9XWTJ0OFI5akRCYjlpMHNPY0NIZ1JGa2p0UkNSczl0NXJlTjUtT1Y0NEl6WXVyVThwVjdISWhZaXM3UUU2TmpsRTZGVzd6aVhadm9ub3JKUUd0REduUXlNR0NMc1k?oc=5)
 - **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaW0tUDVjYjdYU0RUbFlfbUttQS1ndWdmNDNRTkdtdEtESkxKUnpjRkRPdzVXdmJ2eXZZdnpvMENYeXR2djlRT0VDOHdBQm91cjdWa2JiQ0oxQjc2YkhIaEUybS1aSFdxbEFpeDRPaU51N2lINmI2Q3FzamliZHd4SGRiLTBJZU9sMF9OVHctbmhuQWNuOVFpd19JaFVUY0V4ZzZXVUY5djZzanA3MXd4YWtQc2pRNUgxQWRsQlR1Ry0xSGtzRHVwby1jMkFzWXBQUU9OaS1meEw2QW9hTExTbmxHQWt0Rlpvbjlr0gHrAUFVX3lxTE5pbS1QNWNiN1hTRFRsWV9tS21BLWd1Z2Y0M1FOR210S0RKTEpSemNGRE93NVd2YnZ5dll2em8wQ1h5dHZ2OVFPRUM4d0FCb3VyN1ZrYmJDSjFCNzZiSEhoRTJtLVpIV3FsQWl4NE9pTnU3aUg2YjZDcXNqaWJkd3hIZGItMEllT2wwX05Udy1uaG5BY245UWl3X0loVVRjRXhnNldVRjl2NnNqcDcxd3hha1BzalE1SDFBZGxCVHVHLTFIa3NEdXBvLWMyQXNZcFBRT05pLWZ4TDZBb2FMTFNubEdBa3RGWm9uOWs?oc=5)
-- **[Creadores] De Manizales al ring de Westcol: cantante Herrera alista su pelea contra JH en Bogotá y presenta canción - La Patria** — 14/10/2026 11:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHROdzRHd3BZZlE0NWMzYkJaajBvQjU0aFNTaUozVWhqVVZPVkYtS3lUdEdfSWtwZWw1Rld0NHYxWGxCenJ6eWlReDlyWTViaFBoSElVMG5udmctZ2pHeE9wWmVEM0l6bndTYTdsNDZjOU1PM29sOVlSVWZfYTRadVg0cS1PeUh0VmNoYnhvTXpuOU5zMG11SkNJWXJzSTg3N0lnSTFWTmVNUlp5ampsazBtMWlaS29jMFJ5N2txMEVtZw?oc=5)
+- **[Creadores] De Manizales al ring de Westcol: cantante Herrera alista su pelea contra JH en Bogotá y presenta canción 🔗 Encuentre el link de la noticia en el primer comentario 🗞️ - Facebook** — 14/10/2026 03:23 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYXlRMUV0ZUtpcGpGa3FKdjc0ZjZ1OS03Vkw0c3QtbkppcUVIemE3TnhKMzBJUmpOZzhtQjZnMnJOem1mUFFaRWh3aUV4V2trSEpPc1ltS2FCQUt1ZzA5Nm0wdk1xYlZSSjNTbjZCSnV6U1VHb0VxV05CalMwS3RjWlR0WlQ5d1ZPeGVjMTBkQTNNUXM1eWJjMU5MU01jai1fdk4tdWpkRlA2QzhWRVNpU1pudnotSW13dF9VT3FpN21ER2FtRmI5ZjdMalZwS1hrai1yVkc4S3BGWTZWUWxlMkVR?oc=5)
 - **[Creadores] Luisa Fernanda W reveló cómo descubrió que Pipe Bueno consumía sustancias psicoactivas | El Colombiano - El Colombiano** — 14/10/2026 10:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURIZFR6Tjhwc1hzUDhQMUFkMEtNNFhqMHZjVTJad1hUSXhadzNIZ3h3NjBQSU0yN01YbzBNbkpHanZMejRYTzJ3WFVhc3p3VVItYlhJVGFjZVNaekJjR1VYZ2FKWXNHdTVfXzlmYTV1VG1FdGh5Z1lQUUJSbjU1ZnhMSnRaZVpLZHJCakNwWWphbFdGNnF0Nk1FelRFU294RDFnQ3hwOXdvcDhJeW52cdIBtgFBVV95cUxOMDdkcnRBbkEyQlpXc25iRDg2Zm1USzdMOWNXYlduOW9xX3llNUhiUHlmUGEtempFaFh3QncxemtveEtIT0RuWGlWd0IzaVd2bF9lOVFORjBWY3I3d2xvMWVnOXlSaDdFTjIzQWJ4bW9SSEZQSTBueEx0M0Zkc2p5STJEOUxqVVJQTjVpWEtsbGc5T25wWmg1WnJYaXVPRkMtb3ktZVRTWE1tTkhJeXhzUkZ6YTRFdw?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno: los detalles de su esperada boda - Kienyke** — 14/10/2026 06:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0dxOWhCSHNRSWM4VnBiQ1FZb3Nsa0N2X0YtR1lrd1Q3WXgzV0psWHZxcU15eVdmRVFKUExsZUxlWlQwTTlmdW5HdVJ1OXZ0M0hQdzhacGd5R19GZnNCOE9YY1hWclJyRjZ4aTRQS2pIU0gwOTZjbmRsYTRvLXNmYXpSX29KQTI1RHF0eERjQnB2RVNaZ2c?oc=5)
 - **[Creadores] ¿Problemas legales para Juanda Caribe? Documento mostraría que Sheila Gándara busca embargarlo - Eluniversal.com.co** — 13/10/2026 06:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY19rUU00SU9MUjFDM2xObnotbjZBQ1hDZ2h3YVhtTEJLeVVyWUlrYlR4cHFoWm50ZTZFZVc0ZGlnbmgtQ1lmTDRwTzdUcjU3bUZIaXNNbkx0ZGItNDNJRkNKZ3RmTHM1MkttN0xiemgxbkQtOTJ6OTB6WUFlSVlCWVFiZ080TEpTS1B2SU0tMThKVnFRRE1IUU5Mb3dYNzF2QkpGWUdCNGRkSV8taUZ3OTJfR05YRXRNa2FFY09qT21KN01UZkNxUTJYNGF1SjlfN1g2OW0zUW90NXFjYXc?oc=5)
