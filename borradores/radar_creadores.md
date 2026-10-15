@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 15/10/2026 01:29 PM (hora de Colombia)
+Actualizado: 15/10/2026 03:24 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 6.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 21) #dedsafio #minecraft
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Querubin_Clips
-- Publicado: 15/10/2026 01:02 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=DBhf8b7LCwM
 
 ### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
 - Categoria: Clip de terceros
@@ -31,26 +21,26 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### ¿WESTCOL sigue pensando en Aida?
+### HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: unTopGlobal Meta
-- Publicado: 15/10/2026 01:15 PM
+- Canal que publico: CLISP PERUVIAN
+- Publicado: 15/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=n12-bZQk5PA
+- Enlace directo: https://www.youtube.com/watch?v=a3Dpiw4EyhA
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 54.316
+- Vistas reportadas por YouTube: 84.506
 - Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+- Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -59,9 +49,20 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.931
+- Vistas reportadas por YouTube: 46.802
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips96
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Clips96
+- Publicado: 15/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ### MrStiven momentos destacados
 - Categoria: Cuenta de clips
@@ -78,16 +79,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 21) #dedsafio #minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 21) #dedsafio #minecraft
-- **Texto en pantalla:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 21) #dedsafio #min
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=DBhf8b7LCwM
-
 ### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -98,25 +89,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### ¿WESTCOL sigue pensando en Aida?
+### HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ¿WESTCOL sigue pensando en Aida?
-- **Texto en pantalla:** ¿WESTCOL sigue pensando en Aida?
+- **Título sugerido:** HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
+- **Texto en pantalla:** HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=n12-bZQk5PA
+- **Fuente original:** https://www.youtube.com/watch?v=a3Dpiw4EyhA
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
-- **Texto en pantalla:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO - STREAM COMPLETO
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
+- **Fuente original:** https://www.youtube.com/watch?v=Oyww9jxULBA
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -127,6 +118,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- **Texto en pantalla:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ### MrStiven momentos destacados
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -143,7 +144,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR1JuemtxbTN5eUpQeWNJMEtJcXpla0VDOGVWMFNtVzZYdXE3MFFmenlFUWg1ZThRN2piX012OVRxY1NUYkZocVVjUGNYZHVfdmhsRlV0cDM1YjA3QkRFVy1MaURlRlBpWTA1ZVI5T0w1MlZkQVp1TUFfM0ROOUlPRjRZMnQ2TERHUDNvV0E2bDYwLXJFSk83WDI3UmhXZlZkNV9hSzFvakhxU2tfcHhhdWZUenFPMTVrSmtPY3dVbmduRDMxVWZKZVBoWnpTdktTVWt1SkdBONIB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
 - **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWC1aejBrZDdSMjNST3NNUWpUTEdsM25oM0g4aHZoWlFiMUVFMHE4TnE3NFRCQ21DTnY3elZVRlp2NUxoSmVxUzQyVGlKSXNRd3lUdG1kTXdKMlRJTjRzaFBzWEJTRkwwMVRwakZZUVlQWGpjS2oxRHhaLWpWNFJvZGNrWWh6cHdFcDgwbTJndjdTOENHemNKcHAwd25tNzdhS0Y3b3RIaTJIU0tmUjFpbFpQS29HUWFPUjREdGFmbHo0Z2RsZWQxalpLb01Ld9IB4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB?oc=5)
 - **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: un - Diario del Cauca** — 15/10/2026 09:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenJPWXkySzdMcERreDdoSnd2Rm5WMWZ3dWZvc3NlVVExWk4wSThiY0lEajJhY3lPQXJtbDNpVnk1bHQxNEkzM3pDY1F4RjFURWlsM19IdXhWbzFYYWJPR0NaLVptVk8wQkQyUUhQZGVhZkFlb09TdXNvMXc0TU4tRFFpb1J1R21RLTZqZVBhTFZWMlR3b3NJWnRvYWRRMENIR1JUdWRuY0JMTjdYdVRvdGE2RU5BU0UtNXpGbWNjWk5ob0xoX0w4?oc=5)
-- **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaW0tUDVjYjdYU0RUbFlfbUttQS1ndWdmNDNRTkdtdEtESkxKUnpjRkRPdzVXdmJ2eXZZdnpvMENYeXR2djlRT0VDOHdBQm91cjdWa2JiQ0oxQjc2YkhIaEUybS1aSFdxbEFpeDRPaU51N2lINmI2Q3FzamliZHd4SGRiLTBJZU9sMF9OVHctbmhuQWNuOVFpd19JaFVUY0V4ZzZXVUY5djZzanA3MXd4YWtQc2pRNUgxQWRsQlR1Ry0xSGtzRHVwby1jMkFzWXBQUU9OaS1meEw2QW9hTExTbmxHQWt0Rlpvbjlr0gHrAUFVX3lxTE5pbS1QNWNiN1hTRFRsWV9tS21BLWd1Z2Y0M1FOR210S0RKTEpSemNGRE93NVd2YnZ5dll2em8wQ1h5dHZ2OVFPRUM4d0FCb3VyN1ZrYmJDSjFCNzZiSEhoRTJtLVpIV3FsQWl4NE9pTnU3aUg2YjZDcXNqaWJkd3hIZGItMEllT2wwX05Udy1uaG5BY245UWl3X0loVVRjRXhnNldVRjl2NnNqcDcxd3hha1BzalE1SDFBZGxCVHVHLTFIa3NEdXBvLWMyQXNZcFBRT05pLWZ4TDZBb2FMTFNubEdBa3RGWm9uOWs?oc=5)
+- **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRMd2I3R1hudFEzdE1tQmc5Z0xEV2U2LVdDZ2hITVZtSmt3ek1XTE1VVjZ0eWV6ZjJJcWQ4MFF6a3BiZ295MUVfbGlreUZCVUQ3SFhlZzJkSzRqNm1KQzdxN3luNEhfMk5tS3I2bU9lWGpiNmUtelc2Qll2U3c2WDFuMTctbWpaUWI4eGV5aTE5N295R2pWZnpFUFVzZFN6VlNXS004ampRNW54d1VnamJDTTZZWGlKTXhKYmNwRjdtOUEwaTFOT2hYamVaOEQ3Ymg3dmhIdkh6Ykt2VmfSAesBQVVfeXFMTmltLVA1Y2I3WFNEVGxZX21LbUEtZ3VnZjQzUU5HbXRLREpMSlJ6Y0ZET3c1V3Zidnl2WXZ6bzBDWHl0dnY5UU9FQzh3QUJvdXI3VmtiYkNKMUI3NmJISGhFMm0tWkhXcWxBaXg0T2lOdTdpSDZiNkNxc2ppYmR3eEhkYi0wSWVPbDBfTlR3LW5obkFjbjlRaXdfSWhVVGNFeGc2V1VGOXY2c2pwNzF3eGFrUHNqUTVIMUFkbEJUdUctMUhrc0R1cG8tYzJBc1lwUFFPTmktZnhMNkFvYUxMU25sR0FrdEZab245aw?oc=5)
 - **[Creadores] Luisa Fernanda W reveló cómo descubrió que Pipe Bueno consumía sustancias psicoactivas | El Colombiano - El Colombiano** — 14/10/2026 10:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURIZFR6Tjhwc1hzUDhQMUFkMEtNNFhqMHZjVTJad1hUSXhadzNIZ3h3NjBQSU0yN01YbzBNbkpHanZMejRYTzJ3WFVhc3p3VVItYlhJVGFjZVNaekJjR1VYZ2FKWXNHdTVfXzlmYTV1VG1FdGh5Z1lQUUJSbjU1ZnhMSnRaZVpLZHJCakNwWWphbFdGNnF0Nk1FelRFU294RDFnQ3hwOXdvcDhJeW52cdIBtgFBVV95cUxOMDdkcnRBbkEyQlpXc25iRDg2Zm1USzdMOWNXYlduOW9xX3llNUhiUHlmUGEtempFaFh3QncxemtveEtIT0RuWGlWd0IzaVd2bF9lOVFORjBWY3I3d2xvMWVnOXlSaDdFTjIzQWJ4bW9SSEZQSTBueEx0M0Zkc2p5STJEOUxqVVJQTjVpWEtsbGc5T25wWmg1WnJYaXVPRkMtb3ktZVRTWE1tTkhJeXhzUkZ6YTRFdw?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno: los detalles de su esperada boda - Kienyke** — 14/10/2026 06:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0dxOWhCSHNRSWM4VnBiQ1FZb3Nsa0N2X0YtR1lrd1Q3WXgzV0psWHZxcU15eVdmRVFKUExsZUxlWlQwTTlmdW5HdVJ1OXZ0M0hQdzhacGd5R19GZnNCOE9YY1hWclJyRjZ4aTRQS2pIU0gwOTZjbmRsYTRvLXNmYXpSX29KQTI1RHF0eERjQnB2RVNaZ2c?oc=5)
 - **[Creadores] ¿Problemas legales para Juanda Caribe? Documento mostraría que Sheila Gándara busca embargarlo - Eluniversal.com.co** — 13/10/2026 06:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY19rUU00SU9MUjFDM2xObnotbjZBQ1hDZ2h3YVhtTEJLeVVyWUlrYlR4cHFoWm50ZTZFZVc0ZGlnbmgtQ1lmTDRwTzdUcjU3bUZIaXNNbkx0ZGItNDNJRkNKZ3RmTHM1MkttN0xiemgxbkQtOTJ6OTB6WUFlSVlCWVFiZ080TEpTS1B2SU0tMThKVnFRRE1IUU5Mb3dYNzF2QkpGWUdCNGRkSV8taUZ3OTJfR05YRXRNa2FFY09qT21KN01UZkNxUTJYNGF1SjlfN1g2OW0zUW90NXFjYXc?oc=5)
