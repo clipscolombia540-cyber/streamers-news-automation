@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 15/10/2026 03:24 PM (hora de Colombia)
+Actualizado: 15/10/2026 05:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 6.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Pedricoking
+- Publicado: 13/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5.626
+- Puntaje heurístico de interés: 10
+- Enlace directo: https://www.youtube.com/watch?v=BCd7jPgmToY
 
 ### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
 - Categoria: Clip de terceros
@@ -38,7 +48,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 - Canal que publico: WestClips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 84.506
+- Vistas reportadas por YouTube: 85.221
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Oyww9jxULBA
 
@@ -49,20 +59,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 46.802
+- Vistas reportadas por YouTube: 48.908
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
-
-### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips96
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Clips96
-- Publicado: 15/10/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ### MrStiven momentos destacados
 - Categoria: Cuenta de clips
@@ -78,6 +77,16 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- **Texto en pantalla:** 🤔MUERTE A LOS ANTIGUARDIANES MEJORES MOMENTOS DEL DEDSAFIO 4 DIA 20 😂
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=BCd7jPgmToY
 
 ### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -119,16 +128,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
 
-### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Texto en pantalla:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lZDq0F0dk3w
-
 ### MrStiven momentos destacados
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -148,7 +147,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Luisa Fernanda W reveló cómo descubrió que Pipe Bueno consumía sustancias psicoactivas | El Colombiano - El Colombiano** — 14/10/2026 10:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURIZFR6Tjhwc1hzUDhQMUFkMEtNNFhqMHZjVTJad1hUSXhadzNIZ3h3NjBQSU0yN01YbzBNbkpHanZMejRYTzJ3WFVhc3p3VVItYlhJVGFjZVNaekJjR1VYZ2FKWXNHdTVfXzlmYTV1VG1FdGh5Z1lQUUJSbjU1ZnhMSnRaZVpLZHJCakNwWWphbFdGNnF0Nk1FelRFU294RDFnQ3hwOXdvcDhJeW52cdIBtgFBVV95cUxOMDdkcnRBbkEyQlpXc25iRDg2Zm1USzdMOWNXYlduOW9xX3llNUhiUHlmUGEtempFaFh3QncxemtveEtIT0RuWGlWd0IzaVd2bF9lOVFORjBWY3I3d2xvMWVnOXlSaDdFTjIzQWJ4bW9SSEZQSTBueEx0M0Zkc2p5STJEOUxqVVJQTjVpWEtsbGc5T25wWmg1WnJYaXVPRkMtb3ktZVRTWE1tTkhJeXhzUkZ6YTRFdw?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno: los detalles de su esperada boda - Kienyke** — 14/10/2026 06:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0dxOWhCSHNRSWM4VnBiQ1FZb3Nsa0N2X0YtR1lrd1Q3WXgzV0psWHZxcU15eVdmRVFKUExsZUxlWlQwTTlmdW5HdVJ1OXZ0M0hQdzhacGd5R19GZnNCOE9YY1hWclJyRjZ4aTRQS2pIU0gwOTZjbmRsYTRvLXNmYXpSX29KQTI1RHF0eERjQnB2RVNaZ2c?oc=5)
 - **[Creadores] ¿Problemas legales para Juanda Caribe? Documento mostraría que Sheila Gándara busca embargarlo - Eluniversal.com.co** — 13/10/2026 06:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY19rUU00SU9MUjFDM2xObnotbjZBQ1hDZ2h3YVhtTEJLeVVyWUlrYlR4cHFoWm50ZTZFZVc0ZGlnbmgtQ1lmTDRwTzdUcjU3bUZIaXNNbkx0ZGItNDNJRkNKZ3RmTHM1MkttN0xiemgxbkQtOTJ6OTB6WUFlSVlCWVFiZ080TEpTS1B2SU0tMThKVnFRRE1IUU5Mb3dYNzF2QkpGWUdCNGRkSV8taUZ3OTJfR05YRXRNa2FFY09qT21KN01UZkNxUTJYNGF1SjlfN1g2OW0zUW90NXFjYXc?oc=5)
-- **[Creadores] ⁠¿Sheila pidió embargar a Juanda Caribe? Este detalle lo revelaría todo - Candela** — 13/10/2026 03:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDA3a0psM0dvWjFWanNNMDJpdHFaSEtKV2k2OWRVTVYtZjlKLVV3bHFRblppZXFHM2p0S3hSdWlVZTdacWQ3SUM2R1dEZGExTmRGSlVCU1RlYllsNGZqamQwOURQRkM2dTM3Tk5TUE0xR2FCN1JNZ1hwOG1EZ3g1clhNNU9PbnJ4dFVNYWVsU2c4R0h1djdIVUdn?oc=5)
 
 ## Creadores principales vigilados
 
@@ -173,8 +171,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-15
   - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-15
+  - https://www.youtube.com/watch?v=BCd7jPgmToY
   - https://www.youtube.com/watch?v=DBhf8b7LCwM
-  - https://www.youtube.com/watch?v=_eiY8C9ca-k
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-15
   - https://www.youtube.com/watch?v=RykI7OKOT-8
   - https://www.youtube.com/watch?v=4vNjcOfS02g
