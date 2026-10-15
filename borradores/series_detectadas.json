@@ -1,15 +1,30 @@
 {
-  "actualizado": "2026-10-14T17:25:05.770966-05:00",
+  "actualizado": "2026-10-14T19:32:56.345171-05:00",
   "series": [
     {
       "nombre": "BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-14T17:25:05.770966-05:00",
-      "ultima_deteccion": "2026-10-14T17:25:05.770966-05:00",
+      "ultima_deteccion": "2026-10-14T19:32:56.345171-05:00",
       "canal_muestra": "Mejores clips de streams",
       "enlaces": [
         "https://www.youtube.com/watch?v=FS4ahujmsDc"
+      ]
+    },
+    {
+      "nombre": "MINECRAFT EXTREMO",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-13T01:23:53.211520-05:00",
+      "ultima_deteccion": "2026-10-14T19:32:56.345171-05:00",
+      "canal_muestra": "Directo al Clip",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=RykI7OKOT-8",
+        "https://www.youtube.com/watch?v=4vNjcOfS02g",
+        "https://www.youtube.com/watch?v=F7rbaaMmjr0",
+        "https://www.youtube.com/watch?v=1WFuY0uZU_k",
+        "https://www.youtube.com/watch?v=gsGIFRuBgE0"
       ]
     },
     {
@@ -25,21 +40,6 @@
         "https://www.youtube.com/watch?v=XG6HvsmI74w",
         "https://www.youtube.com/watch?v=elGhRN05Jy8",
         "https://www.youtube.com/watch?v=YC4FsMMzFYA"
-      ]
-    },
-    {
-      "nombre": "MINECRAFT EXTREMO",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-13T01:23:53.211520-05:00",
-      "ultima_deteccion": "2026-10-14T11:30:55.614206-05:00",
-      "canal_muestra": "Directo al Clip",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=4vNjcOfS02g",
-        "https://www.youtube.com/watch?v=F7rbaaMmjr0",
-        "https://www.youtube.com/watch?v=1WFuY0uZU_k",
-        "https://www.youtube.com/watch?v=gsGIFRuBgE0",
-        "https://www.youtube.com/watch?v=3StznNQA5XI"
       ]
     },
     {

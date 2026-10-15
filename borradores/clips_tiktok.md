@@ -1,23 +1,23 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 14/10/2026 22:27 UTC
+**Actualizado:** 15/10/2026 00:36 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
 **Publicaciones leídas:** 109
-**Publicaciones encontradas:** 7
-**Distribución por tipo:** Cuenta de clips/terceros: 7
+**Publicaciones encontradas:** 5
+**Distribución por tipo:** Cuenta de clips/terceros: 5
 
 ## Diagnóstico del feed
 - Sin fecha verificable: 0
-- Más antiguas que 48 horas: 46
+- Más antiguas que 48 horas: 48
 - Con fecha futura: 0
-- Dentro del periodo antes de quitar duplicados: 63
+- Dentro del periodo antes de quitar duplicados: 61
 - Duplicadas: 0
 
 ### Resultado por feed
-- **Clipero:Ale clips**: 25 leídas; 13 recientes; 12 antiguas; 0 sin fecha; 2 seleccionadas.
-- **Clipero:Saraclips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 3 seleccionadas.
+- **Clipero:Ale clips**: 25 leídas; 11 recientes; 14 antiguas; 0 sin fecha; 1 seleccionadas.
+- **Clipero:Saraclips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **Clipero:Sofia Clips**: 25 leídas; 25 recientes; 0 antiguas; 0 sin fecha; 2 seleccionadas.
 - **TikTok:estevagoqueclips**: 9 leídas; 0 recientes; 9 antiguas; 0 sin fecha; 0 seleccionadas.
 - **TikTok:natclips1**: 25 leídas; 0 recientes; 25 antiguas; 0 sin fecha; 0 seleccionadas.
@@ -27,14 +27,14 @@
 ## 1. #samulx #maggiepepev #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 14/10/2026 21:24 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696637518216744199
+- **Fecha reportada:** 14/10/2026 22:44 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696658128582036737
 
-## 2. #samulx #dedsafio #dedsafiominecraft
+## 2. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 14/10/2026 05:14 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696387551325637895
+- **Fecha reportada:** 14/10/2026 23:01 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696662509398281490
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -42,26 +42,14 @@
 - **Fecha reportada:** 13/10/2026 05:31 UTC
 - **Enlace:** https://www.tiktok.com/@ale__clips1/video/7696020718584106272
 
-## 4. #samulx #coldified #dedsafio #westcol
+## 4. #samulx #meowynissi #dedsafio #montoyatr #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 14/10/2026 03:52 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696366350494649618
+- **Fecha reportada:** 14/10/2026 22:19 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696651526181276935
 
 ## 5. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 14/10/2026 02:49 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696350153208302849
-
-## 6. #westcol #clips #kick
-- **Tipo de cuenta:** Cuenta de clips/terceros
-- **Cuenta monitoreada:** Clipero:Ale clips
-- **Fecha reportada:** 13/10/2026 05:21 UTC
-- **Enlace:** https://www.tiktok.com/@ale__clips1/video/7696018147136048417
-
-## 7. #samulx #dedsafio #dedsafiominecraft
-- **Tipo de cuenta:** Cuenta de clips/terceros
-- **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 13/10/2026 23:13 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696294487248669960
+- **Fecha reportada:** 14/10/2026 22:57 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696661356090625288
