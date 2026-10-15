@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 14/10/2026 07:32 PM (hora de Colombia)
+Actualizado: 14/10/2026 09:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 5.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,7 +15,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Mejores clips de streams
-- Publicado: 14/10/2026 12:00 PM
+- Publicado: 14/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 3
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Canal que publico: Directo al Clip
 - Publicado: 14/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 387
+- Vistas reportadas por YouTube: 626
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=RykI7OKOT-8
 
@@ -35,22 +35,21 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: WEST.GANGALA
-- Publicado: 14/10/2026 05:00 PM
+- Publicado: 14/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 13
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=FpKNDJoqDoM
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 13/10/2026 07:00 PM
+### WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: La Zona del Stream
+- Publicado: 14/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 48.904
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=e9D7eoRgzmE
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=ZMplawib-vE
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -59,7 +58,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.431
+- Vistas reportadas por YouTube: 35.119
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
 
@@ -97,15 +96,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FpKNDJoqDoM
 
-### WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+### WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
-- **Texto en pantalla:** WESTCOL SAYS AIDA MADE HIM LIKE VALLENATO 🤣😲
+- **Título sugerido:** WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
+- **Texto en pantalla:** WESTCOL | HOY SOBREVIVEN LOS MAS GUERREROS
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=e9D7eoRgzmE
+- **Fuente original:** https://www.youtube.com/watch?v=ZMplawib-vE
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀

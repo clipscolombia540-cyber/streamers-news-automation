@@ -1,6 +1,6 @@
 # Radar de clips de TikTok
 
-**Actualizado:** 15/10/2026 00:36 UTC
+**Actualizado:** 15/10/2026 02:29 UTC
 **Periodo revisado:** últimas 48 horas
 **Feeds configurados:** 5
 **Estado de configuración:** Configuración: feeds personalizados desde TIKTOK_FEEDS. Se revisan únicamente las cuentas incluidas en esa variable. Usa etiquetas Clipero:, Clips:, Fan:, Momentos:, Recortes: o TikTok: para priorizar cuentas que publican clips de terceros.
@@ -24,17 +24,17 @@
 
 > Este informe depende de los feeds RSS configurados. No representa todo TikTok. Verifica el contenido y el enlace antes de publicar.
 
-## 1. #samulx #maggiepepev #westcol
+## 1. #chibidoki #dedsafio #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 14/10/2026 22:44 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696658128582036737
+- **Fecha reportada:** 14/10/2026 23:33 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696670682561727762
 
 ## 2. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 14/10/2026 23:01 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696662509398281490
+- **Fecha reportada:** 15/10/2026 02:03 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696709440690507015
 
 ## 3. #westcol #clips #kick
 - **Tipo de cuenta:** Cuenta de clips/terceros
@@ -42,14 +42,14 @@
 - **Fecha reportada:** 13/10/2026 05:31 UTC
 - **Enlace:** https://www.tiktok.com/@ale__clips1/video/7696020718584106272
 
-## 4. #samulx #meowynissi #dedsafio #montoyatr #westcol
+## 4. #samulx #maggiepepev #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Sofia Clips
-- **Fecha reportada:** 14/10/2026 22:19 UTC
-- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696651526181276935
+- **Fecha reportada:** 14/10/2026 22:44 UTC
+- **Enlace:** https://www.tiktok.com/@sofia.clips3/video/7696658128582036737
 
 ## 5. #westcol
 - **Tipo de cuenta:** Cuenta de clips/terceros
 - **Cuenta monitoreada:** Clipero:Saraclips
-- **Fecha reportada:** 14/10/2026 22:57 UTC
-- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696661356090625288
+- **Fecha reportada:** 15/10/2026 01:44 UTC
+- **Enlace:** https://www.tiktok.com/@sara__clips/video/7696704460134845704
