@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 15/10/2026 03:29 AM (hora de Colombia)
+Actualizado: 15/10/2026 05:28 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 5.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,21 +15,11 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Mejores clips de streams
-- Publicado: 14/10/2026 12:00 PM
+- Publicado: 14/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
-
-### WESTCOL | PARRANDA VALLENATA 🪗
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: La Zona del Stream
-- Publicado: 14/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=uWvIo-ZgSUg
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -38,7 +28,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 13/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 40.734
+- Vistas reportadas por YouTube: 41.376
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
 
@@ -49,7 +39,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Canal que publico: WestcolClips
 - Publicado: 14/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.419
+- Vistas reportadas por YouTube: 5.740
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=QXx3YrZnuFc
 
@@ -58,11 +48,22 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Creador/canal detectado: Cuenta de clips: CLIP VIRAL DETODITO
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: CLIP VIRAL DETODITO
-- Publicado: 15/10/2026 01:00 AM
+- Publicado: 15/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xISJO-Bdzv8
+
+### MR STIVEN NUEVAMENTE LIMITADO POR WESTCOL | HABLANDO CLARO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Pelusa Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Pelusa Clips
+- Publicado: 13/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 334
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=FffSn3clJ68
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -77,16 +78,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
-
-### WESTCOL | PARRANDA VALLENATA 🪗
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL | PARRANDA VALLENATA 🪗
-- **Texto en pantalla:** WESTCOL | PARRANDA VALLENATA 🪗
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uWvIo-ZgSUg
 
 ### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -118,12 +109,22 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xISJO-Bdzv8
 
+### MR STIVEN NUEVAMENTE LIMITADO POR WESTCOL | HABLANDO CLARO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** MR STIVEN NUEVAMENTE LIMITADO POR WESTCOL | HABLANDO CLARO
+- **Texto en pantalla:** MR STIVEN NUEVAMENTE LIMITADO POR WESTCOL | HABLANDO CLARO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=FffSn3clJ68
+
 ## Noticias y contexto
 
 - **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaW0tUDVjYjdYU0RUbFlfbUttQS1ndWdmNDNRTkdtdEtESkxKUnpjRkRPdzVXdmJ2eXZZdnpvMENYeXR2djlRT0VDOHdBQm91cjdWa2JiQ0oxQjc2YkhIaEUybS1aSFdxbEFpeDRPaU51N2lINmI2Q3FzamliZHd4SGRiLTBJZU9sMF9OVHctbmhuQWNuOVFpd19JaFVUY0V4ZzZXVUY5djZzanA3MXd4YWtQc2pRNUgxQWRsQlR1Ry0xSGtzRHVwby1jMkFzWXBQUU9OaS1meEw2QW9hTExTbmxHQWt0Rlpvbjlr0gHrAUFVX3lxTE5pbS1QNWNiN1hTRFRsWV9tS21BLWd1Z2Y0M1FOR210S0RKTEpSemNGRE93NVd2YnZ5dll2em8wQ1h5dHZ2OVFPRUM4d0FCb3VyN1ZrYmJDSjFCNzZiSEhoRTJtLVpIV3FsQWl4NE9pTnU3aUg2YjZDcXNqaWJkd3hIZGItMEllT2wwX05Udy1uaG5BY245UWl3X0loVVRjRXhnNldVRjl2NnNqcDcxd3hha1BzalE1SDFBZGxCVHVHLTFIa3NEdXBvLWMyQXNZcFBRT05pLWZ4TDZBb2FMTFNubEdBa3RGWm9uOWs?oc=5)
 - **[Creadores] De Manizales al ring de Westcol: cantante Herrera alista su pelea contra JH en Bogotá y presenta canción - La Patria** — 14/10/2026 11:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHROdzRHd3BZZlE0NWMzYkJaajBvQjU0aFNTaUozVWhqVVZPVkYtS3lUdEdfSWtwZWw1Rld0NHYxWGxCenJ6eWlReDlyWTViaFBoSElVMG5udmctZ2pHeE9wWmVEM0l6bndTYTdsNDZjOU1PM29sOVlSVWZfYTRadVg0cS1PeUh0VmNoYnhvTXpuOU5zMG11SkNJWXJzSTg3N0lnSTFWTmVNUlp5ampsazBtMWlaS29jMFJ5N2txMEVtZw?oc=5)
 - **[Creadores] Luisa Fernanda W reveló cómo descubrió que Pipe Bueno consumía sustancias psicoactivas | El Colombiano - El Colombiano** — 14/10/2026 10:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURIZFR6Tjhwc1hzUDhQMUFkMEtNNFhqMHZjVTJad1hUSXhadzNIZ3h3NjBQSU0yN01YbzBNbkpHanZMejRYTzJ3WFVhc3p3VVItYlhJVGFjZVNaekJjR1VYZ2FKWXNHdTVfXzlmYTV1VG1FdGh5Z1lQUUJSbjU1ZnhMSnRaZVpLZHJCakNwWWphbFdGNnF0Nk1FelRFU294RDFnQ3hwOXdvcDhJeW52cdIBtgFBVV95cUxOMDdkcnRBbkEyQlpXc25iRDg2Zm1USzdMOWNXYlduOW9xX3llNUhiUHlmUGEtempFaFh3QncxemtveEtIT0RuWGlWd0IzaVd2bF9lOVFORjBWY3I3d2xvMWVnOXlSaDdFTjIzQWJ4bW9SSEZQSTBueEx0M0Zkc2p5STJEOUxqVVJQTjVpWEtsbGc5T25wWmg1WnJYaXVPRkMtb3ktZVRTWE1tTkhJeXhzUkZ6YTRFdw?oc=5)
-- **[Creadores] Luisa Fernanda W y Pipe Bueno: los detalles de su esperada boda - KienyKe** — 14/10/2026 06:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0dxOWhCSHNRSWM4VnBiQ1FZb3Nsa0N2X0YtR1lrd1Q3WXgzV0psWHZxcU15eVdmRVFKUExsZUxlWlQwTTlmdW5HdVJ1OXZ0M0hQdzhacGd5R19GZnNCOE9YY1hWclJyRjZ4aTRQS2pIU0gwOTZjbmRsYTRvLXNmYXpSX29KQTI1RHF0eERjQnB2RVNaZ2c?oc=5)
+- **[Creadores] Luisa Fernanda W y Pipe Bueno: los detalles de su esperada boda - Kienyke** — 14/10/2026 06:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0dxOWhCSHNRSWM4VnBiQ1FZb3Nsa0N2X0YtR1lrd1Q3WXgzV0psWHZxcU15eVdmRVFKUExsZUxlWlQwTTlmdW5HdVJ1OXZ0M0hQdzhacGd5R19GZnNCOE9YY1hWclJyRjZ4aTRQS2pIU0gwOTZjbmRsYTRvLXNmYXpSX29KQTI1RHF0eERjQnB2RVNaZ2c?oc=5)
 - **[Creadores] ¿Problemas legales para Juanda Caribe? Documento mostraría que Sheila Gándara busca embargarlo - Eluniversal.com.co** — 13/10/2026 06:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY19rUU00SU9MUjFDM2xObnotbjZBQ1hDZ2h3YVhtTEJLeVVyWUlrYlR4cHFoWm50ZTZFZVc0ZGlnbmgtQ1lmTDRwTzdUcjU3bUZIaXNNbkx0ZGItNDNJRkNKZ3RmTHM1MkttN0xiemgxbkQtOTJ6OTB6WUFlSVlCWVFiZ080TEpTS1B2SU0tMThKVnFRRE1IUU5Mb3dYNzF2QkpGWUdCNGRkSV8taUZ3OTJfR05YRXRNa2FFY09qT21KN01UZkNxUTJYNGF1SjlfN1g2OW0zUW90NXFjYXc?oc=5)
 - **[Creadores] ⁠¿Sheila pidió embargar a Juanda Caribe? Este detalle lo revelaría todo - Candela** — 13/10/2026 03:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDA3a0psM0dvWjFWanNNMDJpdHFaSEtKV2k2OWRVTVYtZjlKLVV3bHFRblppZXFHM2p0S3hSdWlVZTdacWQ3SUM2R1dEZGExTmRGSlVCU1RlYllsNGZqamQwOURQRkM2dTM3Tk5TUE0xR2FCN1JNZ1hwOG1EZ3g1clhNNU9PbnJ4dFVNYWVsU2c4R0h1djdIVUdn?oc=5)
 
