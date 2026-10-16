@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 16/10/2026 01:27 PM (hora de Colombia)
+Actualizado: 16/10/2026 03:23 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Influencer de respaldo: 1.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Influence
 - Canal que publico: ANDRI
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34
+- Vistas reportadas por YouTube: 36
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x8piGI30jN4
 
@@ -27,31 +27,29 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Influence
 - Canal que publico: basuquito
 - Publicado: 16/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 84
+- Vistas reportadas por YouTube: 136
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=NEH4KDaI_OY
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 15/10/2026 11:00 PM
+### WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: WEST.GANGALA
+- Publicado: 16/10/2026 02:35 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 103.884
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=7xx85UAjMjw
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 15/10/2026 09:00 PM
+### WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: WEST.GANGALA
+- Publicado: 16/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 56.057
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=WTRswMqlFJs
 
 ### 019 Samulx Bug Del Escudo
 - Categoria: Cuenta de clips
@@ -93,7 +91,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Influence
 - Canal que publico: CLIP VIRAL DETODITO
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 112
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xISJO-Bdzv8
 
@@ -104,7 +102,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Influence
 - Canal que publico: Clips96
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
@@ -112,9 +110,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Influence
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: Telemundo Entretenimiento
-- Publicado: 15/10/2026 09:00 PM
+- Publicado: 15/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.013
+- Vistas reportadas por YouTube: 1.094
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=WoIglxwzCwY
 
@@ -142,25 +140,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NEH4KDaI_OY
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+### WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Título sugerido:** WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
+- **Texto en pantalla:** WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+- **Fuente original:** https://www.youtube.com/watch?v=7xx85UAjMjw
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+### WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+- **Título sugerido:** WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
+- **Texto en pantalla:** WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
+- **Fuente original:** https://www.youtube.com/watch?v=WTRswMqlFJs
 
 ### 019 Samulx Bug Del Escudo
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -224,11 +222,13 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con su propio dinero - Luz Noticias** — 15/10/2026 05:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnRJbFl6MWRxSTB3Zl96T2llalpvUlJ3dHRBaXhlQTVJMi1GUHZONkVQLTFTX3VKOGYzemNEUElSNGxDU0JoR1pDN3VMR204MHZ4eThNZmI0Q0htNVcwbUtXdTBNYURTUjZQczVYeWVNX1ZPV0dTc1Vxd1ppekNJajBFZXlvN0d1N1Y5b0NoN1ZjRDhLOEhneGJlSzVBSEJxUW1XLVIzR3RYSGN3Vmx3ZEpHRk95VXRIQlNPb3d4bGlxajRf0gHKAUFVX3lxTE1Zd0hwSXhNVDl0aEU4aTVQWFpjYXNLR1l5ZF81M0FscXF4dlVxeWdYdFJsYmI0Ri04b0V4ZHdYWHgxdnhaX3ZEUXpkMDN6RURDT2VlTzRGNXEzSmtWYkFuZmxBUVBLOU1RMFhxei1RQ2RKT0R4ZnBMZzBLYmh1dmFpN3FET05fdm1kX25jRkw1ektndlFuMG5aMjZCcmtSZEJ5RWpuTDExYUU4NURSczRSZUhBMVNDM1dPQ2FQeHhBX21nYy1RZV94bUE?oc=5)
+- **[Creadores] Prometió streamer "Lonche de huevito" tapar los baches en Los Mochis🎦 - Puente Libre** — 16/10/2026 01:54 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWFxUnA3bFZLb1RwY0p0TVRXNEVpQWRRM29hV1hiMXdGQnZxT2FacVNUVHpsQTFvTkxTZGFHWFhZNU0wRmlETzdMLTU3NjNiUmdyRklvNVVNd3IzQ3lwQ094MmRLNUtUMXhJMEluakdyT2p3eVczM3V5MUxoOThIcmtBdW93RktVSFExc2V2Tks?oc=5)
+- **[Creadores] No voy a pedir permiso: Lonche de Huevito cotiza y reparará baches de Los Mochis en las madrugadas - Luz Noticias** — 16/10/2026 01:25 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdmx0YjVDZDl5TGtETWRqY1NKOE50QzJ5UnJOQ1RscHU5ZmFMdTFwVVlzSjN3YkVKaHJ3ZVQxZVYxZE1fek1Kd1p5c1B6Z1h6c09na2FVRzBxSWoyOHlRZHFWb1l2dEt0ekw0dlpyaEFyaF84Y3YzMzZSdjdhMEJ5dFdOYVl0a0dDZ0c3YUI5ZWV2bjhHZ3hiQldrcmN4S2hSZ3ViMkY5Q2UtUUd5NzNVWDBGLUp1aC0zSFR0OXJxbF9QOEQ4RkdzSXFKLVRpRkFLbnJkZmlfVkdkZDNWZnFjZXZOQkPSAeoBQVVfeXFMTUhQREFaRjMwdFJCWGNZbHA1eHEwc1hXUVc0cDZzVDBicjV6S3FDYktTOGlMVjJLbFV5cU1yUnFyRkdORGhjUEJzbXNoR0NXa2hNMHUxdmFFdUNPV1dKUkFsMmZwbEZXRzdQNFpDelVja3F0TmlFYUxvM19FNFpkNUtfSTZ5ZVNQaUs5VUdic1U4QXJvTXk1a3FrRmhRR3YtdDZXOXJlOEhxb1h4bTMzRE1Ea1hKZWlfanpKZzVyb1JqNlBOUzZzRl92ZWFQb3djdk1RTktxeFZVOTBra1kzcTluSU45a2pHTWln?oc=5)
+- **[Creadores] Westcol habló de la polémica de Camilo Cifuentes: “No nos están cuidando” - Noticias RCN** — 16/10/2026 11:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1dyREVYOGh2WTc5NTliaVk1Z1JxNW9GY2M1VnFUa1R6bGktaUJIQnU0TEtzSUZrTktDTS1ad2lpeWhieTZiOGktS3p0M1BMNFBQV0ZXd3lvanVMRWtEMmZ2b01zTGJDRUdFdzhWeXlONFhrU0hDQ1hZeVgyOWVjOWE2b0NMQlltWEJKRzNlREVZZDV6UDVTang2WlNxMzht0gGgAUFVX3lxTE5iYnZEeVFLT3JzT0lxMEVUZkZTeVdBcW1BWUQxZjJuM0M1eHBadlRMQ09tT252MkthTE0xb1RRVjVJbFp1eGdFT2V5MFpSRnZSUGJOZlVaUGRvTTRmUXZjTUdJNXk4cE4wSUtvdERiSTZhQXhVbmR0ZnJnUG5yUjB3T3dSbkZjb2F2S1ZlRUE5dzdyeXJDQ1NVUXVjXzhNamE?oc=5)
+- **[Creadores] ¿Vender en live es de pobres? La Liendra desata polémica con sus palabras - TN8** — 16/10/2026 10:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRJLXFXWXRFaUdUNE5nU1d0LUl3RzU3aVJzTW0xNnAwcklSZ0Vna1NIUnlFX2syVjcxS3pmcFUxcGp1N3ZqNjF6X0Y3TV9qZEU5T3kzNkFiS2sySmkzX1gtd1ZKamI5RXdFYXM0RWppNUtGYnVFengyRXFRczJ2ZUg5VjJoSW5KQVJndlRtQ0c0bUwxdTVEMXhHWlYxWWo3dFIwU08xUnplQnc?oc=5)
 - **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:11 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJad9IB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
-- **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB0gHiAUFVX3lxTE5XblBOOHdEbEZ4ZFNqYURvb0FaRy1YakpUeHJpSkVhTEREdDAxMGtaRmEwYUJ2MUNPOWxnc1VBZGM0c0d4OTFWVTNWMFRnbm1GY3pYcU9VbkRVakJhRlVvOWNJQ19ZbzNlV1d3M1VIeWRSS01LUG5JSXdGalBZZVoyTlo4eTl3bElmeEhKSkVPblUzaXA0aklfZFY0VldKdi0xYkJkZnpKY2daWjRBeDhUX19hcGRlamVzdHpIOUVjZWtFTEVHd0laQ3c5TXp6cll5SXNVSHR0N0xWcmRYNkRZVEE?oc=5)
+- **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWC1aejBrZDdSMjNST3NNUWpUTEdsM25oM0g4aHZoWlFiMUVFMHE4TnE3NFRCQ21DTnY3elZVRlp2NUxoSmVxUzQyVGlKSXNRd3lUdG1kTXdKMlRJTjRzaFBzWEJTRkwwMVRwakZZUVlQWGpjS2oxRHhaLWpWNFJvZGNrWWh6cHdFcDgwbTJndjdTOENHemNKcHAwd25tNzdhS0Y3b3RIaTJIU0tmUjFpbFpQS29HUWFPUjREdGFmbHo0Z2RsZWQxalpLb01Ld9IB4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB?oc=5)
 - **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: un - Diario del Cauca** — 15/10/2026 09:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenJPWXkySzdMcERreDdoSnd2Rm5WMWZ3dWZvc3NlVVExWk4wSThiY0lEajJhY3lPQXJtbDNpVnk1bHQxNEkzM3pDY1F4RjFURWlsM19IdXhWbzFYYWJPR0NaLVptVk8wQkQyUUhQZGVhZkFlb09TdXNvMXc0TU4tRFFpb1J1R21RLTZqZVBhTFZWMlR3b3NJWnRvYWRRMENIR1JUdWRuY0JMTjdYdVRvdGE2RU5BU0UtNXpGbWNjWk5ob0xoX0w4?oc=5)
-- **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRMd2I3R1hudFEzdE1tQmc5Z0xEV2U2LVdDZ2hITVZtSmt3ek1XTE1VVjZ0eWV6ZjJJcWQ4MFF6a3BiZ295MUVfbGlreUZCVUQ3SFhlZzJkSzRqNm1KQzdxN3luNEhfMk5tS3I2bU9lWGpiNmUtelc2Qll2U3c2WDFuMTctbWpaUWI4eGV5aTE5N295R2pWZnpFUFVzZFN6VlNXS004ampRNW54d1VnamJDTTZZWGlKTXhKYmNwRjdtOUEwaTFOT2hYamVaOEQ3Ymg3dmhIdkh6Ykt2VmfSAesBQVVfeXFMTmltLVA1Y2I3WFNEVGxZX21LbUEtZ3VnZjQzUU5HbXRLREpMSlJ6Y0ZET3c1V3Zidnl2WXZ6bzBDWHl0dnY5UU9FQzh3QUJvdXI3VmtiYkNKMUI3NmJISGhFMm0tWkhXcWxBaXg0T2lOdTdpSDZiNkNxc2ppYmR3eEhkYi0wSWVPbDBfTlR3LW5obkFjbjlRaXdfSWhVVGNFeGc2V1VGOXY2c2pwNzF3eGFrUHNqUTVIMUFkbEJUdUctMUhrc0R1cG8tYzJBc1lwUFFPTmktZnhMNkFvYUxMU25sR0FrdEZab245aw?oc=5)
 
 ## Creadores principales vigilados
 
