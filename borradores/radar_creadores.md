@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 16/10/2026 03:28 AM (hora de Colombia)
+Actualizado: 16/10/2026 05:28 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,17 +21,6 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 15/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.705
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
-
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
@@ -39,9 +28,31 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Canal que publico: WestClips
 - Publicado: 15/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.833
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 37.428
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+
+### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 15/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 41.989
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: GALLOCLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: GALLOCLIPS
+- Publicado: 15/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=h_I0dPG7YU8
 
 ### 014 Chanty Cuando Se Va La Sal
 - Categoria: Cuenta de clips
@@ -54,17 +65,6 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=QWBlu2oIZN4
 
-### REYDELACITY conoce a su HIJO PERDIDO… ¡KABRIITAA SE ENOJA!😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips96
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Clips96
-- Publicado: 15/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Y-WsLEq2AZ4
-
 ### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips96
@@ -76,16 +76,15 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
-### MrStiven momentos destacados
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: CLIP VIRAL DETODITO
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: CLIP VIRAL DETODITO
-- Publicado: 14/10/2026 07:00 PM
+### Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: Telemundo Entretenimiento
+- Publicado: 15/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 112
+- Vistas reportadas por YouTube: 837
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xISJO-Bdzv8
+- Enlace directo: https://www.youtube.com/watch?v=WoIglxwzCwY
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -101,6 +100,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
 
+### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+
 ### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -111,15 +120,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
 
 ### 014 Chanty Cuando Se Va La Sal
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -131,16 +140,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=QWBlu2oIZN4
 
-### REYDELACITY conoce a su HIJO PERDIDO… ¡KABRIITAA SE ENOJA!😂
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY conoce a su HIJO PERDIDO… ¡KABRIITAA SE ENOJA!😂
-- **Texto en pantalla:** REYDELACITY conoce a su HIJO PERDIDO… ¡KABRIITAA SE ENOJA!😂
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Y-WsLEq2AZ4
-
 ### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -151,15 +150,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=lZDq0F0dk3w
 
-### MrStiven momentos destacados
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStiven momentos destacados
-- **Texto en pantalla:** MrStiven momentos destacados
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xISJO-Bdzv8
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
+- **Texto en pantalla:** Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=WoIglxwzCwY
 
 ## Noticias y contexto
 
@@ -193,9 +192,9 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-16
   - https://www.youtube.com/watch?v=FS4ahujmsDc
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-15
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-16
+  - https://www.youtube.com/watch?v=aZ-SNwkiFDM
   - https://www.youtube.com/watch?v=BCd7jPgmToY
-  - https://www.youtube.com/watch?v=DBhf8b7LCwM
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-15
   - https://www.youtube.com/watch?v=RykI7OKOT-8
   - https://www.youtube.com/watch?v=4vNjcOfS02g
