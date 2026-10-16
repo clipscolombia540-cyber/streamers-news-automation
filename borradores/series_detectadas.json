@@ -1,6 +1,21 @@
 {
-  "actualizado": "2026-10-16T11:27:20.806849-05:00",
+  "actualizado": "2026-10-16T13:27:32.121630-05:00",
   "series": [
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-16T13:27:32.121630-05:00",
+      "canal_muestra": "ANDRI",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=x8piGI30jN4",
+        "https://www.youtube.com/watch?v=aZ-SNwkiFDM",
+        "https://www.youtube.com/watch?v=BCd7jPgmToY",
+        "https://www.youtube.com/watch?v=DBhf8b7LCwM",
+        "https://www.youtube.com/watch?v=_eiY8C9ca-k"
+      ]
+    },
     {
       "nombre": "BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams",
       "tipo": "serie_o_tema_candidato",
@@ -10,21 +25,6 @@
       "canal_muestra": "Mejores clips de streams",
       "enlaces": [
         "https://www.youtube.com/watch?v=FS4ahujmsDc"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-16T11:27:20.806849-05:00",
-      "canal_muestra": "Aquiso Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=aZ-SNwkiFDM",
-        "https://www.youtube.com/watch?v=BCd7jPgmToY",
-        "https://www.youtube.com/watch?v=DBhf8b7LCwM",
-        "https://www.youtube.com/watch?v=_eiY8C9ca-k",
-        "https://www.youtube.com/watch?v=LU_BpmqUtsM"
       ]
     },
     {
