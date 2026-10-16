@@ -1,15 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 16/10/2026 07:33 AM (hora de Colombia)
+Actualizado: 16/10/2026 09:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 8.
 Noticias recientes: 6.
-Distribución por categoría: Cuenta de clips: 4, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Mejores clips de streams
+- Publicado: 15/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
+
+### AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: basuquito
+- Publicado: 16/10/2026 09:01 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=NEH4KDaI_OY
 
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
@@ -18,7 +38,7 @@ Distribución por categoría: Cuenta de clips: 4, Influencer de respaldo: 1.
 - Canal que publico: WestClips
 - Publicado: 16/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 45.219
+- Vistas reportadas por YouTube: 56.424
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
 
@@ -29,9 +49,31 @@ Distribución por categoría: Cuenta de clips: 4, Influencer de respaldo: 1.
 - Canal que publico: WestClips
 - Publicado: 15/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44.406
+- Vistas reportadas por YouTube: 46.597
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
+
+### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 14/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 58.465
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### Lonche se comprara un Ferrari Purosangue 🍾🐎🔥I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 15/10/2026 12:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 39
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ELLxQuoJyC0
 
 ### MrStiven momentos destacados
 - Categoria: Cuenta de clips
@@ -44,30 +86,40 @@ Distribución por categoría: Cuenta de clips: 4, Influencer de respaldo: 1.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xISJO-Bdzv8
 
-### 014 Chanty Cuando Se Va La Sal
+### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
-- Creador relacionado en el título: Chanty
-- Canal que publico: La Ganga en Clips
-- Publicado: 15/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: Clips96
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Clips96
+- Publicado: 15/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=QWBlu2oIZN4
-
-### Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Yina Calderón
-- Canal que publico: Telemundo Entretenimiento
-- Publicado: 15/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 842
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=WoIglxwzCwY
+- Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- **Texto en pantalla:** BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
+
+### AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- **Texto en pantalla:** AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NEH4KDaI_OY
 
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -89,6 +141,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
 
+### 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
+- **Texto en pantalla:** 🤯THESE DUDES ARE SO SOFT GUYS😂|Mrstiven Funny Moments🥵
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=5gRkBydAdkM
+
+### Lonche se comprara un Ferrari Purosangue 🍾🐎🔥I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche se comprara un Ferrari Purosangue 🍾🐎🔥I LonchiClips
+- **Texto en pantalla:** Lonche se comprara un Ferrari Purosangue 🍾🐎🔥I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ELLxQuoJyC0
+
 ### MrStiven momentos destacados
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -99,31 +171,21 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xISJO-Bdzv8
 
-### 014 Chanty Cuando Se Va La Sal
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** 014 Chanty Cuando Se Va La Sal
-- **Texto en pantalla:** 014 Chanty Cuando Se Va La Sal
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- **Texto en pantalla:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QWBlu2oIZN4
-
-### Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
-- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
-- **Título sugerido:** Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
-- **Texto en pantalla:** Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos
-- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=WoIglxwzCwY
+- **Fuente original:** https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ## Noticias y contexto
 
 - **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con su propio dinero - Luz Noticias** — 15/10/2026 05:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnRJbFl6MWRxSTB3Zl96T2llalpvUlJ3dHRBaXhlQTVJMi1GUHZONkVQLTFTX3VKOGYzemNEUElSNGxDU0JoR1pDN3VMR204MHZ4eThNZmI0Q0htNVcwbUtXdTBNYURTUjZQczVYeWVNX1ZPV0dTc1Vxd1ppekNJajBFZXlvN0d1N1Y5b0NoN1ZjRDhLOEhneGJlSzVBSEJxUW1XLVIzR3RYSGN3Vmx3ZEpHRk95VXRIQlNPb3d4bGlxajRf0gHKAUFVX3lxTE1Zd0hwSXhNVDl0aEU4aTVQWFpjYXNLR1l5ZF81M0FscXF4dlVxeWdYdFJsYmI0Ri04b0V4ZHdYWHgxdnhaX3ZEUXpkMDN6RURDT2VlTzRGNXEzSmtWYkFuZmxBUVBLOU1RMFhxei1RQ2RKT0R4ZnBMZzBLYmh1dmFpN3FET05fdm1kX25jRkw1ektndlFuMG5aMjZCcmtSZEJ5RWpuTDExYUU4NURSczRSZUhBMVNDM1dPQ2FQeHhBX21nYy1RZV94bUE?oc=5)
 - **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:11 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJad9IB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
-- **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWC1aejBrZDdSMjNST3NNUWpUTEdsM25oM0g4aHZoWlFiMUVFMHE4TnE3NFRCQ21DTnY3elZVRlp2NUxoSmVxUzQyVGlKSXNRd3lUdG1kTXdKMlRJTjRzaFBzWEJTRkwwMVRwakZZUVlQWGpjS2oxRHhaLWpWNFJvZGNrWWh6cHdFcDgwbTJndjdTOENHemNKcHAwd25tNzdhS0Y3b3RIaTJIU0tmUjFpbFpQS29HUWFPUjREdGFmbHo0Z2RsZWQxalpLb01Ld9IB4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB?oc=5)
+- **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB0gHiAUFVX3lxTE5XblBOOHdEbEZ4ZFNqYURvb0FaRy1YakpUeHJpSkVhTEREdDAxMGtaRmEwYUJ2MUNPOWxnc1VBZGM0c0d4OTFWVTNWMFRnbm1GY3pYcU9VbkRVakJhRlVvOWNJQ19ZbzNlV1d3M1VIeWRSS01LUG5JSXdGalBZZVoyTlo4eTl3bElmeEhKSkVPblUzaXA0aklfZFY0VldKdi0xYkJkZnpKY2daWjRBeDhUX19hcGRlamVzdHpIOUVjZWtFTEVHd0laQ3c5TXp6cll5SXNVSHR0N0xWcmRYNkRZVEE?oc=5)
 - **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: un - Diario del Cauca** — 15/10/2026 09:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenJPWXkySzdMcERreDdoSnd2Rm5WMWZ3dWZvc3NlVVExWk4wSThiY0lEajJhY3lPQXJtbDNpVnk1bHQxNEkzM3pDY1F4RjFURWlsM19IdXhWbzFYYWJPR0NaLVptVk8wQkQyUUhQZGVhZkFlb09TdXNvMXc0TU4tRFFpb1J1R21RLTZqZVBhTFZWMlR3b3NJWnRvYWRRMENIR1JUdWRuY0JMTjdYdVRvdGE2RU5BU0UtNXpGbWNjWk5ob0xoX0w4?oc=5)
 - **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRMd2I3R1hudFEzdE1tQmc5Z0xEV2U2LVdDZ2hITVZtSmt3ek1XTE1VVjZ0eWV6ZjJJcWQ4MFF6a3BiZ295MUVfbGlreUZCVUQ3SFhlZzJkSzRqNm1KQzdxN3luNEhfMk5tS3I2bU9lWGpiNmUtelc2Qll2U3c2WDFuMTctbWpaUWI4eGV5aTE5N295R2pWZnpFUFVzZFN6VlNXS004ampRNW54d1VnamJDTTZZWGlKTXhKYmNwRjdtOUEwaTFOT2hYamVaOEQ3Ymg3dmhIdkh6Ykt2VmfSAesBQVVfeXFMTmltLVA1Y2I3WFNEVGxZX21LbUEtZ3VnZjQzUU5HbXRLREpMSlJ6Y0ZET3c1V3Zidnl2WXZ6bzBDWHl0dnY5UU9FQzh3QUJvdXI3VmtiYkNKMUI3NmJISGhFMm0tWkhXcWxBaXg0T2lOdTdpSDZiNkNxc2ppYmR3eEhkYi0wSWVPbDBfTlR3LW5obkFjbjlRaXdfSWhVVGNFeGc2V1VGOXY2c2pwNzF3eGFrUHNqUTVIMUFkbEJUdUctMUhrc0R1cG8tYzJBc1lwUFFPTmktZnhMNkFvYUxMU25sR0FrdEZab245aw?oc=5)
 - **[Creadores] Luisa Fernanda W reveló cómo descubrió que Pipe Bueno consumía sustancias psicoactivas | El Colombiano - El Colombiano** — 14/10/2026 10:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURIZFR6Tjhwc1hzUDhQMUFkMEtNNFhqMHZjVTJad1hUSXhadzNIZ3h3NjBQSU0yN01YbzBNbkpHanZMejRYTzJ3WFVhc3p3VVItYlhJVGFjZVNaekJjR1VYZ2FKWXNHdTVfXzlmYTV1VG1FdGh5Z1lQUUJSbjU1ZnhMSnRaZVpLZHJCakNwWWphbFdGNnF0Nk1FelRFU294RDFnQ3hwOXdvcDhJeW52cdIBtgFBVV95cUxOMDdkcnRBbkEyQlpXc25iRDg2Zm1USzdMOWNXYlduOW9xX3llNUhiUHlmUGEtempFaFh3QncxemtveEtIT0RuWGlWd0IzaVd2bF9lOVFORjBWY3I3d2xvMWVnOXlSaDdFTjIzQWJ4bW9SSEZQSTBueEx0M0Zkc2p5STJEOUxqVVJQTjVpWEtsbGc5T25wWmg1WnJYaXVPRkMtb3ktZVRTWE1tTkhJeXhzUkZ6YTRFdw?oc=5)
