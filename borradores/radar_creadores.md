@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 15/10/2026 11:27 PM (hora de Colombia)
+Actualizado: 16/10/2026 01:31 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 7.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,54 +21,42 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### SAMULX QUEDÓ ATRAPADO EN LAS TELARAÑAS 🕸️☠️ en el Dedsafio 4 Minecraft
+### LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
 - Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 15/10/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=ap7FpKLaOsE
-
-### The Story of Lonche | Documentary
-- Categoria: Clip de terceros
-- Creador/canal detectado: Lonche de Huevito
-- Canal que publico: Uorcs
-- Publicado: 14/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 371
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Qa7jjOlYZlw
-
-### WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 14/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.228
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=QXx3YrZnuFc
-
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
+- Creador/canal detectado: Westcol
+- Canal que publico: Tatán Franko
 - Publicado: 15/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.286
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=UXNmn-_6fpU
+
+### CHANTY Y REY LE DICEN A WESTCOL QUE ESTAN APAGADOS POR EL!! REY Y LA GUARIDA?
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Tatán Franko
+- Publicado: 15/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 7
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=CsNTBrOUsvw
+
+### PREGUNTAS Y RETOS CON NUEVAS AMIGAS EN LA DISCOTECA 😂 ¿VERDAD O RETO? ¿COG3R, M4T4R O CASAR? 🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 16/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 582
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=J2tH2gRz5_E
 
 ### 014 Chanty Cuando Se Va La Sal
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: La Ganga en Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: La Ganga en Clips
-- Publicado: 15/10/2026 06:00 PM
+- Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
@@ -79,7 +67,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Creador/canal detectado: Cuenta de clips: Clips96
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Clips96
-- Publicado: 15/10/2026 11:00 AM
+- Publicado: 15/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 0
@@ -89,9 +77,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: Telemundo Entretenimiento
-- Publicado: 15/10/2026 08:00 PM
+- Publicado: 15/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 488
+- Vistas reportadas por YouTube: 672
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=WoIglxwzCwY
 
@@ -109,45 +97,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### SAMULX QUEDÓ ATRAPADO EN LAS TELARAÑAS 🕸️☠️ en el Dedsafio 4 Minecraft
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX QUEDÓ ATRAPADO EN LAS TELARAÑAS 🕸️☠️ en el Dedsafio 4 Minecraft
-- **Texto en pantalla:** SAMULX QUEDÓ ATRAPADO EN LAS TELARAÑAS 🕸️☠️ en el Dedsafio 4 Minecraft
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ap7FpKLaOsE
-
-### The Story of Lonche | Documentary
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** The Story of Lonche | Documentary
-- **Texto en pantalla:** The Story of Lonche | Documentary
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Qa7jjOlYZlw
-
-### WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+### LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
-- **Texto en pantalla:** WESTCOL'S BEST MOMENTS IN DEDSAFIO 4 😂🐀 PART 2
+- **Título sugerido:** LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
+- **Texto en pantalla:** LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DAN
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QXx3YrZnuFc
+- **Fuente original:** https://www.youtube.com/watch?v=UXNmn-_6fpU
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+### CHANTY Y REY LE DICEN A WESTCOL QUE ESTAN APAGADOS POR EL!! REY Y LA GUARIDA?
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+- **Título sugerido:** CHANTY Y REY LE DICEN A WESTCOL QUE ESTAN APAGADOS POR EL!! REY Y LA GUARIDA?
+- **Texto en pantalla:** CHANTY Y REY LE DICEN A WESTCOL QUE ESTAN APAGADOS POR EL!! REY Y LA G
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
+- **Fuente original:** https://www.youtube.com/watch?v=CsNTBrOUsvw
+
+### PREGUNTAS Y RETOS CON NUEVAS AMIGAS EN LA DISCOTECA 😂 ¿VERDAD O RETO? ¿COG3R, M4T4R O CASAR? 🤯
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** PREGUNTAS Y RETOS CON NUEVAS AMIGAS EN LA DISCOTECA 😂 ¿VERDAD O RETO? ¿COG3R, M4T4R O CASAR? 🤯
+- **Texto en pantalla:** PREGUNTAS Y RETOS CON NUEVAS AMIGAS EN LA DISCOTECA 😂 ¿VERDAD O RETO? 
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=J2tH2gRz5_E
 
 ### 014 Chanty Cuando Se Va La Sal
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -209,7 +187,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-15
+- **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-16
   - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-15
   - https://www.youtube.com/watch?v=BCd7jPgmToY
