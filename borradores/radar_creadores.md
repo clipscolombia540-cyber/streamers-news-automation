@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 15/10/2026 07:31 PM (hora de Colombia)
+Actualizado: 15/10/2026 09:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,12 +21,32 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
+### LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Tatán Franko
+- Publicado: 15/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=UXNmn-_6fpU
+
+### HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CLISP PERUVIAN
+- Publicado: 15/10/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 10
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=a3Dpiw4EyhA
+
 ### 014 Chanty Cuando Se Va La Sal
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: La Ganga en Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: La Ganga en Clips
-- Publicado: 15/10/2026 07:00 PM
+- Publicado: 15/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
@@ -37,7 +57,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Creador/canal detectado: Cuenta de clips: Clips96
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Clips96
-- Publicado: 15/10/2026 12:00 PM
+- Publicado: 15/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 0
@@ -48,7 +68,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Creador/canal detectado: Cuenta de clips: CLIP VIRAL DETODITO
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: CLIP VIRAL DETODITO
-- Publicado: 15/10/2026 01:00 AM
+- Publicado: 15/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 112
 - Puntaje heurístico de interés: 0
@@ -67,6 +87,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
+
+### LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
+- **Texto en pantalla:** LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DAN
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=UXNmn-_6fpU
+
+### HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
+- **Texto en pantalla:** HICE STREAM CON LOS MAS GRANDES DEL VALLENATO | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=a3Dpiw4EyhA
 
 ### 014 Chanty Cuando Se Va La Sal
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -101,7 +141,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 ## Noticias y contexto
 
 - **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con su propio dinero - Luz Noticias** — 15/10/2026 05:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnRJbFl6MWRxSTB3Zl96T2llalpvUlJ3dHRBaXhlQTVJMi1GUHZONkVQLTFTX3VKOGYzemNEUElSNGxDU0JoR1pDN3VMR204MHZ4eThNZmI0Q0htNVcwbUtXdTBNYURTUjZQczVYeWVNX1ZPV0dTc1Vxd1ppekNJajBFZXlvN0d1N1Y5b0NoN1ZjRDhLOEhneGJlSzVBSEJxUW1XLVIzR3RYSGN3Vmx3ZEpHRk95VXRIQlNPb3d4bGlxajRf0gHKAUFVX3lxTE1Zd0hwSXhNVDl0aEU4aTVQWFpjYXNLR1l5ZF81M0FscXF4dlVxeWdYdFJsYmI0Ri04b0V4ZHdYWHgxdnhaX3ZEUXpkMDN6RURDT2VlTzRGNXEzSmtWYkFuZmxBUVBLOU1RMFhxei1RQ2RKT0R4ZnBMZzBLYmh1dmFpN3FET05fdm1kX25jRkw1ektndlFuMG5aMjZCcmtSZEJ5RWpuTDExYUU4NURSczRSZUhBMVNDM1dPQ2FQeHhBX21nYy1RZV94bUE?oc=5)
-- **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR1JuemtxbTN5eUpQeWNJMEtJcXpla0VDOGVWMFNtVzZYdXE3MFFmenlFUWg1ZThRN2piX012OVRxY1NUYkZocVVjUGNYZHVfdmhsRlV0cDM1YjA3QkRFVy1MaURlRlBpWTA1ZVI5T0w1MlZkQVp1TUFfM0ROOUlPRjRZMnQ2TERHUDNvV0E2bDYwLXJFSk83WDI3UmhXZlZkNV9hSzFvakhxU2tfcHhhdWZUenFPMTVrSmtPY3dVbmduRDMxVWZKZVBoWnpTdktTVWt1SkdBONIB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
+- **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:11 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJad9IB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
 - **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWC1aejBrZDdSMjNST3NNUWpUTEdsM25oM0g4aHZoWlFiMUVFMHE4TnE3NFRCQ21DTnY3elZVRlp2NUxoSmVxUzQyVGlKSXNRd3lUdG1kTXdKMlRJTjRzaFBzWEJTRkwwMVRwakZZUVlQWGpjS2oxRHhaLWpWNFJvZGNrWWh6cHdFcDgwbTJndjdTOENHemNKcHAwd25tNzdhS0Y3b3RIaTJIU0tmUjFpbFpQS29HUWFPUjREdGFmbHo0Z2RsZWQxalpLb01Ld9IB4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB?oc=5)
 - **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: un - Diario del Cauca** — 15/10/2026 09:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenJPWXkySzdMcERreDdoSnd2Rm5WMWZ3dWZvc3NlVVExWk4wSThiY0lEajJhY3lPQXJtbDNpVnk1bHQxNEkzM3pDY1F4RjFURWlsM19IdXhWbzFYYWJPR0NaLVptVk8wQkQyUUhQZGVhZkFlb09TdXNvMXc0TU4tRFFpb1J1R21RLTZqZVBhTFZWMlR3b3NJWnRvYWRRMENIR1JUdWRuY0JMTjdYdVRvdGE2RU5BU0UtNXpGbWNjWk5ob0xoX0w4?oc=5)
 - **[Creadores] ¿Aún no la olvida? La contundente indirecta de María Isabel Villa que salpica a Westcol - La Kalle** — 14/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRMd2I3R1hudFEzdE1tQmc5Z0xEV2U2LVdDZ2hITVZtSmt3ek1XTE1VVjZ0eWV6ZjJJcWQ4MFF6a3BiZ295MUVfbGlreUZCVUQ3SFhlZzJkSzRqNm1KQzdxN3luNEhfMk5tS3I2bU9lWGpiNmUtelc2Qll2U3c2WDFuMTctbWpaUWI4eGV5aTE5N295R2pWZnpFUFVzZFN6VlNXS004ampRNW54d1VnamJDTTZZWGlKTXhKYmNwRjdtOUEwaTFOT2hYamVaOEQ3Ymg3dmhIdkh6Ykt2VmfSAesBQVVfeXFMTmltLVA1Y2I3WFNEVGxZX21LbUEtZ3VnZjQzUU5HbXRLREpMSlJ6Y0ZET3c1V3Zidnl2WXZ6bzBDWHl0dnY5UU9FQzh3QUJvdXI3VmtiYkNKMUI3NmJISGhFMm0tWkhXcWxBaXg0T2lOdTdpSDZiNkNxc2ppYmR3eEhkYi0wSWVPbDBfTlR3LW5obkFjbjlRaXdfSWhVVGNFeGc2V1VGOXY2c2pwNzF3eGFrUHNqUTVIMUFkbEJUdUctMUhrc0R1cG8tYzJBc1lwUFFPTmktZnhMNkFvYUxMU25sR0FrdEZab245aw?oc=5)
