@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 16/10/2026 03:23 PM (hora de Colombia)
+Actualizado: 16/10/2026 05:24 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### STAR IS REVIVED in DEDSAFÍO 🥳 Final days
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Enano Clips
+- Publicado: 16/10/2026 05:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4.734
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=yTRjmCuZXj8
 
 ### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
 - Categoria: Clip de terceros
@@ -21,46 +31,68 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Influence
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x8piGI30jN4
 
+### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Mejores clips de streams
+- Publicado: 14/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
+
+### Cirilo reacciona a Payasita en la TV: “Estamos al nivel de Westcol”
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: AD Gamer
+- Publicado: 16/10/2026 05:09 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 119
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=s8HMSldQLxA
+
 ### AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: basuquito
 - Publicado: 16/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 136
+- Vistas reportadas por YouTube: 217
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=NEH4KDaI_OY
 
-### WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: WEST.GANGALA
-- Publicado: 16/10/2026 02:35 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=7xx85UAjMjw
-
-### WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: WEST.GANGALA
-- Publicado: 16/10/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=WTRswMqlFJs
-
-### 019 Samulx Bug Del Escudo
+### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
-- Creador relacionado en el título: Samulx
-- Canal que publico: La Ganga en Clips
-- Publicado: 16/10/2026 11:00 AM
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 15/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 168.804
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+
+### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 16/10/2026 04:53 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 203
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### MrStivenTC compra motos y abre cajas de 30 aniversario
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: El Parcero Clips 🔥
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: El Parcero Clips 🔥
+- Publicado: 16/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=bWrsulE1F1M
+- Enlace directo: https://www.youtube.com/watch?v=i_1YQuqTtFk
 
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
@@ -73,52 +105,29 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Influence
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
 
-### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: GALLOCLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: GALLOCLIPS
-- Publicado: 15/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=h_I0dPG7YU8
-
-### MrStiven momentos destacados
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: CLIP VIRAL DETODITO
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: CLIP VIRAL DETODITO
-- Publicado: 15/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xISJO-Bdzv8
-
-### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips96
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Clips96
-- Publicado: 15/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
-
 ### Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: Telemundo Entretenimiento
 - Publicado: 15/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.094
+- Vistas reportadas por YouTube: 1.348
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=WoIglxwzCwY
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### STAR IS REVIVED in DEDSAFÍO 🥳 Final days
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** STAR IS REVIVED in DEDSAFÍO 🥳 Final days
+- **Texto en pantalla:** STAR IS REVIVED in DEDSAFÍO 🥳 Final days
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yTRjmCuZXj8
 
 ### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -130,6 +139,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x8piGI30jN4
 
+### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
+- **Texto en pantalla:** BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
+
+### Cirilo reacciona a Payasita en la TV: “Estamos al nivel de Westcol”
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Cirilo reacciona a Payasita en la TV: “Estamos al nivel de Westcol”
+- **Texto en pantalla:** Cirilo reacciona a Payasita en la TV: “Estamos al nivel de Westcol”
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=s8HMSldQLxA
+
 ### AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -140,35 +169,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NEH4KDaI_OY
 
-### WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
+### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
-- **Texto en pantalla:** WESTCOL Y LA GANGA EN LA INAUGURACION DE SU DISCOTECA!
+- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=7xx85UAjMjw
+- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
 
-### WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
-- **Texto en pantalla:** WESTCOL,CHANTY Y REY DE LA CITY PARCHANDO EN LA GUARIDA!
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- **Texto en pantalla:** ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WTRswMqlFJs
+- **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### 019 Samulx Bug Del Escudo
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+### MrStivenTC compra motos y abre cajas de 30 aniversario
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** 019 Samulx Bug Del Escudo
-- **Texto en pantalla:** 019 Samulx Bug Del Escudo
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MrStivenTC compra motos y abre cajas de 30 aniversario
+- **Texto en pantalla:** MrStivenTC compra motos y abre cajas de 30 aniversario
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bWrsulE1F1M
+- **Fuente original:** https://www.youtube.com/watch?v=i_1YQuqTtFk
 
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -179,36 +208,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
-
-### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
-
-### MrStiven momentos destacados
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStiven momentos destacados
-- **Texto en pantalla:** MrStiven momentos destacados
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xISJO-Bdzv8
-
-### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Texto en pantalla:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ### Alicia Machado, Yina Calderón y más famosos llegan a Juego de Villanos | Top Chef VIP 5
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
@@ -222,8 +221,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Streamer Lonche de Huevito promete tapar baches en Los Mochis y cotiza material - Sinaloahoy** — 16/10/2026 02:17 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFdDdDd0U2tTQkQxMTR5Y2tPZ1dUR2M3WXdGQ1BSOHhsNVd5VXBoLXdEUmVzTUdGUnY3alp0cGdMMmV2UUw1REptUzlPRERxVjFKNzRickZ3Wi13cjdlZU9FamEzaGdncHAzbF82ZDd6ajJZWkxvT0xCZ1IwWnlzT0NHcnJNUWpWUnA4NEFoVUtGeWx4WE9XS2FNRm1IRkY0MWFUcGMwdUtmMUJtNFA0ZVp6R194d2ph?oc=5)
 - **[Creadores] Prometió streamer "Lonche de huevito" tapar los baches en Los Mochis🎦 - Puente Libre** — 16/10/2026 01:54 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWFxUnA3bFZLb1RwY0p0TVRXNEVpQWRRM29hV1hiMXdGQnZxT2FacVNUVHpsQTFvTkxTZGFHWFhZNU0wRmlETzdMLTU3NjNiUmdyRklvNVVNd3IzQ3lwQ094MmRLNUtUMXhJMEluakdyT2p3eVczM3V5MUxoOThIcmtBdW93RktVSFExc2V2Tks?oc=5)
-- **[Creadores] No voy a pedir permiso: Lonche de Huevito cotiza y reparará baches de Los Mochis en las madrugadas - Luz Noticias** — 16/10/2026 01:25 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdmx0YjVDZDl5TGtETWRqY1NKOE50QzJ5UnJOQ1RscHU5ZmFMdTFwVVlzSjN3YkVKaHJ3ZVQxZVYxZE1fek1Kd1p5c1B6Z1h6c09na2FVRzBxSWoyOHlRZHFWb1l2dEt0ekw0dlpyaEFyaF84Y3YzMzZSdjdhMEJ5dFdOYVl0a0dDZ0c3YUI5ZWV2bjhHZ3hiQldrcmN4S2hSZ3ViMkY5Q2UtUUd5NzNVWDBGLUp1aC0zSFR0OXJxbF9QOEQ4RkdzSXFKLVRpRkFLbnJkZmlfVkdkZDNWZnFjZXZOQkPSAeoBQVVfeXFMTUhQREFaRjMwdFJCWGNZbHA1eHEwc1hXUVc0cDZzVDBicjV6S3FDYktTOGlMVjJLbFV5cU1yUnFyRkdORGhjUEJzbXNoR0NXa2hNMHUxdmFFdUNPV1dKUkFsMmZwbEZXRzdQNFpDelVja3F0TmlFYUxvM19FNFpkNUtfSTZ5ZVNQaUs5VUdic1U4QXJvTXk1a3FrRmhRR3YtdDZXOXJlOEhxb1h4bTMzRE1Ea1hKZWlfanpKZzVyb1JqNlBOUzZzRl92ZWFQb3djdk1RTktxeFZVOTBra1kzcTluSU45a2pHTWln?oc=5)
 - **[Creadores] Westcol habló de la polémica de Camilo Cifuentes: “No nos están cuidando” - Noticias RCN** — 16/10/2026 11:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1dyREVYOGh2WTc5NTliaVk1Z1JxNW9GY2M1VnFUa1R6bGktaUJIQnU0TEtzSUZrTktDTS1ad2lpeWhieTZiOGktS3p0M1BMNFBQV0ZXd3lvanVMRWtEMmZ2b01zTGJDRUdFdzhWeXlONFhrU0hDQ1hZeVgyOWVjOWE2b0NMQlltWEJKRzNlREVZZDV6UDVTang2WlNxMzht0gGgAUFVX3lxTE5iYnZEeVFLT3JzT0lxMEVUZkZTeVdBcW1BWUQxZjJuM0M1eHBadlRMQ09tT252MkthTE0xb1RRVjVJbFp1eGdFT2V5MFpSRnZSUGJOZlVaUGRvTTRmUXZjTUdJNXk4cE4wSUtvdERiSTZhQXhVbmR0ZnJnUG5yUjB3T3dSbkZjb2F2S1ZlRUE5dzdyeXJDQ1NVUXVjXzhNamE?oc=5)
 - **[Creadores] ¿Vender en live es de pobres? La Liendra desata polémica con sus palabras - TN8** — 16/10/2026 10:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRJLXFXWXRFaUdUNE5nU1d0LUl3RzU3aVJzTW0xNnAwcklSZ0Vna1NIUnlFX2syVjcxS3pmcFUxcGp1N3ZqNjF6X0Y3TV9qZEU5T3kzNkFiS2sySmkzX1gtd1ZKamI5RXdFYXM0RWppNUtGYnVFengyRXFRczJ2ZUg5VjJoSW5KQVJndlRtQ0c0bUwxdTVEMXhHWlYxWWo3dFIwU08xUnplQnc?oc=5)
 - **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:11 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJad9IB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
@@ -251,8 +250,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-16
+  - https://www.youtube.com/watch?v=yTRjmCuZXj8
   - https://www.youtube.com/watch?v=x8piGI30jN4
-  - https://www.youtube.com/watch?v=aZ-SNwkiFDM
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-16
   - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-15
