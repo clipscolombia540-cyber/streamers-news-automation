@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-10-17T07:25:59.629355-05:00",
+  "actualizado": "2026-10-17T09:22:08.383292-05:00",
   "series": [
+    {
+      "nombre": "BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-14T17:25:05.770966-05:00",
+      "ultima_deteccion": "2026-10-17T09:22:08.383292-05:00",
+      "canal_muestra": "Mejores clips de streams",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=FS4ahujmsDc"
+      ]
+    },
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
@@ -14,17 +25,6 @@
         "https://www.youtube.com/watch?v=x8piGI30jN4",
         "https://www.youtube.com/watch?v=EV5mTp4-UKw",
         "https://www.youtube.com/watch?v=yTRjmCuZXj8"
-      ]
-    },
-    {
-      "nombre": "BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-14T17:25:05.770966-05:00",
-      "ultima_deteccion": "2026-10-17T07:25:59.629355-05:00",
-      "canal_muestra": "Mejores clips de streams",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=FS4ahujmsDc"
       ]
     },
     {

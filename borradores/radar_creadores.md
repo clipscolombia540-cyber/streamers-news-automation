@@ -1,45 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 07:25 AM (hora de Colombia)
+Actualizado: 17/10/2026 09:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 8.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 14
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 16/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.085
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=EV5mTp4-UKw
-
-### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.211
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=QsEpJ98eNss
-
-### STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Enano Clips
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.371
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=yTRjmCuZXj8
 
 ### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
 - Categoria: Clip de terceros
@@ -51,27 +21,25 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
+### LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Tatán Franko
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 247.124
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+- Vistas reportadas por YouTube: 69
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=UXNmn-_6fpU
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 16/10/2026 07:00 PM
+### PIQUIÑA NO CRECE POR ESTA RAZÓN | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: FAN PAGES
+- Publicado: 16/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 77.770
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
+- Vistas reportadas por YouTube: 26
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=4XYFKpehzDo
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -80,19 +48,31 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.186
+- Vistas reportadas por YouTube: 12.535
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### ¡ABRIMOS NUESTRA NUEVA DISCOTECA EN MEDELLÍN! "MIRANDA" es una realidad (La Ganga está a otro nivel)
+### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Westcol clips
-- Canal que publico: Westcol clips
-- Publicado: 16/10/2026 06:00 PM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 16/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5DIb0pPzYUQ
+- Enlace directo: https://www.youtube.com/watch?v=lRsI_vvziVk
+
+### 019 Samulx Bug Del Escudo
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
+- Creador relacionado en el título: Samulx
+- Canal que publico: La Ganga en Clips
+- Publicado: 16/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=bWrsulE1F1M
 
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
@@ -120,36 +100,6 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 14
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 14
-- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EV5mTp4-UKw
-
-### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- **Texto en pantalla:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QsEpJ98eNss
-
-### STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- **Texto en pantalla:** STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yTRjmCuZXj8
-
 ### BaityBait abre un paquete & Peereira7 inicia Minecraft | Mejores clips de streams
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -160,25 +110,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FS4ahujmsDc
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+### LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Título sugerido:** LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DANGONG
+- **Texto en pantalla:** LOS MEJORES DEL VALLENATO LE DICEN ESTO A WESTCOL SOBRRE SILVESTRE DAN
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+- **Fuente original:** https://www.youtube.com/watch?v=UXNmn-_6fpU
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+### PIQUIÑA NO CRECE POR ESTA RAZÓN | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+- **Título sugerido:** PIQUIÑA NO CRECE POR ESTA RAZÓN | WESTCOL
+- **Texto en pantalla:** PIQUIÑA NO CRECE POR ESTA RAZÓN | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
+- **Fuente original:** https://www.youtube.com/watch?v=4XYFKpehzDo
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -190,15 +140,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### ¡ABRIMOS NUESTRA NUEVA DISCOTECA EN MEDELLÍN! "MIRANDA" es una realidad (La Ganga está a otro nivel)
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol clips? 👀
+### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol clips.
-- **Título sugerido:** ¡ABRIMOS NUESTRA NUEVA DISCOTECA EN MEDELLÍN! "MIRANDA" es una realidad (La Ganga está a otro nivel)
-- **Texto en pantalla:** ¡ABRIMOS NUESTRA NUEVA DISCOTECA EN MEDELLÍN! "MIRANDA" es una realida
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
+- **Texto en pantalla:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5DIb0pPzYUQ
+- **Fuente original:** https://www.youtube.com/watch?v=lRsI_vvziVk
+
+### 019 Samulx Bug Del Escudo
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** 019 Samulx Bug Del Escudo
+- **Texto en pantalla:** 019 Samulx Bug Del Escudo
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=bWrsulE1F1M
 
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -222,14 +182,14 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 08:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
 - **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con recursos propios - Sinaloahoy** — 17/10/2026 01:20 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzYyVTFpMndNVXBMbUtvOExiVFJvb3N4aWdkQzFFMjQzTlJ2b01PMndZS0dQclVyVVN1VGpwRTZBSXlNcHdhN1FXOHliX29aZHM2OTc3UXItNEJ5NDkyMWVwbWhSZUowQi1EVWRoUmhLSjlSdmlHSDV1NW80UkprMlVRZk5GQ3QyN3lieFdyT0NLY0dEWmVrWC1KaVltOHhJNU9fWUFsVGF0VldYYXlpRA?oc=5)
 - **[Creadores] Westcol cae a la lona - LaRepublica.co** — 17/10/2026 12:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkxLSUhUVDdudWtMbzlvRHdOMUl6QTBkNzFwMnB1OVlqeDhaaFhtSXRSM2x0TjZHQTl5R2xlVGJOc2UyMXkwQUQ4ZDY5Wk94c0VXMFgyczBHZHJMMFZzMDY4dUdqb2NfbjNMOWF4bmg3M0doMTlTTUVwTDhqZmlSWXppeTZXRXY2RHFjSjExM3Z3dUFYT2l0MWpUcnDSAZwBQVVfeXFMTkpDdVUyMnRaaC1tU3ZCck1qSmcxN0NMR0MyMEE2TGJxeU1BSmdFZkc0XzFja3lSdm1EYUFQTFlSZC1IZGwzcEU3VzkyNy1raFRyRG9fLWtISXIzTXR4MUdPTjRhak5lT19JYmxFM1dKRTJHeXpaVjNTOWV1VGI0Y2dNejRlbk1lbDdGa2NaNTF5U0xrb29haXg0YzZU?oc=5)
 - **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 10:25 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
 - **[Creadores] "Si es genuino y no solo por likes adelante": COMUN abre la puerta a Lonche de Huevito para reparar calles de Los Mochis - Luz Noticias** — 16/10/2026 05:50 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMG5xcWgtbTVYMUJlRGwwMnlpbFc2ci1kUmNiMk5YT0dYbWNXMUFDUDRneEx1dzBULUZqbGJCWnRxZ2c3UjhlZjNIaVY5aTJhM3IxZi1HdWg0TXlRSFZIMGlfU1lQcElPNWxLcWN0dHp6dGs3LWZmVHg1RHlVbWVRNmhYaHV2LXBibGkwRm5kNjUyOVdhclFSTTN3Skl6REJMcnVNYmdSOWUyTEFWckZUejQtS2tFbVA3dDNJWWxYNC1DaVBFbGtkNW9MWmh4WTVTUmRnMXRQU2w4Rk9MZU9kaDl1bHRLdGVtSUxSNlRMRVI0STFnb1BTa1cwb3JYX3fSAYQCQVVfeXFMTjVydktyUnNRaFFMdzlRRURLVXdGaVZudHhDeXRhZTlfcEVXcGx5WDVfMmw0MW1IX3lUUC13SHVYeTJlRzIzM3JXaHVUVkQwMmtvNVdiRjctekZMOWFpdVZHaFFwRFp1bUNfYmFZZlJxNkZING1QZE15OXhJWGtpMUs5eTBGUWpDWDA2VVByY25ZV2VzWmhNRGo2NVV5NjBNZW1XdHM3OWdBQWFtWm1XMzNBYk91anBhZ2xzbkFkUE5yYU9KU3B6QXJQdmhnbHdZdnRiVTdjUld1djVCTjh2TzhoeHlRZEMyZ3Y2cnlUakdHR0dHOGRtMDl6aUhQYlJXaHAwM2s?oc=5)
-- **[Creadores] Camilo Cifuentes se confesó ante Westcol y Blessd en pleno stream - Noticias RCN** — 16/10/2026 05:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxObGpaZTVqajRpRVpzb1lXbmo3dllkeFlCR2toVHV3V0FwX28xc2hoYkN1SElZRzk0d0Fya0JhVk1DSkgxOTNBUG83eW9tRkowcm15MnVYR3I0bXJOdEFsN0dURk9MWmw3b09yRkhXT1gyeDJaUUUwVWt1S1FmRldOQTgzQmdmSTNzUHIyV1FENThNNWJOZEYta0p3UVpUc0ho0gGgAUFVX3lxTE9PSDBDSUJHT1VIVEFvRzNmRThsTld4NzdlRHhQYVpxRTE5dFlkUnhodmJweVphYXU3VG82TllHTThIY1FoZG5tWjA0eUtiNGlzSkhuVnprTFpVb0ZyQXYyVnVUQXZHU1NVZmJ5eXFCSjlYVXBkNTUxNHk1dEF1cGQwTi1QUmtLVnQ0WDBpSHl3RlNQZmRSLVZsWmprSEd0RmQ?oc=5)
 - **[Creadores] ¿Vender en live es de pobres? La Liendra desata polémica con sus palabras - TN8** — 16/10/2026 10:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRJLXFXWXRFaUdUNE5nU1d0LUl3RzU3aVJzTW0xNnAwcklSZ0Vna1NIUnlFX2syVjcxS3pmcFUxcGp1N3ZqNjF6X0Y3TV9qZEU5T3kzNkFiS2sySmkzX1gtd1ZKamI5RXdFYXM0RWppNUtGYnVFengyRXFRczJ2ZUg5VjJoSW5KQVJndlRtQ0c0bUwxdTVEMXhHWlYxWWo3dFIwU08xUnplQnc?oc=5)
 - **[Creadores] Qué pasa con la comida que sobra en los retos de ‘Masterchef Celebrity’: Pautips hizo revelaciones - Infobae** — 15/10/2026 10:11 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJad9IB8gFBVV95cUxOeFpmOUF3MVRlYlg0WkNFZnIwUUsySkpFbGpIRDZ1TGJtSXJsTVN0YkxmN1N6OXB0U3RtYko4cGxzQVMyMUtLUnJ6eUhaWHdTbkNVX2hsS0g1T0JUREJpallva29DcURjQWQzaUJvZEZXNWJQOXJocjFtX2s3dzBpWnF2bWRVWUxCd3JWOFdFQXlIQ2EtU2JvdjhLMnJKTXcwN1hLX3ZNU05sUzV4YmlPejRjc0ZuZFpkdXFHdWprMXM3UkwxMjJrZ3lxenZ5TFo1Z3M2WHBsWkx1Mko1TDdtUGhGQ2QzLXpqRXhDcGgxYWJadw?oc=5)
-- **[Creadores] Come Más Carne de Cerdo Colombiana y ‘Tulio Recomienda’: un - Diario del Cauca** — 15/10/2026 09:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenJPWXkySzdMcERreDdoSnd2Rm5WMWZ3dWZvc3NlVVExWk4wSThiY0lEajJhY3lPQXJtbDNpVnk1bHQxNEkzM3pDY1F4RjFURWlsM19IdXhWbzFYYWJPR0NaLVptVk8wQkQyUUhQZGVhZkFlb09TdXNvMXc0TU4tRFFpb1J1R21RLTZqZVBhTFZWMlR3b3NJWnRvYWRRMENIR1JUdWRuY0JMTjdYdVRvdGE2RU5BU0UtNXpGbWNjWk5ob0xoX0w4?oc=5)
+- **[Creadores] Valentino Lázaro ya tendría lista su llegada a Stream Fighters 5; podría desatar polémica con WestCol - LOS40** — 15/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV25QTjh3RGxGeGRTamFEb29BWkctWGpKVHhyaUpFYUxERHQwMTBrWkZhMGFCdjFDTzlsZ3NVQWRjNHNHeDkxVlUzVjBUZ25tRmN6WHFPVW5EVWpCYUZVbzljSUNfWW8zZVdXdzNVSHlkUktNS1BuSUl3RmpQWWVaMk5aOHk5d2xJZnhISkpFT25VM2lwNGpJX2RWNFZXSnYtMWJCZGZ6SmNnWlo0QXg4VF9fYXBkZWplc3R6SDlFY2VrRUxFR3dJWkN3OU16enJZeUlzVUh0dDdMVnJkWDZEWVRB0gHiAUFVX3lxTE5XblBOOHdEbEZ4ZFNqYURvb0FaRy1YakpUeHJpSkVhTEREdDAxMGtaRmEwYUJ2MUNPOWxnc1VBZGM0c0d4OTFWVTNWMFRnbm1GY3pYcU9VbkRVakJhRlVvOWNJQ19ZbzNlV1d3M1VIeWRSS01LUG5JSXdGalBZZVoyTlo4eTl3bElmeEhKSkVPblUzaXA0aklfZFY0VldKdi0xYkJkZnpKY2daWjRBeDhUX19hcGRlamVzdHpIOUVjZWtFTEVHd0laQ3c5TXp6cll5SXNVSHR0N0xWcmRYNkRZVEE?oc=5)
 
 ## Creadores principales vigilados
 
@@ -251,11 +211,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-17
+  - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=gb9gx1aB8l4
   - https://www.youtube.com/watch?v=NQ-HjSnzKdo
-- **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-17
-  - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=CCAqeeliACE
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-15
