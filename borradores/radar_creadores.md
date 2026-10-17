@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 11:22 AM (hora de Colombia)
+Actualizado: 17/10/2026 01:22 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 9.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.291
+- Vistas reportadas por YouTube: 16.612
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
@@ -31,6 +31,16 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x8piGI30jN4
 
+### WESTCOL | PARRANDA VALLENATA 🪗
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: La Zona del Stream
+- Publicado: 15/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=uWvIo-ZgSUg
+
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestClips
@@ -38,20 +48,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Canal que publico: WestClips
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 257.335
+- Vistas reportadas por YouTube: 266.807
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
-
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 78.632
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -60,9 +59,31 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.414
+- Vistas reportadas por YouTube: 14.580
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: GALLOCLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: GALLOCLIPS
+- Publicado: 16/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=h_I0dPG7YU8
+
+### 014 Chanty Cuando Se Va La Sal
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
+- Creador relacionado en el título: Chanty
+- Canal que publico: La Ganga en Clips
+- Publicado: 16/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=QWBlu2oIZN4
 
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
@@ -110,6 +131,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x8piGI30jN4
 
+### WESTCOL | PARRANDA VALLENATA 🪗
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL | PARRANDA VALLENATA 🪗
+- **Texto en pantalla:** WESTCOL | PARRANDA VALLENATA 🪗
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=uWvIo-ZgSUg
+
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -120,16 +151,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
-
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -139,6 +160,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
+
+### 014 Chanty Cuando Se Va La Sal
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** 014 Chanty Cuando Se Va La Sal
+- **Texto en pantalla:** 014 Chanty Cuando Se Va La Sal
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=QWBlu2oIZN4
 
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -195,6 +236,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=NQ-HjSnzKdo
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
+- **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
+  - https://www.youtube.com/watch?v=dz5vTB_rdS8
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe** (candidata por revisar) — última detección: 2026-10-17
