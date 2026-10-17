@@ -1,6 +1,32 @@
 {
-  "actualizado": "2026-10-17T05:22:33.464933-05:00",
+  "actualizado": "2026-10-17T07:25:59.629355-05:00",
   "series": [
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-17T07:25:59.629355-05:00",
+      "canal_muestra": "Capitan Clipero",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=gb9gx1aB8l4",
+        "https://www.youtube.com/watch?v=NQ-HjSnzKdo",
+        "https://www.youtube.com/watch?v=x8piGI30jN4",
+        "https://www.youtube.com/watch?v=EV5mTp4-UKw",
+        "https://www.youtube.com/watch?v=yTRjmCuZXj8"
+      ]
+    },
+    {
+      "nombre": "BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-14T17:25:05.770966-05:00",
+      "ultima_deteccion": "2026-10-17T07:25:59.629355-05:00",
+      "canal_muestra": "Mejores clips de streams",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=FS4ahujmsDc"
+      ]
+    },
     {
       "nombre": "EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe",
       "tipo": "serie_o_tema_candidato",
@@ -10,32 +36,6 @@
       "canal_muestra": "El Muñe",
       "enlaces": [
         "https://www.youtube.com/watch?v=CCAqeeliACE"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-17T01:28:10.905711-05:00",
-      "canal_muestra": "Axor",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=nkvg4sqviyw",
-        "https://www.youtube.com/watch?v=KUajZgPEtjY",
-        "https://www.youtube.com/watch?v=QsEpJ98eNss",
-        "https://www.youtube.com/watch?v=zmGQg8s8QpY",
-        "https://www.youtube.com/watch?v=yTRjmCuZXj8"
-      ]
-    },
-    {
-      "nombre": "BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-14T17:25:05.770966-05:00",
-      "ultima_deteccion": "2026-10-16T17:24:48.736439-05:00",
-      "canal_muestra": "Mejores clips de streams",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=FS4ahujmsDc"
       ]
     },
     {
