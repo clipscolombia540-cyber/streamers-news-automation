@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 01:28 AM (hora de Colombia)
+Actualizado: 17/10/2026 03:23 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 7.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,39 +17,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: El Muñe
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 205.683
+- Vistas reportadas por YouTube: 213.731
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=CCAqeeliACE
-
-### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 16/10/2026 07:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.014
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=QsEpJ98eNss
-
-### STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Enano Clips
-- Publicado: 16/10/2026 05:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.263
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=yTRjmCuZXj8
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 16/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 331
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=zmGQg8s8QpY
 
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
@@ -58,20 +28,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: WestClips
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 230.853
+- Vistas reportadas por YouTube: 239.949
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+### NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #westcol #bendito #blessd
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador/canal detectado: Cuenta de clips: Zona de clips
 - Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 15/10/2026 07:00 PM
+- Canal que publico: Zona de clips
+- Publicado: 16/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 75.987
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
+- Enlace directo: https://www.youtube.com/watch?v=PmINsrA2DFY
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -80,20 +50,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.414
+- Vistas reportadas por YouTube: 11.010
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 16/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lRsI_vvziVk
 
 ### 019 Samulx Bug Del Escudo
 - Categoria: Cuenta de clips
@@ -142,36 +101,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CCAqeeliACE
 
-### TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- **Texto en pantalla:** TEAM MINITAS REACCIONAN A CLIPS DEL DEDSAFIO MINECRAFT 4 | DIA 22
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QsEpJ98eNss
-
-### STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- **Texto en pantalla:** STAR IS REVIVED in DEDSAFÍO 🥳 Final days
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yTRjmCuZXj8
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 15
-- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zmGQg8s8QpY
-
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -182,15 +111,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
 
-### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+### NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #westcol #bendito #blessd
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
-- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+- **Título sugerido:** NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #westcol #bendito #blessd
+- **Texto en pantalla:** NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
+- **Fuente original:** https://www.youtube.com/watch?v=PmINsrA2DFY
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -201,16 +130,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- **Texto en pantalla:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lRsI_vvziVk
 
 ### 019 Samulx Bug Del Escudo
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -273,11 +192,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe** (candidata por revisar) — última detección: 2026-10-17
+  - https://www.youtube.com/watch?v=CCAqeeliACE
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=nkvg4sqviyw
   - https://www.youtube.com/watch?v=KUajZgPEtjY
-- **EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe** (candidata por revisar) — última detección: 2026-10-17
-  - https://www.youtube.com/watch?v=CCAqeeliACE
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-16
   - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **MINECRAFT EXTREMO** (candidata por revisar) — última detección: 2026-10-15
