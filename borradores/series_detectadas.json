@@ -1,19 +1,19 @@
 {
-  "actualizado": "2026-10-17T13:22:45.243778-05:00",
+  "actualizado": "2026-10-17T15:20:50.754804-05:00",
   "series": [
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-17T13:22:45.243778-05:00",
-      "canal_muestra": "ANDRI",
+      "ultima_deteccion": "2026-10-17T15:20:50.754804-05:00",
+      "canal_muestra": "DE TODITO CLIPS",
       "enlaces": [
+        "https://www.youtube.com/watch?v=2NAzi0JciPg",
         "https://www.youtube.com/watch?v=gb9gx1aB8l4",
         "https://www.youtube.com/watch?v=NQ-HjSnzKdo",
         "https://www.youtube.com/watch?v=x8piGI30jN4",
-        "https://www.youtube.com/watch?v=EV5mTp4-UKw",
-        "https://www.youtube.com/watch?v=yTRjmCuZXj8"
+        "https://www.youtube.com/watch?v=EV5mTp4-UKw"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
-      "ultima_deteccion": "2026-10-17T13:22:45.243778-05:00",
+      "ultima_deteccion": "2026-10-17T15:20:50.754804-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
@@ -32,7 +32,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-17T13:22:45.243778-05:00",
-      "ultima_deteccion": "2026-10-17T13:22:45.243778-05:00",
+      "ultima_deteccion": "2026-10-17T15:20:50.754804-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=dz5vTB_rdS8"
