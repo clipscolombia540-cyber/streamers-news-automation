@@ -1,19 +1,30 @@
 {
-  "actualizado": "2026-10-16T17:24:48.736439-05:00",
+  "actualizado": "2026-10-16T19:32:02.923406-05:00",
   "series": [
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-16T17:24:48.736439-05:00",
-      "canal_muestra": "ANDRI",
+      "ultima_deteccion": "2026-10-16T19:32:02.923406-05:00",
+      "canal_muestra": "Enano Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=yTRjmCuZXj8",
         "https://www.youtube.com/watch?v=x8piGI30jN4",
         "https://www.youtube.com/watch?v=aZ-SNwkiFDM",
         "https://www.youtube.com/watch?v=BCd7jPgmToY",
         "https://www.youtube.com/watch?v=DBhf8b7LCwM"
+      ]
+    },
+    {
+      "nombre": "EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-16T19:32:02.923406-05:00",
+      "ultima_deteccion": "2026-10-16T19:32:02.923406-05:00",
+      "canal_muestra": "El Muñe",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=CCAqeeliACE"
       ]
     },
     {
