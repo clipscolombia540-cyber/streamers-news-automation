@@ -1,19 +1,19 @@
 {
-  "actualizado": "2026-10-16T23:24:12.967603-05:00",
+  "actualizado": "2026-10-17T01:28:10.905711-05:00",
   "series": [
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-16T23:24:12.967603-05:00",
-      "canal_muestra": "Enano Clips",
+      "ultima_deteccion": "2026-10-17T01:28:10.905711-05:00",
+      "canal_muestra": "Axor",
       "enlaces": [
-        "https://www.youtube.com/watch?v=yTRjmCuZXj8",
-        "https://www.youtube.com/watch?v=x8piGI30jN4",
-        "https://www.youtube.com/watch?v=aZ-SNwkiFDM",
-        "https://www.youtube.com/watch?v=BCd7jPgmToY",
-        "https://www.youtube.com/watch?v=DBhf8b7LCwM"
+        "https://www.youtube.com/watch?v=nkvg4sqviyw",
+        "https://www.youtube.com/watch?v=KUajZgPEtjY",
+        "https://www.youtube.com/watch?v=QsEpJ98eNss",
+        "https://www.youtube.com/watch?v=zmGQg8s8QpY",
+        "https://www.youtube.com/watch?v=yTRjmCuZXj8"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-16T19:32:02.923406-05:00",
-      "ultima_deteccion": "2026-10-16T19:32:02.923406-05:00",
+      "ultima_deteccion": "2026-10-17T01:28:10.905711-05:00",
       "canal_muestra": "El Muñe",
       "enlaces": [
         "https://www.youtube.com/watch?v=CCAqeeliACE"
