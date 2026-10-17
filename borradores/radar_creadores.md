@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 03:20 PM (hora de Colombia)
+Actualizado: 17/10/2026 05:19 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,52 +17,40 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.786
+- Vistas reportadas por YouTube: 23.935
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### MI PRIMER GULAG EN DEDSAFIO 💀 DEDSAFIO MINECRAFT 4 DIA #23 WESTCOL part2
+### WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #luisacastro #viralvideos
 - Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: DE TODITO CLIPS
-- Publicado: 17/10/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=2NAzi0JciPg
-
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
+- Creador/canal detectado: Westcol
+- Canal que publico: The Mirafloreño City
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 275.387
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+- Vistas reportadas por YouTube: 23
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=Gw408sZ49mI
+
+### Westcol Video para ver comiendo - La Caída de ESCOBAR
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: _Quico_
+- Publicado: 16/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 19
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=imqLYUQPCeo
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 16/10/2026 05:00 PM
+- Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.867
+- Vistas reportadas por YouTube: 16.969
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 17/10/2026 03:16 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
 
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
@@ -75,17 +63,6 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
 
-### MR STIVEN OPINA SOBRE LO QUE DIJO TITO EL BAMBINO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Pelusa Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Pelusa Clips
-- Publicado: 15/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 131
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=uY9fod6LmPw
-
 ### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips96
@@ -93,7 +70,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6.
 - Canal que publico: Clips96
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
@@ -111,25 +88,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### MI PRIMER GULAG EN DEDSAFIO 💀 DEDSAFIO MINECRAFT 4 DIA #23 WESTCOL part2
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MI PRIMER GULAG EN DEDSAFIO 💀 DEDSAFIO MINECRAFT 4 DIA #23 WESTCOL part2
-- **Texto en pantalla:** MI PRIMER GULAG EN DEDSAFIO 💀 DEDSAFIO MINECRAFT 4 DIA #23 WESTCOL par
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2NAzi0JciPg
-
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+### WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #luisacastro #viralvideos
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Título sugerido:** WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #luisacastro #viralvideos
+- **Texto en pantalla:** WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #lui
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+- **Fuente original:** https://www.youtube.com/watch?v=Gw408sZ49mI
+
+### Westcol Video para ver comiendo - La Caída de ESCOBAR
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol Video para ver comiendo - La Caída de ESCOBAR
+- **Texto en pantalla:** Westcol Video para ver comiendo - La Caída de ESCOBAR
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=imqLYUQPCeo
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -141,16 +118,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
-
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -160,16 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
-
-### MR STIVEN OPINA SOBRE LO QUE DIJO TITO EL BAMBINO
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN OPINA SOBRE LO QUE DIJO TITO EL BAMBINO
-- **Texto en pantalla:** MR STIVEN OPINA SOBRE LO QUE DIJO TITO EL BAMBINO
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uY9fod6LmPw
 
 ### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -211,13 +168,13 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-17
-  - https://www.youtube.com/watch?v=2NAzi0JciPg
-  - https://www.youtube.com/watch?v=gb9gx1aB8l4
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=dz5vTB_rdS8
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-17
+  - https://www.youtube.com/watch?v=2NAzi0JciPg
+  - https://www.youtube.com/watch?v=gb9gx1aB8l4
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=FS4ahujmsDc
 - **EL SIC4RI0 MAS LETAL DE BUCARAMANGA VideoReaccion El Muñe** (candidata por revisar) — última detección: 2026-10-17

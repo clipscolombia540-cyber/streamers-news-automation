@@ -1,6 +1,28 @@
 {
-  "actualizado": "2026-10-17T15:20:50.754804-05:00",
+  "actualizado": "2026-10-17T17:19:45.575669-05:00",
   "series": [
+    {
+      "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
+      "ultima_deteccion": "2026-10-17T17:19:45.575669-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
+      ]
+    },
+    {
+      "nombre": "STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-17T13:22:45.243778-05:00",
+      "ultima_deteccion": "2026-10-17T17:19:45.575669-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=dz5vTB_rdS8"
+      ]
+    },
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
@@ -14,28 +36,6 @@
         "https://www.youtube.com/watch?v=NQ-HjSnzKdo",
         "https://www.youtube.com/watch?v=x8piGI30jN4",
         "https://www.youtube.com/watch?v=EV5mTp4-UKw"
-      ]
-    },
-    {
-      "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
-      "ultima_deteccion": "2026-10-17T15:20:50.754804-05:00",
-      "canal_muestra": "ClipsdelChow",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
-      ]
-    },
-    {
-      "nombre": "STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-17T13:22:45.243778-05:00",
-      "ultima_deteccion": "2026-10-17T15:20:50.754804-05:00",
-      "canal_muestra": "ClipsdelChow",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=dz5vTB_rdS8"
       ]
     },
     {
