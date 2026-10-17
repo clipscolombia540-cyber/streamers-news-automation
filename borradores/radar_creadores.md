@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 03:23 AM (hora de Colombia)
+Actualizado: 17/10/2026 05:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 9.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Canal que publico: El Muñe
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 213.731
+- Vistas reportadas por YouTube: 219.654
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=CCAqeeliACE
+
+### AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: basuquito
+- Publicado: 16/10/2026 09:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 383
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=NEH4KDaI_OY
 
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
@@ -28,20 +38,20 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Canal que publico: WestClips
 - Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 239.949
+- Vistas reportadas por YouTube: 244.992
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
 
-### NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #westcol #bendito #blessd
+### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Zona de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
 - Creador relacionado en el título: Westcol
-- Canal que publico: Zona de clips
-- Publicado: 16/10/2026 11:00 PM
+- Canal que publico: WestClips
+- Publicado: 15/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9
+- Vistas reportadas por YouTube: 77.428
 - Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=PmINsrA2DFY
+- Enlace directo: https://www.youtube.com/watch?v=1xv2fv2C5Us
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -50,7 +60,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.010
+- Vistas reportadas por YouTube: 11.898
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
 
@@ -75,6 +85,17 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: GALLOCLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: GALLOCLIPS
+- Publicado: 15/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=h_I0dPG7YU8
 
 ### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - Categoria: Cuenta de clips
@@ -101,6 +122,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CCAqeeliACE
 
+### AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- **Texto en pantalla:** AURON SE UNE AL TEAM EROME 🤩 DEDSAFIO 4 DIA #22 | Samulx
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NEH4KDaI_OY
+
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -111,15 +142,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
 
-### NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #westcol #bendito #blessd
+### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #westcol #bendito #blessd
-- **Texto en pantalla:** NO CREERÁS LO QUE HIZO ESTE ROBOT 🤖 😬(final inesperado)#westcolclips #
+- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
+- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PmINsrA2DFY
+- **Fuente original:** https://www.youtube.com/watch?v=1xv2fv2C5Us
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -150,6 +181,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
 
 ### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
