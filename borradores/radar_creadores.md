@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 07:26 AM (hora de Colombia)
+Actualizado: 18/10/2026 09:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 13.
+Clips incluidos: 10.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### DESPEDIDA | DEDSAFIO 4 DÍA 21: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Eufonia Studio
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44.726
-- Puntaje heurístico de interés: 13
-- Enlace directo: https://www.youtube.com/watch?v=zg6CW1Jph-o
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - Categoria: Clip de terceros
@@ -27,19 +17,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30.133
+- Vistas reportadas por YouTube: 30.366
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
-
-### GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 18/10/2026 07:05 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=PCn1TOPNwH8
 
 ### TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
 - Categoria: Clip de terceros
@@ -47,19 +27,19 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
 - Canal que publico: Dedsafio 4 Minecraft
 - Publicado: 18/10/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=rtRR3cKfdPg
 
-### ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
+### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Tatán Franko
-- Publicado: 17/10/2026 07:00 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: ANDRI
+- Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.614
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=YZXHoxmscaI
+- Vistas reportadas por YouTube: 38
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=x8piGI30jN4
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -67,19 +47,31 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 568
-- Puntaje heurístico de interés: 1
+- Vistas reportadas por YouTube: 1.457
+- Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: KICKCOL
-- Publicado: 17/10/2026 11:00 PM
+### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lnt7Thneexo
+- Vistas reportadas por YouTube: 316.505
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+
+### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 17/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.614
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=W2zKh8l7JDk
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -88,9 +80,20 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
 - Canal que publico: MR Moroclips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.205
+- Vistas reportadas por YouTube: 20.222
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 17/10/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 17
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
 
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
@@ -102,39 +105,6 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
-
-### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 17/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 50
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lRsI_vvziVk
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 17/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6NwHTgR2SdA
-
-### MrStivenTC vs Hackers y Curiosidades en Free Fire 🧀
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Parcero Clips 🔥
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: El Parcero Clips 🔥
-- Publicado: 17/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=QP-XFNhm7Lk
 
 ### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
 - Categoria: Cuenta de clips
@@ -151,16 +121,6 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 6.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### DESPEDIDA | DEDSAFIO 4 DÍA 21: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** DESPEDIDA | DEDSAFIO 4 DÍA 21: MEJORES MOMENTOS Y MUERTES | Eufonia Studio
-- **Texto en pantalla:** DESPEDIDA | DEDSAFIO 4 DÍA 21: MEJORES MOMENTOS Y MUERTES | Eufonia St
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zg6CW1Jph-o
-
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -170,16 +130,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
-
-### GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- **Texto en pantalla:** GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PCn1TOPNwH8
 
 ### TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -191,15 +141,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=rtRR3cKfdPg
 
-### ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
-- **Texto en pantalla:** ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
+- **Texto en pantalla:** AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YZXHoxmscaI
+- **Fuente original:** https://www.youtube.com/watch?v=x8piGI30jN4
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -211,15 +161,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
+### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
-- **Texto en pantalla:** WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
+- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lnt7Thneexo
+- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+
+### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+- **Texto en pantalla:** WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=W2zKh8l7JDk
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -231,6 +191,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
+### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
+
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -240,36 +210,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
-
-### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- **Texto en pantalla:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lRsI_vvziVk
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6NwHTgR2SdA
-
-### MrStivenTC vs Hackers y Curiosidades en Free Fire 🧀
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC vs Hackers y Curiosidades en Free Fire 🧀
-- **Texto en pantalla:** MrStivenTC vs Hackers y Curiosidades en Free Fire 🧀
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QP-XFNhm7Lk
 
 ### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -314,8 +254,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-18
+  - https://www.youtube.com/watch?v=i5lre7HlrDo
   - https://www.youtube.com/watch?v=x8piGI30jN4
-  - https://www.youtube.com/watch?v=zg6CW1Jph-o
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
