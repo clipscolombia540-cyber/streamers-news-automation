@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 11:24 PM (hora de Colombia)
+Actualizado: 18/10/2026 01:28 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 3.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,30 +17,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.582
+- Vistas reportadas por YouTube: 28.561
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
-
-### WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: KICKCOL
-- Publicado: 17/10/2026 10:36 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lnt7Thneexo
-
-### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 17/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 209
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=W2zKh8l7JDk
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -49,7 +28,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.242
+- Vistas reportadas por YouTube: 19.842
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
 
@@ -78,26 +57,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
-- **Texto en pantalla:** WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lnt7Thneexo
-
-### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
-- **Texto en pantalla:** WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=W2zKh8l7JDk
-
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -125,7 +84,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Westcol reveló la cifra de dinero que tiene en patrimonio - Vibra** — 17/10/2026 02:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzVsZExHNW5ZNWtEMmtuTnZ4M1FJLTgyUEVDSE1xSWdONmU3NmdRYUd3TGk5R2UwTVRHc3FJMFh6VFF0ZkE1SkdUUjkxeEllNW9YN01ab0tZZUtFR2Rha0owcXVDemlrc0l2UGo0TlFsSldWTjhBYlc0cWZTeEVYN210aVU0b0N5Q2I2NnlKMTJabWc4VGc?oc=5)
 - **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
 - **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con recursos propios - Sinaloahoy** — 17/10/2026 01:20 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzYyVTFpMndNVXBMbUtvOExiVFJvb3N4aWdkQzFFMjQzTlJ2b01PMndZS0dQclVyVVN1VGpwRTZBSXlNcHdhN1FXOHliX29aZHM2OTc3UXItNEJ5NDkyMWVwbWhSZUowQi1EVWRoUmhLSjlSdmlHSDV1NW80UkprMlVRZk5GQ3QyN3lieFdyT0NLY0dEWmVrWC1KaVltOHhJNU9fWUFsVGF0VldYYXlpRA?oc=5)
-- **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 10:25 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
+- **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 11:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
 - **[Creadores] ¿Vender en live es de pobres? La Liendra desata polémica con sus palabras - TN8** — 16/10/2026 10:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRJLXFXWXRFaUdUNE5nU1d0LUl3RzU3aVJzTW0xNnAwcklSZ0Vna1NIUnlFX2syVjcxS3pmcFUxcGp1N3ZqNjF6X0Y3TV9qZEU5T3kzNkFiS2sySmkzX1gtd1ZKamI5RXdFYXM0RWppNUtGYnVFengyRXFRczJ2ZUg5VjJoSW5KQVJndlRtQ0c0bUwxdTVEMXhHWlYxWWo3dFIwU08xUnplQnc?oc=5)
 
 ## Creadores principales vigilados
@@ -148,9 +107,9 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-17
+- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-17
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=i5lre7HlrDo
   - https://www.youtube.com/watch?v=2NAzi0JciPg
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
