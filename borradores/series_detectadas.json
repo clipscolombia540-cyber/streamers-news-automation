@@ -1,15 +1,30 @@
 {
-  "actualizado": "2026-10-17T19:32:06.145325-05:00",
+  "actualizado": "2026-10-17T21:24:39.037523-05:00",
   "series": [
     {
       "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
-      "ultima_deteccion": "2026-10-17T19:32:06.145325-05:00",
+      "ultima_deteccion": "2026-10-17T21:24:39.037523-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
+      ]
+    },
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-17T21:24:39.037523-05:00",
+      "canal_muestra": "Zona Spreen Momentos y Charlas",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=i5lre7HlrDo",
+        "https://www.youtube.com/watch?v=2NAzi0JciPg",
+        "https://www.youtube.com/watch?v=gb9gx1aB8l4",
+        "https://www.youtube.com/watch?v=NQ-HjSnzKdo",
+        "https://www.youtube.com/watch?v=x8piGI30jN4"
       ]
     },
     {
@@ -21,21 +36,6 @@
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=dz5vTB_rdS8"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-17T15:20:50.754804-05:00",
-      "canal_muestra": "DE TODITO CLIPS",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=2NAzi0JciPg",
-        "https://www.youtube.com/watch?v=gb9gx1aB8l4",
-        "https://www.youtube.com/watch?v=NQ-HjSnzKdo",
-        "https://www.youtube.com/watch?v=x8piGI30jN4",
-        "https://www.youtube.com/watch?v=EV5mTp4-UKw"
       ]
     },
     {
