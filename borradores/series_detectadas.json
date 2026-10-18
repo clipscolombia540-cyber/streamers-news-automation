@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-18T09:22:26.181694-05:00",
+  "actualizado": "2026-10-18T11:23:26.232550-05:00",
   "series": [
     {
       "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
-      "ultima_deteccion": "2026-10-18T09:22:26.181694-05:00",
+      "ultima_deteccion": "2026-10-18T11:23:26.232550-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
@@ -17,14 +17,14 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-18T09:22:26.181694-05:00",
+      "ultima_deteccion": "2026-10-18T11:23:26.232550-05:00",
       "canal_muestra": "ANDRI",
       "enlaces": [
+        "https://www.youtube.com/watch?v=YjGav5KkFQc",
         "https://www.youtube.com/watch?v=i5lre7HlrDo",
         "https://www.youtube.com/watch?v=x8piGI30jN4",
         "https://www.youtube.com/watch?v=zg6CW1Jph-o",
-        "https://www.youtube.com/watch?v=PCn1TOPNwH8",
-        "https://www.youtube.com/watch?v=hJ3t6VT3MLM"
+        "https://www.youtube.com/watch?v=PCn1TOPNwH8"
       ]
     },
     {

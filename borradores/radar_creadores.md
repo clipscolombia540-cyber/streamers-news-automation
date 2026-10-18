@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 09:22 AM (hora de Colombia)
+Actualizado: 18/10/2026 11:23 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
+Clips incluidos: 8.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30.366
+- Vistas reportadas por YouTube: 30.728
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
-
-### TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Dedsafio 4 Minecraft
-- Publicado: 18/10/2026 05:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=rtRR3cKfdPg
 
 ### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
 - Categoria: Clip de terceros
@@ -41,15 +31,15 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x8piGI30jN4
 
-### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
+### Los Ultimos Momentos de los Webones en Dedsafio 4 (Dia 23 y DIA FINAL)
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Enano Clips
-- Publicado: 18/10/2026 04:00 AM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Aquiso Clips
+- Publicado: 18/10/2026 11:20 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.457
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
+- Enlace directo: https://www.youtube.com/watch?v=YjGav5KkFQc
 
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - Categoria: Cuenta de clips
@@ -58,7 +48,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Canal que publico: WestClips
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 316.505
+- Vistas reportadas por YouTube: 319.379
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
 
@@ -69,7 +59,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Canal que publico: WestcolClips
 - Publicado: 17/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.614
+- Vistas reportadas por YouTube: 3.080
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=W2zKh8l7JDk
 
@@ -80,31 +70,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Canal que publico: MR Moroclips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.222
+- Vistas reportadas por YouTube: 20.386
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 17/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
-
-### 016 Rey De La City En Directo
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: La Ganga en Clips
-- Publicado: 17/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
 
 ### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
 - Categoria: Cuenta de clips
@@ -113,9 +81,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 - Canal que publico: GALLOCLIPS
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=h_I0dPG7YU8
+
+### 016 Rey De La City En Directo
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: La Ganga en Clips
+- Publicado: 16/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -131,16 +110,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
-- **Texto en pantalla:** TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=rtRR3cKfdPg
-
 ### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -151,15 +120,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x8piGI30jN4
 
-### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+### Los Ultimos Momentos de los Webones en Dedsafio 4 (Dia 23 y DIA FINAL)
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
-- **Texto en pantalla:** STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Los Ultimos Momentos de los Webones en Dedsafio 4 (Dia 23 y DIA FINAL)
+- **Texto en pantalla:** Los Ultimos Momentos de los Webones en Dedsafio 4 (Dia 23 y DIA FINAL)
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
+- **Fuente original:** https://www.youtube.com/watch?v=YjGav5KkFQc
 
 ### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -191,15 +160,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
+- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
 
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -211,25 +180,14 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
 
-### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
-
 ## Noticias y contexto
 
+- **[Creadores] ¿Cuánto vale el robot de Westcol? El streamer reveló la millonada que pagó - Noticias RCN** — 18/10/2026 09:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVpQaVphWEdkd2dsSHRsdUR3cndtQVpMQnI1VUpFNERRRWxhUkFoWTNoYUVQU3dLUEhVN2ZzQm5NdFMySVZFLUVzMzk3cVoyMjV0enhkM2IzNWszZTNsanp4Q24xX094MmJaeWZmcE8yNlFJVnFMNGZHVlhVVXRBY09SOEHSAYQBQVVfeXFMTXJwcUFPaGM5Z01qYzlVTEs2bXV6WktVb1UtQnhQRFhfTVBrcE4tMjBOX1pxTkJoV2JYY1BQYzBGbU1hVXV4U3RmQVVILTQ1TjRmbXdDdko0WlpZT0xNTkd4Y2w1UHM1aEJSOUUyR3lwUW1jR3dSY21xWmxKeHNjUGpOdzZj?oc=5)
 - **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
 - **[Creadores] Westcol reveló la cifra de dinero que tiene en patrimonio - Candela** — 17/10/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFBsYWNwYUtEM2dBVXJHajhTQWVvT3pvcTBJVlJEWlVZdnZ6Znp4U2ViMzdEVEFkamhpcjlVWFdLazk1c1pzdnJXbjktY3JJZ2hVN1pRMFdTOXJ6bnJuMDNXaWNwRklzRi1hcnBqNTFUX1J3Q0xaU0hhV2NHRmhVRVc5SUFQNzBVeUNnZ0VQa2hfUmN6dUpPZ3ZHSTVTY1l6dmNzazBtQ2VOeXBBeExhWFNKZXptLWpiLXdqZnlMdWFrajdBQ3pTVjkzVQ?oc=5)
-- **[Creadores] Westcol reveló la cifra de dinero que tiene en patrimonio - Vibra** — 17/10/2026 02:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzVsZExHNW5ZNWtEMmtuTnZ4M1FJLTgyUEVDSE1xSWdONmU3NmdRYUd3TGk5R2UwTVRHc3FJMFh6VFF0ZkE1SkdUUjkxeEllNW9YN01ab0tZZUtFR2Rha0owcXVDemlrc0l2UGo0TlFsSldWTjhBYlc0cWZTeEVYN210aVU0b0N5Q2I2NnlKMTJabWc4VGc?oc=5)
 - **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
 - **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con recursos propios - Sinaloahoy** — 17/10/2026 01:20 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzYyVTFpMndNVXBMbUtvOExiVFJvb3N4aWdkQzFFMjQzTlJ2b01PMndZS0dQclVyVVN1VGpwRTZBSXlNcHdhN1FXOHliX29aZHM2OTc3UXItNEJ5NDkyMWVwbWhSZUowQi1EVWRoUmhLSjlSdmlHSDV1NW80UkprMlVRZk5GQ3QyN3lieFdyT0NLY0dEWmVrWC1KaVltOHhJNU9fWUFsVGF0VldYYXlpRA?oc=5)
 - **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 11:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
-- **[Creadores] ¿Vender en live es de pobres? La Liendra desata polémica con sus palabras - TN8** — 16/10/2026 10:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRJLXFXWXRFaUdUNE5nU1d0LUl3RzU3aVJzTW0xNnAwcklSZ0Vna1NIUnlFX2syVjcxS3pmcFUxcGp1N3ZqNjF6X0Y3TV9qZEU5T3kzNkFiS2sySmkzX1gtd1ZKamI5RXdFYXM0RWppNUtGYnVFengyRXFRczJ2ZUg5VjJoSW5KQVJndlRtQ0c0bUwxdTVEMXhHWlYxWWo3dFIwU08xUnplQnc?oc=5)
 
 ## Creadores principales vigilados
 
@@ -254,8 +212,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-18
+  - https://www.youtube.com/watch?v=YjGav5KkFQc
   - https://www.youtube.com/watch?v=i5lre7HlrDo
-  - https://www.youtube.com/watch?v=x8piGI30jN4
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
