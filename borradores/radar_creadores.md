@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 03:23 AM (hora de Colombia)
+Actualizado: 18/10/2026 05:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,29 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Canal que publico: ClipsdelChow
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.429
+- Vistas reportadas por YouTube: 29.947
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
+
+### TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 18/10/2026 05:06 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=rtRR3cKfdPg
+
+### MUERTE DE SPREEN EN EL DEDSAFIO 4 MINECRAFT
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Dedsafio 4 Minecraft
+- Publicado: 18/10/2026 04:37 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=hJ3t6VT3MLM
 
 ### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
 - Categoria: Cuenta de clips
@@ -28,20 +48,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Canal que publico: WestcolClips
 - Publicado: 17/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.107
+- Vistas reportadas por YouTube: 1.961
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=W2zKh8l7JDk
-
-### WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 17/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.727
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=A-FlPn9bj-o
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -50,7 +59,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.085
+- Vistas reportadas por YouTube: 20.102
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
 
@@ -79,6 +88,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
+### TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
+- **Texto en pantalla:** TEAM MAFIA ❤️ #Dedsafio4 #Minecraft #clips
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=rtRR3cKfdPg
+
+### MUERTE DE SPREEN EN EL DEDSAFIO 4 MINECRAFT
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MUERTE DE SPREEN EN EL DEDSAFIO 4 MINECRAFT
+- **Texto en pantalla:** MUERTE DE SPREEN EN EL DEDSAFIO 4 MINECRAFT
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hJ3t6VT3MLM
+
 ### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -88,16 +117,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=W2zKh8l7JDk
-
-### WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
-- **Texto en pantalla:** WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=A-FlPn9bj-o
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -152,8 +171,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-18
-  - https://www.youtube.com/watch?v=i5lre7HlrDo
-  - https://www.youtube.com/watch?v=2NAzi0JciPg
+  - https://www.youtube.com/watch?v=hJ3t6VT3MLM
+  - https://www.youtube.com/watch?v=rtRR3cKfdPg
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=dz5vTB_rdS8
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-17
