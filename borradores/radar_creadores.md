@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 09:24 PM (hora de Colombia)
+Actualizado: 17/10/2026 11:24 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 5.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,29 +17,28 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 26.789
+- Vistas reportadas por YouTube: 27.582
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 16/10/2026 07:00 PM
+### WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: KICKCOL
+- Publicado: 17/10/2026 10:36 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 297.696
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=lnt7Thneexo
 
 ### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 17/10/2026 09:11 PM
+- Publicado: 17/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 209
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=W2zKh8l7JDk
 
@@ -50,7 +49,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 18.406
+- Vistas reportadas por YouTube: 19.242
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
 
@@ -79,15 +78,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+### WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Título sugerido:** WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
+- **Texto en pantalla:** WESTCOL FUE A COMPETIR Y TERMINÓ HUMILLADO *se va triste*💀😂
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+- **Fuente original:** https://www.youtube.com/watch?v=lnt7Thneexo
 
 ### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -121,12 +120,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
 - **[Creadores] Westcol reveló la cifra de dinero que tiene en patrimonio - Candela** — 17/10/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFBsYWNwYUtEM2dBVXJHajhTQWVvT3pvcTBJVlJEWlVZdnZ6Znp4U2ViMzdEVEFkamhpcjlVWFdLazk1c1pzdnJXbjktY3JJZ2hVN1pRMFdTOXJ6bnJuMDNXaWNwRklzRi1hcnBqNTFUX1J3Q0xaU0hhV2NHRmhVRVc5SUFQNzBVeUNnZ0VQa2hfUmN6dUpPZ3ZHSTVTY1l6dmNzazBtQ2VOeXBBeExhWFNKZXptLWpiLXdqZnlMdWFrajdBQ3pTVjkzVQ?oc=5)
 - **[Creadores] Westcol reveló la cifra de dinero que tiene en patrimonio - Vibra** — 17/10/2026 02:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzVsZExHNW5ZNWtEMmtuTnZ4M1FJLTgyUEVDSE1xSWdONmU3NmdRYUd3TGk5R2UwTVRHc3FJMFh6VFF0ZkE1SkdUUjkxeEllNW9YN01ab0tZZUtFR2Rha0owcXVDemlrc0l2UGo0TlFsSldWTjhBYlc0cWZTeEVYN210aVU0b0N5Q2I2NnlKMTJabWc4VGc?oc=5)
 - **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
 - **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con recursos propios - Sinaloahoy** — 17/10/2026 01:20 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzYyVTFpMndNVXBMbUtvOExiVFJvb3N4aWdkQzFFMjQzTlJ2b01PMndZS0dQclVyVVN1VGpwRTZBSXlNcHdhN1FXOHliX29aZHM2OTc3UXItNEJ5NDkyMWVwbWhSZUowQi1EVWRoUmhLSjlSdmlHSDV1NW80UkprMlVRZk5GQ3QyN3lieFdyT0NLY0dEWmVrWC1KaVltOHhJNU9fWUFsVGF0VldYYXlpRA?oc=5)
 - **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 10:25 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
-- **[Creadores] "Si es genuino y no solo por likes adelante": COMUN abre la puerta a Lonche de Huevito para reparar calles de Los Mochis - Luz Noticias** — 16/10/2026 05:50 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMG5xcWgtbTVYMUJlRGwwMnlpbFc2ci1kUmNiMk5YT0dYbWNXMUFDUDRneEx1dzBULUZqbGJCWnRxZ2c3UjhlZjNIaVY5aTJhM3IxZi1HdWg0TXlRSFZIMGlfU1lQcElPNWxLcWN0dHp6dGs3LWZmVHg1RHlVbWVRNmhYaHV2LXBibGkwRm5kNjUyOVdhclFSTTN3Skl6REJMcnVNYmdSOWUyTEFWckZUejQtS2tFbVA3dDNJWWxYNC1DaVBFbGtkNW9MWmh4WTVTUmRnMXRQU2w4Rk9MZU9kaDl1bHRLdGVtSUxSNlRMRVI0STFnb1BTa1cwb3JYX3fSAYQCQVVfeXFMTjVydktyUnNRaFFMdzlRRURLVXdGaVZudHhDeXRhZTlfcEVXcGx5WDVfMmw0MW1IX3lUUC13SHVYeTJlRzIzM3JXaHVUVkQwMmtvNVdiRjctekZMOWFpdVZHaFFwRFp1bUNfYmFZZlJxNkZING1QZE15OXhJWGtpMUs5eTBGUWpDWDA2VVByY25ZV2VzWmhNRGo2NVV5NjBNZW1XdHM3OWdBQWFtWm1XMzNBYk91anBhZ2xzbkFkUE5yYU9KU3B6QXJQdmhnbHdZdnRiVTdjUld1djVCTjh2TzhoeHlRZEMyZ3Y2cnlUakdHR0dHOGRtMDl6aUhQYlJXaHAwM2s?oc=5)
 - **[Creadores] ¿Vender en live es de pobres? La Liendra desata polémica con sus palabras - TN8** — 16/10/2026 10:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRJLXFXWXRFaUdUNE5nU1d0LUl3RzU3aVJzTW0xNnAwcklSZ0Vna1NIUnlFX2syVjcxS3pmcFUxcGp1N3ZqNjF6X0Y3TV9qZEU5T3kzNkFiS2sySmkzX1gtd1ZKamI5RXdFYXM0RWppNUtGYnVFengyRXFRczJ2ZUg5VjJoSW5KQVJndlRtQ0c0bUwxdTVEMXhHWlYxWWo3dFIwU08xUnplQnc?oc=5)
 
 ## Creadores principales vigilados
