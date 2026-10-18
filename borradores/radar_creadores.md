@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/10/2026 05:19 PM (hora de Colombia)
+Actualizado: 17/10/2026 07:32 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 7.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,31 +15,31 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: ClipsdelChow
-- Publicado: 17/10/2026 02:00 AM
+- Publicado: 17/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.935
-- Puntaje heurístico de interés: 5
+- Vistas reportadas por YouTube: 25.882
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #luisacastro #viralvideos
+### WESTCOL PONE ORDEN Y EDUCA A SPREEN 😮‍💨🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: The Mirafloreño City
-- Publicado: 16/10/2026 07:00 PM
+- Canal que publico: Tatán Franko
+- Publicado: 17/10/2026 07:01 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=Gw408sZ49mI
-
-### Westcol Video para ver comiendo - La Caída de ESCOBAR
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: _Quico_
-- Publicado: 16/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=imqLYUQPCeo
+- Enlace directo: https://www.youtube.com/watch?v=td-eUcHIil4
+
+### ELIMINADOS EN EL GULAG | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: La Zona del Stream
+- Publicado: 17/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=IqACO17_-Vc
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -48,9 +48,31 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 16/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 16.969
+- Vistas reportadas por YouTube: 17.890
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 17/10/2026 07:16 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=6NwHTgR2SdA
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: GALLOCLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: GALLOCLIPS
+- Publicado: 16/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=h_I0dPG7YU8
 
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
@@ -62,17 +84,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
-
-### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips96
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Clips96
-- Publicado: 15/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -88,25 +99,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #luisacastro #viralvideos
+### WESTCOL PONE ORDEN Y EDUCA A SPREEN 😮‍💨🔥
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #luisacastro #viralvideos
-- **Texto en pantalla:** WESTCOL HABLA SOBRE SU RELACIÓN CON LUISA CASTRO 😮❌ #westcolclips #lui
+- **Título sugerido:** WESTCOL PONE ORDEN Y EDUCA A SPREEN 😮‍💨🔥
+- **Texto en pantalla:** WESTCOL PONE ORDEN Y EDUCA A SPREEN 😮‍💨🔥
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Gw408sZ49mI
+- **Fuente original:** https://www.youtube.com/watch?v=td-eUcHIil4
 
-### Westcol Video para ver comiendo - La Caída de ESCOBAR
+### ELIMINADOS EN EL GULAG | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol Video para ver comiendo - La Caída de ESCOBAR
-- **Texto en pantalla:** Westcol Video para ver comiendo - La Caída de ESCOBAR
+- **Título sugerido:** ELIMINADOS EN EL GULAG | WESTCOL
+- **Texto en pantalla:** ELIMINADOS EN EL GULAG | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=imqLYUQPCeo
+- **Fuente original:** https://www.youtube.com/watch?v=IqACO17_-Vc
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -118,6 +129,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
+### 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=6NwHTgR2SdA
+
+### WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Texto en pantalla:** WEST Y CHANTY PONEN EN SU SITIO A REY POR SER TAN AGRANDADO
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=h_I0dPG7YU8
+
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -127,16 +158,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
-
-### REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Texto en pantalla:** REYDELACITY le frena a DILON BABY A SU BLOQUE…😭 ¡LAS TORTUGAS NINJA! 😹
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=lZDq0F0dk3w
 
 ## Noticias y contexto
 
