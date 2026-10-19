@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 07:32 PM (hora de Colombia)
+Actualizado: 18/10/2026 09:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 6.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.426
+- Vistas reportadas por YouTube: 33.783
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
@@ -27,50 +27,49 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.447
+- Vistas reportadas por YouTube: 9.702
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 17/10/2026 10:00 PM
+### Los Niños STREAMERS que se creen WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Gioopz
+- Publicado: 18/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.557
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=A-FlPn9bj-o
+- Vistas reportadas por YouTube: 1.589
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=gEiBB_vzEDA
 
 ### WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 18/10/2026 12:00 AM
+- Publicado: 17/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.727
+- Vistas reportadas por YouTube: 1.853
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=hQXNLbkhLzU
 
-### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
+### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 17/10/2026 10:00 PM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 18/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.327
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=m73k79se_t8
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=yqgptq4YMdU
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 18/10/2026 01:00 PM
+- Publicado: 18/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 416
+- Vistas reportadas por YouTube: 505
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
@@ -98,15 +97,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
+### Los Niños STREAMERS que se creen WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
-- **Texto en pantalla:** WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
+- **Título sugerido:** Los Niños STREAMERS que se creen WESTCOL
+- **Texto en pantalla:** Los Niños STREAMERS que se creen WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=A-FlPn9bj-o
+- **Fuente original:** https://www.youtube.com/watch?v=gEiBB_vzEDA
 
 ### WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -118,15 +117,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hQXNLbkhLzU
 
-### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
-- **Texto en pantalla:** 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING B
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m73k79se_t8
+- **Fuente original:** https://www.youtube.com/watch?v=yqgptq4YMdU
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
