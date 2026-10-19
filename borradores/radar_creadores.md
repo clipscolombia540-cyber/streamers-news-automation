@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 07:36 AM (hora de Colombia)
+Actualizado: 19/10/2026 09:34 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 7.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### El LAMENTABLE FINAL de MRSTIVEN
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Ruisu
-- Publicado: 18/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.456
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.998
+- Vistas reportadas por YouTube: 35.113
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.437
+- Vistas reportadas por YouTube: 10.553
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
@@ -48,20 +38,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.917
+- Vistas reportadas por YouTube: 21.924
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: CLIPS Streams
-- Creador relacionado en el título: Samulx
-- Canal que publico: CLIPS Streams
-- Publicado: 18/10/2026 09:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=IcBqL7qw09I
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
 - Categoria: Cuenta de clips
@@ -85,28 +64,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
-### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 18/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=yqgptq4YMdU
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 18/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6NwHTgR2SdA
-
 ### 016 Rey De La City En Directo
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: La Ganga en Clips
@@ -124,23 +81,13 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 772
+- Vistas reportadas por YouTube: 791
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### El LAMENTABLE FINAL de MRSTIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
-- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -172,16 +119,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Texto en pantalla:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IcBqL7qw09I
-
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -201,26 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yqgptq4YMdU
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6NwHTgR2SdA
 
 ### 016 Rey De La City En Directo
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -244,10 +161,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] ¿Más plata que Escobar? Westcol soltó una confesión que dejó a más de uno boquiabierto - Colombia.com** — 19/10/2026 09:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlJwTkhPTjhOeHFVTXNtWDVlbll2bHpVaUNiR2VIVmdWSWxFRW5sc1lvTy16Vy11LTJBTjNfNmJncDJuMFF2NGpIRkZYcVo4M2tLcWtCNUJfTjBiU0tWYmJ1a2NKVWgtellIYUNrVmtLVFk0elU4MEozdXhFMzg2ei1ZTTgwbUJpdDdvZE1xWXlldlVreTgzeF85YXhtYWlwYUxHTVh3YWs4N2ZDOHhINUpRMjU0d1RTZjBMcTNGb3UteGZub1dOdlFzbzUyX0tx?oc=5)
+- **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR3lxcHo4V2FPMk8xdXowXzJQMU05RThqSkFNb1N5ZjFUUmlFN1VhbmZRMTVUVVJRTXVYd25FYVVqRVVnSVJsWHcydm80c2ZNbTEza1dPQlVOWXQ1bXVuTmtpTGV0aWFKeTFhRmNqbW16MkdGb0t5RWVoYTg5R2hseVFsbmgtUUJ5cnZselhEUHFBRGJzTGJ0akdZNGdYLVJ2QzFRMVdaTUxRUVJhWW9MY2FJWEJ1clB1NHFfbUtkcTVtNlF0UUJSMzM0V3hST0trc0syN0FOUjZkRVR1VUI1TnVSLVltYkxWNDRRVkhkVdIB9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW?oc=5)
 - **[Creadores] Westcol sostiene que acumuló US$5 millones de forma legal a los 24 años y se compara con el capo Pablo Escobar - Agencia de Periodismo Investigativo** — 18/10/2026 08:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWG5BN01lM1VlSjNuS0NmZ2xucXU5YVp4ZWxOMXFJVm9Ib2NGUXlBMUx5bEJrbzhkNVowYWdpekpnQ0tDejJiSnBzdGIxclQwNWZySlRfMk5sYTMxZnRrVlZDbjNNS1FWbjdSYXlrWkpENTFhVGk1VWozTkROOHFqY1JKQ3R6ZjF4QUtuSlNDdjZtUTZhd3JSNV81Q1pWaWhGdjI2WnFnY3F6eWZ1NlhSWlNYSEotcWhHOFBFNjlwckdhQ2UyNEw4YjFDRmc3Wl9QNkpxM29NSHpmWXV3S0F1VUhFOXd1Y280eHNSbA?oc=5)
-- **[Creadores] ¿Petro tenía razón sobre los presos de Bukele? Lo que le dijo a Westcol y lo que anunció El Salvador - Minuto60** — 18/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDd2MmdCd3NTeUt3aWtYbzVmZ3p4ZWt6UVg5Z1dHTlY4OUtONUxxTFRoZ0RzQ0xDbWlpVnR5SmNBa2UzQkxnRlFFdjJYQVFCN1Fmb1NzZ0xPclJNMjlFVmVjMW92Z3RtLUllRWtHWVFtRDFKUVlpQlBycWE4UkcxNl91dGdPWlpXZk40eld1Y3pCZFFaVU9MbHRRVThIRXc?oc=5)
 - **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
-- **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
 
 ## Creadores principales vigilados
 
