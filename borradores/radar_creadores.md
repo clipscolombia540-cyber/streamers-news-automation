@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 01:29 PM (hora de Colombia)
+Actualizado: 19/10/2026 03:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 7.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,29 +17,29 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.550
+- Vistas reportadas por YouTube: 35.756
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
+### Capitan Gato reacciona con Starvtuber a la odisea que aso para que regrese a dedsafio 4
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Enano Clips
-- Publicado: 18/10/2026 07:00 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 19/10/2026 02:31 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.834
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
+- Vistas reportadas por YouTube: 141
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=sYImObCTVco
 
-### WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westcol #reaction
+### Captain Gato during the cinematic moment of Dedsafio 4
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: zona viral
-- Publicado: 19/10/2026 10:00 AM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 19/10/2026 03:01 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=k0o5e1ch38U
+- Vistas reportadas por YouTube: 37
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=nP4LsAwJh6M
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -48,9 +48,20 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.066
+- Vistas reportadas por YouTube: 22.200
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestColClipsCol
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestColClipsCol
+- Publicado: 19/10/2026 04:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=GlEa-jfCRNg
 
 ### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - Categoria: Cuenta de clips
@@ -59,7 +70,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: WestColClipsCol
 - Publicado: 18/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
@@ -69,7 +80,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 866
+- Vistas reportadas por YouTube: 903
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
@@ -87,25 +98,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
-### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+### Capitan Gato reacciona con Starvtuber a la odisea que aso para que regrese a dedsafio 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
-- **Texto en pantalla:** STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Capitan Gato reacciona con Starvtuber a la odisea que aso para que regrese a dedsafio 4
+- **Texto en pantalla:** Capitan Gato reacciona con Starvtuber a la odisea que aso para que reg
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
+- **Fuente original:** https://www.youtube.com/watch?v=sYImObCTVco
 
-### WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westcol #reaction
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Captain Gato during the cinematic moment of Dedsafio 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westcol #reaction
-- **Texto en pantalla:** WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westco
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Captain Gato during the cinematic moment of Dedsafio 4
+- **Texto en pantalla:** Captain Gato during the cinematic moment of Dedsafio 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=k0o5e1ch38U
+- **Fuente original:** https://www.youtube.com/watch?v=nP4LsAwJh6M
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -116,6 +127,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GlEa-jfCRNg
 
 ### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -139,10 +160,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] “Blessd y Westcol me lo dañaron”: Camilo Cifuentes sorprende bailando reguetón - Eluniversal.com.co** — 19/10/2026 03:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEZJZkNLOE95YjN6ZllQN1hxVlNfb2cxc1FEbWpfZEp6YWhHNXFRRFJzb1NZa25OSGVicFNHY203LTRTaXp4WU1ZWng1bE56YVFrVEdlajdsaFpqUnpTQXRPeTZia29BTWxscGh2SkJQTTFlM3ZteWNWMmRDV215Z0ZWeVc5TVV1MHZ2N1NYNngwbTVjOFhfRG42YTI0VXgtYU5iT0tUVmphMWNkcHNTUU1jZGdqNkRQYy1QbnJjdGxaZVZQZkdv?oc=5)
 - **[Creadores] La Liendra decidió hacerse un cambio extremo y sorprendió a todos con el resultado; así se ve - LOS40** — 19/10/2026 12:04 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2ZXVkpLU3liaFpmNWhvaXBsME1MTUk3bVF3dmlIUUpZRGJfT3F3R196RDRuLWtEYTNtQTczZW9Jc0ZLaXJfWkZ2NzVvNE5HUHFKWHlZTVRYRGFvTjBKUEFCbFZqU3A5RnQ0UzRaNG16cGZjbVVsTzNzVGZtWGJuWmNGZk0zTHJaN3dDTGRJLWRUTnE4RVUwV1J6a2F6UVB0NUljN2t0c1VEVXBuRDlERzF5b0NOZHpRVWJTQ3BKdXZEX0XSAdcBQVVfeXFMTkZZam9OWUZROHhaS19zakdmODFOWm13aTl2UC1UVGRoU1VvcF9PckRZNEtvV05KUzZ4ai1XeUF5alZmS1NzYmsybmJGZTRISEdwajEwZ09aWHFLanA4RzQ0Q1U4YzQ0b0VXeHlUbm1pYjZmeVFRNWhucmRIRUcxN2Q4QUJkdU50cGgzVFM1QUtPU29wUVhHWXVrZGQwaHJ4WGlWZWljWG1PYzFwLVkzWm9PQ19qLVE0eHI0WjRvSEQ3c3Z5RG9rNEEyZWJHUERlRHBRWFhxOFk?oc=5)
-- **[Creadores] ¿Más plata que Escobar? Westcol soltó una confesión que dejó a más de uno boquiabierto - Colombia.com** — 19/10/2026 09:19 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlJwTkhPTjhOeHFVTXNtWDVlbll2bHpVaUNiR2VIVmdWSWxFRW5sc1lvTy16Vy11LTJBTjNfNmJncDJuMFF2NGpIRkZYcVo4M2tLcWtCNUJfTjBiU0tWYmJ1a2NKVWgtellIYUNrVmtLVFk0elU4MEozdXhFMzg2ei1ZTTgwbUJpdDdvZE1xWXlldlVreTgzeF85YXhtYWlwYUxHTVh3YWs4N2ZDOHhINUpRMjU0d1RTZjBMcTNGb3UteGZub1dOdlFzbzUyX0tx?oc=5)
+- **[Creadores] ¿Más plata que Escobar? Westcol soltó una confesión que dejó a más de uno boquiabierto - Colombia.com** — 19/10/2026 09:24 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlJwTkhPTjhOeHFVTXNtWDVlbll2bHpVaUNiR2VIVmdWSWxFRW5sc1lvTy16Vy11LTJBTjNfNmJncDJuMFF2NGpIRkZYcVo4M2tLcWtCNUJfTjBiU0tWYmJ1a2NKVWgtellIYUNrVmtLVFk0elU4MEozdXhFMzg2ei1ZTTgwbUJpdDdvZE1xWXlldlVreTgzeF85YXhtYWlwYUxHTVh3YWs4N2ZDOHhINUpRMjU0d1RTZjBMcTNGb3UteGZub1dOdlFzbzUyX0tx?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
-- **[Creadores] Westcol sostiene que acumuló US$5 millones de forma legal a los 24 años y se compara con el capo Pablo Escobar - Agencia de Periodismo Investigativo** — 18/10/2026 08:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWG5BN01lM1VlSjNuS0NmZ2xucXU5YVp4ZWxOMXFJVm9Ib2NGUXlBMUx5bEJrbzhkNVowYWdpekpnQ0tDejJiSnBzdGIxclQwNWZySlRfMk5sYTMxZnRrVlZDbjNNS1FWbjdSYXlrWkpENTFhVGk1VWozTkROOHFqY1JKQ3R6ZjF4QUtuSlNDdjZtUTZhd3JSNV81Q1pWaWhGdjI2WnFnY3F6eWZ1NlhSWlNYSEotcWhHOFBFNjlwckdhQ2UyNEw4YjFDRmc3Wl9QNkpxM29NSHpmWXV3S0F1VUhFOXd1Y280eHNSbA?oc=5)
 - **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
 
 ## Creadores principales vigilados
@@ -166,12 +187,12 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-19
-  - https://www.youtube.com/watch?v=qL7ETNoHs3I
-  - https://www.youtube.com/watch?v=z-Nosz_Op1U
-- **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
-  - https://www.youtube.com/watch?v=kDIILuWbjXY
+  - https://www.youtube.com/watch?v=sYImObCTVco
+  - https://www.youtube.com/watch?v=nP4LsAwJh6M
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
+- **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
+  - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=xqt3A4wFV7k
 - **Streamer Awards Nomination Winners 2026** (candidata por revisar) — última detección: 2026-10-19
