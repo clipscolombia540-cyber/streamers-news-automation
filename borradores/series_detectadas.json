@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-19T09:34:10.622697-05:00",
+  "actualizado": "2026-10-19T11:30:06.243091-05:00",
   "series": [
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-19T09:34:10.622697-05:00",
+      "ultima_deteccion": "2026-10-19T11:30:06.243091-05:00",
       "canal_muestra": "Zona Spreen Momentos y Charlas",
       "enlaces": [
         "https://www.youtube.com/watch?v=qL7ETNoHs3I",
@@ -21,7 +21,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-18T07:26:11.250146-05:00",
-      "ultima_deteccion": "2026-10-19T09:34:10.622697-05:00",
+      "ultima_deteccion": "2026-10-19T11:30:06.243091-05:00",
       "canal_muestra": "Enano Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=kDIILuWbjXY"
@@ -32,7 +32,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
-      "ultima_deteccion": "2026-10-19T09:34:10.622697-05:00",
+      "ultima_deteccion": "2026-10-19T11:30:06.243091-05:00",
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
@@ -43,10 +43,21 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-18T17:20:43.502304-05:00",
-      "ultima_deteccion": "2026-10-18T17:20:43.502304-05:00",
+      "ultima_deteccion": "2026-10-19T11:30:06.243091-05:00",
       "canal_muestra": "Bluer Pikmin",
       "enlaces": [
         "https://www.youtube.com/watch?v=xqt3A4wFV7k"
+      ]
+    },
+    {
+      "nombre": "Streamer Awards Nomination Winners 2026",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-19T11:30:06.243091-05:00",
+      "ultima_deteccion": "2026-10-19T11:30:06.243091-05:00",
+      "canal_muestra": "QTCinderella Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=T6q9DJpWcDk"
       ]
     },
     {

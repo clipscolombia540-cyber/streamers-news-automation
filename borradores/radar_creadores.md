@@ -1,15 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 09:34 AM (hora de Colombia)
+Actualizado: 19/10/2026 11:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 10.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Bluer Pikmin
+- Publicado: 17/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 87.384
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=xqt3A4wFV7k
+
+### El LAMENTABLE FINAL de MRSTIVEN
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: Ruisu
+- Publicado: 18/10/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 38.137
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
+
+### Streamer Awards Nomination Winners 2026
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: QTCinderella Clips
+- Publicado: 17/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 57.456
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=T6q9DJpWcDk
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - Categoria: Clip de terceros
@@ -17,7 +47,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.113
+- Vistas reportadas por YouTube: 35.228
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
@@ -27,9 +57,19 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.553
+- Vistas reportadas por YouTube: 10.679
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
+
+### WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westcol #reaction
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: zona viral
+- Publicado: 19/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=k0o5e1ch38U
 
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
@@ -38,7 +78,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.924
+- Vistas reportadas por YouTube: 21.975
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
 
@@ -53,27 +93,16 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GlEa-jfCRNg
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestColClipsCol
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestColClipsCol
-- Publicado: 19/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
-
-### 016 Rey De La City En Directo
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: La Ganga en Clips
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 168
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
+- Enlace directo: https://www.youtube.com/watch?v=lRsI_vvziVk
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
@@ -81,13 +110,43 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 791
+- Vistas reportadas por YouTube: 797
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
+- **Texto en pantalla:** Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xqt3A4wFV7k
+
+### El LAMENTABLE FINAL de MRSTIVEN
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
+- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
+
+### Streamer Awards Nomination Winners 2026
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** Streamer Awards Nomination Winners 2026
+- **Texto en pantalla:** Streamer Awards Nomination Winners 2026
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=T6q9DJpWcDk
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -109,6 +168,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
+### WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westcol #reaction
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westcol #reaction
+- **Texto en pantalla:** WESTCOL REACCIONA A CAIDA DE PABLO ESCOBAR #shorts #shortvideo #westco
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=k0o5e1ch38U
+
 ### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -129,25 +198,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GlEa-jfCRNg
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
+- **Texto en pantalla:** ¡NO VAS A CREER ESTA BROMA! Yeferson Cossio lo hizo otra vez
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
-
-### 016 Rey De La City En Directo
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** 016 Rey De La City En Directo
-- **Texto en pantalla:** 016 Rey De La City En Directo
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
+- **Fuente original:** https://www.youtube.com/watch?v=lRsI_vvziVk
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -193,8 +252,10 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
-- **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-18
+- **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=xqt3A4wFV7k
+- **Streamer Awards Nomination Winners 2026** (candidata por revisar) — última detección: 2026-10-19
+  - https://www.youtube.com/watch?v=T6q9DJpWcDk
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
   - https://www.youtube.com/watch?v=dz5vTB_rdS8
 - **BaityBait abre un paquete & Peereira7 inicia Minecraft Mejores de streams** (candidata por revisar) — última detección: 2026-10-17
