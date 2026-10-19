@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 05:30 AM (hora de Colombia)
+Actualizado: 19/10/2026 07:36 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 11.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,40 +17,51 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: Ruisu
 - Publicado: 18/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.491
+- Vistas reportadas por YouTube: 36.456
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
+
+### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: ClipsdelChow
+- Publicado: 17/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 34.998
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Enano Clips
-- Publicado: 17/10/2026 07:00 PM
+- Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.347
+- Vistas reportadas por YouTube: 10.437
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMPLETO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Westcosiszzz
-- Publicado: 18/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=cp38RpYk1GA
-
-### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
+### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.455
+- Vistas reportadas por YouTube: 21.917
 - Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=m73k79se_t8
+- Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
+
+### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: CLIPS Streams
+- Creador relacionado en el título: Samulx
+- Canal que publico: CLIPS Streams
+- Publicado: 18/10/2026 09:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=IcBqL7qw09I
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
 - Categoria: Cuenta de clips
@@ -63,13 +74,57 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GlEa-jfCRNg
 
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestColClipsCol
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestColClipsCol
+- Publicado: 19/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 7
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
+
+### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=yqgptq4YMdU
+
+### 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=6NwHTgR2SdA
+
+### 016 Rey De La City En Directo
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: La Ganga en Clips
+- Publicado: 17/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
+
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 740
+- Vistas reportadas por YouTube: 772
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
@@ -87,6 +142,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
 
+### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
+- **Texto en pantalla:** STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
+
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -97,25 +162,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMPLETO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMPLETO
-- **Texto en pantalla:** WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMP
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- **Texto en pantalla:** ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cp38RpYk1GA
+- **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
 
-### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
-- **Texto en pantalla:** 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING B
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Texto en pantalla:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=m73k79se_t8
+- **Fuente original:** https://www.youtube.com/watch?v=IcBqL7qw09I
 
 ### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -126,6 +191,46 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GlEa-jfCRNg
+
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
+
+### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=yqgptq4YMdU
+
+### 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 😱
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=6NwHTgR2SdA
+
+### 016 Rey De La City En Directo
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** 016 Rey De La City En Directo
+- **Texto en pantalla:** 016 Rey De La City En Directo
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
