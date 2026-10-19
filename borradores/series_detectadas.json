@@ -1,6 +1,32 @@
 {
-  "actualizado": "2026-10-19T01:38:01.073017-05:00",
+  "actualizado": "2026-10-19T03:36:20.058307-05:00",
   "series": [
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-19T03:36:20.058307-05:00",
+      "canal_muestra": "Zona Spreen Momentos y Charlas",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=qL7ETNoHs3I",
+        "https://www.youtube.com/watch?v=z-Nosz_Op1U",
+        "https://www.youtube.com/watch?v=YjGav5KkFQc",
+        "https://www.youtube.com/watch?v=i5lre7HlrDo",
+        "https://www.youtube.com/watch?v=QsEpJ98eNss"
+      ]
+    },
+    {
+      "nombre": "STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-18T07:26:11.250146-05:00",
+      "ultima_deteccion": "2026-10-19T03:36:20.058307-05:00",
+      "canal_muestra": "Enano Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=kDIILuWbjXY"
+      ]
+    },
     {
       "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
       "tipo": "serie_o_tema_candidato",
@@ -10,32 +36,6 @@
       "canal_muestra": "ClipsdelChow",
       "enlaces": [
         "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-19T01:38:01.073017-05:00",
-      "canal_muestra": "Zona Spreen Momentos y Charlas",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=YjGav5KkFQc",
-        "https://www.youtube.com/watch?v=i5lre7HlrDo",
-        "https://www.youtube.com/watch?v=QsEpJ98eNss",
-        "https://www.youtube.com/watch?v=x8piGI30jN4",
-        "https://www.youtube.com/watch?v=PCn1TOPNwH8"
-      ]
-    },
-    {
-      "nombre": "STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-18T07:26:11.250146-05:00",
-      "ultima_deteccion": "2026-10-19T01:38:01.073017-05:00",
-      "canal_muestra": "Enano Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=kDIILuWbjXY"
       ]
     },
     {

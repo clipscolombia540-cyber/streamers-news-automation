@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 01:38 AM (hora de Colombia)
+Actualizado: 19/10/2026 03:36 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 1, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: ClipsdelChow
-- Publicado: 17/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.542
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
 ### El LAMENTABLE FINAL de MRSTIVEN
 - Categoria: Clip de terceros
@@ -27,40 +17,49 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: Ruisu
 - Publicado: 18/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.539
-- Puntaje heurístico de interés: 5
+- Vistas reportadas por YouTube: 31.249
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
+
+### GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: GirlOfNox Live
+- Publicado: 18/10/2026 08:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 695
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=PCn1TOPNwH8
+
+### The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Enano Clips
+- Publicado: 18/10/2026 06:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.824
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=z-Nosz_Op1U
+
+### Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: FanDeNephtunie
+- Publicado: 18/10/2026 06:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 516
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=qL7ETNoHs3I
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Enano Clips
-- Publicado: 18/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.149
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
-
-### Los Niños STREAMERS que se creen WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Gioopz
-- Publicado: 18/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.487
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=gEiBB_vzEDA
-
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
+- Vistas reportadas por YouTube: 10.308
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
 ### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - Categoria: Cuenta de clips
@@ -69,7 +68,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: WestColClipsCol
 - Publicado: 19/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
@@ -79,23 +78,13 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 674
+- Vistas reportadas por YouTube: 740
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- **Texto en pantalla:** STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
 ### El LAMENTABLE FINAL de MRSTIVEN
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -107,6 +96,36 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
 
+### GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
+- **Texto en pantalla:** GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=PCn1TOPNwH8
+
+### The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
+- **Texto en pantalla:** The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=z-Nosz_Op1U
+
+### Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
+- **Texto en pantalla:** Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=qL7ETNoHs3I
+
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,26 +135,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
-
-### Los Niños STREAMERS que se creen WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Los Niños STREAMERS que se creen WESTCOL
-- **Texto en pantalla:** Los Niños STREAMERS que se creen WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gEiBB_vzEDA
-
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
 
 ### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -159,7 +158,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Westcol sostiene que acumuló US$5 millones de forma legal a los 24 años y se compara con el capo Pablo Escobar - Agencia de Periodismo Investigativo** — 18/10/2026 08:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWG5BN01lM1VlSjNuS0NmZ2xucXU5YVp4ZWxOMXFJVm9Ib2NGUXlBMUx5bEJrbzhkNVowYWdpekpnQ0tDejJiSnBzdGIxclQwNWZySlRfMk5sYTMxZnRrVlZDbjNNS1FWbjdSYXlrWkpENTFhVGk1VWozTkROOHFqY1JKQ3R6ZjF4QUtuSlNDdjZtUTZhd3JSNV81Q1pWaWhGdjI2WnFnY3F6eWZ1NlhSWlNYSEotcWhHOFBFNjlwckdhQ2UyNEw4YjFDRmc3Wl9QNkpxM29NSHpmWXV3S0F1VUhFOXd1Y280eHNSbA?oc=5)
+- **[Creadores] Westcol sostiene que acumuló US$5 millones de forma legal a los 24 años y se compara con el capo Pablo Escobar - Agencia de Periodismo Investigativo** — 18/10/2026 08:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWG5BN01lM1VlSjNuS0NmZ2xucXU5YVp4ZWxOMXFJVm9Ib2NGUXlBMUx5bEJrbzhkNVowYWdpekpnQ0tDejJiSnBzdGIxclQwNWZySlRfMk5sYTMxZnRrVlZDbjNNS1FWbjdSYXlrWkpENTFhVGk1VWozTkROOHFqY1JKQ3R6ZjF4QUtuSlNDdjZtUTZhd3JSNV81Q1pWaWhGdjI2WnFnY3F6eWZ1NlhSWlNYSEotcWhHOFBFNjlwckdhQ2UyNEw4YjFDRmc3Wl9QNkpxM29NSHpmWXV3S0F1VUhFOXd1Y280eHNSbA?oc=5)
 - **[Creadores] ¿Petro tenía razón sobre los presos de Bukele? Lo que le dijo a Westcol y lo que anunció El Salvador - Minuto60** — 18/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDd2MmdCd3NTeUt3aWtYbzVmZ3p4ZWt6UVg5Z1dHTlY4OUtONUxxTFRoZ0RzQ0xDbWlpVnR5SmNBa2UzQkxnRlFFdjJYQVFCN1Fmb1NzZ0xPclJNMjlFVmVjMW92Z3RtLUllRWtHWVFtRDFKUVlpQlBycWE4UkcxNl91dGdPWlpXZk40eld1Y3pCZFFaVU9MbHRRVThIRXc?oc=5)
 - **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
 - **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
@@ -184,13 +183,13 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
-  - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-19
-  - https://www.youtube.com/watch?v=YjGav5KkFQc
-  - https://www.youtube.com/watch?v=i5lre7HlrDo
+  - https://www.youtube.com/watch?v=qL7ETNoHs3I
+  - https://www.youtube.com/watch?v=z-Nosz_Op1U
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=kDIILuWbjXY
+- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
+  - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=xqt3A4wFV7k
 - **STREAMERS REACT TO THE DEATH AND COSPLAY OF CRAFT FROM INVINCIBLE AND PLANTS VS. ZOMBIE** (candidata por revisar) — última detección: 2026-10-17
