@@ -1,6 +1,28 @@
 {
-  "actualizado": "2026-10-19T15:28:05.207729-05:00",
+  "actualizado": "2026-10-19T17:26:07.908919-05:00",
   "series": [
+    {
+      "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
+      "ultima_deteccion": "2026-10-19T17:26:07.908919-05:00",
+      "canal_muestra": "ClipsdelChow",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
+      ]
+    },
+    {
+      "nombre": "STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-18T07:26:11.250146-05:00",
+      "ultima_deteccion": "2026-10-19T17:26:07.908919-05:00",
+      "canal_muestra": "Enano Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=kDIILuWbjXY"
+      ]
+    },
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
@@ -14,28 +36,6 @@
         "https://www.youtube.com/watch?v=ttvcNn5FJdU",
         "https://www.youtube.com/watch?v=qL7ETNoHs3I",
         "https://www.youtube.com/watch?v=z-Nosz_Op1U"
-      ]
-    },
-    {
-      "nombre": "STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-17T11:22:08.053312-05:00",
-      "ultima_deteccion": "2026-10-19T15:28:05.207729-05:00",
-      "canal_muestra": "ClipsdelChow",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=Gz6XNFgpXKI"
-      ]
-    },
-    {
-      "nombre": "STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-18T07:26:11.250146-05:00",
-      "ultima_deteccion": "2026-10-19T13:29:13.106792-05:00",
-      "canal_muestra": "Enano Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=kDIILuWbjXY"
       ]
     },
     {
