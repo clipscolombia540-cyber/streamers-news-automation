@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 05:20 PM (hora de Colombia)
+Actualizado: 18/10/2026 07:32 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente por verificar: 1.
+Clips incluidos: 6.
+Noticias recientes: 5.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Bluer Pikmin
-- Publicado: 17/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 82.136
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=xqt3A4wFV7k
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.876
+- Vistas reportadas por YouTube: 33.426
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
@@ -37,85 +27,42 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.846
+- Vistas reportadas por YouTube: 9.447
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: ANDRI
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 38
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=x8piGI30jN4
-
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 334.791
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=2icuy8XmRKc
-
-### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+### WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 17/10/2026 09:00 PM
+- Publicado: 17/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.865
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=W2zKh8l7JDk
+- Vistas reportadas por YouTube: 19.557
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=A-FlPn9bj-o
+
+### WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 18/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.727
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=hQXNLbkhLzU
 
 ### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 17/10/2026 09:00 PM
+- Publicado: 17/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.664
+- Vistas reportadas por YouTube: 6.327
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=m73k79se_t8
-
-### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Moroclips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Moroclips
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.116
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: CLIPS Streams
-- Creador relacionado en el título: Samulx
-- Canal que publico: CLIPS Streams
-- Publicado: 18/10/2026 09:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=IcBqL7qw09I
-
-### 016 Rey De La City En Directo
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga en Clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: La Ganga en Clips
-- Publicado: 16/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=GZM1k1GAx14
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
@@ -123,23 +70,13 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 284
+- Vistas reportadas por YouTube: 416
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
-- **Texto en pantalla:** Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xqt3A4wFV7k
 
 ### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -161,35 +98,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
-- **Texto en pantalla:** AURON EN DEDSAFIO 4 🤯 (clip) en la Recta Final de la serie 💀
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=x8piGI30jN4
-
-### GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+### WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
-- **Texto en pantalla:** GRAND OPENING OF OUR NEW NIGHTCLUB IN MEDELLÍN "MIRANDA" | WESTCOL
+- **Título sugerido:** WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
+- **Texto en pantalla:** WESTCOL REACTS TO THE DEDSAFIO 4 AWARDS 🎉😂 ''DEDSAFIO AWARDS'' 🐀
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2icuy8XmRKc
+- **Fuente original:** https://www.youtube.com/watch?v=A-FlPn9bj-o
 
-### WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+### WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
-- **Texto en pantalla:** WESTCOL REACCIONA A ''CLIPS DE MIERD4'' DEL DEDSAFIO 4😂
+- **Título sugerido:** WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
+- **Texto en pantalla:** WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=W2zKh8l7JDk
+- **Fuente original:** https://www.youtube.com/watch?v=hQXNLbkhLzU
 
 ### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -200,36 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=m73k79se_t8
-
-### ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
-- **Texto en pantalla:** ✨WE'RE GOING HARD PEOPLE😂|Mrstiven Funny Moments🥵
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=mnc4q4t4yAI
-
-### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Texto en pantalla:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IcBqL7qw09I
-
-### 016 Rey De La City En Directo
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** 016 Rey De La City En Directo
-- **Texto en pantalla:** 016 Rey De La City En Directo
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GZM1k1GAx14
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -243,11 +140,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] ¿Petro tenía razón sobre los presos de Bukele? Lo que le dijo a Westcol y lo que anunció El Salvador - Minuto60** — 18/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDd2MmdCd3NTeUt3aWtYbzVmZ3p4ZWt6UVg5Z1dHTlY4OUtONUxxTFRoZ0RzQ0xDbWlpVnR5SmNBa2UzQkxnRlFFdjJYQVFCN1Fmb1NzZ0xPclJNMjlFVmVjMW92Z3RtLUllRWtHWVFtRDFKUVlpQlBycWE4UkcxNl91dGdPWlpXZk40eld1Y3pCZFFaVU9MbHRRVThIRXc?oc=5)
-- **[Creadores] Westcol aseguró que ganó más dinero que Pablo Escobar a los 24 años: "Lo hice legal" - Infobae** — 18/10/2026 02:16 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0tyMHA3bHRjekdzRVQyRERWNFluQ2k0V0lHcGoyM3M1VTNza3dJZkk0cFpuUDk5NDVWOFBjaTBBdXBlVWdDdmpSZTFITndTWWZ0WVJiR2tTYUpITlJmdmgxRUtnYXFDWXBGUXJvY3BUOHVfRXRBZnNyamtMM3BWd0ZoNHVBWG9kYnZMUjRsTndVSHloWWFLeXd4WlcwcHFkaWRpODBaWW16ZUVPUUF1YTBZV3JBZ3NkNnpHZEE1aExvSmxZ0gHfAUFVX3lxTE5ZOHNOWmZpSDhuVG9HVFZXNnZSemNaaTNucmdwTWFIclQ5S080cEZtQmxoRU1QZlNmTUVWVHJaY2VjTVFvd1VzdXYydlRvYzVTOXRiUldKS3JtRzlxQXJ3NERON2xyUmFpWllJQlc5Rk5sa0tydUJqTWJDWEFLVzV5VmdFYXFfWmhZbVFsdUtoX1N0QmlSNHFvUFBPU0F3ZjUwd1lzLVpPeGZuZXNwdDR4M194V3phLTFFZkQxWEhfNlE0MlpEZ3kyWjVWUldvMTFBUWVwZGZLMVhtZWpWZTg?oc=5)
+- **[Creadores] ¿Petro tenía razón sobre los presos de Bukele? Lo que le dijo a Westcol y lo que anunció El Salvador - Minuto60** — 18/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDd2MmdCd3NTeUt3aWtYbzVmZ3p4ZWt6UVg5Z1dHTlY4OUtONUxxTFRoZ0RzQ0xDbWlpVnR5SmNBa2UzQkxnRlFFdjJYQVFCN1Fmb1NzZ0xPclJNMjlFVmVjMW92Z3RtLUllRWtHWVFtRDFKUVlpQlBycWE4UkcxNl91dGdPWlpXZk40eld1Y3pCZFFaVU9MbHRRVThIRXc?oc=5)
+- **[Creadores] Westcol aseguró que ganó más dinero que Pablo Escobar a los 24 años: "Lo hice legal" - Infobae** — 18/10/2026 03:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0tyMHA3bHRjekdzRVQyRERWNFluQ2k0V0lHcGoyM3M1VTNza3dJZkk0cFpuUDk5NDVWOFBjaTBBdXBlVWdDdmpSZTFITndTWWZ0WVJiR2tTYUpITlJmdmgxRUtnYXFDWXBGUXJvY3BUOHVfRXRBZnNyamtMM3BWd0ZoNHVBWG9kYnZMUjRsTndVSHloWWFLeXd4WlcwcHFkaWRpODBaWW16ZUVPUUF1YTBZV3JBZ3NkNnpHZEE1aExvSmxZ0gHfAUFVX3lxTE5ZOHNOWmZpSDhuVG9HVFZXNnZSemNaaTNucmdwTWFIclQ5S080cEZtQmxoRU1QZlNmTUVWVHJaY2VjTVFvd1VzdXYydlRvYzVTOXRiUldKS3JtRzlxQXJ3NERON2xyUmFpWllJQlc5Rk5sa0tydUJqTWJDWEFLVzV5VmdFYXFfWmhZbVFsdUtoX1N0QmlSNHFvUFBPU0F3ZjUwd1lzLVpPeGZuZXNwdDR4M194V3phLTFFZkQxWEhfNlE0MlpEZ3kyWjVWUldvMTFBUWVwZGZLMVhtZWpWZTg?oc=5)
 - **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
 - **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
-- **[Creadores] Lonche de Huevito promete tapar baches en Los Mochis con recursos propios - Sinaloahoy** — 17/10/2026 01:20 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzYyVTFpMndNVXBMbUtvOExiVFJvb3N4aWdkQzFFMjQzTlJ2b01PMndZS0dQclVyVVN1VGpwRTZBSXlNcHdhN1FXOHliX29aZHM2OTc3UXItNEJ5NDkyMWVwbWhSZUowQi1EVWRoUmhLSjlSdmlHSDV1NW80UkprMlVRZk5GQ3QyN3lieFdyT0NLY0dEWmVrWC1KaVltOHhJNU9fWUFsVGF0VldYYXlpRA?oc=5)
 - **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 11:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
 
 ## Creadores principales vigilados
