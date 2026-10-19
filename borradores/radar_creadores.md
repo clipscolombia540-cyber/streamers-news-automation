@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 03:36 AM (hora de Colombia)
+Actualizado: 19/10/2026 05:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 6.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 1, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,39 +17,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 1, Emergente
 - Canal que publico: Ruisu
 - Publicado: 18/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31.249
+- Vistas reportadas por YouTube: 34.491
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
-
-### GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: GirlOfNox Live
-- Publicado: 18/10/2026 08:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 695
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=PCn1TOPNwH8
-
-### The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Enano Clips
-- Publicado: 18/10/2026 06:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.824
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=z-Nosz_Op1U
-
-### Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: FanDeNephtunie
-- Publicado: 18/10/2026 06:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 516
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=qL7ETNoHs3I
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -57,20 +27,41 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 1, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.308
+- Vistas reportadas por YouTube: 10.347
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+### WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMPLETO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Westcosiszzz
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=cp38RpYk1GA
+
+### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 17/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 7.455
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=m73k79se_t8
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestColClipsCol
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestColClipsCol
-- Publicado: 19/10/2026 12:00 AM
+- Publicado: 19/10/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- Enlace directo: https://www.youtube.com/watch?v=GlEa-jfCRNg
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
@@ -96,36 +87,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
 
-### GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- **Texto en pantalla:** GirlOfNox REACTS TO DEDSAFIO MINECRAFT 4 CLIPS | FINAL DAY
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=PCn1TOPNwH8
-
-### The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
-- **Texto en pantalla:** The FINAL DEATH of STAR in DEDSAFÍO 🤧❤️
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=z-Nosz_Op1U
-
-### Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
-- **Texto en pantalla:** Nephtunie reacciona a clips de DEDSAFIO MINECRAFT 4 - BOSS FIGHT
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=qL7ETNoHs3I
-
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -136,15 +97,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+### WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMPLETO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
+- **Título sugerido:** WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMPLETO
+- **Texto en pantalla:** WESTCOL reacciona a la HISTORIA de PABLO ESCOBAR 😳🔥 El documental COMP
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- **Fuente original:** https://www.youtube.com/watch?v=cp38RpYk1GA
+
+### 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING BUT EXOTIC CARS! 🤯
+- **Texto en pantalla:** 🚘💎 REYDELACITY VISITS THE MOST EXPENSIVE GARAGE IN COLOMBIA… NOTHING B
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=m73k79se_t8
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GlEa-jfCRNg
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
