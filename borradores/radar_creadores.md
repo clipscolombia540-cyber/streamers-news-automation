@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 11:31 PM (hora de Colombia)
+Actualizado: 19/10/2026 01:38 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.232
+- Vistas reportadas por YouTube: 34.542
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Ruisu
 - Publicado: 18/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.968
+- Vistas reportadas por YouTube: 24.539
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
 
@@ -37,9 +37,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.983
+- Vistas reportadas por YouTube: 10.149
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
+
+### Los Niños STREAMERS que se creen WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Gioopz
+- Publicado: 18/10/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9.487
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=gEiBB_vzEDA
 
 ### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
 - Categoria: Cuenta de clips
@@ -52,27 +62,16 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
 
-### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestColClipsCol
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestColClipsCol
-- Publicado: 18/10/2026 11:00 PM
+- Publicado: 19/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=wCF7J20N4QY
-
-### Westcol cuenta que El High esta hospitalizado
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips kick Latam
-- Creador relacionado en el título: Westcol
-- Canal que publico: Clips kick Latam
-- Publicado: 18/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=j5YDktlHH6g
+- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
@@ -80,7 +79,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 607
+- Vistas reportadas por YouTube: 674
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
@@ -118,6 +117,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
+### Los Niños STREAMERS que se creen WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Los Niños STREAMERS que se creen WESTCOL
+- **Texto en pantalla:** Los Niños STREAMERS que se creen WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gEiBB_vzEDA
+
 ### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -128,25 +137,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
 
-### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
-- **Texto en pantalla:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wCF7J20N4QY
-
-### Westcol cuenta que El High esta hospitalizado
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol cuenta que El High esta hospitalizado
-- **Texto en pantalla:** Westcol cuenta que El High esta hospitalizado
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=j5YDktlHH6g
+- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -185,12 +184,12 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-18
+- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-18
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=YjGav5KkFQc
   - https://www.youtube.com/watch?v=i5lre7HlrDo
-- **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-18
+- **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-18
   - https://www.youtube.com/watch?v=xqt3A4wFV7k
