@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/10/2026 09:26 PM (hora de Colombia)
+Actualizado: 18/10/2026 11:31 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 4.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: ClipsdelChow
 - Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.783
+- Vistas reportadas por YouTube: 34.232
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
+
+### El LAMENTABLE FINAL de MRSTIVEN
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: Ruisu
+- Publicado: 18/10/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 13.968
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -27,49 +37,50 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.702
+- Vistas reportadas por YouTube: 9.983
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### Los Niños STREAMERS que se creen WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Gioopz
-- Publicado: 18/10/2026 12:00 PM
+### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 17/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.589
+- Vistas reportadas por YouTube: 19
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=gEiBB_vzEDA
+- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
 
-### WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
+### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador/canal detectado: Cuenta de clips: WestColClipsCol
 - Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 17/10/2026 11:00 PM
+- Canal que publico: WestColClipsCol
+- Publicado: 18/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.853
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=hQXNLbkhLzU
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 18/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=yqgptq4YMdU
+- Enlace directo: https://www.youtube.com/watch?v=wCF7J20N4QY
+
+### Westcol cuenta que El High esta hospitalizado
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips kick Latam
+- Creador relacionado en el título: Westcol
+- Canal que publico: Clips kick Latam
+- Publicado: 18/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=j5YDktlHH6g
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 18/10/2026 12:00 PM
+- Publicado: 18/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 505
+- Vistas reportadas por YouTube: 607
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
@@ -87,6 +98,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
+### El LAMENTABLE FINAL de MRSTIVEN
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
+- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
+
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -97,35 +118,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### Los Niños STREAMERS que se creen WESTCOL
+### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
+
+### WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Los Niños STREAMERS que se creen WESTCOL
-- **Texto en pantalla:** Los Niños STREAMERS que se creen WESTCOL
+- **Título sugerido:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
+- **Texto en pantalla:** WESTCOL CUENTA QUE AIDA LE HIZO QUE LE GUSTARA EL VALLENATO 🤣😲
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gEiBB_vzEDA
+- **Fuente original:** https://www.youtube.com/watch?v=wCF7J20N4QY
 
-### WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
+### Westcol cuenta que El High esta hospitalizado
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
-- **Texto en pantalla:** WESTCOL IN THE FINAL CHAPTER OF DEDSAFIO 4😂 FULL VIDEO
+- **Título sugerido:** Westcol cuenta que El High esta hospitalizado
+- **Texto en pantalla:** Westcol cuenta que El High esta hospitalizado
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hQXNLbkhLzU
-
-### 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- **Texto en pantalla:** 9 minutos de bromas de Yeferson Cossio y su familia 🤪
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yqgptq4YMdU
+- **Fuente original:** https://www.youtube.com/watch?v=j5YDktlHH6g
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -139,11 +160,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Westcol sostiene que acumuló US$5 millones de forma legal a los 24 años y se compara con el capo Pablo Escobar - Agencia de Periodismo Investigativo** — 18/10/2026 08:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWG5BN01lM1VlSjNuS0NmZ2xucXU5YVp4ZWxOMXFJVm9Ib2NGUXlBMUx5bEJrbzhkNVowYWdpekpnQ0tDejJiSnBzdGIxclQwNWZySlRfMk5sYTMxZnRrVlZDbjNNS1FWbjdSYXlrWkpENTFhVGk1VWozTkROOHFqY1JKQ3R6ZjF4QUtuSlNDdjZtUTZhd3JSNV81Q1pWaWhGdjI2WnFnY3F6eWZ1NlhSWlNYSEotcWhHOFBFNjlwckdhQ2UyNEw4YjFDRmc3Wl9QNkpxM29NSHpmWXV3S0F1VUhFOXd1Y280eHNSbA?oc=5)
 - **[Creadores] ¿Petro tenía razón sobre los presos de Bukele? Lo que le dijo a Westcol y lo que anunció El Salvador - Minuto60** — 18/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDd2MmdCd3NTeUt3aWtYbzVmZ3p4ZWt6UVg5Z1dHTlY4OUtONUxxTFRoZ0RzQ0xDbWlpVnR5SmNBa2UzQkxnRlFFdjJYQVFCN1Fmb1NzZ0xPclJNMjlFVmVjMW92Z3RtLUllRWtHWVFtRDFKUVlpQlBycWE4UkcxNl91dGdPWlpXZk40eld1Y3pCZFFaVU9MbHRRVThIRXc?oc=5)
-- **[Creadores] Westcol aseguró que ganó más dinero que Pablo Escobar a los 24 años: "Lo hice legal" - Infobae** — 18/10/2026 03:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0tyMHA3bHRjekdzRVQyRERWNFluQ2k0V0lHcGoyM3M1VTNza3dJZkk0cFpuUDk5NDVWOFBjaTBBdXBlVWdDdmpSZTFITndTWWZ0WVJiR2tTYUpITlJmdmgxRUtnYXFDWXBGUXJvY3BUOHVfRXRBZnNyamtMM3BWd0ZoNHVBWG9kYnZMUjRsTndVSHloWWFLeXd4WlcwcHFkaWRpODBaWW16ZUVPUUF1YTBZV3JBZ3NkNnpHZEE1aExvSmxZ0gHfAUFVX3lxTE5ZOHNOWmZpSDhuVG9HVFZXNnZSemNaaTNucmdwTWFIclQ5S080cEZtQmxoRU1QZlNmTUVWVHJaY2VjTVFvd1VzdXYydlRvYzVTOXRiUldKS3JtRzlxQXJ3NERON2xyUmFpWllJQlc5Rk5sa0tydUJqTWJDWEFLVzV5VmdFYXFfWmhZbVFsdUtoX1N0QmlSNHFvUFBPU0F3ZjUwd1lzLVpPeGZuZXNwdDR4M194V3phLTFFZkQxWEhfNlE0MlpEZ3kyWjVWUldvMTFBUWVwZGZLMVhtZWpWZTg?oc=5)
 - **[Creadores] Lonche confirma bacheo en Los Mochis; gobierno de Ahome lo mira positivo - Noticiero Altavoz** — 17/10/2026 08:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1M2d2RmcU93REtsaVBzdE9XQ0R2QzgzelhVTkI0dm5UN1N6azN0c3Q4ZnZfNExvUk1sZ1MyRnJpZ29MRjQ1Sl9oSDhIMWtrMGtXa1BSb1dBNXBsbUwtenJZekJRc0w1ZXhwTWZSVGl2YTNXdWJhOU82UUpMeUpLNEQxUVJudGRoUmZaQ2lsaEVHTmhSRnQ0TmxIOTh4VEJfRnZB?oc=5)
 - **[Creadores] ¿Qué le pasa a Kika Nieto en redes? La youtuber habló de lo que vive desde hace casi cuatro años - Minuto60** — 17/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXlqbW1RQURLMG9HbXZTdUNVWTF5eE5HSEtGWnpfeklvWmhFVGNWUE9sV3pBR3dxOHFHaFY3bExMeWozT05pOEl2aFA5ZWtmVTROUk9WZmoyeVphLUlPLTZyVVVFbmo3VWR4M3p5VXhxTjJPMVl4UlJhSERsWGo1UTExRDZHQUJPX1VqaGhScmVYRU82enRka25IcmdZOTJfendWLU4zOGVDUTVCTk1INDh4bw?oc=5)
-- **[Creadores] Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity' - La FM** — 16/10/2026 11:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxONFc5SGhvblRBTmxubkdaMVRicFQ0WGRmbkRlUVFuc1JvY284aW9ubDRkaVBIMk16TkYxNEcxOXZuWmVtWWhwYzB4UENoS2pYbEhlXzd5cTdPYktvcHN4dXJiNE9ZcFFWNXdzZDZqS1lsazBsMmlkcUdnMGItM0d1RVQ3QjJGc3ZEQXlfTFNTSUFma3YyTVBKMlJiZlU1QlptclBiSG1DLS01SmxUYkZKem1MZFV0ZnJsMmfSAboBQVVfeXFMTUktNVgzVnZVa2tSRjl0dm00SlRBVTRiajY5bDVDRWl0RlJtalBGNER0Y3FyelV6OWcyc0hXQkJLV2tncU5HTFN4cHh6M3hqdERxVnpfOVc2aXhOclViNVFyZ2NoZHhkZ3hNMDl5OTQ3U0dJcmx3NGlYQldCeTVBTUhUTGRyWG54LUh1U3pKUjNLaWYxYUswbzBvX3BoWHEwU1AtejRBR0tmNW9LbHd5QmlRc3Q0MHZ2V0xB?oc=5)
 
 ## Creadores principales vigilados
 
