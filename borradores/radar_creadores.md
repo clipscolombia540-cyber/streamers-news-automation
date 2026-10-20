@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 05:26 PM (hora de Colombia)
+Actualizado: 19/10/2026 07:35 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: Ruisu
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.005
+- Vistas reportadas por YouTube: 44.316
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
-
-### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: ClipsdelChow
-- Publicado: 17/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.173
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=Gz6XNFgpXKI
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -37,51 +27,39 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.062
+- Vistas reportadas por YouTube: 11.193
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
+### coldi destroza al team minitas 1 vs 4 en el dedsafio 🦦 | #Minecraft #ElDedsafio #Clips
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Tatán Franko
-- Publicado: 17/10/2026 07:00 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: QSMP & Clips:
+- Publicado: 19/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.149
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=YZXHoxmscaI
+- Enlace directo: https://www.youtube.com/watch?v=UP5iWIdzZNo
 
-### WESTCOL | LE RESPONDIÓ A HERRERA
+### REYDELACITY ROMPE EL SILENCIO SOBRE LA POLÉMICA CON DOMIILOL Y DOMIDIOS
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: La Zona del Stream
-- Publicado: 19/10/2026 05:00 PM
+- Creador/canal detectado: Rey de la City
+- Canal que publico: WagsonX
+- Publicado: 19/10/2026 07:13 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 26
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6fKiNDLUDsU
+- Enlace directo: https://www.youtube.com/watch?v=09s72N-hOOs
 
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 17/10/2026 07:00 PM
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
-
-### MrStivenTC apoya a Parcero en las semifinales 🏆
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Parcero Clips 🔥
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: El Parcero Clips 🔥
-- Publicado: 19/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=ok_2gOq6ALM
+- Vistas reportadas por YouTube: 17
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
@@ -89,7 +67,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: basuquito
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 952
+- Vistas reportadas por YouTube: 966
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
@@ -107,16 +85,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
 
-### STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- **Texto en pantalla:** STREAMERS REACT TO GIGI THE BUNNY'S LOW-BUDGET COSPLAY BY CRAFT
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Gz6XNFgpXKI
-
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -127,45 +95,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### coldi destroza al team minitas 1 vs 4 en el dedsafio 🦦 | #Minecraft #ElDedsafio #Clips
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
-- **Texto en pantalla:** ¿SE ACABA EL QUESO? 🧀😱 WESTCOL HABLA DE VIVIR EN MADRID
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** coldi destroza al team minitas 1 vs 4 en el dedsafio 🦦 | #Minecraft #ElDedsafio #Clips
+- **Texto en pantalla:** coldi destroza al team minitas 1 vs 4 en el dedsafio 🦦 | #Minecraft #E
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YZXHoxmscaI
+- **Fuente original:** https://www.youtube.com/watch?v=UP5iWIdzZNo
 
-### WESTCOL | LE RESPONDIÓ A HERRERA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### REYDELACITY ROMPE EL SILENCIO SOBRE LA POLÉMICA CON DOMIILOL Y DOMIDIOS
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL | LE RESPONDIÓ A HERRERA
-- **Texto en pantalla:** WESTCOL | LE RESPONDIÓ A HERRERA
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY ROMPE EL SILENCIO SOBRE LA POLÉMICA CON DOMIILOL Y DOMIDIOS
+- **Texto en pantalla:** REYDELACITY ROMPE EL SILENCIO SOBRE LA POLÉMICA CON DOMIILOL Y DOMIDIO
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6fKiNDLUDsU
+- **Fuente original:** https://www.youtube.com/watch?v=09s72N-hOOs
 
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
-
-### MrStivenTC apoya a Parcero en las semifinales 🏆
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC apoya a Parcero en las semifinales 🏆
-- **Texto en pantalla:** MrStivenTC apoya a Parcero en las semifinales 🏆
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ok_2gOq6ALM
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -181,7 +139,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 - **[Creadores] Donación en especie y proceso transparente: Ahome da luz verde a “Lonche de Huevito” para reparar vialidades - Viva la Noticia** — 19/10/2026 03:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2xmZFhOR2NFOWFlQWluV184QVlVMUlyQUd2ckZWS1RGMm9VUG80N1Ixc0tTcHpYR3F0bDdlQ0FOU29hRS1KcXFjUE5iUndUblBiMERNWHQwS3RFSTE4enpMelpxLXpGWHJzMTUzZzEwbmxFMEM5OVZfUEFoQlBNSy1QS3ZERlZUYmtGdWpxZ194MkRyRTRUaERrallTYl9zX25lYVFVdkRmbG1kYi1POTVTYmlkSmNSWUQwVkxnVGU4VlBDTXZlVlhwdw?oc=5)
 - **[Creadores] “Blessd y Westcol me lo dañaron”: Camilo Cifuentes sorprende bailando reguetón - Eluniversal.com.co** — 19/10/2026 03:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEZJZkNLOE95YjN6ZllQN1hxVlNfb2cxc1FEbWpfZEp6YWhHNXFRRFJzb1NZa25OSGVicFNHY203LTRTaXp4WU1ZWng1bE56YVFrVEdlajdsaFpqUnpTQXRPeTZia29BTWxscGh2SkJQTTFlM3ZteWNWMmRDV215Z0ZWeVc5TVV1MHZ2N1NYNngwbTVjOFhfRG42YTI0VXgtYU5iT0tUVmphMWNkcHNTUU1jZGdqNkRQYy1QbnJjdGxaZVZQZkdv?oc=5)
-- **[Creadores] Ya hubo videollamada con Lonche de Huevito por los baches: Antonio Menéndez - Luz Noticias** — 19/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1Mwc19BaW4yNFFHRzBMVXY3QU5kLWtuTXFCc2pqVUFPT01mcGZtQ0NXYnFXUzhFOTJ1dnFDYW5oRDF1by1qeEQ3RkgwQU5rQTFSbUJOekN5MEF5bDBpUTVneWRKMFRZcGxXckowWkdDTnBGNlptVFJ0bFgwaXFhbFZIZFhGM1VzUldWdlROLTlReFV4Yk1lS3RZQkFLdTlqUUUwV2JPSWFia1hqVzVPempoUWZPT0dKWkhFR3pvNEptY0JPV0R5MnJNQdIBywFBVV95cUxPa1Mwc19BaW4yNFFHRzBMVXY3QU5kLWtuTXFCc2pqVUFPT01mcGZtQ0NXYnFXUzhFOTJ1dnFDYW5oRDF1by1qeEQ3RkgwQU5rQTFSbUJOekN5MEF5bDBpUTVneWRKMFRZcGxXckowWkdDTnBGNlptVFJ0bFgwaXFhbFZIZFhGM1VzUldWdlROLTlReFV4Yk1lS3RZQkFLdTlqUUUwV2JPSWFia1hqVzVPempoUWZPT0dKWkhFR3pvNEptY0JPV0R5MnJNQQ?oc=5)
+- **[Creadores] Ya hubo videollamada con Lonche de Huevito por los baches: Antonio Menéndez - Luz Noticias** — 19/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVzJzWnBzWVBEdjBhc2xOQ0tUQUxFMll1dUxCX1pENS1odklGYXBfQ2ZzWnhHQy1jNVdXNjFfUk5TaHZTZ0FNQ0ZhNFJfY2FOTFFPaXRoUlhSa0NsbEc1Q201MW1yS3ZJOW1HbUhDcnVxVDZkQW01MkJKalhtUXJuUm1sQ2VJWlExLUJMTDlrYU54eFpiQ19MNURLaDM5czRHRmkwaENyaUhWNWw2djVWTUJoZjRBcVg1VnFVenpJZG1EYlBTYmfSAcsBQVVfeXFMT2tTMHNfQWluMjRRR0cwTFV2N0FOZC1rbk1xQnNqalVBT09NZnBmbUNDV2JxV1M4RTkydXZxQ2FuaEQxdW8tanhEN0ZIMEFOa0ExUm1CTnpDeTBBeWwwaVE1Z3lkSjBUWXBsV3JKMFpHQ05wRjZabVRSdGxYMGlxYWxWSGRYRjNVc1JXVnZUTi05UXhVeGJNZUt0WUJBS3U5alFFMFdiT0lhYmtYalc1T3pqaFFmT09HSlpIRUd6bzRKbWNCT1dEeTJyTUE?oc=5)
 - **[Creadores] La Liendra se hizo cambio extremo de imagen y sorprendió a sus seguidores: así luce ahora - La Kalle** — 19/10/2026 02:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRdIB7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRQ?oc=5)
 - **[Creadores] La Liendra se hizo cambio extremo de imagen y sorprendió a sus seguidores: así luce ahora - La Kalle** — 19/10/2026 02:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcHp5T3VCMFRmamtKMTlhVDdwSTRFTnRaOVEzNW1HMTRTa093N05xS2g0TlRjSjBxaXBWcGNKV3ptU05mbVMyV2JHRTNJZFpfeHo2R05fbDFPS3JJSUZUaVNFV0psbEN1WTNZNWEtZ0NCVEtMb1lpUERPaW9NRkp3Ylh4MUU3dlR0TXhhSzdPUE82UlowVm1hRXItRUNWakIxSkcydXlyRHF6SWVMcW1pcERreWMwTldubVdqa0ctT0pOanNwMVhmSmhGLWZOR2piUnRHanNLSEF3LXZUSzd1U1dB0gHvAUFVX3lxTE1yVjNVdno4V2dYVDUyMmV6aWJObHR5QXlxYjI2aTg3ZlBOZGhtbFNDdURtRXZoc2hvZWlWaG4zSXg4S0NYMHJZSnhOeHhjWnNFZGFUT0s5NEdSV3pCTElrY2gwN1dEYmt1QUMwbm4yLXI3S2xBRXJVcFZaYm0yVjFXYWZRRkZQcTM5R3JLcXQzN1BLbmFUWFNSZWFOTjhhbnJGN1hvX255R1lBVFVWSERSSWk4V3R2TWpkcVdWcXVxQzBlVW14d1MxWk5vR0tqOFI2eTVCVDJ5QzI2WHhaaWFJc3dDUDBORklhSktJSldF?oc=5)
 - **[Creadores] ¿Más plata que Escobar? Westcol soltó una confesión que dejó a más de uno boquiabierto - Colombia.com** — 19/10/2026 09:24 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlJwTkhPTjhOeHFVTXNtWDVlbll2bHpVaUNiR2VIVmdWSWxFRW5sc1lvTy16Vy11LTJBTjNfNmJncDJuMFF2NGpIRkZYcVo4M2tLcWtCNUJfTjBiU0tWYmJ1a2NKVWgtellIYUNrVmtLVFk0elU4MEozdXhFMzg2ei1ZTTgwbUJpdDdvZE1xWXlldlVreTgzeF85YXhtYWlwYUxHTVh3YWs4N2ZDOHhINUpRMjU0d1RTZjBMcTNGb3UteGZub1dOdlFzbzUyX0tx?oc=5)
@@ -207,13 +165,13 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
-  - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-19
+  - https://www.youtube.com/watch?v=UP5iWIdzZNo
   - https://www.youtube.com/watch?v=sYImObCTVco
-  - https://www.youtube.com/watch?v=nP4LsAwJh6M
+- **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
+  - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=xqt3A4wFV7k
 - **Streamer Awards Nomination Winners 2026** (candidata por revisar) — última detección: 2026-10-19
