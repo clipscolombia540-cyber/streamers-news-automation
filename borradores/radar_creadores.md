@@ -1,25 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 03:26 PM (hora de Colombia)
+Actualizado: 20/10/2026 05:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 10.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### El LAMENTABLE FINAL de MRSTIVEN
+### My 2026 Streamer Award Winners
 - Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Ruisu
-- Publicado: 19/10/2026 07:00 PM
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: DrDonut Clips
+- Publicado: 20/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 54.146
+- Vistas reportadas por YouTube: 27.833
 - Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
+- Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -27,9 +27,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.278
+- Vistas reportadas por YouTube: 12.346
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
+
+### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: G'CLIPS
+- Publicado: 20/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 233
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - Categoria: Clip de terceros
@@ -37,9 +47,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.518
+- Vistas reportadas por YouTube: 4.141
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
+
+### RDJAVI LE DICE LAMBON A REY DE LA CITY
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: RobertRD Vlogs
+- Publicado: 20/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=UJtBEA0BJpI
 
 ### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
 - Categoria: Cuenta de clips
@@ -57,7 +77,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Creador/canal detectado: Cuenta de clips: WestClipsZone
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestClipsZone
-- Publicado: 20/10/2026 03:01 PM
+- Publicado: 20/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 1
@@ -68,35 +88,45 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Creador/canal detectado: Cuenta de clips: Paisa Clips
 - Creador relacionado en el título: Westcol
 - Canal que publico: Paisa Clips
-- Publicado: 20/10/2026 03:16 PM
+- Publicado: 20/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=--Y_Lkh23IU
 
-### LA NUEVA GENERACIÓN DE STREAMERS
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Qüentin
-- Canal que publico: Qüentin
-- Publicado: 19/10/2026 09:00 PM
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=bSHqjlin8-w
+- Vistas reportadas por YouTube: 1.166
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
+
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 19/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 362
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### El LAMENTABLE FINAL de MRSTIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### My 2026 Streamer Award Winners
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
-- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** My 2026 Streamer Award Winners
+- **Texto en pantalla:** My 2026 Streamer Award Winners
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
+- **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -108,6 +138,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
+### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- **Texto en pantalla:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
+
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -117,6 +157,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
+
+### RDJAVI LE DICE LAMBON A REY DE LA CITY
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** RDJAVI LE DICE LAMBON A REY DE LA CITY
+- **Texto en pantalla:** RDJAVI LE DICE LAMBON A REY DE LA CITY
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=UJtBEA0BJpI
 
 ### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -148,25 +198,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=--Y_Lkh23IU
 
-### LA NUEVA GENERACIÓN DE STREAMERS
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Qüentin? 👀
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Qüentin.
-- **Título sugerido:** LA NUEVA GENERACIÓN DE STREAMERS
-- **Texto en pantalla:** LA NUEVA GENERACIÓN DE STREAMERS
-- **Descripción:** Fragmento relacionado con Emergente: Qüentin. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=bSHqjlin8-w
+- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
+
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Noticias y contexto
 
+- **[Creadores] De Tulio Recomienda a Westcol: iinfluencers/i mueven más de $470.000 millones al año en Colombia - Yahoo** — 20/10/2026 03:13 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjNlT0NHLWZpdXN0V010WEVvYkZCTWdkM0JwNWpSLWdzVVpPeDFMTzZ2NVN6WHlLY1EyTm5CN1BjNnRWVzJ5UFlOMF9vTnFCdE5GVHJSTzc4RzZzT05HbzhNc1B0elpkUjB2aXpfM0x5aDhWSVJ1RXhqdkVpSkxVNUlmQm5Za2lYUEF4bml4UmU?oc=5)
+- **[Creadores] La Liendra conmovió al contar la lucha de su hermana mayor contra las drogas - Noticias RCN** — 20/10/2026 02:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2VVWnlIRnNuWTZBWTNMLXMwZHZLQl9sXzVLX1JhZjVIcUNaN3RZSlRYb1k2Sk05V1NTNVA4WTRfY3R1LWJWSUI5ckVPZDB5UjhuRUEyUGJWanRObUFUM3g4T09zMTN2eGFTbDRpTk5ZQ09wYWlraGlNdEtEZ2EtOW5yNTZmR2ZSWFVmOXltQWlhblVtNWNoY3JHdFV1Y3dFb2Qw0gGjAUFVX3lxTFA3d04wckExand3cVp0YkU0SjJKZzY3dXNzQ2VCbDJGZUltQjJQeFhMQkEwN2Y4ZGE1Q0I5LWFpaVVMa1FHM2tMS28wQWNtMHZrLWNpbFBoZEEzRzVSdjZZTFlrSkhEYy1nRDRtV3lQY2Via1ZrNzJjZm15N0ZBV0czUEluX01Id2lVUHVhTHZhTlJzMjZ3ampQQUpuMFE5allIZUE?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 02:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
-- **[Creadores] La Liendra se mostró emotivo tras reencontrarse con su hermana mayor, afectada por las adicciones a las drogas: “Estaba a punto de perderla” - Infobae** — 20/10/2026 02:39 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgJBVV95cUxOQTZnNnJrZ0V0Z1YtV3g1d2RNdk9xX2ZMWHliaHhMeklyYl8xbHdhYnM5c3hsWkZWRDJ4N2Q1SWtvQnE5UmlwT19nbnU2VGFaemlHcnZKTjY4TEViQzR3ZWhMdkc5QmtnaGIyOTJEVnpGZEpQOG1wTEdDOXp6QWRKMUswWTJod29CSXdxdmU5Sl9zQ2xjT3l3a21ORjZENzNZdUExNnFEd3FvcmlsYzFYc2YzWUZWYjB6Znh2TlM0NDVWQ2o2T01vZVJtbkMxZ055WXBXRU5pUTk0OWpqQ19tTkhpb2VkdDdhZUtKemNac0pRRDNBa2MwazZpS3k0blY5VVIwTHdOMUFFWFoxQXfSAagCQVVfeXFMTjF0dzZramJIRXk1d1NiX201LUthc0dma3FzTVJaZ3dWWXZQaEJ5U1FuWDhjRUdWQldVNzNzbjQ4LWFSSlNKa1BBeWRxN1RlMW5aeUUyTWc5Z1QyNm9xTExMZ2p5eTJVLVZnckZvaFBfUzYwRGN3YkxhaWlJdnpvblRySjk0eTd6Sk5zaWVsVzMzRGhZMVh2d1JJOXhLVGZiYmowLUVKWDZxZFVvZ0xMSXlRclQ5YlZLby0wMHNmakVvaGZmS2JwUHRBbVB5cVpqOFEyWUIxTHVSM01VWDhkSXBJSlk0TGljRUZYOEtpSDlmeUFQdGRVYkJUVFFnZ0h0djJQN0Jha1VyMFhQMU5ZbXN6c0FVM1FJOGZmVkxOQ0RlWDFGWUtlb0k?oc=5)
+- **[Creadores] La Liendra se mostró emotivo tras reencontrarse con su hermana mayor, afectada por las adicciones a las drogas: “Estaba a punto de perderla” - Infobae** — 20/10/2026 02:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgJBVV95cUxOQTZnNnJrZ0V0Z1YtV3g1d2RNdk9xX2ZMWHliaHhMeklyYl8xbHdhYnM5c3hsWkZWRDJ4N2Q1SWtvQnE5UmlwT19nbnU2VGFaemlHcnZKTjY4TEViQzR3ZWhMdkc5QmtnaGIyOTJEVnpGZEpQOG1wTEdDOXp6QWRKMUswWTJod29CSXdxdmU5Sl9zQ2xjT3l3a21ORjZENzNZdUExNnFEd3FvcmlsYzFYc2YzWUZWYjB6Znh2TlM0NDVWQ2o2T01vZVJtbkMxZ055WXBXRU5pUTk0OWpqQ19tTkhpb2VkdDdhZUtKemNac0pRRDNBa2MwazZpS3k0blY5VVIwTHdOMUFFWFoxQXfSAagCQVVfeXFMTjF0dzZramJIRXk1d1NiX201LUthc0dma3FzTVJaZ3dWWXZQaEJ5U1FuWDhjRUdWQldVNzNzbjQ4LWFSSlNKa1BBeWRxN1RlMW5aeUUyTWc5Z1QyNm9xTExMZ2p5eTJVLVZnckZvaFBfUzYwRGN3YkxhaWlJdnpvblRySjk0eTd6Sk5zaWVsVzMzRGhZMVh2d1JJOXhLVGZiYmowLUVKWDZxZFVvZ0xMSXlRclQ5YlZLby0wMHNmakVvaGZmS2JwUHRBbVB5cVpqOFEyWUIxTHVSM01VWDhkSXBJSlk0TGljRUZYOEtpSDlmeUFQdGRVYkJUVFFnZ0h0djJQN0Jha1VyMFhQMU5ZbXN6c0FVM1FJOGZmVkxOQ0RlWDFGWUtlb0k?oc=5)
 - **[Creadores] Aunque Westcol se alió con Win, le montó competencia y transmitirá el partido del año: ya tiene permiso de La Liga - Publimetro Colombia** — 20/10/2026 11:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdEtXbmF6b0NZZFN4eDJ5RG1ZU1p1TmJzMTF2Q2t6S0RVNU9KQ2c0RnBTeUtQendxeUotbWdxZDZ4ZHEyWlA1aUtMOUthTUpPWVk2cnpXYURIbjFoUWNKd0MxVDJ0bldETmZsYm5NNGVUaUI1TkdhODRCalRwcU1oN1FPel9LLWZiWHZCUGR1MlpPMTlnU3lsVzVCcFpJbnN1NXNkQm9OVWFfZDIyZ1VoNXY0SDhHY25aM0JpNGRGTHNZWlZqTmZROWlqNV9WVkZCeHlpbE1kVHZqMFNSa05QY3dNeVQ1QXlEc05uUlVGU0E?oc=5)
 - **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
 - **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
-- **[Creadores] ¡Cambio extremo! La Liendra mostró el antes y después de su transformación: así luce - Noticias RCN** — 19/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXV0bXhQRE9EYUJPNlVGVGFPTldFSTdaOXlwdVp1SGNsWjZUOVMtV0lZRHNscEYzX2lqcmg3aWJvNFc2azFwOXU4ZnJlUVRPZ0hTazIwWVJrblFRYXNTT2dXbW8xZHg0WEhHRmlNemFHVDZxb1NzaDg1dG84ZXNQdXBkb2loVWdI0gGIAUFVX3lxTE9aellnUG5NeGc0OThtM2lCdXNFajhPWVhBd0k2VUxiT2hidkFWNWU3clhKQ3V2MnotMjRvLXNuYjg5aFFkWXZsdEtTUW03cFBQaEFjQUEyM19OZmhZMzZwVGE1czV6VU1fY0dqWWhYNlBFZ0JTRVMzTFhybnJuSnhEc0l5ZWZ6eXU?oc=5)
-- **[Creadores] WestCol reveló la millonada que ganó a sus 24 años y la cifra sorprendió a todos: "Es legal" - LOS40** — 19/10/2026 06:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeThacUFPM2hiX2I0QnctbzI2RkgtMkZfMm9MV1N0Qmh1VnViallrWTh2aUNfOFBZQUgwRGUtZG9PcXB5SEQ1T0tERFcya3BwTGMwMFpRajRqWkJfdFd1QTJxbjQzcEdfYVprTUVfbjVlVHF3UTNGNEF5N09YcWN6U0dfRXE5UjVRRkJOb3V1MTJseUJpdTB2cEFSM09aNHR6b0VzRWQ0dGlrQzIwY1pHcGk4cm8ySnJfNl9yLWlGeHVrZmJpNnpLZXRBOFU3SXFjb0xN0gHTAUFVX3lxTFB5OFpxQU8zaGJfYjRCdy1vMjZGSC0yRl8yb0xXU3RCaHVWdWJqWWtZOHZpQ184UFlBSDBEZS1kb09xcHlIRDVPS0REVzJrcHBMYzAwWlFqNGpaQl90V3VBMnFuNDNwR19hWmtNRV9uNWVUcXdRM0Y0QXk3T1hxY3pTR19FcTlSNVFGQk5vdXUxMmx5Qml1MHZwQVIzT1o0dHpvRXNFZDR0aWtDMjBjWkdwaThybzJKcl82X3ItaUZ4dWtmYmk2ektldEE4VTdJcWNvTE0?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
 
 ## Creadores principales vigilados
@@ -194,8 +254,10 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-20
+  - https://www.youtube.com/watch?v=Jx4JS4wMFw0
   - https://www.youtube.com/watch?v=i5lre7HlrDo
-  - https://www.youtube.com/watch?v=bHeSNntOfOY
+- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-20
+  - https://www.youtube.com/watch?v=E6bU1L-p_7c
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
