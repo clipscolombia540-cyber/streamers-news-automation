@@ -1,25 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 09:26 PM (hora de Colombia)
+Actualizado: 19/10/2026 11:27 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 3.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1.
+Distribución por categoría: Clip de terceros: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### El LAMENTABLE FINAL de MRSTIVEN
+### DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
 - Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Ruisu
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Micti Clips 🎬
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 45.655
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
+- Vistas reportadas por YouTube: 206
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=0--ISWt53zs
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -27,34 +27,33 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1.
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.381
+- Vistas reportadas por YouTube: 11.680
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestColClipsCol
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestColClipsCol
-- Publicado: 18/10/2026 11:00 PM
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- Vistas reportadas por YouTube: 108
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### El LAMENTABLE FINAL de MRSTIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
-- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Texto en pantalla:** DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
+- **Fuente original:** https://www.youtube.com/watch?v=0--ISWt53zs
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -66,24 +65,24 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Noticias y contexto
 
 - **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
 - **[Creadores] ¡Cambio extremo! La Liendra mostró el antes y después de su transformación: así luce - Noticias RCN** — 19/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXV0bXhQRE9EYUJPNlVGVGFPTldFSTdaOXlwdVp1SGNsWjZUOVMtV0lZRHNscEYzX2lqcmg3aWJvNFc2azFwOXU4ZnJlUVRPZ0hTazIwWVJrblFRYXNTT2dXbW8xZHg0WEhHRmlNemFHVDZxb1NzaDg1dG84ZXNQdXBkb2loVWdI0gGIAUFVX3lxTE9aellnUG5NeGc0OThtM2lCdXNFajhPWVhBd0k2VUxiT2hidkFWNWU3clhKQ3V2MnotMjRvLXNuYjg5aFFkWXZsdEtTUW03cFBQaEFjQUEyM19OZmhZMzZwVGE1czV6VU1fY0dqWWhYNlBFZ0JTRVMzTFhybnJuSnhEc0l5ZWZ6eXU?oc=5)
+- **[Creadores] WestCol reveló la millonada que ganó a sus 24 años y la cifra sorprendió a todos: "Es legal" - LOS40** — 19/10/2026 06:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeThacUFPM2hiX2I0QnctbzI2RkgtMkZfMm9MV1N0Qmh1VnViallrWTh2aUNfOFBZQUgwRGUtZG9PcXB5SEQ1T0tERFcya3BwTGMwMFpRajRqWkJfdFd1QTJxbjQzcEdfYVprTUVfbjVlVHF3UTNGNEF5N09YcWN6U0dfRXE5UjVRRkJOb3V1MTJseUJpdTB2cEFSM09aNHR6b0VzRWQ0dGlrQzIwY1pHcGk4cm8ySnJfNl9yLWlGeHVrZmJpNnpLZXRBOFU3SXFjb0xN0gHTAUFVX3lxTFB5OFpxQU8zaGJfYjRCdy1vMjZGSC0yRl8yb0xXU3RCaHVWdWJqWWtZOHZpQ184UFlBSDBEZS1kb09xcHlIRDVPS0REVzJrcHBMYzAwWlFqNGpaQl90V3VBMnFuNDNwR19hWmtNRV9uNWVUcXdRM0Y0QXk3T1hxY3pTR19FcTlSNVFGQk5vdXUxMmx5Qml1MHZwQVIzT1o0dHpvRXNFZDR0aWtDMjBjWkdwaThybzJKcl82X3ItaUZ4dWtmYmk2ektldEE4VTdJcWNvTE0?oc=5)
 - **[Creadores] Donación en especie y proceso transparente: Ahome da luz verde a “Lonche de Huevito” para reparar vialidades - Viva la Noticia** — 19/10/2026 03:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2xmZFhOR2NFOWFlQWluV184QVlVMUlyQUd2ckZWS1RGMm9VUG80N1Ixc0tTcHpYR3F0bDdlQ0FOU29hRS1KcXFjUE5iUndUblBiMERNWHQwS3RFSTE4enpMelpxLXpGWHJzMTUzZzEwbmxFMEM5OVZfUEFoQlBNSy1QS3ZERlZUYmtGdWpxZ194MkRyRTRUaERrallTYl9zX25lYVFVdkRmbG1kYi1POTVTYmlkSmNSWUQwVkxnVGU4VlBDTXZlVlhwdw?oc=5)
 - **[Creadores] “Blessd y Westcol me lo dañaron”: Camilo Cifuentes sorprende bailando reguetón - Eluniversal.com.co** — 19/10/2026 03:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEZJZkNLOE95YjN6ZllQN1hxVlNfb2cxc1FEbWpfZEp6YWhHNXFRRFJzb1NZa25OSGVicFNHY203LTRTaXp4WU1ZWng1bE56YVFrVEdlajdsaFpqUnpTQXRPeTZia29BTWxscGh2SkJQTTFlM3ZteWNWMmRDV215Z0ZWeVc5TVV1MHZ2N1NYNngwbTVjOFhfRG42YTI0VXgtYU5iT0tUVmphMWNkcHNTUU1jZGdqNkRQYy1QbnJjdGxaZVZQZkdv?oc=5)
 - **[Creadores] La Liendra se hizo cambio extremo de imagen y sorprendió a sus seguidores: así luce ahora - La Kalle** — 19/10/2026 02:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRdIB7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRQ?oc=5)
-- **[Creadores] ¿Más plata que Escobar? Westcol soltó una confesión que dejó a más de uno boquiabierto - Colombia.com** — 19/10/2026 09:24 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlJwTkhPTjhOeHFVTXNtWDVlbll2bHpVaUNiR2VIVmdWSWxFRW5sc1lvTy16Vy11LTJBTjNfNmJncDJuMFF2NGpIRkZYcVo4M2tLcWtCNUJfTjBiU0tWYmJ1a2NKVWgtellIYUNrVmtLVFk0elU4MEozdXhFMzg2ei1ZTTgwbUJpdDdvZE1xWXlldlVreTgzeF85YXhtYWlwYUxHTVh3YWs4N2ZDOHhINUpRMjU0d1RTZjBMcTNGb3UteGZub1dOdlFzbzUyX0tx?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
 
 ## Creadores principales vigilados
@@ -109,8 +108,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-19
+  - https://www.youtube.com/watch?v=0--ISWt53zs
   - https://www.youtube.com/watch?v=UP5iWIdzZNo
-  - https://www.youtube.com/watch?v=sYImObCTVco
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
