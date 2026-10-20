@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 09:29 AM (hora de Colombia)
+Actualizado: 20/10/2026 11:29 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 7.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 1, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.176
+- Vistas reportadas por YouTube: 12.147
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
@@ -27,42 +27,40 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 08:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 720
-- Puntaje heurístico de interés: 1
+- Vistas reportadas por YouTube: 1.668
+- Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 18/10/2026 07:00 PM
+### MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Maylo
+- Publicado: 20/10/2026 10:53 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
-
-### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcolclips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcolclips
-- Publicado: 20/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=s7VDqWHZPS4
+- Enlace directo: https://www.youtube.com/watch?v=gt8BlGRGrtk
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+### HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestColClipsCol
+- Creador/canal detectado: Cuenta de clips: Zona 10 Clips
 - Creador relacionado en el título: Westcol
-- Canal que publico: WestColClipsCol
+- Canal que publico: Zona 10 Clips
+- Publicado: 20/10/2026 11:03 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=RvogZ377MpY
+
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
 - Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- Vistas reportadas por YouTube: 1.097
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - Categoria: Emergente por verificar
@@ -73,6 +71,16 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Vistas reportadas por YouTube: 246
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
+
+### LA NUEVA GENERACIÓN DE STREAMERS
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Qüentin
+- Canal que publico: Qüentin
+- Publicado: 19/10/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 28
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=bSHqjlin8-w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -98,35 +106,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
-
-### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+### MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
-- **Texto en pantalla:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Título sugerido:** MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
+- **Texto en pantalla:** MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=s7VDqWHZPS4
+- **Fuente original:** https://www.youtube.com/watch?v=gt8BlGRGrtk
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+### HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
+- **Título sugerido:** HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
+- **Texto en pantalla:** HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- **Fuente original:** https://www.youtube.com/watch?v=RvogZ377MpY
+
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -138,12 +146,22 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
 
+### LA NUEVA GENERACIÓN DE STREAMERS
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Qüentin? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Qüentin.
+- **Título sugerido:** LA NUEVA GENERACIÓN DE STREAMERS
+- **Texto en pantalla:** LA NUEVA GENERACIÓN DE STREAMERS
+- **Descripción:** Fragmento relacionado con Emergente: Qüentin. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=bSHqjlin8-w
+
 ## Noticias y contexto
 
+- **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
 - **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
 - **[Creadores] ¡Cambio extremo! La Liendra mostró el antes y después de su transformación: así luce - Noticias RCN** — 19/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXV0bXhQRE9EYUJPNlVGVGFPTldFSTdaOXlwdVp1SGNsWjZUOVMtV0lZRHNscEYzX2lqcmg3aWJvNFc2azFwOXU4ZnJlUVRPZ0hTazIwWVJrblFRYXNTT2dXbW8xZHg0WEhHRmlNemFHVDZxb1NzaDg1dG84ZXNQdXBkb2loVWdI0gGIAUFVX3lxTE9aellnUG5NeGc0OThtM2lCdXNFajhPWVhBd0k2VUxiT2hidkFWNWU3clhKQ3V2MnotMjRvLXNuYjg5aFFkWXZsdEtTUW03cFBQaEFjQUEyM19OZmhZMzZwVGE1czV6VU1fY0dqWWhYNlBFZ0JTRVMzTFhybnJuSnhEc0l5ZWZ6eXU?oc=5)
 - **[Creadores] WestCol reveló la millonada que ganó a sus 24 años y la cifra sorprendió a todos: "Es legal" - LOS40** — 19/10/2026 06:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeThacUFPM2hiX2I0QnctbzI2RkgtMkZfMm9MV1N0Qmh1VnViallrWTh2aUNfOFBZQUgwRGUtZG9PcXB5SEQ1T0tERFcya3BwTGMwMFpRajRqWkJfdFd1QTJxbjQzcEdfYVprTUVfbjVlVHF3UTNGNEF5N09YcWN6U0dfRXE5UjVRRkJOb3V1MTJseUJpdTB2cEFSM09aNHR6b0VzRWQ0dGlrQzIwY1pHcGk4cm8ySnJfNl9yLWlGeHVrZmJpNnpLZXRBOFU3SXFjb0xN0gHTAUFVX3lxTFB5OFpxQU8zaGJfYjRCdy1vMjZGSC0yRl8yb0xXU3RCaHVWdWJqWWtZOHZpQ184UFlBSDBEZS1kb09xcHlIRDVPS0REVzJrcHBMYzAwWlFqNGpaQl90V3VBMnFuNDNwR19hWmtNRV9uNWVUcXdRM0Y0QXk3T1hxY3pTR19FcTlSNVFGQk5vdXUxMmx5Qml1MHZwQVIzT1o0dHpvRXNFZDR0aWtDMjBjWkdwaThybzJKcl82X3ItaUZ4dWtmYmk2ektldEE4VTdJcWNvTE0?oc=5)
-- **[Creadores] Donación en especie y proceso transparente: Ahome da luz verde a “Lonche de Huevito” para reparar vialidades - Viva la Noticia** — 19/10/2026 03:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2xmZFhOR2NFOWFlQWluV184QVlVMUlyQUd2ckZWS1RGMm9VUG80N1Ixc0tTcHpYR3F0bDdlQ0FOU29hRS1KcXFjUE5iUndUblBiMERNWHQwS3RFSTE4enpMelpxLXpGWHJzMTUzZzEwbmxFMEM5OVZfUEFoQlBNSy1QS3ZERlZUYmtGdWpxZ194MkRyRTRUaERrallTYl9zX25lYVFVdkRmbG1kYi1POTVTYmlkSmNSWUQwVkxnVGU4VlBDTXZlVlhwdw?oc=5)
 - **[Creadores] “Blessd y Westcol me lo dañaron”: Camilo Cifuentes sorprende bailando reguetón - Eluniversal.com.co** — 19/10/2026 03:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEZJZkNLOE95YjN6ZllQN1hxVlNfb2cxc1FEbWpfZEp6YWhHNXFRRFJzb1NZa25OSGVicFNHY203LTRTaXp4WU1ZWng1bE56YVFrVEdlajdsaFpqUnpTQXRPeTZia29BTWxscGh2SkJQTTFlM3ZteWNWMmRDV215Z0ZWeVc5TVV1MHZ2N1NYNngwbTVjOFhfRG42YTI0VXgtYU5iT0tUVmphMWNkcHNTUU1jZGdqNkRQYy1QbnJjdGxaZVZQZkdv?oc=5)
 - **[Creadores] La Liendra se hizo cambio extremo de imagen y sorprendió a sus seguidores: así luce ahora - La Kalle** — 19/10/2026 02:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRdIB7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRQ?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
