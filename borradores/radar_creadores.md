@@ -1,25 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/10/2026 11:27 PM (hora de Colombia)
+Actualizado: 20/10/2026 01:32 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 3.
+Clips incluidos: 7.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+### Capitan Gato's final words on Dedsafio 4
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Micti Clips 🎬
-- Publicado: 18/10/2026 07:00 PM
+- Canal que publico: Capitan Clipero
+- Publicado: 19/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 206
+- Vistas reportadas por YouTube: 1.755
 - Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=0--ISWt53zs
+- Enlace directo: https://www.youtube.com/watch?v=bHeSNntOfOY
+
+### Capitan Gato reacciona con Starvtuber a la odisea que aso para que regrese a dedsafio 4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 19/10/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.825
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=sYImObCTVco
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -27,33 +37,76 @@ Distribución por categoría: Clip de terceros: 2, Emergente por verificar: 1.
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.680
+- Vistas reportadas por YouTube: 11.889
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
+### DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Micti Clips 🎬
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 200
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=0--ISWt53zs
+
+### 🚨 HERRERA VUELVE A HABLAR MAL DE WESTCOL Y SE FORMA LA POLÉMICA 💀
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: wclipz
+- Creador relacionado en el título: Westcol
+- Canal que publico: wclipz
+- Publicado: 20/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=AXd29OUJdBY
+
+### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: westcolclips
+- Creador relacionado en el título: Westcol
+- Canal que publico: westcolclips
+- Publicado: 20/10/2026 12:50 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=s7VDqWHZPS4
+
+### Cuando las bromas de Yeferson Cossio salen MAL 😬
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
 - Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 108
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=NlRluVd7MNI
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+### Capitan Gato's final words on Dedsafio 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
-- **Texto en pantalla:** DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Título sugerido:** Capitan Gato's final words on Dedsafio 4
+- **Texto en pantalla:** Capitan Gato's final words on Dedsafio 4
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=0--ISWt53zs
+- **Fuente original:** https://www.youtube.com/watch?v=bHeSNntOfOY
+
+### Capitan Gato reacciona con Starvtuber a la odisea que aso para que regrese a dedsafio 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** Capitan Gato reacciona con Starvtuber a la odisea que aso para que regrese a dedsafio 4
+- **Texto en pantalla:** Capitan Gato reacciona con Starvtuber a la odisea que aso para que reg
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=sYImObCTVco
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -65,15 +118,45 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4
-- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Texto en pantalla:** DEDSAFIO 4 MEJORES MOMENTOS POV DE MICTIA
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0--ISWt53zs
+
+### 🚨 HERRERA VUELVE A HABLAR MAL DE WESTCOL Y SE FORMA LA POLÉMICA 💀
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🚨 HERRERA VUELVE A HABLAR MAL DE WESTCOL Y SE FORMA LA POLÉMICA 💀
+- **Texto en pantalla:** 🚨 HERRERA VUELVE A HABLAR MAL DE WESTCOL Y SE FORMA LA POLÉMICA 💀
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=AXd29OUJdBY
+
+### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Texto en pantalla:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=s7VDqWHZPS4
+
+### Cuando las bromas de Yeferson Cossio salen MAL 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Cuando las bromas de Yeferson Cossio salen MAL 😬
+- **Texto en pantalla:** Cuando las bromas de Yeferson Cossio salen MAL 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NlRluVd7MNI
 
 ## Noticias y contexto
 
@@ -105,11 +188,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-19
+- **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-19
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-20
+  - https://www.youtube.com/watch?v=bHeSNntOfOY
   - https://www.youtube.com/watch?v=0--ISWt53zs
-  - https://www.youtube.com/watch?v=UP5iWIdzZNo
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
