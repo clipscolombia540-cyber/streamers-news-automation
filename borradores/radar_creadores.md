@@ -1,50 +1,59 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 05:26 AM (hora de Colombia)
+Actualizado: 20/10/2026 07:33 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 2.
+Clips incluidos: 3.
 Noticias recientes: 7.
-Distribución por categoría: Cuenta de clips: 1, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 1, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcolclips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcolclips
-- Publicado: 20/10/2026 01:00 AM
+### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Gamers React
+- Publicado: 20/10/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=s7VDqWHZPS4
+- Vistas reportadas por YouTube: 188
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 18/10/2026 07:00 PM
+- Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.068
+- Vistas reportadas por YouTube: 1.086
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
+
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 19/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 229
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
-- **Texto en pantalla:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Texto en pantalla:** LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=s7VDqWHZPS4
+- **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -55,6 +64,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
+
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Noticias y contexto
 
@@ -86,6 +105,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-20
+  - https://www.youtube.com/watch?v=mFmraA8akfA
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-20

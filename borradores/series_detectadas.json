@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-10-20T05:26:23.634973-05:00",
+  "actualizado": "2026-10-20T07:33:26.773549-05:00",
   "series": [
+    {
+      "nombre": "LOS MÁS divertidos DE LA HISTORIA en Minecraft #199",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-20T07:33:26.773549-05:00",
+      "ultima_deteccion": "2026-10-20T07:33:26.773549-05:00",
+      "canal_muestra": "Gamers React",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=mFmraA8akfA"
+      ]
+    },
     {
       "nombre": "STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE",
       "tipo": "serie_o_tema_candidato",
