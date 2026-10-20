@@ -1,79 +1,60 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 03:30 AM (hora de Colombia)
+Actualizado: 20/10/2026 05:26 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 3.
+Clips incluidos: 2.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3.
+Distribución por categoría: Cuenta de clips: 1, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### El LAMENTABLE FINAL de MRSTIVEN
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Ruisu
-- Publicado: 18/10/2026 07:00 PM
+### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: westcolclips
+- Creador relacionado en el título: Westcol
+- Canal que publico: westcolclips
+- Publicado: 20/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.001
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
-
-### Los Niños STREAMERS que se creen WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Gioopz
-- Publicado: 18/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.626
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=gEiBB_vzEDA
-
-### WESTCOL CORE 😂🔥 | Sus Momentos Más Graciosos y Épicos (RECOPILACIÓN)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Sgz
-- Publicado: 19/10/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=jwHs8zx9BZI
+- Enlace directo: https://www.youtube.com/watch?v=s7VDqWHZPS4
+
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.068
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### El LAMENTABLE FINAL de MRSTIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
-- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
-
-### Los Niños STREAMERS que se creen WESTCOL
+### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Los Niños STREAMERS que se creen WESTCOL
-- **Texto en pantalla:** Los Niños STREAMERS que se creen WESTCOL
+- **Título sugerido:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Texto en pantalla:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gEiBB_vzEDA
+- **Fuente original:** https://www.youtube.com/watch?v=s7VDqWHZPS4
 
-### WESTCOL CORE 😂🔥 | Sus Momentos Más Graciosos y Épicos (RECOPILACIÓN)
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL CORE 😂🔥 | Sus Momentos Más Graciosos y Épicos (RECOPILACIÓN)
-- **Texto en pantalla:** WESTCOL CORE 😂🔥 | Sus Momentos Más Graciosos y Épicos (RECOPILACIÓN)
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jwHs8zx9BZI
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Noticias y contexto
 
