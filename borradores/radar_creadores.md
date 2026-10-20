@@ -1,35 +1,68 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 07:33 AM (hora de Colombia)
+Actualizado: 20/10/2026 09:29 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 3.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 1, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
+### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Enano Clips
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12.176
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
+
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Gamers React
-- Publicado: 20/10/2026 07:00 AM
+- Publicado: 20/10/2026 08:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 188
+- Vistas reportadas por YouTube: 720
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
+### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 24
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=GT0QhUlYoDo
+
+### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: westcolclips
+- Creador relacionado en el título: Westcol
+- Canal que publico: westcolclips
+- Publicado: 20/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=s7VDqWHZPS4
+
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestColClipsCol
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestColClipsCol
 - Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.086
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
 ### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - Categoria: Emergente por verificar
@@ -37,13 +70,23 @@ Distribución por categoría: Clip de terceros: 1, Emergente por verificar: 2.
 - Canal que publico: basuquito
 - Publicado: 19/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 229
+- Vistas reportadas por YouTube: 246
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
+- **Texto en pantalla:** STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=kDIILuWbjXY
 
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -55,15 +98,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Texto en pantalla:** Un dia de compras lujosas con Lonche y Willito💵🛍️💳 I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GT0QhUlYoDo
+
+### 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Texto en pantalla:** 😂 Cuando intentas ayudar a tus parceros y todo sale mal 💀 #Westcol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=s7VDqWHZPS4
+
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
 ### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -110,8 +173,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-20
+  - https://www.youtube.com/watch?v=i5lre7HlrDo
   - https://www.youtube.com/watch?v=bHeSNntOfOY
-  - https://www.youtube.com/watch?v=0--ISWt53zs
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
   - https://www.youtube.com/watch?v=Gz6XNFgpXKI
 - **Streamers de MCSR reaccionan a las nominaciones de The Streamer Awards** (candidata por revisar) — última detección: 2026-10-19
