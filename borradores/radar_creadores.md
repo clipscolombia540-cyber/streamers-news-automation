@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 11:29 AM (hora de Colombia)
+Actualizado: 20/10/2026 01:30 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 1, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### El LAMENTABLE FINAL de MRSTIVEN
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: Ruisu
+- Publicado: 19/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 53.496
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 1, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.147
+- Vistas reportadas por YouTube: 12.312
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
@@ -27,64 +37,55 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 1, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 08:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.668
+- Vistas reportadas por YouTube: 2.734
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Maylo
-- Publicado: 20/10/2026 10:53 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=gt8BlGRGrtk
-
-### HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
+### MrStivenTC EN EL PARTIDO ⚽️
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Zona 10 Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: Zona 10 Clips
-- Publicado: 20/10/2026 11:03 AM
+- Creador/canal detectado: Cuenta de clips: El Parcero Clips 🔥
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: El Parcero Clips 🔥
+- Publicado: 20/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=RvogZ377MpY
+- Enlace directo: https://www.youtube.com/watch?v=6CGw_WOaonw
+
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestColClipsCol
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestColClipsCol
+- Publicado: 19/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 19/10/2026 07:00 PM
+- Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1.097
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 19/10/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 246
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
-
-### LA NUEVA GENERACIÓN DE STREAMERS
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Qüentin
-- Canal que publico: Qüentin
-- Publicado: 19/10/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=bSHqjlin8-w
-
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### El LAMENTABLE FINAL de MRSTIVEN
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** El LAMENTABLE FINAL de MRSTIVEN
+- **Texto en pantalla:** El LAMENTABLE FINAL de MRSTIVEN
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=w4bDoanAQjg
 
 ### STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -106,25 +107,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MrStivenTC EN EL PARTIDO ⚽️
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
-- **Texto en pantalla:** MI OPINION DEL ROBOT DE WESTCOL Y BLESSD
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MrStivenTC EN EL PARTIDO ⚽️
+- **Texto en pantalla:** MrStivenTC EN EL PARTIDO ⚽️
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gt8BlGRGrtk
+- **Fuente original:** https://www.youtube.com/watch?v=6CGw_WOaonw
 
-### HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
+### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
-- **Texto en pantalla:** HERRERA GOLPEABA A MAV | Fiscal Westcol habla del caso
+- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=RvogZ377MpY
+- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
 
 ### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -135,26 +136,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
-
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
-
-### LA NUEVA GENERACIÓN DE STREAMERS
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Qüentin? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Qüentin.
-- **Título sugerido:** LA NUEVA GENERACIÓN DE STREAMERS
-- **Texto en pantalla:** LA NUEVA GENERACIÓN DE STREAMERS
-- **Descripción:** Fragmento relacionado con Emergente: Qüentin. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=bSHqjlin8-w
 
 ## Noticias y contexto
 
