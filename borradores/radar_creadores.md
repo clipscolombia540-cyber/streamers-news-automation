@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 01:30 PM (hora de Colombia)
+Actualizado: 20/10/2026 03:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: Ruisu
 - Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 53.496
+- Vistas reportadas por YouTube: 54.146
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=w4bDoanAQjg
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: Enano Clips
 - Publicado: 18/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.312
+- Vistas reportadas por YouTube: 12.278
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=kDIILuWbjXY
 
@@ -35,43 +35,54 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Gamers React
-- Publicado: 20/10/2026 08:00 AM
+- Publicado: 20/10/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.734
+- Vistas reportadas por YouTube: 3.518
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### MrStivenTC EN EL PARTIDO ⚽️
+### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Parcero Clips 🔥
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: El Parcero Clips 🔥
-- Publicado: 20/10/2026 01:00 PM
+- Creador/canal detectado: Cuenta de clips: CLIPS Streams
+- Creador relacionado en el título: Samulx
+- Canal que publico: CLIPS Streams
+- Publicado: 18/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=IcBqL7qw09I
+
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClipsZone
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClipsZone
+- Publicado: 20/10/2026 03:01 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
+
+### WESTCOL EN BOGOTÁ 2026
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Paisa Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Paisa Clips
+- Publicado: 20/10/2026 03:16 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6CGw_WOaonw
+- Enlace directo: https://www.youtube.com/watch?v=--Y_Lkh23IU
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestColClipsCol
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestColClipsCol
-- Publicado: 19/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=vPiB5Yb8-8g
-
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+### LA NUEVA GENERACIÓN DE STREAMERS
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 18/10/2026 07:00 PM
+- Creador/canal detectado: Emergente: Qüentin
+- Canal que publico: Qüentin
+- Publicado: 19/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.097
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
+- Vistas reportadas por YouTube: 31
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=bSHqjlin8-w
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -107,44 +118,55 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### MrStivenTC EN EL PARTIDO ⚽️
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC EN EL PARTIDO ⚽️
-- **Texto en pantalla:** MrStivenTC EN EL PARTIDO ⚽️
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Texto en pantalla:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6CGw_WOaonw
+- **Fuente original:** https://www.youtube.com/watch?v=IcBqL7qw09I
 
-### REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… ¡UNA LOCURA! 😳
-- **Texto en pantalla:** REYDELACITY PASA LA NOCHE EN UNA MANSIÓN CON WESTCOL Y VARIAS CHICAS… 
+- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vPiB5Yb8-8g
+- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### WESTCOL EN BOGOTÁ 2026
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL EN BOGOTÁ 2026
+- **Texto en pantalla:** WESTCOL EN BOGOTÁ 2026
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=--Y_Lkh23IU
+
+### LA NUEVA GENERACIÓN DE STREAMERS
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Qüentin? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Qüentin.
+- **Título sugerido:** LA NUEVA GENERACIÓN DE STREAMERS
+- **Texto en pantalla:** LA NUEVA GENERACIÓN DE STREAMERS
+- **Descripción:** Fragmento relacionado con Emergente: Qüentin. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
+- **Fuente original:** https://www.youtube.com/watch?v=bSHqjlin8-w
 
 ## Noticias y contexto
 
+- **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 02:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
+- **[Creadores] La Liendra se mostró emotivo tras reencontrarse con su hermana mayor, afectada por las adicciones a las drogas: “Estaba a punto de perderla” - Infobae** — 20/10/2026 02:39 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgJBVV95cUxOQTZnNnJrZ0V0Z1YtV3g1d2RNdk9xX2ZMWHliaHhMeklyYl8xbHdhYnM5c3hsWkZWRDJ4N2Q1SWtvQnE5UmlwT19nbnU2VGFaemlHcnZKTjY4TEViQzR3ZWhMdkc5QmtnaGIyOTJEVnpGZEpQOG1wTEdDOXp6QWRKMUswWTJod29CSXdxdmU5Sl9zQ2xjT3l3a21ORjZENzNZdUExNnFEd3FvcmlsYzFYc2YzWUZWYjB6Znh2TlM0NDVWQ2o2T01vZVJtbkMxZ055WXBXRU5pUTk0OWpqQ19tTkhpb2VkdDdhZUtKemNac0pRRDNBa2MwazZpS3k0blY5VVIwTHdOMUFFWFoxQXfSAagCQVVfeXFMTjF0dzZramJIRXk1d1NiX201LUthc0dma3FzTVJaZ3dWWXZQaEJ5U1FuWDhjRUdWQldVNzNzbjQ4LWFSSlNKa1BBeWRxN1RlMW5aeUUyTWc5Z1QyNm9xTExMZ2p5eTJVLVZnckZvaFBfUzYwRGN3YkxhaWlJdnpvblRySjk0eTd6Sk5zaWVsVzMzRGhZMVh2d1JJOXhLVGZiYmowLUVKWDZxZFVvZ0xMSXlRclQ5YlZLby0wMHNmakVvaGZmS2JwUHRBbVB5cVpqOFEyWUIxTHVSM01VWDhkSXBJSlk0TGljRUZYOEtpSDlmeUFQdGRVYkJUVFFnZ0h0djJQN0Jha1VyMFhQMU5ZbXN6c0FVM1FJOGZmVkxOQ0RlWDFGWUtlb0k?oc=5)
+- **[Creadores] Aunque Westcol se alió con Win, le montó competencia y transmitirá el partido del año: ya tiene permiso de La Liga - Publimetro Colombia** — 20/10/2026 11:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdEtXbmF6b0NZZFN4eDJ5RG1ZU1p1TmJzMTF2Q2t6S0RVNU9KQ2c0RnBTeUtQendxeUotbWdxZDZ4ZHEyWlA1aUtMOUthTUpPWVk2cnpXYURIbjFoUWNKd0MxVDJ0bldETmZsYm5NNGVUaUI1TkdhODRCalRwcU1oN1FPel9LLWZiWHZCUGR1MlpPMTlnU3lsVzVCcFpJbnN1NXNkQm9OVWFfZDIyZ1VoNXY0SDhHY25aM0JpNGRGTHNZWlZqTmZROWlqNV9WVkZCeHlpbE1kVHZqMFNSa05QY3dNeVQ1QXlEc05uUlVGU0E?oc=5)
 - **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
 - **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
 - **[Creadores] ¡Cambio extremo! La Liendra mostró el antes y después de su transformación: así luce - Noticias RCN** — 19/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXV0bXhQRE9EYUJPNlVGVGFPTldFSTdaOXlwdVp1SGNsWjZUOVMtV0lZRHNscEYzX2lqcmg3aWJvNFc2azFwOXU4ZnJlUVRPZ0hTazIwWVJrblFRYXNTT2dXbW8xZHg0WEhHRmlNemFHVDZxb1NzaDg1dG84ZXNQdXBkb2loVWdI0gGIAUFVX3lxTE9aellnUG5NeGc0OThtM2lCdXNFajhPWVhBd0k2VUxiT2hidkFWNWU3clhKQ3V2MnotMjRvLXNuYjg5aFFkWXZsdEtTUW03cFBQaEFjQUEyM19OZmhZMzZwVGE1czV6VU1fY0dqWWhYNlBFZ0JTRVMzTFhybnJuSnhEc0l5ZWZ6eXU?oc=5)
 - **[Creadores] WestCol reveló la millonada que ganó a sus 24 años y la cifra sorprendió a todos: "Es legal" - LOS40** — 19/10/2026 06:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeThacUFPM2hiX2I0QnctbzI2RkgtMkZfMm9MV1N0Qmh1VnViallrWTh2aUNfOFBZQUgwRGUtZG9PcXB5SEQ1T0tERFcya3BwTGMwMFpRajRqWkJfdFd1QTJxbjQzcEdfYVprTUVfbjVlVHF3UTNGNEF5N09YcWN6U0dfRXE5UjVRRkJOb3V1MTJseUJpdTB2cEFSM09aNHR6b0VzRWQ0dGlrQzIwY1pHcGk4cm8ySnJfNl9yLWlGeHVrZmJpNnpLZXRBOFU3SXFjb0xN0gHTAUFVX3lxTFB5OFpxQU8zaGJfYjRCdy1vMjZGSC0yRl8yb0xXU3RCaHVWdWJqWWtZOHZpQ184UFlBSDBEZS1kb09xcHlIRDVPS0REVzJrcHBMYzAwWlFqNGpaQl90V3VBMnFuNDNwR19hWmtNRV9uNWVUcXdRM0Y0QXk3T1hxY3pTR19FcTlSNVFGQk5vdXUxMmx5Qml1MHZwQVIzT1o0dHpvRXNFZDR0aWtDMjBjWkdwaThybzJKcl82X3ItaUZ4dWtmYmk2ektldEE4VTdJcWNvTE0?oc=5)
-- **[Creadores] “Blessd y Westcol me lo dañaron”: Camilo Cifuentes sorprende bailando reguetón - Eluniversal.com.co** — 19/10/2026 03:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEZJZkNLOE95YjN6ZllQN1hxVlNfb2cxc1FEbWpfZEp6YWhHNXFRRFJzb1NZa25OSGVicFNHY203LTRTaXp4WU1ZWng1bE56YVFrVEdlajdsaFpqUnpTQXRPeTZia29BTWxscGh2SkJQTTFlM3ZteWNWMmRDV215Z0ZWeVc5TVV1MHZ2N1NYNngwbTVjOFhfRG42YTI0VXgtYU5iT0tUVmphMWNkcHNTUU1jZGdqNkRQYy1QbnJjdGxaZVZQZkdv?oc=5)
-- **[Creadores] La Liendra se hizo cambio extremo de imagen y sorprendió a sus seguidores: así luce ahora - La Kalle** — 19/10/2026 02:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRdIB7wFBVV95cUxNclYzVXZ6OFdnWFQ1MjJlemliTmx0eUF5cWIyNmk4N2ZQTmRobWxTQ3VEbUV2aHNob2VpVmhuM0l4OEtDWDByWUp4Tnh4Y1pzRWRhVE9LOTRHUld6QkxJa2NoMDdXRGJrdUFDMG5uMi1yN0tsQUVyVXBWWmJtMlYxV2FmUUZGUHEzOUdyS3F0MzdQS25hVFhTUmVhTk44YW5yRjdYb19ueUdZQVRVVkhEUklpOFd0dk1qZHFXVnF1cUMwZVVteHdTMVpOb0dLajhSNnk1QlQyeUMyNlh4WmlhSXN3Q1AwTkZJYUpLSUpXRQ?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
 
 ## Creadores principales vigilados
