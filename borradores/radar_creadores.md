@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/10/2026 07:34 AM (hora de Colombia)
+Actualizado: 21/10/2026 09:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 1.
+Clips incluidos: 9.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 46.131
+- Vistas reportadas por YouTube: 48.729
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.428
+- Vistas reportadas por YouTube: 3.537
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -37,19 +37,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.046
+- Vistas reportadas por YouTube: 6.283
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
-
-### Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Westcosiszzz
-- Publicado: 21/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=K4rC9x8uJAY
 
 ### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - Categoria: Clip de terceros
@@ -57,18 +47,28 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Kick ass
 - Publicado: 21/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 13
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
+
+### 😳 ¡EL ROBOT DE WESTCOL LO GOLPEÓ EN PLENO DIRECTO!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Archivo Oculto
+- Publicado: 20/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=9VPJMnl9F_c
 
 ### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 20/10/2026 11:00 PM
+- Publicado: 21/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.145
+- Vistas reportadas por YouTube: 6.021
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=wwbSbdHPHUU
 
@@ -79,52 +79,30 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.074
+- Vistas reportadas por YouTube: 10.933
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: CLIPS Streams
-- Creador relacionado en el título: Samulx
-- Canal que publico: CLIPS Streams
-- Publicado: 19/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=IcBqL7qw09I
-
-### ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y LONCHE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 21/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 155
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=9QyBOr6rdj0
-
-### Factos dé Mr stiven tc
+### Momento inolvidable dé Mr stiven tc
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips Mr stiven tc
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: Clips Mr stiven tc
-- Publicado: 21/10/2026 02:00 AM
+- Publicado: 21/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6jt8J6HuI2s
+- Enlace directo: https://www.youtube.com/watch?v=Sw6uWdTA9cQ
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 19/10/2026 07:00 PM
+- Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.229
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
+- Vistas reportadas por YouTube: 468
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -160,16 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Texto en pantalla:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=K4rC9x8uJAY
-
 ### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -179,6 +147,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
+
+### 😳 ¡EL ROBOT DE WESTCOL LO GOLPEÓ EN PLENO DIRECTO!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😳 ¡EL ROBOT DE WESTCOL LO GOLPEÓ EN PLENO DIRECTO!
+- **Texto en pantalla:** 😳 ¡EL ROBOT DE WESTCOL LO GOLPEÓ EN PLENO DIRECTO!
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=9VPJMnl9F_c
 
 ### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -200,57 +178,36 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Texto en pantalla:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IcBqL7qw09I
-
-### ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y LONCHE
-- **Texto en pantalla:** ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y L
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=9QyBOr6rdj0
-
-### Factos dé Mr stiven tc
+### Momento inolvidable dé Mr stiven tc
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Factos dé Mr stiven tc
-- **Texto en pantalla:** Factos dé Mr stiven tc
+- **Título sugerido:** Momento inolvidable dé Mr stiven tc
+- **Texto en pantalla:** Momento inolvidable dé Mr stiven tc
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6jt8J6HuI2s
+- **Fuente original:** https://www.youtube.com/watch?v=Sw6uWdTA9cQ
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
+- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
 
 ## Noticias y contexto
 
+- **[Creadores] ¡Se salió de control! Westcol quedó rodeado por una multitud en pleno centro de Bogotá - Colombia.com** — 21/10/2026 08:22 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZjFxdzlPX3MwTjRXVVFtRU1JTGFxR1hEMkdZbzZDdERCRE5sOGNVemZvVm1sQjFBUms1UmhsRmFGN1JBQkdOMW53YUlnWXR2bEEwRTlybjlBOTRDcndUdlBiSGwxR3RweHBOYzFzekd1Q1JZeldFaVJuVGZVbEY5ZkhUQTd3d2Ywd1gyUTZwd1E4UzRDQXBoUVBNa0p3T3dfNkVOVjRPQWdTNFRRdlFnRllQWU5YWktHWkFhVFpaS05MazZac3B2TXVkaHpwYlFKa05GaENRZHZlUU5BbkZDRTM1c3FsVGs?oc=5)
+- **[Creadores] Así fue el angustiante momento que vivió Westcol en Bogotá: todo quedó registrado en plena transmisión - Revista Semana** — 21/10/2026 07:53 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdjNneDhHY3pRX0lRb0U1T2Npa2psLW1aS2w1NGNIVW4tR1l6OXVqcDZmbDQybTktWUlPMjBlTE9NeVZ3S09JRldpaDBrcHhfSm9lSEhrNDVWb3dNOUEzX3JZMGFmOUluX2IydVpEYUpjVDRKMlliMFpDbmM3TFI3YUxUci1SUGpiaUJYd1EzY2YwMFl5a0xNLUtqcXp3Q0FBbGtWYjd2a3d4YWpoUlpwOU82a19PVE1vT29JUzF6QVBha29VYmx4djhmRk5jaE9IeFHSAdIBQVVfeXFMUHYzZ3g4R2N6UV9JUW9FNU9jaWtqbC1tWktsNTRjSFVuLUdZejl1anA2Zmw0Mm05LVlJTzIwZUxPTXlWd0tPSUZXaWgwa3B4X0pvZUhIazQ1Vm93TTlBM19yWTBhZjlJbl9iMnVaRGFKY1Q0SjJZYjBaQ25jN0xSN2FMVHItUlBqYmlCWHdRM2NmMDBZeWtMTS1LanF6d0NBQWxrVmI3dmt3eGFqaFJacDlPNmtfT1RNb09vSVMxekFQYWtvVWJseHY4ZkZOY2hPSHhR?oc=5)
 - **[Creadores] "La reina es una sola y soy yo": Alicia Machado y Yina Calderón protagonizan PELEA en 'Juego de Villanos' | VI - Milenio** — 21/10/2026 12:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYW4xSUtCd3FCaWpFY3RoVjlKVmpMOTNFMGhyRXA3WTh2QjJvVEtyU3VpOXNiUFpCaXh1bmtEY1B0YTFqeHpfQXB5N1lFSlg5WGFtZ3FMbmRodDZuaUNMMURDZXRsSHExX1l0N3ZWMHhyTldDS0J0eE1ibnl2aDZ3WWVDeGhidHdCVDhaSFJSb3FxMGg1M3hPNzBIRlNNNHFqQ28yRUc5c2tVN1XSAasBQVVfeXFMTzFoZXp5T2V6a1hvakxaTEE3NzZpeXpIQXBReTU3azRWT01Sb3FnQWdaUlMwcGF6Zm5KSGhPbXlPaEh1RjZZbTdmb01QWm5Jem9uT0I4SGV6OHc0RXB6eHJoWGVIVUxyNXJ6SjJWNFN6dzNRZHQ5TjVuUk5ndzNEX2luNnhHamlJZV9CNE1XZ0hndDAtT0dvNWNyR1B1Y0hSU0tlNlE1dGtTOXdB?oc=5)
-- **[Creadores] ¿Terminaron? La extraña reacción de WestCol cuando le hablaron de Luisa Castro en VIVO - LOS40** — 20/10/2026 09:09 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxQWlp0MGxlY2dtN3lsNVhVaG1KbGU5V3NqSFZhQ0pZNEN2N2d1WGJsNkd5Zm9NeWFsc1ZubGxwMzFtRklCYzNWbmt3emlEcUVIRjI4WXFvMTJJYXpGQjh1dzgyMW1FVGJRc1VlbGRiSjRPbzdEeU1hdTZJZ2UwS1hPYXNlbVN5bXd2TXhBYnJkVU9PSHc2QjUwYzh3cHpQSXVJYjE1SW1tdnItaUMxelJ4S2QtaFpxV2VnWmdiNV8yemVKX0tnVDMtUDlLNTLSAcwBQVVfeXFMUFpadDBsZWNnbTd5bDVYVWhtSmxlOVdzakhWYUNKWTRDdjdndVhibDZHeWZvTXlhbHNWbmxscDMxbUZJQmMzVm5rd3ppRHFFSEYyOFlxbzEySWF6RkI4dXc4MjFtRVRiUXNVZWxkYko0T283RHlNYXU2SWdlMEtYT2FzZW1TeW13dk14QWJyZFVPT0h3NkI1MGM4d3B6UEl1SWIxNUltbXZyLWlDMXpSeEtkLWhacVdlZ1pnYjVfMnplSl9LZ1QzLVA5SzUy?oc=5)
-- **[Creadores] Videos | Westcol desata una locura en el GranSan: quedó atrapado en plena transmisión en Bogotá - Minuto60** — 20/10/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwFBVV95cUxORTBUem53OEZVbUw4WkdtNUQzOHlXNVJ5NHU2VXdLTE90OVRwR0lzWmQwNXZaVFJIMlcwODRSVGlMaTFrTkZDYVNLT2pxQUx4QS1kY2dXSmdWYUxYVmwyaDJsSzBDMTZYcDZqdmNWSHhXSDJFWGhFZTEzV09Uc1R4TnBRckRDdWVBcUtTRUphcw?oc=5)
 - **[Creadores] FOTOS: La Liendra sorprendió a todos sus seguidores con inesperado cambio de imagen - LOS40** — 20/10/2026 06:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1VGblVaOHdKdklZcFdvdVhZbTM2RGZLbUtGTy1tUzZ0azVYeExaTENQdHZwYnkxTjNTNDA5QUhGczBESWNScGFHUmhDQVlXNmc3X1h3TW11UmU1amc5Z0drTXVPZ1RFb0xPd01UeGNMZEFKaGdQSTd1QWdkNnFaVm1rNi0wZHRZVjhMbFNYNmZRdVUtWFkyTkh6NFpDVXM4OWVyT3ljejRHREtVMURON056RDktd9IBygFBVV95cUxOblJ1djByaWVYcVp1VC1qc0FlNllMSXloTl9SVHJESDA4cFhsM3h4dm85OWN3QUhZOUNQNjRxTE9qRGEteXN3Qi1oMXFJd245Q0tPcmpuX2JiVktnX2xKZmZYSzJEdHpER3o3YUVXaFhNZUc2QlhVby10OXA3UFlIV0ZnM25VcUtyMEdYRmRrVjdWcVJVNzhBSEJUQTVQTW0wMTNaV1lGeGlWbEJ0UjcwV29hbVJEUkhWYW5QVkItUmtMN2NrQnNBdzZn?oc=5)
 - **[Creadores] “Una droga de mierd…”: la Liendra rompió en llanto tras internar a su hermana en rehabilitación - Revista Semana** — 20/10/2026 04:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVzUzNU51T2xYNFgxaXJHN3lfMjg5VEtXSWgwNnhxek1pVkxRdmgxU1k0WFFoQ3M4NDVJQ1dIMExTV2FnSWZyclBNNDJJNjc2MmxtT1RpNWhGLVlELWx6T0RyTUx3SWdHQUR0ZkxKZHN3UWtYVG1ucEJTWkp0Zy1PV25pQXJGdmVKOFZIMGNiaW4xYkhSd3RscGw2WTNkNWluc1pPM2dGMURYSy1oVUNVS1NaY09iVWI0UG1oMXZ0WnlXN0tET21KVDlBR3Zmb2tSMW1yYTl5cmbSAdgBQVVfeXFMUFc1MzVOdU9sWDRYMWlyRzd5XzI4OVRLV0loMDZ4cXpNaVZMUXZoMVNZNFhRaENzODQ1SUNXSDBMU1dhZ0lmcnJQTTQySTY3NjJsbU9UaTVoRi1ZRC1sek9Eck1Md0lnR0FEdGZMSmRzd1FrWFRtbnBCU1pKdGctT1duaUFyRnZlSjhWSDBjYmluMWJIUnd0bHBsNlkzZDVpbnNaTzNnRjFEWEstaFVDVUtTWmNPYlViNFBtaDF2dFp5VzdLRE9tSlQ5QUd2Zm9rUjFtcmE5eXJm?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
 - **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
 - **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
-- **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
 
 ## Creadores principales vigilados
 
