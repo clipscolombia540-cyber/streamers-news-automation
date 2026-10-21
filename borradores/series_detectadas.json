@@ -1,6 +1,32 @@
 {
-  "actualizado": "2026-10-21T03:32:09.812332-05:00",
+  "actualizado": "2026-10-21T05:30:42.844015-05:00",
   "series": [
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-21T05:30:42.844015-05:00",
+      "canal_muestra": "G'CLIPS",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=Jx4JS4wMFw0",
+        "https://www.youtube.com/watch?v=bHeSNntOfOY",
+        "https://www.youtube.com/watch?v=sYImObCTVco",
+        "https://www.youtube.com/watch?v=ttvcNn5FJdU",
+        "https://www.youtube.com/watch?v=UP5iWIdzZNo"
+      ]
+    },
+    {
+      "nombre": "My 2026 Streamer Award Winners",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-20T17:26:02.745724-05:00",
+      "ultima_deteccion": "2026-10-21T05:30:42.844015-05:00",
+      "canal_muestra": "DrDonut Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=E6bU1L-p_7c"
+      ]
+    },
     {
       "nombre": "LOS MÁS divertidos DE LA HISTORIA en Minecraft #199",
       "tipo": "serie_o_tema_candidato",
@@ -10,32 +36,6 @@
       "canal_muestra": "Gamers React",
       "enlaces": [
         "https://www.youtube.com/watch?v=mFmraA8akfA"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-21T03:32:09.812332-05:00",
-      "canal_muestra": "Capitan Clipero",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=bHeSNntOfOY",
-        "https://www.youtube.com/watch?v=sYImObCTVco",
-        "https://www.youtube.com/watch?v=ttvcNn5FJdU",
-        "https://www.youtube.com/watch?v=UP5iWIdzZNo",
-        "https://www.youtube.com/watch?v=D5nIap6LFnA"
-      ]
-    },
-    {
-      "nombre": "My 2026 Streamer Award Winners",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-20T17:26:02.745724-05:00",
-      "ultima_deteccion": "2026-10-21T03:32:09.812332-05:00",
-      "canal_muestra": "DrDonut Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=E6bU1L-p_7c"
       ]
     },
     {
