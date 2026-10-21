@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/10/2026 11:28 AM (hora de Colombia)
+Actualizado: 21/10/2026 01:29 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente por verificar: 2.
+Clips incluidos: 9.
+Noticias recientes: 9.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Conter+
+- Publicado: 20/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.640
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=D5nIap6LFnA
 
 ### My 2026 Streamer Award Winners
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.095
+- Vistas reportadas por YouTube: 53.309
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -27,9 +37,19 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.720
+- Vistas reportadas por YouTube: 4.013
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
+
+### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 24 FINAL) #dedsafio #minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Querubin_Clips
+- Publicado: 20/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=MB6TEAyA-t0
 
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - Categoria: Clip de terceros
@@ -37,48 +57,18 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.474
+- Vistas reportadas por YouTube: 6.684
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
-
-### Chanty cambia el directo por los karts: la previa del duelo
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: Fuera del Directo
-- Publicado: 21/10/2026 10:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=nNXPSD8QrMI
-
-### Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Westcosiszzz
-- Publicado: 21/10/2026 03:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=K4rC9x8uJAY
-
-### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Kick ass
-- Publicado: 21/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
 
 ### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 20/10/2026 11:00 PM
+- Publicado: 21/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.440
+- Vistas reportadas por YouTube: 8.737
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=wwbSbdHPHUU
 
@@ -89,33 +79,45 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.181
+- Vistas reportadas por YouTube: 13.422
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClipsZone
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClipsZone
+- Publicado: 20/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
+
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestColClipsCol
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestColClipsCol
 - Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.250
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
-
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 20/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 468
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=GlEa-jfCRNg
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
+- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D5nIap6LFnA
 
 ### My 2026 Streamer Award Winners
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -137,6 +139,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
+### TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 24 FINAL) #dedsafio #minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 24 FINAL) #dedsafio #minecraft
+- **Texto en pantalla:** TODAS LAS MUERTES DE LA NUEVA SERIE (DEDSAFIO 4 DIA 24 FINAL) #dedsafi
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=MB6TEAyA-t0
+
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -146,36 +158,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
-
-### Chanty cambia el directo por los karts: la previa del duelo
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** Chanty cambia el directo por los karts: la previa del duelo
-- **Texto en pantalla:** Chanty cambia el directo por los karts: la previa del duelo
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=nNXPSD8QrMI
-
-### Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Texto en pantalla:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=K4rC9x8uJAY
-
-### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
-- **Texto en pantalla:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
 
 ### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -197,33 +179,34 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Texto en pantalla:** WESTCOL SE REUNE CON LAS LEYENDAS DEL VALLENATO -- STREAM COMPLETO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GlEa-jfCRNg
 
 ## Noticias y contexto
 
-- **[Creadores] Esta fue la millonada que Westcol le cobró a comerciantes de San Victorino en Bogotá para transmitir en directo por dos horas: colapsó El Gran San - Infobae** — 21/10/2026 08:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYlNNZ29ocDI4TDdIeUc2djJzUUwtOUEyVmhuTzNWYkIxdHFMcXBwdk1QNUh1ZkdrNWtFcWZOajVIMVVTT1hpUlRsNWZuTjF3WE1mY2Z6Ukk2UXZZbTdCWXA5cmM1YnFLS0RRSnUyR2VlLUVXanEyZ0RqWTRoUUJJeFZVWjZnMXJDbTdoTFpGcmQ4RG5WZ1lLVjZ6N0MyVEM3RmdoRjVSR2lzNDJ5X09XTkxJdHNub0ZPU28yVzV0Y05xNjlWTFB3bDNvbzg1b3dVSlA4a3FSX0pEOHltcVdTRk9NdVN0eFlIQnBNTmR6TW1qUENibFl2Zkpuc9IBlgJBVV95cUxQUDdzTlQzRTM5dmxaXzRQYkhkZ2NUdGUzdlBsblJXU1piMlJFajc4cVgtN1ZCTGs2SmZSM2t5SEROekRrS0gxQVctVVRMczRQVHlFbHJqQ2RIRkE3dkNZTGV1a0ltYU52WXZHRDJweXFxWVA5ZWFZNDMzTGVaaHN2VTgwRGxoc3p4YzNzSzlNYllHdldmVDlBSDJYTEk2cUdHZGJRMy1lQ0hPLTYtSE9TVXk1SjliRmZKQjlUbnVXYVU1R0dsdlRTUmV0aTFJYm5PUldiYkcyM3BuRmJodmlwd0JqQVA5YnRNTUROUUJZWE9ReF9Yd1FBNzhLV3o0bU5JWWZVSkRZSHBDeHFFQ2lsUGdNNUlYUQ?oc=5)
-- **[Creadores] ¡Se salió de control! Westcol quedó rodeado por una multitud en pleno centro de Bogotá - Colombia.com** — 21/10/2026 08:22 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZjFxdzlPX3MwTjRXVVFtRU1JTGFxR1hEMkdZbzZDdERCRE5sOGNVemZvVm1sQjFBUms1UmhsRmFGN1JBQkdOMW53YUlnWXR2bEEwRTlybjlBOTRDcndUdlBiSGwxR3RweHBOYzFzekd1Q1JZeldFaVJuVGZVbEY5ZkhUQTd3d2Ywd1gyUTZwd1E4UzRDQXBoUVBNa0p3T3dfNkVOVjRPQWdTNFRRdlFnRllQWU5YWktHWkFhVFpaS05MazZac3B2TXVkaHpwYlFKa05GaENRZHZlUU5BbkZDRTM1c3FsVGs?oc=5)
+- **[Creadores] La Liendra rompió en llanto al internar a su hermana por adicción a las drogas - Eluniversal.com.co** — 21/10/2026 12:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjVBTTBmdmlmMjBBcFpUVzlGSDc3c1U4aU82RVlzb3VIX0RqcHRSb3FmelFUWFBkVFd3NDM3a2FySlE2Y2oxODZqYVMwQTVLZExleGU3WmZGZzVLQy1nOFd3QktjSXNkeHJlYWpFWm5GNzhISFRMaW5NekF2Z20wRUg2OF9fQWJRYmJhRldRMW1CNlUxQ0RUdTZERVJqQlpYMlpwck9LVlBCUXc1dTd2bUF5aTJhZ01SdllxWERmYXhlTDFZRV9jdkFKYw?oc=5)
+- **[Creadores] Westcol dio pistas sobre el fin de su relación con Luisa Castro: ya no se siguen en redes sociales - Infobae** — 21/10/2026 12:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZHpTOE02SEtFOVQ1UXp5eUF6U1RZUC1JbnN2cDZUcUEzcTI1QVY5b3pZZXJVaDFYUTRnNERNUVhpY2RPVktGcDI4Skp3ZF85TzJqb3NjZ1E1bUF0TlM0QnRuTHdKeDZxMTNfc2hfMVdENUlrUFh0UzV2SWlBZUlzNHRRbkZZR1dad3JQM2lmdFBBWGluaVRtV0MyMEtucEJkTE9SVGdJdUxNcVV4NGI0Ukl1bUI5ZEhsV0hpek5LOWN6UmU0a2dNZlp2all1Z2NPZHZhRDY0bEdhZ9IB9AFBVV95cUxQZGs1Y2R3eVNycmV5QWNQQTNySlEwQlFGQUZ1NHhpRUQyb2JXM3RnWXBySXlmWkxxV00ydlBKUUVQM1V2bzA2cEFXUXFmUWpwOWNXUFUtOTlXR0JrMG4zM1hoTS1YVjdJTFJiQVlVQUJfdzl3MUNZM0ZIazJ6OURUOEpWaTdCNkUtN2ppTUUxWkNIcER0X2Z5Y01FQUdieXp3dnJWLUFRUWd1SC1rMHZtZk91Tk41VWtvSm1XeUJBN2ZZTTdCRXpTeWtOd0VkRmFXdDFOenRCZTF2bkpGdml1QnpLUHJsM0hQNVVNWkdna2VhQ3dM?oc=5)
+- **[Creadores] Yina Calderón vuelve a los realities con una inesperada apuesta fuera de la televisión colombiana - Publimetro Colombia** — 21/10/2026 11:41 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazRlaGw4OVY4ZDZFQmwwcHBTTWdFcTRSR3h0bm9CYjhRa0JMeGRaZGJ5WC1uMUJrWlNUTzQxUjAySzZ5WlFDYUZBYlJ3LUpkdE9hRFNCT0w2SnJOdWZmVUt0TUYwM2FCMnZYZXlNU2NoVTlSaEdvWks1emxMNGttS2JON1VDOEZiTk9Xc2x2bXdzYzd4eVdWWlBXN2NRUmdpOElVaS16YUtTMFdCaUJKODFyUjFRZE1KR2M0azJhNENjTkR2ZlhvYnhjRkZJOGZjTEE5VDdTWlhkNHpQVmhja1BqOXdKUQ?oc=5)
+- **[Creadores] Westcol desató caos en el GrandSand de Bogotá: ¿cuánto habría cobrado? - Kienyke** — 21/10/2026 11:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZk1rNTIzeHBRY1ZxRTZkSkw1VVpXRlZPSjNnYUVCS0o4TWdsRVVXNTMwRTVWczhGaXNpbC1DUXlCQTBfX0V3dGwwYWdZYWcwMmt4YU1YTXlZTGZBVWNabjVCS1VxQjVoaExKbkRldWtqRy0xWEd0dng5NVJmXy0zNFhmZ0stSjB0QmRNRnl1TjJKNnl5ZGZIbA?oc=5)
 - **[Creadores] "La reina es una sola y soy yo": Alicia Machado y Yina Calderón protagonizan PELEA en 'Juego de Villanos' | VI - Milenio** — 21/10/2026 12:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYW4xSUtCd3FCaWpFY3RoVjlKVmpMOTNFMGhyRXA3WTh2QjJvVEtyU3VpOXNiUFpCaXh1bmtEY1B0YTFqeHpfQXB5N1lFSlg5WGFtZ3FMbmRodDZuaUNMMURDZXRsSHExX1l0N3ZWMHhyTldDS0J0eE1ibnl2aDZ3WWVDeGhidHdCVDhaSFJSb3FxMGg1M3hPNzBIRlNNNHFqQ28yRUc5c2tVN1XSAasBQVVfeXFMTzFoZXp5T2V6a1hvakxaTEE3NzZpeXpIQXBReTU3azRWT01Sb3FnQWdaUlMwcGF6Zm5KSGhPbXlPaEh1RjZZbTdmb01QWm5Jem9uT0I4SGV6OHc0RXB6eHJoWGVIVUxyNXJ6SjJWNFN6dzNRZHQ5TjVuUk5ndzNEX2luNnhHamlJZV9CNE1XZ0hndDAtT0dvNWNyR1B1Y0hSU0tlNlE1dGtTOXdB?oc=5)
 - **[Creadores] FOTOS: La Liendra sorprendió a todos sus seguidores con inesperado cambio de imagen - LOS40** — 20/10/2026 06:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1VGblVaOHdKdklZcFdvdVhZbTM2RGZLbUtGTy1tUzZ0azVYeExaTENQdHZwYnkxTjNTNDA5QUhGczBESWNScGFHUmhDQVlXNmc3X1h3TW11UmU1amc5Z0drTXVPZ1RFb0xPd01UeGNMZEFKaGdQSTd1QWdkNnFaVm1rNi0wZHRZVjhMbFNYNmZRdVUtWFkyTkh6NFpDVXM4OWVyT3ljejRHREtVMURON056RDktd9IBygFBVV95cUxOblJ1djByaWVYcVp1VC1qc0FlNllMSXloTl9SVHJESDA4cFhsM3h4dm85OWN3QUhZOUNQNjRxTE9qRGEteXN3Qi1oMXFJd245Q0tPcmpuX2JiVktnX2xKZmZYSzJEdHpER3o3YUVXaFhNZUc2QlhVby10OXA3UFlIV0ZnM25VcUtyMEdYRmRrVjdWcVJVNzhBSEJUQTVQTW0wMTNaV1lGeGlWbEJ0UjcwV29hbVJEUkhWYW5QVkItUmtMN2NrQnNBdzZn?oc=5)
-- **[Creadores] “Una droga de mierd…”: la Liendra rompió en llanto tras internar a su hermana en rehabilitación - Revista Semana** — 20/10/2026 04:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVzUzNU51T2xYNFgxaXJHN3lfMjg5VEtXSWgwNnhxek1pVkxRdmgxU1k0WFFoQ3M4NDVJQ1dIMExTV2FnSWZyclBNNDJJNjc2MmxtT1RpNWhGLVlELWx6T0RyTUx3SWdHQUR0ZkxKZHN3UWtYVG1ucEJTWkp0Zy1PV25pQXJGdmVKOFZIMGNiaW4xYkhSd3RscGw2WTNkNWluc1pPM2dGMURYSy1oVUNVS1NaY09iVWI0UG1oMXZ0WnlXN0tET21KVDlBR3Zmb2tSMW1yYTl5cmbSAdgBQVVfeXFMUFc1MzVOdU9sWDRYMWlyRzd5XzI4OVRLV0loMDZ4cXpNaVZMUXZoMVNZNFhRaENzODQ1SUNXSDBMU1dhZ0lmcnJQTTQySTY3NjJsbU9UaTVoRi1ZRC1sek9Eck1Md0lnR0FEdGZMSmRzd1FrWFRtbnBCU1pKdGctT1duaUFyRnZlSjhWSDBjYmluMWJIUnd0bHBsNlkzZDVpbnNaTzNnRjFEWEstaFVDVUtTWmNPYlViNFBtaDF2dFp5VzdLRE9tSlQ5QUd2Zm9rUjFtcmE5eXJm?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
 - **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
 - **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
@@ -249,8 +232,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-21
-  - https://www.youtube.com/watch?v=Jx4JS4wMFw0
-  - https://www.youtube.com/watch?v=bHeSNntOfOY
+  - https://www.youtube.com/watch?v=UP5iWIdzZNo
+  - https://www.youtube.com/watch?v=0--ISWt53zs
 - **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-21
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-21
