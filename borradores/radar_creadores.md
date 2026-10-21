@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/10/2026 05:30 AM (hora de Colombia)
+Actualizado: 21/10/2026 07:34 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 11.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.702
+- Vistas reportadas por YouTube: 46.131
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -27,9 +27,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.321
+- Vistas reportadas por YouTube: 3.428
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
+
+### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Gamers React
+- Publicado: 20/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.046
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
 ### Westcol visita el GranSan en Bogotá y se sale de control 🔥
 - Categoria: Clip de terceros
@@ -47,30 +57,74 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 1, Emergente
 - Canal que publico: Kick ass
 - Publicado: 21/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
 
-### Momento inolvidable dé Mr stiven tc
+### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 20/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5.145
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=wwbSbdHPHUU
+
+### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 20/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 10.074
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
+
+### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: CLIPS Streams
+- Creador relacionado en el título: Samulx
+- Canal que publico: CLIPS Streams
+- Publicado: 19/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=IcBqL7qw09I
+
+### ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y LONCHE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
+- Publicado: 21/10/2026 04:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 155
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=9QyBOr6rdj0
+
+### Factos dé Mr stiven tc
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips Mr stiven tc
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: Clips Mr stiven tc
-- Publicado: 21/10/2026 01:00 AM
+- Publicado: 21/10/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Sw6uWdTA9cQ
+- Enlace directo: https://www.youtube.com/watch?v=6jt8J6HuI2s
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 19/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 460
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
+- Vistas reportadas por YouTube: 1.229
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -96,6 +150,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
+### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Texto en pantalla:** LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
+
 ### Westcol visita el GranSan en Bogotá y se sale de control 🔥
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -116,25 +180,65 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
 
-### Momento inolvidable dé Mr stiven tc
+### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
+- **Texto en pantalla:** REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK 
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=wwbSbdHPHUU
+
+### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+- **Texto en pantalla:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
+
+### FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Texto en pantalla:** FINAL DEL DEDSAFIO 4 | PERSPECTIVA DE SAMULX |
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=IcBqL7qw09I
+
+### ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y LONCHE
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y LONCHE
+- **Texto en pantalla:** ASÍ ES LA MANSIÓN DE YOLO EN ESTADOS UNIDOS *HOUSE TOUR* | WILLITO Y L
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=9QyBOr6rdj0
+
+### Factos dé Mr stiven tc
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Momento inolvidable dé Mr stiven tc
-- **Texto en pantalla:** Momento inolvidable dé Mr stiven tc
+- **Título sugerido:** Factos dé Mr stiven tc
+- **Texto en pantalla:** Factos dé Mr stiven tc
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Sw6uWdTA9cQ
+- **Fuente original:** https://www.youtube.com/watch?v=6jt8J6HuI2s
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+### CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
+- **Título sugerido:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.97 *mucha risa* 🤣
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
+- **Fuente original:** https://www.youtube.com/watch?v=Umf9ekB5KSU
 
 ## Noticias y contexto
 
