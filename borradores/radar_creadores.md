@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/10/2026 11:29 PM (hora de Colombia)
+Actualizado: 21/10/2026 01:33 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 1.
+Clips incluidos: 8.
+Noticias recientes: 0.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.558
+- Vistas reportadas por YouTube: 38.184
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.699
+- Vistas reportadas por YouTube: 3.050
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -37,29 +37,29 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 08:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.306
+- Vistas reportadas por YouTube: 5.468
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### 🔥 WESTCOL ACTIVA LA ECONOMÍA DEL CENTRO DE BOGOTÁ 😱 ¡SE FORMÓ UNA LOCURA!
+### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Tatán Franko
-- Publicado: 20/10/2026 08:00 PM
+- Canal que publico: Kick ass
+- Publicado: 21/10/2026 12:45 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=L17VXYK4Rlw
+- Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
 
 ### MEJORES MOMENTOS DE WESTCOL EN EL DEDSAFIO 4 😂 PARTE #3 🐀🧀
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 20/10/2026 09:00 PM
+- Publicado: 20/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 493
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 1.163
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=mHYfJg3Cv0w
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
@@ -69,19 +69,31 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.181
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 6.515
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 19/10/2026 07:00 PM
+### Momento inolvidable dé Mr stiven tc
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips Mr stiven tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Clips Mr stiven tc
+- Publicado: 21/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 433
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=H_knPzXiiJ0
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=Sw6uWdTA9cQ
+
+### Factos dé Mr stiven tc
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips Mr stiven tc
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Clips Mr stiven tc
+- Publicado: 21/10/2026 12:37 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=6jt8J6HuI2s
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -117,15 +129,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### 🔥 WESTCOL ACTIVA LA ECONOMÍA DEL CENTRO DE BOGOTÁ 😱 ¡SE FORMÓ UNA LOCURA!
+### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 WESTCOL ACTIVA LA ECONOMÍA DEL CENTRO DE BOGOTÁ 😱 ¡SE FORMÓ UNA LOCURA!
-- **Texto en pantalla:** 🔥 WESTCOL ACTIVA LA ECONOMÍA DEL CENTRO DE BOGOTÁ 😱 ¡SE FORMÓ UNA LOCU
+- **Título sugerido:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+- **Texto en pantalla:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=L17VXYK4Rlw
+- **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
 
 ### MEJORES MOMENTOS DE WESTCOL EN EL DEDSAFIO 4 😂 PARTE #3 🐀🧀
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -147,26 +159,29 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### Momento inolvidable dé Mr stiven tc
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Texto en pantalla:** MEJORES CLIPS de La GANGA en DEDSAFIO 4 🤣 *completo*
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=H_knPzXiiJ0
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** Momento inolvidable dé Mr stiven tc
+- **Texto en pantalla:** Momento inolvidable dé Mr stiven tc
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Sw6uWdTA9cQ
+
+### Factos dé Mr stiven tc
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** Factos dé Mr stiven tc
+- **Texto en pantalla:** Factos dé Mr stiven tc
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=6jt8J6HuI2s
 
 ## Noticias y contexto
 
-- **[Creadores] ¿Terminaron? La extraña reacción de WestCol cuando le hablaron de Luisa Castro en VIVO - LOS40** — 20/10/2026 09:09 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxQWlp0MGxlY2dtN3lsNVhVaG1KbGU5V3NqSFZhQ0pZNEN2N2d1WGJsNkd5Zm9NeWFsc1ZubGxwMzFtRklCYzNWbmt3emlEcUVIRjI4WXFvMTJJYXpGQjh1dzgyMW1FVGJRc1VlbGRiSjRPbzdEeU1hdTZJZ2UwS1hPYXNlbVN5bXd2TXhBYnJkVU9PSHc2QjUwYzh3cHpQSXVJYjE1SW1tdnItaUMxelJ4S2QtaFpxV2VnWmdiNV8yemVKX0tnVDMtUDlLNTLSAcwBQVVfeXFMUFpadDBsZWNnbTd5bDVYVWhtSmxlOVdzakhWYUNKWTRDdjdndVhibDZHeWZvTXlhbHNWbmxscDMxbUZJQmMzVm5rd3ppRHFFSEYyOFlxbzEySWF6RkI4dXc4MjFtRVRiUXNVZWxkYko0T283RHlNYXU2SWdlMEtYT2FzZW1TeW13dk14QWJyZFVPT0h3NkI1MGM4d3B6UEl1SWIxNUltbXZyLWlDMXpSeEtkLWhacVdlZ1pnYjVfMnplSl9LZ1QzLVA5SzUy?oc=5)
-- **[Creadores] Videos | Westcol desata una locura en el GranSan: quedó atrapado en plena transmisión en Bogotá - Minuto60** — 20/10/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwFBVV95cUxORTBUem53OEZVbUw4WkdtNUQzOHlXNVJ5NHU2VXdLTE90OVRwR0lzWmQwNXZaVFJIMlcwODRSVGlMaTFrTkZDYVNLT2pxQUx4QS1kY2dXSmdWYUxYVmwyaDJsSzBDMTZYcDZqdmNWSHhXSDJFWGhFZTEzV09Uc1R4TnBRckRDdWVBcUtTRUphcw?oc=5)
-- **[Creadores] FOTOS: La Liendra sorprendió a todos sus seguidores con inesperado cambio de imagen - LOS40** — 20/10/2026 06:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1VGblVaOHdKdklZcFdvdVhZbTM2RGZLbUtGTy1tUzZ0azVYeExaTENQdHZwYnkxTjNTNDA5QUhGczBESWNScGFHUmhDQVlXNmc3X1h3TW11UmU1amc5Z0drTXVPZ1RFb0xPd01UeGNMZEFKaGdQSTd1QWdkNnFaVm1rNi0wZHRZVjhMbFNYNmZRdVUtWFkyTkh6NFpDVXM4OWVyT3ljejRHREtVMURON056RDktd9IBygFBVV95cUxOblJ1djByaWVYcVp1VC1qc0FlNllMSXloTl9SVHJESDA4cFhsM3h4dm85OWN3QUhZOUNQNjRxTE9qRGEteXN3Qi1oMXFJd245Q0tPcmpuX2JiVktnX2xKZmZYSzJEdHpER3o3YUVXaFhNZUc2QlhVby10OXA3UFlIV0ZnM25VcUtyMEdYRmRrVjdWcVJVNzhBSEJUQTVQTW0wMTNaV1lGeGlWbEJ0UjcwV29hbVJEUkhWYW5QVkItUmtMN2NrQnNBdzZn?oc=5)
-- **[Creadores] “Una droga de mierd…”: la Liendra rompió en llanto tras internar a su hermana en rehabilitación - Revista Semana** — 20/10/2026 04:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVzUzNU51T2xYNFgxaXJHN3lfMjg5VEtXSWgwNnhxek1pVkxRdmgxU1k0WFFoQ3M4NDVJQ1dIMExTV2FnSWZyclBNNDJJNjc2MmxtT1RpNWhGLVlELWx6T0RyTUx3SWdHQUR0ZkxKZHN3UWtYVG1ucEJTWkp0Zy1PV25pQXJGdmVKOFZIMGNiaW4xYkhSd3RscGw2WTNkNWluc1pPM2dGMURYSy1oVUNVS1NaY09iVWI0UG1oMXZ0WnlXN0tET21KVDlBR3Zmb2tSMW1yYTl5cmbSAdgBQVVfeXFMUFc1MzVOdU9sWDRYMWlyRzd5XzI4OVRLV0loMDZ4cXpNaVZMUXZoMVNZNFhRaENzODQ1SUNXSDBMU1dhZ0lmcnJQTTQySTY3NjJsbU9UaTVoRi1ZRC1sek9Eck1Md0lnR0FEdGZMSmRzd1FrWFRtbnBCU1pKdGctT1duaUFyRnZlSjhWSDBjYmluMWJIUnd0bHBsNlkzZDVpbnNaTzNnRjFEWEstaFVDVUtTWmNPYlViNFBtaDF2dFp5VzdLRE9tSlQ5QUd2Zm9rUjFtcmE5eXJm?oc=5)
-- **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 02:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
-- **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
-- **[Creadores] Antonio Menéndez confirmó que hablaron con “Lonche de Huevito” para tapar baches en Los Mochis - Linea Directa** — 19/10/2026 07:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVhvOG9Rd1c4NS1FTHlIeWVxVEVEWHUyRUNZVU5JdHNBV2E3Zk56OElsbmlLUkpWNDRQUU1OV2tPY19LcFNieHhUWTRrVF94ZzdlMlQxbkxEaWVYT1B6Vm1ZZ0MyaF9BT25CMGZwOWZkZ2IxY2xfdjdhcmYxd2ZUYVVnSm04RVJQR2JEd0dfcWhXSEZfUXdpb0pZNW84WnVYZDk0UUhLVzhRSUtJWjlEX3V0bDdUUmZiaThCeG1IXzJZTkdKV0lOQzBmWjV4eHNlYUZoN2FxNi14dG5VV09NUE1HYTkydw?oc=5)
-- **[Creadores] Hermana de Yeferson Cossio desató preocupación tras sufrir fuerte accidente en cuatrimoto: “Me levanté muy mareada” - Revista Semana** — 19/10/2026 09:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGx4U0t0Q21IUzlOYmNBNHFpQ0padkZmTDAyNlJjZDJ6WEJJRXRpYmFERDV4bXFMYk4wcW9VU1BFamRvdTlHNS1RcTNaNWwwSkRQa0dSM3dlYkNLLWpYQTMtTm11ZFE2eGI3WDN6YWRNZW0zaXY5TWVuY3RaeUNITVdYNURPSmJBNFJ6X0dEbFhxbTBQaE1ZZE01bS1vdDBLV2pCQTlzdDM0eFZXWmFRcHpkT2VKSkM3dHl0RlZkYmxaMEF2UzdKeTIzdVlUV1BMeFNqYTlNR3czQ1A5SjlPU0JHNjlFTXJadERZV0M5UC1famZW0gH0AUFVX3lxTE54bHhTS3RDbUhTOU5iY0E0cWlDSlp2RmZMMDI2UmNkMnpYQklFdGliYURENXhtcUxiTjBxb1VTUEVqZG91OUc1LVFxM1o1bDBKRFBrR1Izd2ViQ0stalhBMy1ObXVkUTZ4YjdYM3phZE1lbTNpdjlNZW5jdFp5Q0hNV1g1RE9KYkE0UnpfR0RsWHFtMFBoTVlkTTVtLW90MEtXakJBOXN0MzR4VldaYVFwemRPZUpKQzd0eXRGVmRibFowQXZTN0p5MjN1WVRXUEx4U2phOU1HdzNDUDlKOU9TQkc2OUVNclp0RFlXQzlQLV9qZlY?oc=5)
+No se encontraron noticias recientes en Google News RSS.
 
 ## Creadores principales vigilados
 
@@ -188,12 +203,12 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-20
+- **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-21
   - https://www.youtube.com/watch?v=mFmraA8akfA
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-20
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-21
   - https://www.youtube.com/watch?v=ttvcNn5FJdU
   - https://www.youtube.com/watch?v=UP5iWIdzZNo
-- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-20
+- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-21
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
