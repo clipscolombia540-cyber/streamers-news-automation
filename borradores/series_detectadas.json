@@ -1,6 +1,28 @@
 {
-  "actualizado": "2026-10-21T13:29:32.204153-05:00",
+  "actualizado": "2026-10-21T15:25:49.067260-05:00",
   "series": [
+    {
+      "nombre": "My 2026 Streamer Award Winners",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-20T17:26:02.745724-05:00",
+      "ultima_deteccion": "2026-10-21T15:25:49.067260-05:00",
+      "canal_muestra": "DrDonut Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=E6bU1L-p_7c"
+      ]
+    },
+    {
+      "nombre": "LOS MÁS divertidos DE LA HISTORIA en Minecraft #199",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-20T07:33:26.773549-05:00",
+      "ultima_deteccion": "2026-10-21T15:25:49.067260-05:00",
+      "canal_muestra": "Gamers React",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=mFmraA8akfA"
+      ]
+    },
     {
       "nombre": "DEDsafio Minecraft",
       "tipo": "serie_o_tema_candidato",
@@ -14,28 +36,6 @@
         "https://www.youtube.com/watch?v=MB6TEAyA-t0",
         "https://www.youtube.com/watch?v=D5nIap6LFnA",
         "https://www.youtube.com/watch?v=Jx4JS4wMFw0"
-      ]
-    },
-    {
-      "nombre": "My 2026 Streamer Award Winners",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-20T17:26:02.745724-05:00",
-      "ultima_deteccion": "2026-10-21T13:29:32.204153-05:00",
-      "canal_muestra": "DrDonut Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=E6bU1L-p_7c"
-      ]
-    },
-    {
-      "nombre": "LOS MÁS divertidos DE LA HISTORIA en Minecraft #199",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-20T07:33:26.773549-05:00",
-      "ultima_deteccion": "2026-10-21T13:29:32.204153-05:00",
-      "canal_muestra": "Gamers React",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=mFmraA8akfA"
       ]
     },
     {
