@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 05:30 AM (hora de Colombia)
+Actualizado: 22/10/2026 07:35 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 12.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,19 +15,39 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: G'CLIPS
-- Publicado: 20/10/2026 07:00 PM
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.955
+- Vistas reportadas por YouTube: 9.043
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Conter+
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.081
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=D5nIap6LFnA
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Conter+
+- Publicado: 21/10/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.626
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=wQvfv6jvF6I
 
 ### My 2026 Streamer Award Winners
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: DrDonut Clips
-- Publicado: 20/10/2026 07:00 PM
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 66.222
+- Vistas reportadas por YouTube: 67.187
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -37,17 +57,18 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: Candres Peredo
 - Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.524
+- Vistas reportadas por YouTube: 14.795
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=0A8ZjbPbCuQ
 
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Canal no identificado
+- Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 1
+- Vistas reportadas por YouTube: 7.771
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
 ### Chanty cambia el directo por los karts: la previa del duelo
@@ -66,7 +87,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.344
+- Vistas reportadas por YouTube: 7.640
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -77,7 +98,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.947
+- Vistas reportadas por YouTube: 20.666
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -86,30 +107,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 20/10/2026 07:00 PM
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.562
+- Vistas reportadas por YouTube: 22.746
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
-
-### Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 21/10/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=92UsH4t0riI
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 04:00 AM
+- Publicado: 22/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 16
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -119,7 +129,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.984
+- Vistas reportadas por YouTube: 3.020
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -136,6 +146,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
+- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D5nIap6LFnA
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
+- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=wQvfv6jvF6I
 
 ### My 2026 Streamer Award Winners
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -207,16 +237,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- **Texto en pantalla:** Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=92UsH4t0riI
-
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -275,8 +295,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=mFmraA8akfA
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
-  - https://www.youtube.com/watch?v=Jx4JS4wMFw0
-  - https://www.youtube.com/watch?v=wQvfv6jvF6I
+  - https://www.youtube.com/watch?v=UP5iWIdzZNo
+  - https://www.youtube.com/watch?v=MB6TEAyA-t0
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
