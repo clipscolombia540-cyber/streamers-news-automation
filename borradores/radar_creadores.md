@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 07:35 AM (hora de Colombia)
+Actualizado: 22/10/2026 09:31 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 12.
+Clips incluidos: 13.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Pelicanger
+- Publicado: 20/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 868.324
+- Puntaje heurístico de interés: 10
+- Enlace directo: https://www.youtube.com/watch?v=BfjSDqly4Hs
 
 ### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - Categoria: Clip de terceros
@@ -17,19 +27,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.043
+- Vistas reportadas por YouTube: 9.284
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.081
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=D5nIap6LFnA
 
 ### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
 - Categoria: Clip de terceros
@@ -37,19 +37,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: Conter+
 - Publicado: 21/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.626
+- Vistas reportadas por YouTube: 2.725
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=wQvfv6jvF6I
-
-### My 2026 Streamer Award Winners
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: DrDonut Clips
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 67.187
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
 ### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
 - Categoria: Clip de terceros
@@ -57,9 +47,19 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: Candres Peredo
 - Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.795
-- Puntaje heurístico de interés: 5
+- Vistas reportadas por YouTube: 34.575
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=0A8ZjbPbCuQ
+
+### My 2026 Streamer Award Winners
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: DrDonut Clips
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 68.017
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - Categoria: Clip de terceros
@@ -67,9 +67,19 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.771
+- Vistas reportadas por YouTube: 7.896
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
+
+### 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Reydelacity.shorts
+- Publicado: 22/10/2026 02:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=c6ykyNVOWwE
 
 ### Chanty cambia el directo por los karts: la previa del duelo
 - Categoria: Clip de terceros
@@ -87,20 +97,19 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.640
+- Vistas reportadas por YouTube: 10.488
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+### EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 12:00 AM
+- Publicado: 21/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.666
+- Vistas reportadas por YouTube: 6.148
 - Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+- Enlace directo: https://www.youtube.com/watch?v=AWRE1X8wu0U
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - Categoria: Cuenta de clips
@@ -109,7 +118,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.746
+- Vistas reportadas por YouTube: 23.109
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
@@ -117,7 +126,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 03:00 AM
+- Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 16
 - Puntaje heurístico de interés: 0
@@ -129,13 +138,23 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.020
+- Vistas reportadas por YouTube: 3.046
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢
+- **Texto en pantalla:** Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=BfjSDqly4Hs
 
 ### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -147,16 +166,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
-- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D5nIap6LFnA
-
 ### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -166,16 +175,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=wQvfv6jvF6I
-
-### My 2026 Streamer Award Winners
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** My 2026 Streamer Award Winners
-- **Texto en pantalla:** My 2026 Streamer Award Winners
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
 
 ### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -187,6 +186,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=0A8ZjbPbCuQ
 
+### My 2026 Streamer Award Winners
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** My 2026 Streamer Award Winners
+- **Texto en pantalla:** My 2026 Streamer Award Winners
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
+
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -196,6 +205,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
+
+### 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+- **Texto en pantalla:** 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=c6ykyNVOWwE
 
 ### Chanty cambia el directo por los karts: la previa del duelo
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -217,15 +236,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
+- **Texto en pantalla:** EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+- **Fuente original:** https://www.youtube.com/watch?v=AWRE1X8wu0U
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -295,8 +314,10 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=mFmraA8akfA
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
+  - https://www.youtube.com/watch?v=wQvfv6jvF6I
   - https://www.youtube.com/watch?v=UP5iWIdzZNo
-  - https://www.youtube.com/watch?v=MB6TEAyA-t0
+- **Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
+  - https://www.youtube.com/watch?v=BfjSDqly4Hs
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
 - **STREAMERS REACT TO GIGI THE BUNNY'S LOW BUDGET COSPLAY BY CRAFT** (candidata por revisar) — última detección: 2026-10-19
