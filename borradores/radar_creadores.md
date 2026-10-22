@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 03:34 AM (hora de Colombia)
+Actualizado: 22/10/2026 05:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 11.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 21/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.510
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=wQvfv6jvF6I
 
 ### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.816
+- Vistas reportadas por YouTube: 8.955
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -37,29 +27,48 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 65.205
+- Vistas reportadas por YouTube: 66.222
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
-
-### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Gamers React
-- Publicado: 20/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.617
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
 ### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Candres Peredo
-- Publicado: 22/10/2026 02:47 AM
+- Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.861
-- Puntaje heurístico de interés: 3
+- Vistas reportadas por YouTube: 6.524
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=0A8ZjbPbCuQ
+
+### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Canal no identificado
+- Publicado: 20/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
+
+### Chanty cambia el directo por los karts: la previa del duelo
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Fuera del Directo
+- Publicado: 21/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=nNXPSD8QrMI
+
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 22/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.344
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - Categoria: Cuenta de clips
@@ -68,7 +77,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.915
+- Vistas reportadas por YouTube: 17.947
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -79,25 +88,26 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.149
+- Vistas reportadas por YouTube: 22.562
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+### Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 01:00 AM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 21/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.604
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
+- Vistas reportadas por YouTube: 11
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=92UsH4t0riI
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 03:00 AM
+- Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
@@ -116,16 +126,6 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
-- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wQvfv6jvF6I
 
 ### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -147,6 +147,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
 
+### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
+- **Texto en pantalla:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA d
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0A8ZjbPbCuQ
+
 ### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -157,15 +167,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Chanty cambia el directo por los karts: la previa del duelo
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
-- **Texto en pantalla:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA d
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** Chanty cambia el directo por los karts: la previa del duelo
+- **Texto en pantalla:** Chanty cambia el directo por los karts: la previa del duelo
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=0A8ZjbPbCuQ
+- **Fuente original:** https://www.youtube.com/watch?v=nNXPSD8QrMI
+
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- **Texto en pantalla:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS...
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
 
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -187,15 +207,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+### Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- **Texto en pantalla:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS...
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
+- **Texto en pantalla:** Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
+- **Fuente original:** https://www.youtube.com/watch?v=92UsH4t0riI
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
