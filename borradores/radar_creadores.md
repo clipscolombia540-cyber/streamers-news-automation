@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 03:26 PM (hora de Colombia)
+Actualizado: 22/10/2026 05:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 9.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 2, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Programa: DEDsafio Minecraft
 - Canal que publico: G'CLIPS
-- Publicado: 21/10/2026 07:00 PM
+- Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.418
+- Vistas reportadas por YouTube: 11.132
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69.225
+- Vistas reportadas por YouTube: 69.484
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -37,19 +37,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.160
+- Vistas reportadas por YouTube: 8.233
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
-
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: kinezz oficial
-- Publicado: 22/10/2026 03:01 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - Categoria: Cuenta de clips
@@ -57,7 +47,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.068
+- Vistas reportadas por YouTube: 29.100
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -68,7 +58,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 21/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 46.678
+- Vistas reportadas por YouTube: 52.077
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -78,20 +68,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.270
+- Vistas reportadas por YouTube: 8.001
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 21/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: WestClipsZone
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClipsZone
+- Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.559
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
@@ -99,19 +89,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.090
+- Vistas reportadas por YouTube: 1.548
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### LA NUEVA GENERACIÓN DE STREAMERS
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Qüentin
-- Canal que publico: Qüentin
-- Publicado: 20/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.613
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=bSHqjlin8-w
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - Categoria: Influencer de respaldo
@@ -119,7 +99,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.098
+- Vistas reportadas por YouTube: 3.145
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -157,16 +137,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
-
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -197,15 +167,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
-- **Texto en pantalla:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
+- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
@@ -216,16 +186,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: Top Streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### LA NUEVA GENERACIÓN DE STREAMERS
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Qüentin? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Qüentin.
-- **Título sugerido:** LA NUEVA GENERACIÓN DE STREAMERS
-- **Texto en pantalla:** LA NUEVA GENERACIÓN DE STREAMERS
-- **Descripción:** Fragmento relacionado con Emergente: Qüentin. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=bSHqjlin8-w
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
@@ -239,9 +199,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Camilo Cifuentes y ‘La Mijita’ aparecieron juntos en fiesta de Westcol: ¿qué le confesaron? - Minuto60** — 22/10/2026 04:05 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF9Qb3pqMmJqMWZ0VmJHWmNtNE1iVXFRVk5jRjJCWF8ydkNEU3p1ckozV1dJZjExMktCM01SZGExdEh1X0ctbGxVWjh0eE9UaHdaYjYtNklKUkI4R2tZWjJrODFEWTZnNHUtd1g4Y1R1ZzhQVEFrMVBOQi04ZENoRFg5WHJTVi1PZ0FOWVpfLW83blJrdGx6aHBfemlzY1JWMU82ZTd0WXJ2OUR0cFA1d3B2OHRTeW9DRTNNXzhBeWEyYVk?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ reaparecen juntos en público y defienden su amor en directo de Westcol - MARCA** — 22/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2lXVG9GdXd3VXkzcV9QeGhYb1d1NjdOaGRaRmlGV0tTSUwyMFVsS0RMS3IxYWZtWXZqeUs4QUV2THZsdEJEV29taGN5UmpqYjFqbDJCOHVibE1IUllOTTNvc0U0N3BESXlYTHdELU1NUFk2R0RTLVFUQzVYUks0SEw2VXhUamQyMC1hdDFocXRtTU1ENmhEaHBubXV5Vlc0cGZPYVpxbnlST0lfQnNqdnpJM0XSAbQBQVVfeXFMTWFQYjAwa0JUMzcyOVRSYzVNbkNfVHFsWEhuOWdqNVRnc09ueUtCRFNZZWhnak9JcFRvM0RodzVnVHVtY2J3eVdMS3FnNnlkQ1ppYm4zX3ZDVFptRVpLZXVWQXZTYXQyNGJoZUgxV3RkWEFZV1BrNXdORHpFRkVsaEVnV0NKLVBLRVRLcHNzR2p6eHgwcVZNSzZoRWNSeTZnczVpWFF5QVF3QkFDTXJpU3d4NjN1?oc=5)
 - **[Creadores] 'Tulio Recomienda' contó el angustiante momento que vivió en una avioneta: "Es algo inexplicable” - Pulzo** — 22/10/2026 12:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmZ4S1MyVTJzVU81azhxUjU1NWtlbmxqVXJmRWtXekdEb0pjenoxcU9ocHZJc3BKQXc3ekZDRW9nMktPY3FqQWgxM0xrVXNUZGR0VWpDSDhlb2RMSzE2R01GLXpscjA1R0dQR3QzeXk5QkFoMnRYOEtOc2dWUWQzNlFGcFREVnp0WXJJUmhfN29EdjNLY2hkZ192TExza2NVMFdfVF95M2NtY2NQbHfSAbMBQVVfeXFMT3FCVmtjQXpkaFNUTnNDOV9CZDNiTi1ac3dENDM3SjhPN3ZMNVVucHNRVUJFWDlzc3BybTVZTldDRUE0aENrMjdvSG1YMzhNakZteWRWMUd4OWV2VloxTDRRYkZrYld3MTRRVHQtN01LdkZsMnNRd1VMeVRGYk9JeUhhd2lVcnMyckt4TVR0LThldk1jZkNaQ0lRQ1RGU1ozclpCRnhsWVBnTjQtMG9IV05Nems?oc=5)
-- **[Creadores] Camilo Cifuentes y 'La Mijita' reaparecieron en público: 'Westcol' los grabó - Pulzo** — 22/10/2026 11:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTXhmN2I1bmpNeHZJV3NxZS12SkN5czJ4SjVfSXVUNllhM2dLcDNDdEw5ZFB2dFBEVEYzV2s3Y294TzM3aGJuM1hPaHhQclVBRHFXc0xuNTVPTmwxbTdrZm1CRFVYR3lVU1lQRlBZMVZpZ3Y3WXdJU1BoMnlkenhGZ3BHWXZVd0tRTGtMRC1HSDdrSnRtc3NfaDlIa1hOZXdkQzhnUWRvdW1SMVXSAbABQVVfeXFMTTU4ZmNPUHcxUHh3bmJxVDF0T3lZalUwT1JSLW8zS1hmR21OWEQ3TjJzOWpTVnVsbW92UVhQd0I0enBMejlRcEVaeEZWcTJReXhXaXpjQU9wdDctWDhoQzVrNW9SbG1wdjA2dXBLZV83dXZRN190WDNrTldyNExTVUVHQWFOandnYjEtWnZGTUVEcW1FZDVSTmNONllDY0FFNDlfelJKb091dUdXUGludzE?oc=5)
 - **[Creadores] Tulio Recomienda estuvo a punto de sufrir un accidente aéreo y habló sobre la extraña sensación que vivió: “Es algo inexplicable” - Revista Semana** — 22/10/2026 10:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRdIBhwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRQ?oc=5)
 - **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 22/10/2026 02:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
 - **[Creadores] La Liendra rompió el silencio sobre la adicción de su hermana mayor a las drogas - Noticias RCN** — 21/10/2026 07:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJXc0tPVFRLVG9xb1dDaEhtQnFlUUQ1RzN3U00zRGt1U0c2QmV0dEdrRHBGak1LRkU1SjFNM0kzT0VmNHVxNUtucV9KUWpOWTl0Sm1tNDBiSUFXdll0Q0FvcXVyWDRTYXNSWWd2TGlrclE1RUhtc0huaDlSUGliMm8ycThDbW1OR0JERm41RDljZkZiMnljUjdqV0ZUR2MtR1JkLV8wUFRtaXA4RTZEODBYMkHSAbQBQVVfeXFMUEtrVXlQRldzUnVvMEs3RGQyd3FhMkYwMnhoei1pVlFRSm5wYWlwUEpBbDliN1Vmb0dkZ1ZqY3hfMFF6Y0xvQkR4SWtUQ3l1THI5d0d4cTJKaUxyZzBUMTd5UTFwZTZfNk5wc2VITEhCeXhTeHN3azRCXzVrY1h4enJyTjRxX2JqNFpJSUhPUHg1c05xbnB4Q3NPcHFTMG1uTERfSVdENTZfeUVnQ1loS0t3Wm1i?oc=5)
