@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/10/2026 07:33 PM (hora de Colombia)
+Actualizado: 21/10/2026 09:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 9.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.276
+- Vistas reportadas por YouTube: 7.072
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 60.041
+- Vistas reportadas por YouTube: 61.242
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.266
+- Vistas reportadas por YouTube: 7.377
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
@@ -45,31 +45,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Chanty
 - Canal que publico: Fuera del Directo
-- Publicado: 21/10/2026 11:00 AM
+- Publicado: 21/10/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nNXPSD8QrMI
-
-### MEJORES MOMENTOS DE WESTCOL EN EL DEDSAFIO 4 😂 PARTE #3 🐀🧀
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 20/10/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.731
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=mHYfJg3Cv0w
 
 ### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 21/10/2026 12:00 AM
+- Publicado: 20/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.287
+- Vistas reportadas por YouTube: 13.120
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=wwbSbdHPHUU
 
@@ -80,53 +69,41 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 7.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 18.400
+- Vistas reportadas por YouTube: 19.521
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### Llegue a la mansión de Yolo y asi reacciono a mi Ferrari I Lonche LonchiClips
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 21/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: WestClipsZone
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClipsZone
+- Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=VdMfymE7iQM
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
 
-### WESTCOL REACCIONA A LA HISTORIA REAL DE GARAVITO JORDI WILD
+### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestColClipsCol
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestColClipsCol
-- Publicado: 21/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=13KT0ZBCjS8
-
-### Lonche confirma que sus carros son RENTADOS? (nuevos carros) I LonchiCips
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=FVyvbkeQ6fs
-
-### Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
 - Publicado: 21/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=92UsH4t0riI
+- Enlace directo: https://www.youtube.com/watch?v=dvdnG1PPnu8
+
+### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: Al Rojo Vivo
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.173
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -172,16 +149,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nNXPSD8QrMI
 
-### MEJORES MOMENTOS DE WESTCOL EN EL DEDSAFIO 4 😂 PARTE #3 🐀🧀
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** MEJORES MOMENTOS DE WESTCOL EN EL DEDSAFIO 4 😂 PARTE #3 🐀🧀
-- **Texto en pantalla:** MEJORES MOMENTOS DE WESTCOL EN EL DEDSAFIO 4 😂 PARTE #3 🐀🧀
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=mHYfJg3Cv0w
-
 ### REYDELACITY SPENDS THE NIGHT WITH TOKISCHA AND LA MÁS DOLL… THEY TALK ABOUT DEMBOW! 🔥🇩🇴
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -202,54 +169,44 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### Llegue a la mansión de Yolo y asi reacciono a mi Ferrari I Lonche LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Llegue a la mansión de Yolo y asi reacciono a mi Ferrari I Lonche LonchiClips
-- **Texto en pantalla:** Llegue a la mansión de Yolo y asi reacciono a mi Ferrari I Lonche Lonc
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VdMfymE7iQM
-
-### WESTCOL REACCIONA A LA HISTORIA REAL DE GARAVITO JORDI WILD
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACCIONA A LA HISTORIA REAL DE GARAVITO JORDI WILD
-- **Texto en pantalla:** WESTCOL REACCIONA A LA HISTORIA REAL DE GARAVITO JORDI WILD
+- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=13KT0ZBCjS8
+- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
-### Lonche confirma que sus carros son RENTADOS? (nuevos carros) I LonchiCips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche confirma que sus carros son RENTADOS? (nuevos carros) I LonchiCips
-- **Texto en pantalla:** Lonche confirma que sus carros son RENTADOS? (nuevos carros) I LonchiC
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 WESTCOL
+- **Texto en pantalla:** TIRANDO BOMBAS CON LEANDRO, REYDELACITY Y CHANTY 🤣 WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=FVyvbkeQ6fs
+- **Fuente original:** https://www.youtube.com/watch?v=dvdnG1PPnu8
 
-### Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- **Texto en pantalla:** Estas bromas de Yeferson Cossio NO TIENEN PERDÓN 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=92UsH4t0riI
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
+- **Texto en pantalla:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calde
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Noticias y contexto
 
+- **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 21/10/2026 08:45 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
 - **[Creadores] Westcol y el video viral con Milica: esto dijo el streamer sobre el escándalo (y la dura respuesta de ella - 北陸地方整備局** — 21/10/2026 05:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHE4MHpsbHF6cjdSam9nc2F2SXFOTktqdmFjT1Z4YUFSdGlaQnhORHl5dTFtNDB5NGR3N0dObmhrVDNMc044U0tzYklKcER4MGh0NkZoa2hBUUZNelRVTGhFTWEtMmFFa3A3UHRaZDVJY0dkdlBwZ0JSb282UTZBbTl6S2Z5OE9neHpIdmRpNjN2eTVRNFFzbk42ZDB5SlpEUEFrb3lYVG5IU19fZ09KTHlhVl9wOTVWUm5ESm9IUzkxSURuZ2J4WjFVRnNibTVqMmE1OVNUbUpZVEY0?oc=5)
 - **[Creadores] "Lo hago de corazón": Lonche de Huevito descarta colaboración con el gobierno de Ahome para tapar baches - Debate** — 21/10/2026 05:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMy1WVU5UTU1jTnVSN0FDaGwycFlBNlQ3dHI0ay1wckR1TzY4YWU0NXU3RkdLYk5GbXNxR2dEMlUxbHR2TWNaZUtvNUhpVU1uaGtJbV94bUxjdDJFSW0xdlRRclI4OEFOcmpUcnNOZG1OZmtQa3FldnIwRC1NVFAxYmpZSVVtNEFMTDUyUmI0TTVibUpBeWNLSDM0el9XTzY1UEV5UUlNRXhTcnh4c05rSGNvNWxubkdXTlI3amt0cExvVFQyVnp6MmhQamxkSVVScld0cl9iaURPcmMzYjZxSU1nV0wwWkljUXJ4WWwyQU5uejM0MXVv?oc=5)
 - **[Creadores] Westcol y Luisa Castro desatan rumores de ruptura - diariodelsur.com.co** — 21/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEtPSTdraEV3XzQ3bUVXQmFRT1ZZdmlVam9BVWtFOU9NcXlrNnhPRE9GYVlTTmJfVHdRTjZ4ZEs0QmFfM3FGOGNnejRZU3VKanZTajc5NXhuRFFHVnhzT3VSeE9mZXZOZ2hzdi16LWZ0b0ZISEcwRlJpQnk2WXN0cDhaWk40N1FmQWw2VzNB?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio sufrió aparatoso accidente en cuatrimoto - Eluniversal.com.co** — 21/10/2026 03:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2EwNTY5LTBXSUtHSmdRcC1KT1NIOVZsYU5RYl9lNWZEOGRXalA1S2RQdWdLOURfSTlqek5OLTBRYTRma05iYWJaZ2hjT3QzXzN0d1AtYmFKYkFyeGhqVV9TWEdEY2sweXhRbFVNV3F2R19iYmtzZTcyMFNnaEJWZUhGNFJkQm9SSkFwcHFBZ1R4Nm9hQktNTHJFUTVTUlE5YklhMndXN0phUEJRS0V0SzZwU0RRaTRzYjF0RA?oc=5)
 - **[Creadores] La Liendra se quebró al hablar de su hermana y reveló el difícil proceso que enfrenta su familia - Candela** — 21/10/2026 02:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxQazlWaGNIMTktS1pPOFp0dmNtQVB0QmhRSU15SEh2b3FBNmFXLUl6X3VyQmJhYl9IUFFxRWQwdGNYUHI0UHB5dXN3d2xpejNQd1FiQkd4NWtJNm1vWlhlZXJITFA0QlRjSnU2bGVYTUhLeFZtOHNqZ2xvRnBvbEd0SVdRUXF5WWNwaTVzczZjTGI?oc=5)
-- **[Creadores] La Liendra rompió en llanto al internar a su hermana por adicción a las drogas - Eluniversal.com.co** — 21/10/2026 12:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjVBTTBmdmlmMjBBcFpUVzlGSDc3c1U4aU82RVlzb3VIX0RqcHRSb3FmelFUWFBkVFd3NDM3a2FySlE2Y2oxODZqYVMwQTVLZExleGU3WmZGZzVLQy1nOFd3QktjSXNkeHJlYWpFWm5GNzhISFRMaW5NekF2Z20wRUg2OF9fQWJRYmJhRldRMW1CNlUxQ0RUdTZERVJqQlpYMlpwck9LVlBCUXc1dTd2bUF5aTJhZ01SdllxWERmYXhlTDFZRV9jdkFKYw?oc=5)
 - **[Creadores] "La reina es una sola y soy yo": Alicia Machado y Yina Calderón protagonizan PELEA en 'Juego de Villanos' | VI - Milenio** — 21/10/2026 12:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYW4xSUtCd3FCaWpFY3RoVjlKVmpMOTNFMGhyRXA3WTh2QjJvVEtyU3VpOXNiUFpCaXh1bmtEY1B0YTFqeHpfQXB5N1lFSlg5WGFtZ3FMbmRodDZuaUNMMURDZXRsSHExX1l0N3ZWMHhyTldDS0J0eE1ibnl2aDZ3WWVDeGhidHdCVDhaSFJSb3FxMGg1M3hPNzBIRlNNNHFqQ28yRUc5c2tVN1XSAasBQVVfeXFMTzFoZXp5T2V6a1hvakxaTEE3NzZpeXpIQXBReTU3azRWT01Sb3FnQWdaUlMwcGF6Zm5KSGhPbXlPaEh1RjZZbTdmb01QWm5Jem9uT0I4SGV6OHc0RXB6eHJoWGVIVUxyNXJ6SjJWNFN6dzNRZHQ5TjVuUk5ndzNEX2luNnhHamlJZV9CNE1XZ0hndDAtT0dvNWNyR1B1Y0hSU0tlNlE1dGtTOXdB?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
 - **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
