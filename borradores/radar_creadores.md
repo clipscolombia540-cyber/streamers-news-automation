@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/10/2026 11:29 PM (hora de Colombia)
+Actualizado: 22/10/2026 01:34 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 9.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Influencer de respaldo: 1.
+Noticias recientes: 10.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Influence
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.099
+- Vistas reportadas por YouTube: 8.635
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Influence
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 62.778
+- Vistas reportadas por YouTube: 64.032
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -37,19 +37,29 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Influence
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.441
+- Vistas reportadas por YouTube: 7.600
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+### 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Kick ass
-- Publicado: 21/10/2026 01:00 AM
+- Canal que publico: Reydelacity.shorts
+- Publicado: 22/10/2026 01:18 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
+- Enlace directo: https://www.youtube.com/watch?v=c6ykyNVOWwE
+
+### Chanty cambia el directo por los karts: la previa del duelo
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Fuera del Directo
+- Publicado: 21/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=nNXPSD8QrMI
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - Categoria: Cuenta de clips
@@ -58,48 +68,38 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Influence
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.878
+- Vistas reportadas por YouTube: 21.664
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 21/10/2026 09:00 PM
+- Publicado: 22/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.078
+- Vistas reportadas por YouTube: 1.421
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=ccqYs5JUFDk
+- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### REYDELACITY JUEGA A LAS ESCONDIDAS EN UNA CASA DE HALLOWEEN CON WESTCOL Y VARIAS CHICAS 🎃😂
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
-- Canal que publico: ElReyWithTheClips
-- Publicado: 21/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.630
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=XABdn9X_OUA
-
-### EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 21/10/2026 10:00 PM
+- Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 885
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=AWRE1X8wu0U
+- Vistas reportadas por YouTube: 4.695
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: Al Rojo Vivo
-- Publicado: 21/10/2026 07:00 PM
+- Publicado: 21/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.700
+- Vistas reportadas por YouTube: 2.852
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -137,15 +137,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+### 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
-- **Texto en pantalla:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+- **Título sugerido:** 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+- **Texto en pantalla:** 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
+- **Fuente original:** https://www.youtube.com/watch?v=c6ykyNVOWwE
+
+### Chanty cambia el directo por los karts: la previa del duelo
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** Chanty cambia el directo por los karts: la previa del duelo
+- **Texto en pantalla:** Chanty cambia el directo por los karts: la previa del duelo
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=nNXPSD8QrMI
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -157,35 +167,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
-- **Texto en pantalla:** VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+- **Título sugerido:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- **Texto en pantalla:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS...
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ccqYs5JUFDk
+- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### REYDELACITY JUEGA A LAS ESCONDIDAS EN UNA CASA DE HALLOWEEN CON WESTCOL Y VARIAS CHICAS 🎃😂
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REYDELACITY JUEGA A LAS ESCONDIDAS EN UNA CASA DE HALLOWEEN CON WESTCOL Y VARIAS CHICAS 🎃😂
-- **Texto en pantalla:** REYDELACITY JUEGA A LAS ESCONDIDAS EN UNA CASA DE HALLOWEEN CON WESTCO
+- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=XABdn9X_OUA
-
-### EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
-- **Texto en pantalla:** EL JUEGO DE LAS ESCONDIDAS EN EL PARTY DE LA W SOUND 😂😂🔥
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=AWRE1X8wu0U
+- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
@@ -200,11 +200,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 ## Noticias y contexto
 
 - **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 21/10/2026 08:45 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
+- **[Creadores] La Liendra rompió el silencio sobre la adicción de su hermana mayor a las drogas - Noticias RCN** — 21/10/2026 07:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJXc0tPVFRLVG9xb1dDaEhtQnFlUUQ1RzN3U00zRGt1U0c2QmV0dEdrRHBGak1LRkU1SjFNM0kzT0VmNHVxNUtucV9KUWpOWTl0Sm1tNDBiSUFXdll0Q0FvcXVyWDRTYXNSWWd2TGlrclE1RUhtc0huaDlSUGliMm8ycThDbW1OR0JERm41RDljZkZiMnljUjdqV0ZUR2MtR1JkLV8wUFRtaXA4RTZEODBYMkHSAbQBQVVfeXFMUEtrVXlQRldzUnVvMEs3RGQyd3FhMkYwMnhoei1pVlFRSm5wYWlwUEpBbDliN1Vmb0dkZ1ZqY3hfMFF6Y0xvQkR4SWtUQ3l1THI5d0d4cTJKaUxyZzBUMTd5UTFwZTZfNk5wc2VITEhCeXhTeHN3azRCXzVrY1h4enJyTjRxX2JqNFpJSUhPUHg1c05xbnB4Q3NPcHFTMG1uTERfSVdENTZfeUVnQ1loS0t3Wm1i?oc=5)
 - **[Creadores] Westcol y el video viral con Milica: esto dijo el streamer sobre el escándalo (y la dura respuesta de ella - 北陸地方整備局** — 21/10/2026 05:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHE4MHpsbHF6cjdSam9nc2F2SXFOTktqdmFjT1Z4YUFSdGlaQnhORHl5dTFtNDB5NGR3N0dObmhrVDNMc044U0tzYklKcER4MGh0NkZoa2hBUUZNelRVTGhFTWEtMmFFa3A3UHRaZDVJY0dkdlBwZ0JSb282UTZBbTl6S2Z5OE9neHpIdmRpNjN2eTVRNFFzbk42ZDB5SlpEUEFrb3lYVG5IU19fZ09KTHlhVl9wOTVWUm5ESm9IUzkxSURuZ2J4WjFVRnNibTVqMmE1OVNUbUpZVEY0?oc=5)
 - **[Creadores] "Lo hago de corazón": Lonche de Huevito descarta colaboración con el gobierno de Ahome para tapar baches - Debate** — 21/10/2026 05:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMy1WVU5UTU1jTnVSN0FDaGwycFlBNlQ3dHI0ay1wckR1TzY4YWU0NXU3RkdLYk5GbXNxR2dEMlUxbHR2TWNaZUtvNUhpVU1uaGtJbV94bUxjdDJFSW0xdlRRclI4OEFOcmpUcnNOZG1OZmtQa3FldnIwRC1NVFAxYmpZSVVtNEFMTDUyUmI0TTVibUpBeWNLSDM0el9XTzY1UEV5UUlNRXhTcnh4c05rSGNvNWxubkdXTlI3amt0cExvVFQyVnp6MmhQamxkSVVScld0cl9iaURPcmMzYjZxSU1nV0wwWkljUXJ4WWwyQU5uejM0MXVv?oc=5)
-- **[Creadores] Westcol y Luisa Castro desatan rumores de ruptura - Diario del Sur** — 21/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEtPSTdraEV3XzQ3bUVXQmFRT1ZZdmlVam9BVWtFOU9NcXlrNnhPRE9GYVlTTmJfVHdRTjZ4ZEs0QmFfM3FGOGNnejRZU3VKanZTajc5NXhuRFFHVnhzT3VSeE9mZXZOZ2hzdi16LWZ0b0ZISEcwRlJpQnk2WXN0cDhaWk40N1FmQWw2VzNB?oc=5)
+- **[Creadores] La millonada que le habrían pagado a WestCol por visitar el centro de Bogotá; superó las expectativas - LOS40** — 21/10/2026 04:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1Q1VTZaNHFwc25FcGdYRmNSYW5jZFNCazd5MWIzYUpVXzBnLUU4WlRXczRyQmlNcFJDcTRTb0ZwM2thNU5LWTdleFBWS1RPT0IxdmUxM2wyQnlTM2gzaVM1WnRTekxlMlFNWlVRV09xb2NoVTBvZ1o4YTdhM01mUXhKdDhVamhMWHI5eTh6UTVkUjB5Rk1YTk9SUXNkRVp1RlFNdjROSkNZTjdNTXJEdkJJV2lJWURnQVJVR2V4UWRkaXVPMlVHNllfMmF3UdIB4gFBVV95cUxNYWFvd3FhRzJfUmxFNkpWblU4bWUzNUhqTU9MUHpmcnIyVFNjUHFFTkFJb3gwd3hfMDc1T2dXcFpBaXF3WnpheUxIb1Y1YTNMQ2U2V285RlhIMDNDVmZXNHFkaXBNczE4OUtzRm45V1VsaE5TX2k0Q0JSRUpSV0RSZ1A4NzFoTVdiUzl5amZkRGV4UlFEallaNXIwSUxldm9NR3FpRmdtWkowMVBncDRxUllad1l6cXFRQ0pWbjI5Nm1HMGtPS1JJbU5CLTdWYXFKNkluVGpVUy1hUkhEbkJkMFZ3?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio sufrió aparatoso accidente en cuatrimoto - Eluniversal.com.co** — 21/10/2026 03:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2EwNTY5LTBXSUtHSmdRcC1KT1NIOVZsYU5RYl9lNWZEOGRXalA1S2RQdWdLOURfSTlqek5OLTBRYTRma05iYWJaZ2hjT3QzXzN0d1AtYmFKYkFyeGhqVV9TWEdEY2sweXhRbFVNV3F2R19iYmtzZTcyMFNnaEJWZUhGNFJkQm9SSkFwcHFBZ1R4Nm9hQktNTHJFUTVTUlE5YklhMndXN0phUEJRS0V0SzZwU0RRaTRzYjF0RA?oc=5)
-- **[Creadores] La Liendra se quebró al hablar de su hermana y reveló el difícil proceso que enfrenta su familia - Candela** — 21/10/2026 02:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxQazlWaGNIMTktS1pPOFp0dmNtQVB0QmhRSU15SEh2b3FBNmFXLUl6X3VyQmJhYl9IUFFxRWQwdGNYUHI0UHB5dXN3d2xpejNQd1FiQkd4NWtJNm1vWlhlZXJITFA0QlRjSnU2bGVYTUhLeFZtOHNqZ2xvRnBvbEd0SVdRUXF5WWNwaTVzczZjTGI?oc=5)
+- **[Creadores] Yina Calderón vuelve a los realities con una inesperada apuesta fuera de la televisión colombiana - Publimetro Colombia** — 21/10/2026 11:41 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazRlaGw4OVY4ZDZFQmwwcHBTTWdFcTRSR3h0bm9CYjhRa0JMeGRaZGJ5WC1uMUJrWlNUTzQxUjAySzZ5WlFDYUZBYlJ3LUpkdE9hRFNCT0w2SnJOdWZmVUt0TUYwM2FCMnZYZXlNU2NoVTlSaEdvWks1emxMNGttS2JON1VDOEZiTk9Xc2x2bXdzYzd4eVdWWlBXN2NRUmdpOElVaS16YUtTMFdCaUJKODFyUjFRZE1KR2M0azJhNENjTkR2ZlhvYnhjRkZJOGZjTEE5VDdTWlhkNHpQVmhja1BqOXdKUQ?oc=5)
 - **[Creadores] "La reina es una sola y soy yo": Alicia Machado y Yina Calderón protagonizan PELEA en 'Juego de Villanos' | VI - Milenio** — 21/10/2026 12:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYW4xSUtCd3FCaWpFY3RoVjlKVmpMOTNFMGhyRXA3WTh2QjJvVEtyU3VpOXNiUFpCaXh1bmtEY1B0YTFqeHpfQXB5N1lFSlg5WGFtZ3FMbmRodDZuaUNMMURDZXRsSHExX1l0N3ZWMHhyTldDS0J0eE1ibnl2aDZ3WWVDeGhidHdCVDhaSFJSb3FxMGg1M3hPNzBIRlNNNHFqQ28yRUc5c2tVN1XSAasBQVVfeXFMTzFoZXp5T2V6a1hvakxaTEE3NzZpeXpIQXBReTU3azRWT01Sb3FnQWdaUlMwcGF6Zm5KSGhPbXlPaEh1RjZZbTdmb01QWm5Jem9uT0I4SGV6OHc0RXB6eHJoWGVIVUxyNXJ6SjJWNFN6dzNRZHQ5TjVuUk5ndzNEX2luNnhHamlJZV9CNE1XZ0hndDAtT0dvNWNyR1B1Y0hSU0tlNlE1dGtTOXdB?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio salió herida tras accidentarse en cuatrimoto: “Me levanté muy mareada” - Infobae** — 20/10/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmxEYVY5NXljWktHMWtpdVFqUkVEb3ZEMVJ3VHc1S1V1Wjh4cUY5a21tRjctay16MmYyMzh3LXplTURKRzJwNEtFd20tRjJjZ29uSnVtU0FiM2NqUV9JN2tEaWUxTG1sZDdTRDIzOHJuZXZFd3pvdzVLajhOSlVMb0tBNXdkU3RWOW1UaUJJUzdCb3lndFBJRzhpdEo2cTlNcGd2TUsxXzQ4SnZNbEE3Qm0tdU45c1luTEZqWEVraDNINjg2VWFmX1J3RXZwQzdNZ2NUTTdR0gHwAUFVX3lxTE1ybWFJOWxWYUo0WVYxcDl1d3hKdkpVM3pXbjRycUpfbFY5cWVNUkMySUZuWjJvWlNJT3EwQ3pwaU9DbU5UbHZnRU04WkJiSjNOSGhidERoWmEwXzNrX3RCOFNGdW5pWS03S2JsdERHYzUxdjdyREhac19pRWhfOXJob25tYmhBZTMzNEl5UE92S3YxNGl5UllpdWE2bkJNQU9KU3dwZG15b2V0ZWc3aUN2QUtfaHVkYkhseF9VeE9wMUJtalZtTGw3OEpMdlhqbUlSQ3YwdGR4YlpyUHJneXZVZ0lXaHRaanIybXFILVQtUg?oc=5)
 - **[Creadores] "Lonche de Huevito" teme posible demanda si bachea las calles de Los Mochis | VIDEO - Luz Noticias** — 20/10/2026 10:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk5GVVFQSXlwZEUxdlEtZ3FVSFBwRTQwUWNzaXlFdDlHbE1sbzFxOTZIUmk2T2ZkSkRUTVA4MFY3NXJyS3R6M1hRclM0MW4zbnNHLS1WaXMxT1JfVGpjZm0tTkJxSWkyNzRwdUJIOFFEQVpUS1VXRnRyWjJVZTJmX2w2TmdQSlI5U3gwdXBtYkE4Wko1TENGeVIyR3FMS205NXBGdzBITjU3SGt0c1ZlcVhvRHNUNXZIMUJSUElvSFBNUmtTUUVMaUtiTThqd9IB0wFBVV95cUxOakV1ck1oRDdtMktwakhmdmpUUlowRkRkc2VkR1hjNlBTZUFrcEo1V1gzclpWWFRmc1JHTlFsdmN4cTcteGJPTldGYkdQQWwzeDhsRXhBaklzcHVUajh5RWZnTzl1VzlJUk1mbDRscmpmQTVTUmhKdUZDNjA3c2lFVGhwT0ZVZXgzdm1mYW9WeVBlcWNCcUNCMzhpdHJHLV9sMWR5b2VkLWQtTkZPM3lnT0lRZk1KX1c5c1BIcFhGNVdhbG43Vy1fRzFzSmJwTmhWOEU0?oc=5)
@@ -229,11 +230,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-21
+- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
-- **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-21
+- **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=mFmraA8akfA
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-21
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=Jx4JS4wMFw0
   - https://www.youtube.com/watch?v=wQvfv6jvF6I
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
