@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 11:32 AM (hora de Colombia)
+Actualizado: 22/10/2026 01:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 14.
-Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
+Clips incluidos: 10.
+Noticias recientes: 11.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Canal que publico: Pelicanger
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 874.039
+- Vistas reportadas por YouTube: 881.924
 - Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=BfjSDqly4Hs
 
@@ -27,39 +27,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.558
+- Vistas reportadas por YouTube: 9.947
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.102
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=D5nIap6LFnA
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 21/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.866
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=wQvfv6jvF6I
-
-### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Candres Peredo
-- Publicado: 22/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 62.836
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=0A8ZjbPbCuQ
 
 ### My 2026 Streamer Award Winners
 - Categoria: Clip de terceros
@@ -67,7 +37,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 68.457
+- Vistas reportadas por YouTube: 68.878
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -77,27 +47,28 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.992
+- Vistas reportadas por YouTube: 8.079
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### Reacting to the BEST REDDIT MEMES of SEPTEMBER 😂 | Pelicanger
+### Chanty cambia el directo por los karts: la previa del duelo
 - Categoria: Clip de terceros
-- Creador/canal detectado: Pelicanger
-- Canal que publico: Canal no identificado
+- Creador/canal detectado: Chanty
+- Canal que publico: Fuera del Directo
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=qLrS7HNXTa4
+- Enlace directo: https://www.youtube.com/watch?v=nNXPSD8QrMI
 
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 12:00 AM
+- Publicado: 21/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.910
+- Vistas reportadas por YouTube: 41.009
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -105,9 +76,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 01:00 AM
+- Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.386
+- Vistas reportadas por YouTube: 19.390
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -118,7 +89,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.532
+- Vistas reportadas por YouTube: 23.993
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
@@ -126,31 +97,21 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 4, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
-- Publicado: 22/10/2026 10:56 AM
+- Publicado: 22/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 405
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 2.178
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 03:00 AM
+- Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 286
+- Vistas reportadas por YouTube: 616
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Yina Calderón
-- Canal que publico: Al Rojo Vivo
-- Publicado: 21/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.058
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -176,36 +137,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 20
-- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D5nIap6LFnA
-
-### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
-- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wQvfv6jvF6I
-
-### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
-- **Texto en pantalla:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA d
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=0A8ZjbPbCuQ
-
 ### My 2026 Streamer Award Winners
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -226,15 +157,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### Reacting to the BEST REDDIT MEMES of SEPTEMBER 😂 | Pelicanger
-- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
+### Chanty cambia el directo por los karts: la previa del duelo
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
-- **Título sugerido:** Reacting to the BEST REDDIT MEMES of SEPTEMBER 😂 | Pelicanger
-- **Texto en pantalla:** Reacting to the BEST REDDIT MEMES of SEPTEMBER 😂 | Pelicanger
-- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** Chanty cambia el directo por los karts: la previa del duelo
+- **Texto en pantalla:** Chanty cambia el directo por los karts: la previa del duelo
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=qLrS7HNXTa4
+- **Fuente original:** https://www.youtube.com/watch?v=nNXPSD8QrMI
 
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -286,18 +217,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
 
-### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
-- **Título sugerido:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- **Texto en pantalla:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calde
-- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=EtszZMbiGK0
-
 ## Noticias y contexto
 
+- **[Creadores] 'Tulio Recomienda' contó el angustiante momento que vivió en una avioneta: "Es algo inexplicable” - Pulzo** — 22/10/2026 12:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmZ4S1MyVTJzVU81azhxUjU1NWtlbmxqVXJmRWtXekdEb0pjenoxcU9ocHZJc3BKQXc3ekZDRW9nMktPY3FqQWgxM0xrVXNUZGR0VWpDSDhlb2RMSzE2R01GLXpscjA1R0dQR3QzeXk5QkFoMnRYOEtOc2dWUWQzNlFGcFREVnp0WXJJUmhfN29EdjNLY2hkZ192TExza2NVMFdfVF95M2NtY2NQbHfSAbMBQVVfeXFMT3FCVmtjQXpkaFNUTnNDOV9CZDNiTi1ac3dENDM3SjhPN3ZMNVVucHNRVUJFWDlzc3BybTVZTldDRUE0aENrMjdvSG1YMzhNakZteWRWMUd4OWV2VloxTDRRYkZrYld3MTRRVHQtN01LdkZsMnNRd1VMeVRGYk9JeUhhd2lVcnMyckt4TVR0LThldk1jZkNaQ0lRQ1RGU1ozclpCRnhsWVBnTjQtMG9IV05Nems?oc=5)
 - **[Creadores] Camilo Cifuentes y 'La Mijita' reaparecieron en público: 'Westcol' los grabó - Pulzo** — 22/10/2026 11:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTXhmN2I1bmpNeHZJV3NxZS12SkN5czJ4SjVfSXVUNllhM2dLcDNDdEw5ZFB2dFBEVEYzV2s3Y294TzM3aGJuM1hPaHhQclVBRHFXc0xuNTVPTmwxbTdrZm1CRFVYR3lVU1lQRlBZMVZpZ3Y3WXdJU1BoMnlkenhGZ3BHWXZVd0tRTGtMRC1HSDdrSnRtc3NfaDlIa1hOZXdkQzhnUWRvdW1SMVXSAbABQVVfeXFMTTU4ZmNPUHcxUHh3bmJxVDF0T3lZalUwT1JSLW8zS1hmR21OWEQ3TjJzOWpTVnVsbW92UVhQd0I0enBMejlRcEVaeEZWcTJReXhXaXpjQU9wdDctWDhoQzVrNW9SbG1wdjA2dXBLZV83dXZRN190WDNrTldyNExTVUVHQWFOandnYjEtWnZGTUVEcW1FZDVSTmNONllDY0FFNDlfelJKb091dUdXUGludzE?oc=5)
 - **[Creadores] Tulio Recomienda estuvo a punto de sufrir un accidente aéreo y habló sobre la extraña sensación que vivió: “Es algo inexplicable” - Revista Semana** — 22/10/2026 10:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRdIBhwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRQ?oc=5)
 - **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 22/10/2026 02:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
@@ -336,9 +258,9 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=D5nIap6LFnA
   - https://www.youtube.com/watch?v=Jx4JS4wMFw0
-- **Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
-  - https://www.youtube.com/watch?v=BfjSDqly4Hs
 - **Reaccionando a El Capitulo de Farmear Aura De La Rosa de Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
+  - https://www.youtube.com/watch?v=BfjSDqly4Hs
+- **Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=BfjSDqly4Hs
 - **STAR says goodbye to JUAN 😢 LAST DAY OF THE CHALLENGE** (candidata por revisar) — última detección: 2026-10-20
   - https://www.youtube.com/watch?v=kDIILuWbjXY
