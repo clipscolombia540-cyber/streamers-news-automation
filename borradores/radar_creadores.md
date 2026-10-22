@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 01:34 AM (hora de Colombia)
+Actualizado: 22/10/2026 03:34 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 10.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Conter+
+- Publicado: 21/10/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.510
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=wQvfv6jvF6I
 
 ### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influence
 - Canal que publico: G'CLIPS
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.635
+- Vistas reportadas por YouTube: 8.816
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,7 +37,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influence
 - Canal que publico: DrDonut Clips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 64.032
+- Vistas reportadas por YouTube: 65.205
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -37,29 +47,30 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influence
 - Canal que publico: Gamers React
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.600
+- Vistas reportadas por YouTube: 7.617
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
 
-### 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Reydelacity.shorts
-- Publicado: 22/10/2026 01:18 AM
+- Canal que publico: Candres Peredo
+- Publicado: 22/10/2026 02:47 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=c6ykyNVOWwE
+- Vistas reportadas por YouTube: 1.861
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=0A8ZjbPbCuQ
 
-### Chanty cambia el directo por los karts: la previa del duelo
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: Fuera del Directo
-- Publicado: 21/10/2026 11:00 AM
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=nNXPSD8QrMI
+- Vistas reportadas por YouTube: 12.915
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - Categoria: Cuenta de clips
@@ -68,7 +79,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influence
 - Canal que publico: ElReyWithTheClips
 - Publicado: 20/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.664
+- Vistas reportadas por YouTube: 22.149
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
@@ -78,20 +89,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influence
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.421
+- Vistas reportadas por YouTube: 3.604
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 12:00 AM
+### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Top Streamers
+- Canal que publico: Top Streamers
+- Publicado: 22/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.695
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - Categoria: Influencer de respaldo
@@ -99,13 +109,23 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Influence
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.852
+- Vistas reportadas por YouTube: 2.984
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA 23
+- **Texto en pantalla:** CONTER REACCIONA A MU3RT3S Y MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=wQvfv6jvF6I
 
 ### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
@@ -137,25 +157,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
 
-### 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+### El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
-- **Texto en pantalla:** 😍REYDELACITY QUEDA LOQUITO POR ANDREA VALDIRI EN HALLOWEEN DE WESTCOL😱
+- **Título sugerido:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA de INFLUENCER CREADA con IA!
+- **Texto en pantalla:** El FIN de los AGUILAR!? IBAI FUNADO por CLIP con WESTCOL! SE ENAMORA d
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=c6ykyNVOWwE
+- **Fuente original:** https://www.youtube.com/watch?v=0A8ZjbPbCuQ
 
-### Chanty cambia el directo por los karts: la previa del duelo
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** Chanty cambia el directo por los karts: la previa del duelo
-- **Texto en pantalla:** Chanty cambia el directo por los karts: la previa del duelo
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=nNXPSD8QrMI
+- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -177,15 +197,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Top Streamers.
+- **Título sugerido:** 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
+- **Texto en pantalla:** 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
+- **Descripción:** Fragmento relacionado con Emergente: Top Streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
@@ -199,7 +219,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 21/10/2026 08:45 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
+- **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 22/10/2026 02:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
 - **[Creadores] La Liendra rompió el silencio sobre la adicción de su hermana mayor a las drogas - Noticias RCN** — 21/10/2026 07:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJXc0tPVFRLVG9xb1dDaEhtQnFlUUQ1RzN3U00zRGt1U0c2QmV0dEdrRHBGak1LRkU1SjFNM0kzT0VmNHVxNUtucV9KUWpOWTl0Sm1tNDBiSUFXdll0Q0FvcXVyWDRTYXNSWWd2TGlrclE1RUhtc0huaDlSUGliMm8ycThDbW1OR0JERm41RDljZkZiMnljUjdqV0ZUR2MtR1JkLV8wUFRtaXA4RTZEODBYMkHSAbQBQVVfeXFMUEtrVXlQRldzUnVvMEs3RGQyd3FhMkYwMnhoei1pVlFRSm5wYWlwUEpBbDliN1Vmb0dkZ1ZqY3hfMFF6Y0xvQkR4SWtUQ3l1THI5d0d4cTJKaUxyZzBUMTd5UTFwZTZfNk5wc2VITEhCeXhTeHN3azRCXzVrY1h4enJyTjRxX2JqNFpJSUhPUHg1c05xbnB4Q3NPcHFTMG1uTERfSVdENTZfeUVnQ1loS0t3Wm1i?oc=5)
 - **[Creadores] Westcol y el video viral con Milica: esto dijo el streamer sobre el escándalo (y la dura respuesta de ella - 北陸地方整備局** — 21/10/2026 05:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHE4MHpsbHF6cjdSam9nc2F2SXFOTktqdmFjT1Z4YUFSdGlaQnhORHl5dTFtNDB5NGR3N0dObmhrVDNMc044U0tzYklKcER4MGh0NkZoa2hBUUZNelRVTGhFTWEtMmFFa3A3UHRaZDVJY0dkdlBwZ0JSb282UTZBbTl6S2Z5OE9neHpIdmRpNjN2eTVRNFFzbk42ZDB5SlpEUEFrb3lYVG5IU19fZ09KTHlhVl9wOTVWUm5ESm9IUzkxSURuZ2J4WjFVRnNibTVqMmE1OVNUbUpZVEY0?oc=5)
 - **[Creadores] "Lo hago de corazón": Lonche de Huevito descarta colaboración con el gobierno de Ahome para tapar baches - Debate** — 21/10/2026 05:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMy1WVU5UTU1jTnVSN0FDaGwycFlBNlQ3dHI0ay1wckR1TzY4YWU0NXU3RkdLYk5GbXNxR2dEMlUxbHR2TWNaZUtvNUhpVU1uaGtJbV94bUxjdDJFSW0xdlRRclI4OEFOcmpUcnNOZG1OZmtQa3FldnIwRC1NVFAxYmpZSVVtNEFMTDUyUmI0TTVibUpBeWNLSDM0el9XTzY1UEV5UUlNRXhTcnh4c05rSGNvNWxubkdXTlI3amt0cExvVFQyVnp6MmhQamxkSVVScld0cl9iaURPcmMzYjZxSU1nV0wwWkljUXJ4WWwyQU5uejM0MXVv?oc=5)
