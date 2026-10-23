@@ -1,53 +1,43 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 05:25 PM (hora de Colombia)
+Actualizado: 22/10/2026 07:35 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 7.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: G'CLIPS
-- Publicado: 20/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.132
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
-
-### My 2026 Streamer Award Winners
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: DrDonut Clips
-- Publicado: 20/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69.484
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
-
-### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Gamers React
-- Publicado: 20/10/2026 07:00 PM
+- Canal que publico: Alejandro
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.233
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=mFmraA8akfA
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
+
+### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: kinezz oficial
+- Publicado: 22/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 12:00 AM
+- Publicado: 22/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.100
+- Vistas reportadas por YouTube: 32.318
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -56,9 +46,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 21/10/2026 11:00 PM
+- Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.077
+- Vistas reportadas por YouTube: 56.010
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -66,22 +56,11 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
-- Publicado: 22/10/2026 11:00 AM
+- Publicado: 22/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.001
+- Vistas reportadas por YouTube: 12.687
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
-
-### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClipsZone
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClipsZone
-- Publicado: 20/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
@@ -89,7 +68,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.548
+- Vistas reportadas por YouTube: 1.760
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -97,7 +76,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: Al Rojo Vivo
-- Publicado: 21/10/2026 06:00 PM
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 3.145
 - Puntaje heurístico de interés: 2
@@ -107,35 +86,25 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- **Texto en pantalla:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
-
-### My 2026 Streamer Award Winners
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** My 2026 Streamer Award Winners
-- **Texto en pantalla:** My 2026 Streamer Award Winners
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
-
-### LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
-- **Texto en pantalla:** LOS momentos MÁS divertidos DE LA HISTORIA en Minecraft #199
+- **Título sugerido:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
+- **Texto en pantalla:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=mFmraA8akfA
+- **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
+
+### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -166,16 +135,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
-
-### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
@@ -230,6 +189,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-22
+  - https://www.youtube.com/watch?v=JBysDDxW1qY
 - **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22

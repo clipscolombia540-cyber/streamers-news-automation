@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-10-22T17:25:55.367666-05:00",
+  "actualizado": "2026-10-22T19:35:31.129222-05:00",
   "series": [
+    {
+      "nombre": "Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-22T19:35:31.129222-05:00",
+      "ultima_deteccion": "2026-10-22T19:35:31.129222-05:00",
+      "canal_muestra": "Alejandro",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=JBysDDxW1qY"
+      ]
+    },
     {
       "nombre": "My 2026 Streamer Award Winners",
       "tipo": "serie_o_tema_candidato",
