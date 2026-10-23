@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 11:32 AM (hora de Colombia)
+Actualizado: 23/10/2026 01:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente por verificar: 1.
+Clips incluidos: 8.
+Noticias recientes: 9.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.289
+- Vistas reportadas por YouTube: 14.568
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.764
+- Vistas reportadas por YouTube: 10.294
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
@@ -41,34 +41,13 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 71.502
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
-
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 45.823
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
-
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30.649
+- Vistas reportadas por YouTube: 31.803
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -79,7 +58,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28.842
+- Vistas reportadas por YouTube: 29.222
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
@@ -94,16 +73,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
 
-### CONTANDO COSITAS Y LLEGA BARBAS
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
-- Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=SOjgHWKeduY
-
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
@@ -113,6 +82,16 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Vistas reportadas por YouTube: 2.610
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
+
+### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: Al Rojo Vivo
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3.244
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -148,26 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
-
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- **Texto en pantalla:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS...
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
-
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -198,16 +157,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
-### CONTANDO COSITAS Y LLEGA BARBAS
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: LONCHE DE HUEVITO CLIPS.
-- **Título sugerido:** CONTANDO COSITAS Y LLEGA BARBAS
-- **Texto en pantalla:** CONTANDO COSITAS Y LLEGA BARBAS
-- **Descripción:** Fragmento relacionado con Cuenta de clips: LONCHE DE HUEVITO CLIPS. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=SOjgHWKeduY
-
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -217,6 +166,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: Top Streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
+
+### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
+- **Texto en pantalla:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calde
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Noticias y contexto
 
@@ -229,7 +188,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] La Liendra rompió el silencio sobre la adicción de su hermana mayor a las drogas - Noticias RCN** — 21/10/2026 07:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJXc0tPVFRLVG9xb1dDaEhtQnFlUUQ1RzN3U00zRGt1U0c2QmV0dEdrRHBGak1LRkU1SjFNM0kzT0VmNHVxNUtucV9KUWpOWTl0Sm1tNDBiSUFXdll0Q0FvcXVyWDRTYXNSWWd2TGlrclE1RUhtc0huaDlSUGliMm8ycThDbW1OR0JERm41RDljZkZiMnljUjdqV0ZUR2MtR1JkLV8wUFRtaXA4RTZEODBYMkHSAbQBQVVfeXFMUEtrVXlQRldzUnVvMEs3RGQyd3FhMkYwMnhoei1pVlFRSm5wYWlwUEpBbDliN1Vmb0dkZ1ZqY3hfMFF6Y0xvQkR4SWtUQ3l1THI5d0d4cTJKaUxyZzBUMTd5UTFwZTZfNk5wc2VITEhCeXhTeHN3azRCXzVrY1h4enJyTjRxX2JqNFpJSUhPUHg1c05xbnB4Q3NPcHFTMG1uTERfSVdENTZfeUVnQ1loS0t3Wm1i?oc=5)
 - **[Creadores] "Lo hago de corazón": Lonche de Huevito descarta colaboración con el gobierno de Ahome para tapar baches - Debate** — 21/10/2026 05:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMy1WVU5UTU1jTnVSN0FDaGwycFlBNlQ3dHI0ay1wckR1TzY4YWU0NXU3RkdLYk5GbXNxR2dEMlUxbHR2TWNaZUtvNUhpVU1uaGtJbV94bUxjdDJFSW0xdlRRclI4OEFOcmpUcnNOZG1OZmtQa3FldnIwRC1NVFAxYmpZSVVtNEFMTDUyUmI0TTVibUpBeWNLSDM0el9XTzY1UEV5UUlNRXhTcnh4c05rSGNvNWxubkdXTlI3amt0cExvVFQyVnp6MmhQamxkSVVScld0cl9iaURPcmMzYjZxSU1nV0wwWkljUXJ4WWwyQU5uejM0MXVv?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio sufrió aparatoso accidente en cuatrimoto - Eluniversal.com.co** — 21/10/2026 03:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2EwNTY5LTBXSUtHSmdRcC1KT1NIOVZsYU5RYl9lNWZEOGRXalA1S2RQdWdLOURfSTlqek5OLTBRYTRma05iYWJaZ2hjT3QzXzN0d1AtYmFKYkFyeGhqVV9TWEdEY2sweXhRbFVNV3F2R19iYmtzZTcyMFNnaEJWZUhGNFJkQm9SSkFwcHFBZ1R4Nm9hQktNTHJFUTVTUlE5YklhMndXN0phUEJRS0V0SzZwU0RRaTRzYjF0RA?oc=5)
-- **[Creadores] Yina Calderón vuelve a los realities con una inesperada apuesta fuera de la televisión colombiana - Publimetro Colombia** — 21/10/2026 11:41 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazRlaGw4OVY4ZDZFQmwwcHBTTWdFcTRSR3h0bm9CYjhRa0JMeGRaZGJ5WC1uMUJrWlNUTzQxUjAySzZ5WlFDYUZBYlJ3LUpkdE9hRFNCT0w2SnJOdWZmVUt0TUYwM2FCMnZYZXlNU2NoVTlSaEdvWks1emxMNGttS2JON1VDOEZiTk9Xc2x2bXdzYzd4eVdWWlBXN2NRUmdpOElVaS16YUtTMFdCaUJKODFyUjFRZE1KR2M0azJhNENjTkR2ZlhvYnhjRkZJOGZjTEE5VDdTWlhkNHpQVmhja1BqOXdKUQ?oc=5)
 
 ## Creadores principales vigilados
 
