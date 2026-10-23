@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 03:24 PM (hora de Colombia)
+Actualizado: 23/10/2026 05:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
-Noticias recientes: 9.
+Noticias recientes: 8.
 Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: G'CLIPS
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.855
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
 ### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.586
+- Vistas reportadas por YouTube: 10.796
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
@@ -41,15 +31,15 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 07:00 PM
+### Westcol habla de los baneos y clips en Barcelona 😱🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Top Streamers
+- Publicado: 23/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 47.587
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
+- Vistas reportadas por YouTube: 65
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=bIV8wQn1IJE
 
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - Categoria: Cuenta de clips
@@ -58,9 +48,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 73.020
+- Vistas reportadas por YouTube: 73.828
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 48.639
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
@@ -68,20 +68,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.711
+- Vistas reportadas por YouTube: 33.670
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+### ¿Pueden ser amigos hombres y mujeres? #shorts
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 21/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: Westcol clips
+- Canal que publico: Westcol clips
+- Publicado: 23/10/2026 04:49 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.582
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=knOmGihKh-Y
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
@@ -99,7 +98,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -109,23 +108,13 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.737
+- Vistas reportadas por YouTube: 2.762
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- **Texto en pantalla:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
 ### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -147,15 +136,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+### Westcol habla de los baneos y clips en Barcelona 😱🔥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
-- **Texto en pantalla:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTH
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol habla de los baneos y clips en Barcelona 😱🔥
+- **Texto en pantalla:** Westcol habla de los baneos y clips en Barcelona 😱🔥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
+- **Fuente original:** https://www.youtube.com/watch?v=bIV8wQn1IJE
 
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -167,6 +156,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
 
+### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+- **Texto en pantalla:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTH
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
+
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -177,15 +176,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### ¿Pueden ser amigos hombres y mujeres? #shorts
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
-- **Texto en pantalla:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol clips.
+- **Título sugerido:** ¿Pueden ser amigos hombres y mujeres? #shorts
+- **Texto en pantalla:** ¿Pueden ser amigos hombres y mujeres? #shorts
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
+- **Fuente original:** https://www.youtube.com/watch?v=knOmGihKh-Y
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
@@ -219,6 +218,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] "No sé qué le vio Greeicy": Yina Calderón arremete contra Mike Bahía en los Billboard - La Kalle** — 23/10/2026 02:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURZU0N6YWRWY2FuRnl0TU1JZzlIb1dYSFhSbnNKdXlYSmhGNFRIWXVXMjlOQWkxR0lFdUk4dEpaeURwbkhlS3hQTk0tUGJMRW5Wa3RfTTF1dGdsYm13V2tvenplTEtsVkRmQXJ3SXBOR2l4X1dBWmpnV2tjbnI3ejlZQ3dnN3diODBnWmJtMkJqYlFoSVZmeG4xVmllc0FOTEtGN2dFbWlMRzJvMDh6SlJhWEVQZGNIX3ZyVjlRdzNvbWxUbjkzaWdiVGMzcTJheXpTWlB6clNBSTDSAegBQVVfeXFMTzNpS09ZX3VfOUNWRTEzNVFGR2NONk96a2JIQk9POHBwSk1Md044dF93MnpyZ2lnZXNWQ2pJZV9jc2x4RmFVR3c4Y1hKaEJfZFRCeDJNTjRXcnlNZnJNdGpLMXlMTXdqMzJSQWRCMXNNZEh2M05MNWxVbnlGdVN5WldReVBqUU5BaTJDMEVpU1lEWXFpOGl0R0tVSTR2NnBEcWRxTHRONktLUFJJQl9Ma3FwamdTcXZ6S3Nyd0tuXzlQMkVIVGhnMmFfX1ZST2Y4MDBVMmtwVnpPSTJIaVVrTHdUSGJ1SXJsMw?oc=5)
 - **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQdIBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ aparecieron juntos en fiesta de Westcol: ¿qué le confesaron? - Minuto60** — 22/10/2026 04:05 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF9Qb3pqMmJqMWZ0VmJHWmNtNE1iVXFRVk5jRjJCWF8ydkNEU3p1ckozV1dJZjExMktCM01SZGExdEh1X0ctbGxVWjh0eE9UaHdaYjYtNklKUkI4R2tZWjJrODFEWTZnNHUtd1g4Y1R1ZzhQVEFrMVBOQi04ZENoRFg5WHJTVi1PZ0FOWVpfLW83blJrdGx6aHBfemlzY1JWMU82ZTd0WXJ2OUR0cFA1d3B2OHRTeW9DRTNNXzhBeWEyYVk?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ reaparecen juntos en público y defienden su amor en directo de Westcol - MARCA** — 22/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2lXVG9GdXd3VXkzcV9QeGhYb1d1NjdOaGRaRmlGV0tTSUwyMFVsS0RMS3IxYWZtWXZqeUs4QUV2THZsdEJEV29taGN5UmpqYjFqbDJCOHVibE1IUllOTTNvc0U0N3BESXlYTHdELU1NUFk2R0RTLVFUQzVYUks0SEw2VXhUamQyMC1hdDFocXRtTU1ENmhEaHBubXV5Vlc0cGZPYVpxbnlST0lfQnNqdnpJM0XSAbQBQVVfeXFMTWFQYjAwa0JUMzcyOVRSYzVNbkNfVHFsWEhuOWdqNVRnc09ueUtCRFNZZWhnak9JcFRvM0RodzVnVHVtY2J3eVdMS3FnNnlkQ1ppYm4zX3ZDVFptRVpLZXVWQXZTYXQyNGJoZUgxV3RkWEFZV1BrNXdORHpFRkVsaEVnV0NKLVBLRVRLcHNzR2p6eHgwcVZNSzZoRWNSeTZnczVpWFF5QVF3QkFDTXJpU3d4NjN1?oc=5)
@@ -226,8 +226,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Tulio Recomienda estuvo a punto de sufrir un accidente aéreo y habló sobre la extraña sensación que vivió: “Es algo inexplicable” - Revista Semana** — 22/10/2026 10:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRdIBhwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRQ?oc=5)
 - **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 22/10/2026 02:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
 - **[Creadores] La Liendra rompió el silencio sobre la adicción de su hermana mayor a las drogas - Noticias RCN** — 21/10/2026 07:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJXc0tPVFRLVG9xb1dDaEhtQnFlUUQ1RzN3U00zRGt1U0c2QmV0dEdrRHBGak1LRkU1SjFNM0kzT0VmNHVxNUtucV9KUWpOWTl0Sm1tNDBiSUFXdll0Q0FvcXVyWDRTYXNSWWd2TGlrclE1RUhtc0huaDlSUGliMm8ycThDbW1OR0JERm41RDljZkZiMnljUjdqV0ZUR2MtR1JkLV8wUFRtaXA4RTZEODBYMkHSAbQBQVVfeXFMUEtrVXlQRldzUnVvMEs3RGQyd3FhMkYwMnhoei1pVlFRSm5wYWlwUEpBbDliN1Vmb0dkZ1ZqY3hfMFF6Y0xvQkR4SWtUQ3l1THI5d0d4cTJKaUxyZzBUMTd5UTFwZTZfNk5wc2VITEhCeXhTeHN3azRCXzVrY1h4enJyTjRxX2JqNFpJSUhPUHg1c05xbnB4Q3NPcHFTMG1uTERfSVdENTZfeUVnQ1loS0t3Wm1i?oc=5)
-- **[Creadores] "Lo hago de corazón": Lonche de Huevito descarta colaboración con el gobierno de Ahome para tapar baches - Debate** — 21/10/2026 05:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMy1WVU5UTU1jTnVSN0FDaGwycFlBNlQ3dHI0ay1wckR1TzY4YWU0NXU3RkdLYk5GbXNxR2dEMlUxbHR2TWNaZUtvNUhpVU1uaGtJbV94bUxjdDJFSW0xdlRRclI4OEFOcmpUcnNOZG1OZmtQa3FldnIwRC1NVFAxYmpZSVVtNEFMTDUyUmI0TTVibUpBeWNLSDM0el9XTzY1UEV5UUlNRXhTcnh4c05rSGNvNWxubkdXTlI3amt0cExvVFQyVnp6MmhQamxkSVVScld0cl9iaURPcmMzYjZxSU1nV0wwWkljUXJ4WWwyQU5uejM0MXVv?oc=5)
-- **[Creadores] Hermana de Yeferson Cossio sufrió aparatoso accidente en cuatrimoto - Eluniversal.com.co** — 21/10/2026 03:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2EwNTY5LTBXSUtHSmdRcC1KT1NIOVZsYU5RYl9lNWZEOGRXalA1S2RQdWdLOURfSTlqek5OLTBRYTRma05iYWJaZ2hjT3QzXzN0d1AtYmFKYkFyeGhqVV9TWEdEY2sweXhRbFVNV3F2R19iYmtzZTcyMFNnaEJWZUhGNFJkQm9SSkFwcHFBZ1R4Nm9hQktNTHJFUTVTUlE5YklhMndXN0phUEJRS0V0SzZwU0RRaTRzYjF0RA?oc=5)
 
 ## Creadores principales vigilados
 
