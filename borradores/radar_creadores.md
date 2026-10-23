@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 07:35 PM (hora de Colombia)
+Actualizado: 22/10/2026 09:27 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
@@ -25,9 +25,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: kinezz oficial
-- Publicado: 22/10/2026 04:00 PM
+- Publicado: 22/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 17
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
 
@@ -35,9 +35,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 01:00 AM
+- Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.318
+- Vistas reportadas por YouTube: 35.105
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -46,9 +46,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 12:00 AM
+- Publicado: 21/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 56.010
+- Vistas reportadas por YouTube: 59.508
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -56,9 +56,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
-- Publicado: 22/10/2026 12:00 PM
+- Publicado: 22/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.687
+- Vistas reportadas por YouTube: 17.627
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -68,7 +68,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.760
+- Vistas reportadas por YouTube: 1.931
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -78,7 +78,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.145
+- Vistas reportadas por YouTube: 3.189
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
