@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 09:27 PM (hora de Colombia)
+Actualizado: 22/10/2026 11:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 8.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,15 +21,25 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 22/10/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 228
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Cy1e-ApBiA4
+
+### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: kinezz oficial
-- Publicado: 22/10/2026 03:00 PM
+- Canal que publico: Kick ass
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
+- Vistas reportadas por YouTube: 29
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
+- Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - Categoria: Cuenta de clips
@@ -37,7 +47,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.105
+- Vistas reportadas por YouTube: 37.927
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -46,9 +56,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 21/10/2026 11:00 PM
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 59.508
+- Vistas reportadas por YouTube: 63.218
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
@@ -56,9 +66,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
-- Publicado: 22/10/2026 11:00 AM
+- Publicado: 22/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.627
+- Vistas reportadas por YouTube: 21.117
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -66,9 +76,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 03:00 AM
+- Publicado: 22/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.931
+- Vistas reportadas por YouTube: 2.124
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -96,15 +106,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- **Texto en pantalla:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Cy1e-ApBiA4
+
+### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Título sugerido:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+- **Texto en pantalla:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
+- **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -191,13 +211,13 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 - **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=JBysDDxW1qY
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
+  - https://www.youtube.com/watch?v=Cy1e-ApBiA4
+  - https://www.youtube.com/watch?v=D5nIap6LFnA
 - **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=mFmraA8akfA
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
-  - https://www.youtube.com/watch?v=D5nIap6LFnA
-  - https://www.youtube.com/watch?v=Jx4JS4wMFw0
 - **Reaccionando a El Capitulo de Farmear Aura De La Rosa de Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=BfjSDqly4Hs
 - **Reaccionando al Capítulo de Farmear Aura de La Rosa De Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22

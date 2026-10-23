@@ -1,15 +1,30 @@
 {
-  "actualizado": "2026-10-22T21:27:43.994953-05:00",
+  "actualizado": "2026-10-22T23:28:47.330264-05:00",
   "series": [
     {
       "nombre": "Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-22T19:35:31.129222-05:00",
-      "ultima_deteccion": "2026-10-22T21:27:43.994953-05:00",
+      "ultima_deteccion": "2026-10-22T23:28:47.330264-05:00",
       "canal_muestra": "Alejandro",
       "enlaces": [
         "https://www.youtube.com/watch?v=JBysDDxW1qY"
+      ]
+    },
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-22T23:28:47.330264-05:00",
+      "canal_muestra": "Capitan Clipero",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=Cy1e-ApBiA4",
+        "https://www.youtube.com/watch?v=D5nIap6LFnA",
+        "https://www.youtube.com/watch?v=Jx4JS4wMFw0",
+        "https://www.youtube.com/watch?v=wQvfv6jvF6I",
+        "https://www.youtube.com/watch?v=UP5iWIdzZNo"
       ]
     },
     {
@@ -32,21 +47,6 @@
       "canal_muestra": "Gamers React",
       "enlaces": [
         "https://www.youtube.com/watch?v=mFmraA8akfA"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-22T17:25:55.367666-05:00",
-      "canal_muestra": "G'CLIPS",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=D5nIap6LFnA",
-        "https://www.youtube.com/watch?v=Jx4JS4wMFw0",
-        "https://www.youtube.com/watch?v=wQvfv6jvF6I",
-        "https://www.youtube.com/watch?v=UP5iWIdzZNo",
-        "https://www.youtube.com/watch?v=MB6TEAyA-t0"
       ]
     },
     {
