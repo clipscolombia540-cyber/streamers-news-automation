@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 07:30 AM (hora de Colombia)
+Actualizado: 23/10/2026 09:33 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 12.
+Clips incluidos: 11.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.060
+- Vistas reportadas por YouTube: 14.166
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.147
+- Vistas reportadas por YouTube: 9.172
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: DrDonut Clips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70.683
+- Vistas reportadas por YouTube: 70.843
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
@@ -51,23 +51,13 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Gamers React
-- Publicado: 23/10/2026 07:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 364
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
-
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44.374
+- Vistas reportadas por YouTube: 44.896
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -78,9 +68,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70.049
+- Vistas reportadas por YouTube: 70.638
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Muñe Clips
+- Canal que publico: Muñe Clips
+- Publicado: 22/10/2026 12:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 29.652
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - Categoria: Cuenta de clips
@@ -89,7 +89,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28.335
+- Vistas reportadas por YouTube: 28.548
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
@@ -120,19 +120,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.564
+- Vistas reportadas por YouTube: 2.579
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Yina Calderón
-- Canal que publico: Al Rojo Vivo
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.236
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -178,16 +168,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Texto en pantalla:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=baxgRU5X4DY
-
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -207,6 +187,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Muñe Clips.
+- **Título sugerido:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- **Texto en pantalla:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
 ### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -248,19 +238,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
 
-### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
-- **Título sugerido:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- **Texto en pantalla:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calde
-- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=EtszZMbiGK0
-
 ## Noticias y contexto
 
-- **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxQSUNkeWFCY0o1RmJWN2diN0s2TmZ1X3ItOFBpVlcwaDJmenlSVGNoYjc0MVV1MlZ6V0djVmZmVm0zeEhxWi13bjEyNUpiSmRheHN1WG1yRDlqRFVDS0lXSzlRdFpYY2RQZkhtYVJpa3gxcFBZNXlIXzZRcGtuTHh4VGlkamJOcEJaZnl1VVhIYnJHOGJvS3pjRy1QdS04VHhDc21sYkx2bGg1dm93a2k0RU9vV2lFVmpyYmNCdVRFa0VBMExoMFlIWmdYT1VUN2Nnd0t1RjlXWWQyWjZLRnJ2eE95dGpsRVVjQXlqdHdXeXlnOVJEMXZGTnhmUlFlcmhkLWlVS9IBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
+- **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQdIBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ aparecieron juntos en fiesta de Westcol: ¿qué le confesaron? - Minuto60** — 22/10/2026 04:05 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF9Qb3pqMmJqMWZ0VmJHWmNtNE1iVXFRVk5jRjJCWF8ydkNEU3p1ckozV1dJZjExMktCM01SZGExdEh1X0ctbGxVWjh0eE9UaHdaYjYtNklKUkI4R2tZWjJrODFEWTZnNHUtd1g4Y1R1ZzhQVEFrMVBOQi04ZENoRFg5WHJTVi1PZ0FOWVpfLW83blJrdGx6aHBfemlzY1JWMU82ZTd0WXJ2OUR0cFA1d3B2OHRTeW9DRTNNXzhBeWEyYVk?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ reaparecen juntos en público y defienden su amor en directo de Westcol - MARCA** — 22/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2lXVG9GdXd3VXkzcV9QeGhYb1d1NjdOaGRaRmlGV0tTSUwyMFVsS0RMS3IxYWZtWXZqeUs4QUV2THZsdEJEV29taGN5UmpqYjFqbDJCOHVibE1IUllOTTNvc0U0N3BESXlYTHdELU1NUFk2R0RTLVFUQzVYUks0SEw2VXhUamQyMC1hdDFocXRtTU1ENmhEaHBubXV5Vlc0cGZPYVpxbnlST0lfQnNqdnpJM0XSAbQBQVVfeXFMTWFQYjAwa0JUMzcyOVRSYzVNbkNfVHFsWEhuOWdqNVRnc09ueUtCRFNZZWhnak9JcFRvM0RodzVnVHVtY2J3eVdMS3FnNnlkQ1ppYm4zX3ZDVFptRVpLZXVWQXZTYXQyNGJoZUgxV3RkWEFZV1BrNXdORHpFRkVsaEVnV0NKLVBLRVRLcHNzR2p6eHgwcVZNSzZoRWNSeTZnczVpWFF5QVF3QkFDTXJpU3d4NjN1?oc=5)
 - **[Creadores] 'Tulio Recomienda' contó el angustiante momento que vivió en una avioneta: "Es algo inexplicable” - Pulzo** — 22/10/2026 12:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmZ4S1MyVTJzVU81azhxUjU1NWtlbmxqVXJmRWtXekdEb0pjenoxcU9ocHZJc3BKQXc3ekZDRW9nMktPY3FqQWgxM0xrVXNUZGR0VWpDSDhlb2RMSzE2R01GLXpscjA1R0dQR3QzeXk5QkFoMnRYOEtOc2dWUWQzNlFGcFREVnp0WXJJUmhfN29EdjNLY2hkZ192TExza2NVMFdfVF95M2NtY2NQbHfSAbMBQVVfeXFMT3FCVmtjQXpkaFNUTnNDOV9CZDNiTi1ac3dENDM3SjhPN3ZMNVVucHNRVUJFWDlzc3BybTVZTldDRUE0aENrMjdvSG1YMzhNakZteWRWMUd4OWV2VloxTDRRYkZrYld3MTRRVHQtN01LdkZsMnNRd1VMeVRGYk9JeUhhd2lVcnMyckt4TVR0LThldk1jZkNaQ0lRQ1RGU1ozclpCRnhsWVBnTjQtMG9IV05Nems?oc=5)
