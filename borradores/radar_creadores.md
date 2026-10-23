@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 01:28 PM (hora de Colombia)
+Actualizado: 23/10/2026 03:24 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 10.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.568
+- Vistas reportadas por YouTube: 14.855
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -25,9 +25,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Abatchu
-- Publicado: 22/10/2026 04:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.294
+- Vistas reportadas por YouTube: 10.586
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
@@ -41,13 +41,34 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
+### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 47.587
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
+
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 73.020
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31.803
+- Vistas reportadas por YouTube: 32.711
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -58,20 +79,29 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.222
+- Vistas reportadas por YouTube: 29.582
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
-### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClipsZone
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClipsZone
-- Publicado: 21/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
+- Canal que publico: LONCHE DE HUEVITO CLIPS
+- Publicado: 23/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=SOjgHWKeduY
+
+### Los peores jugadores de PEAK (Mejores Clips)
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KalvinZzz2
+- Canal que publico: KalvinZzz2
+- Publicado: 23/10/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
@@ -79,19 +109,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.610
+- Vistas reportadas por YouTube: 2.737
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Yina Calderón
-- Canal que publico: Al Rojo Vivo
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.244
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -127,6 +147,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
+### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+- **Texto en pantalla:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTH
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
+
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -147,15 +187,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
 
-### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### CONTANDO COSITAS Y LLEGA BARBAS
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: LONCHE DE HUEVITO CLIPS.
+- **Título sugerido:** CONTANDO COSITAS Y LLEGA BARBAS
+- **Texto en pantalla:** CONTANDO COSITAS Y LLEGA BARBAS
+- **Descripción:** Fragmento relacionado con Cuenta de clips: LONCHE DE HUEVITO CLIPS. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
+- **Fuente original:** https://www.youtube.com/watch?v=SOjgHWKeduY
+
+### Los peores jugadores de PEAK (Mejores Clips)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KalvinZzz2? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KalvinZzz2.
+- **Título sugerido:** Los peores jugadores de PEAK (Mejores Clips)
+- **Texto en pantalla:** Los peores jugadores de PEAK (Mejores Clips)
+- **Descripción:** Fragmento relacionado con Emergente: KalvinZzz2. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=8hgfXYybdjQ
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
@@ -166,16 +216,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: Top Streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
-- **Título sugerido:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
-- **Texto en pantalla:** Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calde
-- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Noticias y contexto
 
