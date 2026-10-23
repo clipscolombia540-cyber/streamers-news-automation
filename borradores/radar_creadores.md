@@ -1,43 +1,73 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 05:28 AM (hora de Colombia)
+Actualizado: 23/10/2026 07:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
+Clips incluidos: 12.
+Noticias recientes: 10.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: kinezz oficial
-- Publicado: 22/10/2026 03:00 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: G'CLIPS
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 26
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
+- Vistas reportadas por YouTube: 14.060
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
-### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Muñe Clips
-- Canal que publico: Muñe Clips
-- Publicado: 22/10/2026 12:00 PM
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Abatchu
+- Publicado: 22/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.945
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
+- Vistas reportadas por YouTube: 8.147
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
+
+### My 2026 Streamer Award Winners
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: DrDonut Clips
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 70.683
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
+
+### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Alejandro
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
+
+### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Gamers React
+- Publicado: 23/10/2026 07:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 364
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 21/10/2026 07:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.974
+- Vistas reportadas por YouTube: 44.374
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -46,17 +76,39 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 21/10/2026 07:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 69.687
+- Vistas reportadas por YouTube: 70.049
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 28.335
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
+
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClipsZone
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClipsZone
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=EvowAfNPCL4
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
 - Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 12:00 AM
+- Publicado: 23/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
@@ -66,9 +118,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 21/10/2026 07:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.548
+- Vistas reportadas por YouTube: 2.564
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -76,9 +128,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yina Calderón
 - Canal que publico: Al Rojo Vivo
-- Publicado: 21/10/2026 07:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.231
+- Vistas reportadas por YouTube: 3.236
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -86,25 +138,55 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- **Texto en pantalla:** MEJORES CLIPS De SEFIROX En DEDSAFIO MINECRAFT 4
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
+- **Fuente original:** https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
-### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Muñe Clips.
-- **Título sugerido:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Texto en pantalla:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
+- **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
+
+### My 2026 Streamer Award Winners
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** My 2026 Streamer Award Winners
+- **Texto en pantalla:** My 2026 Streamer Award Winners
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
+
+### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
+- **Texto en pantalla:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax 
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
+
+### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Texto en pantalla:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=baxgRU5X4DY
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -125,6 +207,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS! 🔥🇺🇸
+- **Texto en pantalla:** REYDELACITY TRAVELS TO MIAMI AND REUNITES WITH TOKISCHA… TOTAL MADNESS
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=52YC2aMid4s
+
+### WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Texto en pantalla:** WESTCOL REVELA TRAICIONES Y POLÉMICAS CON HERRERA 😳 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=EvowAfNPCL4
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
@@ -158,6 +260,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxQSUNkeWFCY0o1RmJWN2diN0s2TmZ1X3ItOFBpVlcwaDJmenlSVGNoYjc0MVV1MlZ6V0djVmZmVm0zeEhxWi13bjEyNUpiSmRheHN1WG1yRDlqRFVDS0lXSzlRdFpYY2RQZkhtYVJpa3gxcFBZNXlIXzZRcGtuTHh4VGlkamJOcEJaZnl1VVhIYnJHOGJvS3pjRy1QdS04VHhDc21sYkx2bGg1dm93a2k0RU9vV2lFVmpyYmNCdVRFa0VBMExoMFlIWmdYT1VUN2Nnd0t1RjlXWWQyWjZLRnJ2eE95dGpsRVVjQXlqdHdXeXlnOVJEMXZGTnhmUlFlcmhkLWlVS9IBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ aparecieron juntos en fiesta de Westcol: ¿qué le confesaron? - Minuto60** — 22/10/2026 04:05 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF9Qb3pqMmJqMWZ0VmJHWmNtNE1iVXFRVk5jRjJCWF8ydkNEU3p1ckozV1dJZjExMktCM01SZGExdEh1X0ctbGxVWjh0eE9UaHdaYjYtNklKUkI4R2tZWjJrODFEWTZnNHUtd1g4Y1R1ZzhQVEFrMVBOQi04ZENoRFg5WHJTVi1PZ0FOWVpfLW83blJrdGx6aHBfemlzY1JWMU82ZTd0WXJ2OUR0cFA1d3B2OHRTeW9DRTNNXzhBeWEyYVk?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ reaparecen juntos en público y defienden su amor en directo de Westcol - MARCA** — 22/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2lXVG9GdXd3VXkzcV9QeGhYb1d1NjdOaGRaRmlGV0tTSUwyMFVsS0RMS3IxYWZtWXZqeUs4QUV2THZsdEJEV29taGN5UmpqYjFqbDJCOHVibE1IUllOTTNvc0U0N3BESXlYTHdELU1NUFk2R0RTLVFUQzVYUks0SEw2VXhUamQyMC1hdDFocXRtTU1ENmhEaHBubXV5Vlc0cGZPYVpxbnlST0lfQnNqdnpJM0XSAbQBQVVfeXFMTWFQYjAwa0JUMzcyOVRSYzVNbkNfVHFsWEhuOWdqNVRnc09ueUtCRFNZZWhnak9JcFRvM0RodzVnVHVtY2J3eVdMS3FnNnlkQ1ppYm4zX3ZDVFptRVpLZXVWQXZTYXQyNGJoZUgxV3RkWEFZV1BrNXdORHpFRkVsaEVnV0NKLVBLRVRLcHNzR2p6eHgwcVZNSzZoRWNSeTZnczVpWFF5QVF3QkFDTXJpU3d4NjN1?oc=5)
 - **[Creadores] 'Tulio Recomienda' contó el angustiante momento que vivió en una avioneta: "Es algo inexplicable” - Pulzo** — 22/10/2026 12:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmZ4S1MyVTJzVU81azhxUjU1NWtlbmxqVXJmRWtXekdEb0pjenoxcU9ocHZJc3BKQXc3ekZDRW9nMktPY3FqQWgxM0xrVXNUZGR0VWpDSDhlb2RMSzE2R01GLXpscjA1R0dQR3QzeXk5QkFoMnRYOEtOc2dWUWQzNlFGcFREVnp0WXJJUmhfN29EdjNLY2hkZ192TExza2NVMFdfVF95M2NtY2NQbHfSAbMBQVVfeXFMT3FCVmtjQXpkaFNUTnNDOV9CZDNiTi1ac3dENDM3SjhPN3ZMNVVucHNRVUJFWDlzc3BybTVZTldDRUE0aENrMjdvSG1YMzhNakZteWRWMUd4OWV2VloxTDRRYkZrYld3MTRRVHQtN01LdkZsMnNRd1VMeVRGYk9JeUhhd2lVcnMyckt4TVR0LThldk1jZkNaQ0lRQ1RGU1ozclpCRnhsWVBnTjQtMG9IV05Nems?oc=5)
@@ -192,11 +295,13 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=JBysDDxW1qY
 - **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
-- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
+- **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=Cy1e-ApBiA4
   - https://www.youtube.com/watch?v=D5nIap6LFnA
-- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-22
+- **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
+- **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=baxgRU5X4DY
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=mFmraA8akfA
 - **Reaccionando a El Capitulo de Farmear Aura De La Rosa de Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
