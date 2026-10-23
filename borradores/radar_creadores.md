@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 09:33 AM (hora de Colombia)
+Actualizado: 23/10/2026 11:32 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 10.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: G'CLIPS
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.166
+- Vistas reportadas por YouTube: 14.289
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Jx4JS4wMFw0
 
@@ -27,19 +27,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.172
+- Vistas reportadas por YouTube: 9.764
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
-
-### My 2026 Streamer Award Winners
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: DrDonut Clips
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70.843
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=E6bU1L-p_7c
 
 ### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
 - Categoria: Clip de terceros
@@ -51,16 +41,6 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44.896
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
-
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
@@ -68,17 +48,27 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70.638
+- Vistas reportadas por YouTube: 71.502
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 45.823
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
-- Publicado: 22/10/2026 12:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.652
+- Vistas reportadas por YouTube: 30.649
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -89,7 +79,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28.548
+- Vistas reportadas por YouTube: 28.842
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=52YC2aMid4s
 
@@ -120,7 +110,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.579
+- Vistas reportadas por YouTube: 2.610
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -148,16 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### My 2026 Streamer Award Winners
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** My 2026 Streamer Award Winners
-- **Texto en pantalla:** My 2026 Streamer Award Winners
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=E6bU1L-p_7c
-
 ### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -168,16 +148,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- **Texto en pantalla:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS...
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
-
 ### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -187,6 +157,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- **Texto en pantalla:** HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS...
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
