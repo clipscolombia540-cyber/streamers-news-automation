@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 01:33 AM (hora de Colombia)
+Actualizado: 23/10/2026 03:31 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,8 +17,8 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.062
-- Puntaje heurístico de interés: 5
+- Vistas reportadas por YouTube: 6.021
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
 ### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
@@ -31,33 +31,13 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: kinezz oficial
-- Publicado: 22/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
-
-### Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Westcosiszzz
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=K4rC9x8uJAY
-
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Muñe Clips
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.114
+- Vistas reportadas por YouTube: 27.273
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -67,19 +47,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.441
+- Vistas reportadas por YouTube: 43.344
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
-
-### VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.289
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=ccqYs5JUFDk
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
@@ -95,9 +65,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 03:00 AM
+- Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.348
+- Vistas reportadas por YouTube: 2.488
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -107,7 +77,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.214
+- Vistas reportadas por YouTube: 3.230
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -135,26 +105,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
-
-### Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Texto en pantalla:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=K4rC9x8uJAY
-
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -174,16 +124,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
-
-### VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
-- **Texto en pantalla:** VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ccqYs5JUFDk
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
