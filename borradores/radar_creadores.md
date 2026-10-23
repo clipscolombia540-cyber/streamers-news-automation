@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/10/2026 11:28 PM (hora de Colombia)
+Actualizado: 23/10/2026 01:33 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
-Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
+Clips incluidos: 10.
+Noticias recientes: 9.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Abatchu
+- Publicado: 22/10/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4.062
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
 ### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
 - Categoria: Clip de terceros
@@ -21,46 +31,25 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Capitan Clipero
-- Publicado: 22/10/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 228
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Cy1e-ApBiA4
-
-### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Kick ass
-- Publicado: 21/10/2026 07:00 PM
+- Canal que publico: kinezz oficial
+- Publicado: 22/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29
+- Vistas reportadas por YouTube: 17
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=eoOU1JpoiEY
+- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
 
-### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 37.927
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
-
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
+### Westcol visita el GranSan en Bogotá y se sale de control 🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Westcosiszzz
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 63.218
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=K4rC9x8uJAY
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
@@ -68,17 +57,47 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.117
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 25.114
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
+
+### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 41.441
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
+
+### VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12.289
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=ccqYs5JUFDk
+
+### CONTANDO COSITAS Y LLEGA BARBAS
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
+- Canal que publico: LONCHE DE HUEVITO CLIPS
+- Publicado: 23/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=SOjgHWKeduY
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
-- Publicado: 22/10/2026 04:00 AM
+- Publicado: 22/10/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.124
+- Vistas reportadas por YouTube: 2.348
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -88,13 +107,23 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.189
+- Vistas reportadas por YouTube: 3.214
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
 ### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -106,25 +135,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
 
-### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- **Texto en pantalla:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Cy1e-ApBiA4
-
-### WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
-- **Texto en pantalla:** WESTCOL DESATA EL CAOS EN BOGOTÁ: ¡TODO SE SALIÓ DE CONTROL! 😱
+- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=eoOU1JpoiEY
+- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
+
+### Westcol visita el GranSan en Bogotá y se sale de control 🔥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
+- **Texto en pantalla:** Westcol visita el GranSan en Bogotá y se sale de control 🔥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=K4rC9x8uJAY
+
+### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Muñe Clips.
+- **Título sugerido:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- **Texto en pantalla:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
 ### HABLANDO DE STREAM FIGHTERS 5 CON LA VALDIRI, LEANDRO, YAYA Y OTROS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -136,25 +175,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
 
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+- **Texto en pantalla:** VIENDO LOS MEJORES DISFRACES EN NUESTRO PARTY 🔥🔥
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
+- **Fuente original:** https://www.youtube.com/watch?v=ccqYs5JUFDk
 
-### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
+### CONTANDO COSITAS Y LLEGA BARBAS
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Muñe Clips.
-- **Título sugerido:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Texto en pantalla:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: LONCHE DE HUEVITO CLIPS.
+- **Título sugerido:** CONTANDO COSITAS Y LLEGA BARBAS
+- **Texto en pantalla:** CONTANDO COSITAS Y LLEGA BARBAS
+- **Descripción:** Fragmento relacionado con Cuenta de clips: LONCHE DE HUEVITO CLIPS. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
+- **Fuente original:** https://www.youtube.com/watch?v=SOjgHWKeduY
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
@@ -187,7 +226,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] "Lo hago de corazón": Lonche de Huevito descarta colaboración con el gobierno de Ahome para tapar baches - Debate** — 21/10/2026 05:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMy1WVU5UTU1jTnVSN0FDaGwycFlBNlQ3dHI0ay1wckR1TzY4YWU0NXU3RkdLYk5GbXNxR2dEMlUxbHR2TWNaZUtvNUhpVU1uaGtJbV94bUxjdDJFSW0xdlRRclI4OEFOcmpUcnNOZG1OZmtQa3FldnIwRC1NVFAxYmpZSVVtNEFMTDUyUmI0TTVibUpBeWNLSDM0el9XTzY1UEV5UUlNRXhTcnh4c05rSGNvNWxubkdXTlI3amt0cExvVFQyVnp6MmhQamxkSVVScld0cl9iaURPcmMzYjZxSU1nV0wwWkljUXJ4WWwyQU5uejM0MXVv?oc=5)
 - **[Creadores] Hermana de Yeferson Cossio sufrió aparatoso accidente en cuatrimoto - Eluniversal.com.co** — 21/10/2026 03:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2EwNTY5LTBXSUtHSmdRcC1KT1NIOVZsYU5RYl9lNWZEOGRXalA1S2RQdWdLOURfSTlqek5OLTBRYTRma05iYWJaZ2hjT3QzXzN0d1AtYmFKYkFyeGhqVV9TWEdEY2sweXhRbFVNV3F2R19iYmtzZTcyMFNnaEJWZUhGNFJkQm9SSkFwcHFBZ1R4Nm9hQktNTHJFUTVTUlE5YklhMndXN0phUEJRS0V0SzZwU0RRaTRzYjF0RA?oc=5)
 - **[Creadores] Yina Calderón vuelve a los realities con una inesperada apuesta fuera de la televisión colombiana - Publimetro Colombia** — 21/10/2026 11:41 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazRlaGw4OVY4ZDZFQmwwcHBTTWdFcTRSR3h0bm9CYjhRa0JMeGRaZGJ5WC1uMUJrWlNUTzQxUjAySzZ5WlFDYUZBYlJ3LUpkdE9hRFNCT0w2SnJOdWZmVUt0TUYwM2FCMnZYZXlNU2NoVTlSaEdvWks1emxMNGttS2JON1VDOEZiTk9Xc2x2bXdzYzd4eVdWWlBXN2NRUmdpOElVaS16YUtTMFdCaUJKODFyUjFRZE1KR2M0azJhNENjTkR2ZlhvYnhjRkZJOGZjTEE5VDdTWlhkNHpQVmhja1BqOXdKUQ?oc=5)
-- **[Creadores] "La reina es una sola y soy yo": Alicia Machado y Yina Calderón protagonizan PELEA en 'Juego de Villanos' | VI - Milenio** — 21/10/2026 12:29 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYW4xSUtCd3FCaWpFY3RoVjlKVmpMOTNFMGhyRXA3WTh2QjJvVEtyU3VpOXNiUFpCaXh1bmtEY1B0YTFqeHpfQXB5N1lFSlg5WGFtZ3FMbmRodDZuaUNMMURDZXRsSHExX1l0N3ZWMHhyTldDS0J0eE1ibnl2aDZ3WWVDeGhidHdCVDhaSFJSb3FxMGg1M3hPNzBIRlNNNHFqQ28yRUc5c2tVN1XSAasBQVVfeXFMTzFoZXp5T2V6a1hvakxaTEE3NzZpeXpIQXBReTU3azRWT01Sb3FnQWdaUlMwcGF6Zm5KSGhPbXlPaEh1RjZZbTdmb01QWm5Jem9uT0I4SGV6OHc0RXB6eHJoWGVIVUxyNXJ6SjJWNFN6dzNRZHQ5TjVuUk5ndzNEX2luNnhHamlJZV9CNE1XZ0hndDAtT0dvNWNyR1B1Y0hSU0tlNlE1dGtTOXdB?oc=5)
 
 ## Creadores principales vigilados
 
@@ -209,8 +247,10 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-22
+- **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=JBysDDxW1qY
+- **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=Cy1e-ApBiA4
   - https://www.youtube.com/watch?v=D5nIap6LFnA
