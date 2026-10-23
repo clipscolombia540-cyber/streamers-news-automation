@@ -1,35 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 03:31 AM (hora de Colombia)
+Actualizado: 23/10/2026 05:28 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente por verificar: 1, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Abatchu
-- Publicado: 22/10/2026 04:00 PM
+- Creador/canal detectado: Westcol
+- Canal que publico: kinezz oficial
+- Publicado: 22/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.021
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
-
-### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Alejandro
-- Publicado: 21/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
+- Vistas reportadas por YouTube: 26
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=UIMMcnKDEa0
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.273
+- Vistas reportadas por YouTube: 27.945
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -47,15 +37,26 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.344
+- Vistas reportadas por YouTube: 43.974
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
+
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 21/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 69.687
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
 - Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 01:00 AM
+- Publicado: 23/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
@@ -67,7 +68,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.488
+- Vistas reportadas por YouTube: 2.548
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -77,7 +78,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 21/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.230
+- Vistas reportadas por YouTube: 3.231
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -85,25 +86,15 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 3, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+### 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
-- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Texto en pantalla:** 🔥 ¡HERRERA LE TIRA A WESTCOL Y WESTCOL NO SE QUEDA CALLADO! 😱💥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
-
-### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
-- **Texto en pantalla:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax 
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
+- **Fuente original:** https://www.youtube.com/watch?v=UIMMcnKDEa0
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
@@ -124,6 +115,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
+
+### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
+- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
