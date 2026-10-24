@@ -1,23 +1,12 @@
 {
-  "actualizado": "2026-10-23T17:25:46.435191-05:00",
+  "actualizado": "2026-10-23T19:38:29.972960-05:00",
   "series": [
-    {
-      "nombre": "Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-22T19:35:31.129222-05:00",
-      "ultima_deteccion": "2026-10-23T17:25:46.435191-05:00",
-      "canal_muestra": "Alejandro",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=JBysDDxW1qY"
-      ]
-    },
     {
       "nombre": "1 Hour of Hax to Convince You to Vote Him for Streamer Awards",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-23T01:33:24.356877-05:00",
-      "ultima_deteccion": "2026-10-23T17:25:46.435191-05:00",
+      "ultima_deteccion": "2026-10-23T19:38:29.972960-05:00",
       "canal_muestra": "Abatchu",
       "enlaces": [
         "https://www.youtube.com/watch?v=zP2CgMI2SdY"
@@ -28,14 +17,36 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": true,
       "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-23T15:24:40.525727-05:00",
-      "canal_muestra": "G'CLIPS",
+      "ultima_deteccion": "2026-10-23T19:38:29.972960-05:00",
+      "canal_muestra": "Capitan Clipero",
       "enlaces": [
+        "https://www.youtube.com/watch?v=dZys_yd5Mlg",
         "https://www.youtube.com/watch?v=Cy1e-ApBiA4",
         "https://www.youtube.com/watch?v=D5nIap6LFnA",
         "https://www.youtube.com/watch?v=Jx4JS4wMFw0",
-        "https://www.youtube.com/watch?v=wQvfv6jvF6I",
-        "https://www.youtube.com/watch?v=UP5iWIdzZNo"
+        "https://www.youtube.com/watch?v=wQvfv6jvF6I"
+      ]
+    },
+    {
+      "nombre": "1 Hora de de Hax para convencerte de votar por él en los Streamer Awards",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-23T19:38:29.972960-05:00",
+      "ultima_deteccion": "2026-10-23T19:38:29.972960-05:00",
+      "canal_muestra": "Abatchu",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=zP2CgMI2SdY"
+      ]
+    },
+    {
+      "nombre": "Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-22T19:35:31.129222-05:00",
+      "ultima_deteccion": "2026-10-23T17:25:46.435191-05:00",
+      "canal_muestra": "Alejandro",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=JBysDDxW1qY"
       ]
     },
     {

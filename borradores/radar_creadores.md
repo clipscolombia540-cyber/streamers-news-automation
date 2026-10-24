@@ -1,35 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 05:25 PM (hora de Colombia)
+Actualizado: 23/10/2026 07:38 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+### CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Conter+
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 161
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=dZys_yd5Mlg
+
+### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.796
+- Vistas reportadas por YouTube: 10.923
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
+### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Alejandro
-- Publicado: 22/10/2026 07:00 PM
+- Creador/canal detectado: Programa: DEDsafio Minecraft
+- Canal que publico: Capitan Clipero
+- Publicado: 22/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=JBysDDxW1qY
+- Vistas reportadas por YouTube: 1.915
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Cy1e-ApBiA4
 
 ### Westcol habla de los baneos y clips en Barcelona 😱🔥
 - Categoria: Clip de terceros
@@ -37,20 +47,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 23/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 65
+- Vistas reportadas por YouTube: 283
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=bIV8wQn1IJE
-
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 73.828
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
 - Categoria: Cuenta de clips
@@ -58,7 +57,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 48.639
+- Vistas reportadas por YouTube: 49.265
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -68,25 +67,26 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.670
+- Vistas reportadas por YouTube: 34.173
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### ¿Pueden ser amigos hombres y mujeres? #shorts
+### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Westcol clips
-- Canal que publico: Westcol clips
-- Publicado: 23/10/2026 04:49 PM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 14
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=knOmGihKh-Y
+- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
 - Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 12:00 AM
+- Publicado: 23/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
@@ -98,7 +98,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -108,7 +108,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.762
+- Vistas reportadas por YouTube: 2.814
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -116,25 +116,35 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+### CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
+- **Texto en pantalla:** CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=dZys_yd5Mlg
+
+### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
-- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Título sugerido:** 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
+- **Texto en pantalla:** 1 Hora de clips de Hax para convencerte de votar por él en los Streame
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax Stream Clips
-- **Texto en pantalla:** Minecraft pero escuchando Streamers para Relajarse 🎧✨ | Chill & Relax 
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
+- **Título sugerido:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- **Texto en pantalla:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=JBysDDxW1qY
+- **Fuente original:** https://www.youtube.com/watch?v=Cy1e-ApBiA4
 
 ### Westcol habla de los baneos y clips en Barcelona 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -145,16 +155,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=bIV8wQn1IJE
-
-### WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 😂😂
-- **Texto en pantalla:** WESTCOL SE TIRA A LA PISCINA EN DIRECTO EN EL PARTY DE LA W SOUND #10 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uUjVm1gMFI4
 
 ### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -176,15 +176,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### ¿Pueden ser amigos hombres y mujeres? #shorts
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol clips? 👀
+### Yeferson Cossio PERDIÓ el control 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol clips.
-- **Título sugerido:** ¿Pueden ser amigos hombres y mujeres? #shorts
-- **Texto en pantalla:** ¿Pueden ser amigos hombres y mujeres? #shorts
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
+- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=knOmGihKh-Y
+- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
@@ -218,14 +218,13 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Tulio Recomienda recuerda la historia detrás del éxito de Burger Master: “Sabía que era un fenómeno que venía con mucha fuerza” - Revista Semana** — 23/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbtIBhAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbg?oc=5)
 - **[Creadores] "No sé qué le vio Greeicy": Yina Calderón arremete contra Mike Bahía en los Billboard - La Kalle** — 23/10/2026 02:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURZU0N6YWRWY2FuRnl0TU1JZzlIb1dYSFhSbnNKdXlYSmhGNFRIWXVXMjlOQWkxR0lFdUk4dEpaeURwbkhlS3hQTk0tUGJMRW5Wa3RfTTF1dGdsYm13V2tvenplTEtsVkRmQXJ3SXBOR2l4X1dBWmpnV2tjbnI3ejlZQ3dnN3diODBnWmJtMkJqYlFoSVZmeG4xVmllc0FOTEtGN2dFbWlMRzJvMDh6SlJhWEVQZGNIX3ZyVjlRdzNvbWxUbjkzaWdiVGMzcTJheXpTWlB6clNBSTDSAegBQVVfeXFMTzNpS09ZX3VfOUNWRTEzNVFGR2NONk96a2JIQk9POHBwSk1Md044dF93MnpyZ2lnZXNWQ2pJZV9jc2x4RmFVR3c4Y1hKaEJfZFRCeDJNTjRXcnlNZnJNdGpLMXlMTXdqMzJSQWRCMXNNZEh2M05MNWxVbnlGdVN5WldReVBqUU5BaTJDMEVpU1lEWXFpOGl0R0tVSTR2NnBEcWRxTHRONktLUFJJQl9Ma3FwamdTcXZ6S3Nyd0tuXzlQMkVIVGhnMmFfX1ZST2Y4MDBVMmtwVnpPSTJIaVVrTHdUSGJ1SXJsMw?oc=5)
 - **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQdIBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
 - **[Creadores] Camilo Cifuentes y ‘La Mijita’ aparecieron juntos en fiesta de Westcol: ¿qué le confesaron? - Minuto60** — 22/10/2026 04:05 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF9Qb3pqMmJqMWZ0VmJHWmNtNE1iVXFRVk5jRjJCWF8ydkNEU3p1ckozV1dJZjExMktCM01SZGExdEh1X0ctbGxVWjh0eE9UaHdaYjYtNklKUkI4R2tZWjJrODFEWTZnNHUtd1g4Y1R1ZzhQVEFrMVBOQi04ZENoRFg5WHJTVi1PZ0FOWVpfLW83blJrdGx6aHBfemlzY1JWMU82ZTd0WXJ2OUR0cFA1d3B2OHRTeW9DRTNNXzhBeWEyYVk?oc=5)
-- **[Creadores] Camilo Cifuentes y ‘La Mijita’ reaparecen juntos en público y defienden su amor en directo de Westcol - MARCA** — 22/10/2026 02:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2lXVG9GdXd3VXkzcV9QeGhYb1d1NjdOaGRaRmlGV0tTSUwyMFVsS0RMS3IxYWZtWXZqeUs4QUV2THZsdEJEV29taGN5UmpqYjFqbDJCOHVibE1IUllOTTNvc0U0N3BESXlYTHdELU1NUFk2R0RTLVFUQzVYUks0SEw2VXhUamQyMC1hdDFocXRtTU1ENmhEaHBubXV5Vlc0cGZPYVpxbnlST0lfQnNqdnpJM0XSAbQBQVVfeXFMTWFQYjAwa0JUMzcyOVRSYzVNbkNfVHFsWEhuOWdqNVRnc09ueUtCRFNZZWhnak9JcFRvM0RodzVnVHVtY2J3eVdMS3FnNnlkQ1ppYm4zX3ZDVFptRVpLZXVWQXZTYXQyNGJoZUgxV3RkWEFZV1BrNXdORHpFRkVsaEVnV0NKLVBLRVRLcHNzR2p6eHgwcVZNSzZoRWNSeTZnczVpWFF5QVF3QkFDTXJpU3d4NjN1?oc=5)
+- **[Creadores] ¿No hay amistad entre hombres y mujeres?: la nueva polémica que generó Westcol con Andrea Valdiri - Noticias RCN** — 22/10/2026 03:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT29IQXJ2MDB5SlNJZTdDaE5sd2k3X2RhQ3d5WEFTZHd2R1VvdHN3WG9qQTdtRV80cG9JaUJSaVd5a0VGbVRPT2xXZ0dGVGpSekdOUkRfbFFwNTBSVDZYNlhkTTI1Q044WmdzVmtFY3VOZ0FLQmszdnNWd2pxYXdPc2hWbWZTWWtmTW5oc0x2b1V5SlhMc2NndWlQcmlzSjRpa1N6ZzNDZnFNZm1udmZpLXB3eG8tOE11Z00w0gG7AUFVX3lxTE1Pb0hBcnYwMHlKU0llN0NoTmx3aTdfZGFDd3lYQVNkd3ZHVW90c3dYb2pBN21FXzRwb0lpQlJpV3lrRUZtVE9PbFdnR0ZUalJ6R05SRF9sUXA1MFJUNlg2WGRNMjVDTjhaZ3NWa0VjdU5nQUtCazN2c1Z3anFhd09zaFZtZlNZa2ZNbmhzTHZvVXlKWExzY2d1aVByaXNKNGlrU3pnM0NmcU1mbW52ZmktcHd4by04TXVnTTA?oc=5)
 - **[Creadores] 'Tulio Recomienda' contó el angustiante momento que vivió en una avioneta: "Es algo inexplicable” - Pulzo** — 22/10/2026 12:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmZ4S1MyVTJzVU81azhxUjU1NWtlbmxqVXJmRWtXekdEb0pjenoxcU9ocHZJc3BKQXc3ekZDRW9nMktPY3FqQWgxM0xrVXNUZGR0VWpDSDhlb2RMSzE2R01GLXpscjA1R0dQR3QzeXk5QkFoMnRYOEtOc2dWUWQzNlFGcFREVnp0WXJJUmhfN29EdjNLY2hkZ192TExza2NVMFdfVF95M2NtY2NQbHfSAbMBQVVfeXFMT3FCVmtjQXpkaFNUTnNDOV9CZDNiTi1ac3dENDM3SjhPN3ZMNVVucHNRVUJFWDlzc3BybTVZTldDRUE0aENrMjdvSG1YMzhNakZteWRWMUd4OWV2VloxTDRRYkZrYld3MTRRVHQtN01LdkZsMnNRd1VMeVRGYk9JeUhhd2lVcnMyckt4TVR0LThldk1jZkNaQ0lRQ1RGU1ozclpCRnhsWVBnTjQtMG9IV05Nems?oc=5)
-- **[Creadores] Tulio Recomienda estuvo a punto de sufrir un accidente aéreo y habló sobre la extraña sensación que vivió: “Es algo inexplicable” - Revista Semana** — 22/10/2026 10:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRdIBhwJBVV95cUxPbGQwNlE0MS1kZHhIVVhQTlJUMVdySEl2bnd1T1ZSbzRiWm1LOXVEMnA5clZWc1I0bTRPOFh5R0RyRncxdUhIR2ZINWdsQTdZZjZMSDY4OHlYS1VvUy1LSFplVm9jX0JOMTdLT1JPX2VrcUpsTTFpNkdmTkhwdE0wV3NHeTE4Q0g2bG1FaHlMSS1VRndKYk5vQkMzX3lGeDExcWw5NF9tMUdSbEZnREkzMDlzUG9iUGkyeWh1TFRPdHBNUU5Gay1tT2ZHOXNhb3pmbk1taVhsZWxJWDRnOVVocFFhZmtUa3pxRDRQRU91V0tOUXp2RkwxNVBLbGp0SW5Ba0JvTXFNRQ?oc=5)
 - **[Creadores] La Liendra dice que vender en redes sociales "es de pobres" - Viva Nicaragua Canal 13** — 22/10/2026 02:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhWdTFrT0R0TV9ZRFZqTmhNMVFjSWNVYTRvbnFUUFIzOTIzRHJIYnF1bnFBVnhmejZueTBCaDFEWW5qdEJmLXFidjRfdnhOLUJ6VmJqaEFxdEdqa1AzRG9iWHY1ejVRazdfUjgtVXJrd2N4c1R2dHQ1Mjl1aHpEUlplbE9vOUV1ZENybjFCdFA?oc=5)
-- **[Creadores] La Liendra rompió el silencio sobre la adicción de su hermana mayor a las drogas - Noticias RCN** — 21/10/2026 07:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJXc0tPVFRLVG9xb1dDaEhtQnFlUUQ1RzN3U00zRGt1U0c2QmV0dEdrRHBGak1LRkU1SjFNM0kzT0VmNHVxNUtucV9KUWpOWTl0Sm1tNDBiSUFXdll0Q0FvcXVyWDRTYXNSWWd2TGlrclE1RUhtc0huaDlSUGliMm8ycThDbW1OR0JERm41RDljZkZiMnljUjdqV0ZUR2MtR1JkLV8wUFRtaXA4RTZEODBYMkHSAbQBQVVfeXFMUEtrVXlQRldzUnVvMEs3RGQyd3FhMkYwMnhoei1pVlFRSm5wYWlwUEpBbDliN1Vmb0dkZ1ZqY3hfMFF6Y0xvQkR4SWtUQ3l1THI5d0d4cTJKaUxyZzBUMTd5UTFwZTZfNk5wc2VITEhCeXhTeHN3azRCXzVrY1h4enJyTjRxX2JqNFpJSUhPUHg1c05xbnB4Q3NPcHFTMG1uTERfSVdENTZfeUVnQ1loS0t3Wm1i?oc=5)
 
 ## Creadores principales vigilados
 
@@ -247,13 +246,15 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-23
-  - https://www.youtube.com/watch?v=JBysDDxW1qY
 - **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=dZys_yd5Mlg
   - https://www.youtube.com/watch?v=Cy1e-ApBiA4
-  - https://www.youtube.com/watch?v=D5nIap6LFnA
+- **1 Hora de de Hax para convencerte de votar por él en los Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=zP2CgMI2SdY
+- **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=JBysDDxW1qY
 - **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
 - **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-23
