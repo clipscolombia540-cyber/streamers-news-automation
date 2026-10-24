@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 24/10/2026 03:24 AM (hora de Colombia)
+Actualizado: 24/10/2026 05:23 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 10.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.236
+- Vistas reportadas por YouTube: 11.314
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Gamers React
 - Publicado: 23/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.654
+- Vistas reportadas por YouTube: 5.976
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
 
@@ -38,7 +38,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 23/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.251
+- Vistas reportadas por YouTube: 20.712
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
 
@@ -48,20 +48,41 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.977
+- Vistas reportadas por YouTube: 37.202
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### WESTCOL PARCHANDO EN BARCELONA
+### PARCHANDO EN BARCELONA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: westcol clips
-- Creador relacionado en el título: Westcol
 - Canal que publico: westcol clips
 - Publicado: 24/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 106
+- Vistas reportadas por YouTube: 320
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
+
+### STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOKS CON CREADORAS Y MAS
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: PETARECLIPS 2.0
+- Creador relacionado en el título: Westcol
+- Canal que publico: PETARECLIPS 2.0
+- Publicado: 23/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 36
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=r5QfAE8PYh4
+
+### ASÍ ES NUEVA YORK 🇺🇸 Compré Ropa y Recorrí la Ciudad en HELICÓPTERO y BARCO 🚁 | WILLITO LONCHE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 577
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=YMmjDsiwPcg
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
@@ -70,7 +91,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Cossio Clips
 - Publicado: 23/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 854
+- Vistas reportadas por YouTube: 904
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
@@ -90,7 +111,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
+- Vistas reportadas por YouTube: 12
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -138,15 +159,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### WESTCOL PARCHANDO EN BARCELONA
+### PARCHANDO EN BARCELONA
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: westcol clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: westcol clips.
+- **Título sugerido:** PARCHANDO EN BARCELONA
+- **Texto en pantalla:** PARCHANDO EN BARCELONA
+- **Descripción:** Fragmento relacionado con Cuenta de clips: westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
+
+### STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOKS CON CREADORAS Y MAS
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
-- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
+- **Título sugerido:** STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOKS CON CREADORAS Y MAS
+- **Texto en pantalla:** STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOK
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
+- **Fuente original:** https://www.youtube.com/watch?v=r5QfAE8PYh4
+
+### ASÍ ES NUEVA YORK 🇺🇸 Compré Ropa y Recorrí la Ciudad en HELICÓPTERO y BARCO 🚁 | WILLITO LONCHE
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** ASÍ ES NUEVA YORK 🇺🇸 Compré Ropa y Recorrí la Ciudad en HELICÓPTERO y BARCO 🚁 | WILLITO LONCHE
+- **Texto en pantalla:** ASÍ ES NUEVA YORK 🇺🇸 Compré Ropa y Recorrí la Ciudad en HELICÓPTERO y 
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YMmjDsiwPcg
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
