@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-23T21:25:49.517362-05:00",
+  "actualizado": "2026-10-23T23:25:15.516686-05:00",
   "series": [
     {
       "nombre": "1 Hour of Hax to Convince You to Vote Him for Streamer Awards",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-23T01:33:24.356877-05:00",
-      "ultima_deteccion": "2026-10-23T21:25:49.517362-05:00",
+      "ultima_deteccion": "2026-10-23T23:25:15.516686-05:00",
+      "canal_muestra": "Abatchu",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=zP2CgMI2SdY"
+      ]
+    },
+    {
+      "nombre": "1 Hora de de Hax para convencerte de votar por él en los Streamer Awards",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-23T19:38:29.972960-05:00",
+      "ultima_deteccion": "2026-10-23T23:25:15.516686-05:00",
       "canal_muestra": "Abatchu",
       "enlaces": [
         "https://www.youtube.com/watch?v=zP2CgMI2SdY"
@@ -36,17 +47,6 @@
         "https://www.youtube.com/watch?v=D5nIap6LFnA",
         "https://www.youtube.com/watch?v=Jx4JS4wMFw0",
         "https://www.youtube.com/watch?v=wQvfv6jvF6I"
-      ]
-    },
-    {
-      "nombre": "1 Hora de de Hax para convencerte de votar por él en los Streamer Awards",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-23T19:38:29.972960-05:00",
-      "ultima_deteccion": "2026-10-23T19:38:29.972960-05:00",
-      "canal_muestra": "Abatchu",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=zP2CgMI2SdY"
       ]
     },
     {

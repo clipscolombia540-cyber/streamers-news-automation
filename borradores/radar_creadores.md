@@ -1,45 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 09:25 PM (hora de Colombia)
+Actualizado: 23/10/2026 11:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 9.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.007
+- Vistas reportadas por YouTube: 11.072
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Gamers React
-- Publicado: 23/10/2026 06:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.704
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
-
-### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+### Westcol habla de los baneos y clips en Barcelona 😱🔥
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: WestCOL Fans | Comunidad
-- Publicado: 23/10/2026 08:00 AM
+- Canal que publico: Top Streamers
+- Publicado: 23/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 886
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=bIV8wQn1IJE
+
+### 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: jdcliks
+- Publicado: 23/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6dKW6heI9wo
+- Enlace directo: https://www.youtube.com/watch?v=Ue_-C2U8f-k
 
 ### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
 - Categoria: Cuenta de clips
@@ -47,7 +47,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.725
+- Vistas reportadas por YouTube: 50.257
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -57,31 +57,20 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.587
+- Vistas reportadas por YouTube: 35.390
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
+### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 23/10/2026 08:57 PM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 23/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 344
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
-
-### GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK | WILLITO LONCHE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 115
+- Vistas reportadas por YouTube: 297
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=2JA83-DOLag
+- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
@@ -99,7 +88,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -109,7 +98,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.817
+- Vistas reportadas por YouTube: 2.871
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -117,35 +106,35 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
-- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Título sugerido:** 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
+- **Texto en pantalla:** 1 Hora de clips de Hax para convencerte de votar por él en los Streame
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Texto en pantalla:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=baxgRU5X4DY
-
-### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+### Westcol habla de los baneos y clips en Barcelona 😱🔥
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
-- **Texto en pantalla:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+- **Título sugerido:** Westcol habla de los baneos y clips en Barcelona 😱🔥
+- **Texto en pantalla:** Westcol habla de los baneos y clips en Barcelona 😱🔥
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6dKW6heI9wo
+- **Fuente original:** https://www.youtube.com/watch?v=bIV8wQn1IJE
+
+### 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
+- **Texto en pantalla:** 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Ue_-C2U8f-k
 
 ### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -167,25 +156,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Yeferson Cossio PERDIÓ el control 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- **Texto en pantalla:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
+- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
-
-### GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK | WILLITO LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK | WILLITO LONCHE
-- **Texto en pantalla:** GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK 
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2JA83-DOLag
+- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
@@ -249,13 +228,13 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 - **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
+- **1 Hora de de Hax para convencerte de votar por él en los Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=baxgRU5X4DY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=dZys_yd5Mlg
   - https://www.youtube.com/watch?v=Cy1e-ApBiA4
-- **1 Hora de de Hax para convencerte de votar por él en los Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
-  - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **Minecraft pero escuchando Streamers para Relajarse 🎧✨ Chill & Relax Stream** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=JBysDDxW1qY
 - **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-23
