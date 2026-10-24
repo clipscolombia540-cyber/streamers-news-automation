@@ -1,15 +1,26 @@
 {
-  "actualizado": "2026-10-23T19:38:29.972960-05:00",
+  "actualizado": "2026-10-23T21:25:49.517362-05:00",
   "series": [
     {
       "nombre": "1 Hour of Hax to Convince You to Vote Him for Streamer Awards",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-23T01:33:24.356877-05:00",
-      "ultima_deteccion": "2026-10-23T19:38:29.972960-05:00",
+      "ultima_deteccion": "2026-10-23T21:25:49.517362-05:00",
       "canal_muestra": "Abatchu",
       "enlaces": [
         "https://www.youtube.com/watch?v=zP2CgMI2SdY"
+      ]
+    },
+    {
+      "nombre": "Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-23T07:30:24.600500-05:00",
+      "ultima_deteccion": "2026-10-23T21:25:49.517362-05:00",
+      "canal_muestra": "Gamers React",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=baxgRU5X4DY"
       ]
     },
     {
@@ -58,17 +69,6 @@
       "canal_muestra": "DrDonut Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=E6bU1L-p_7c"
-      ]
-    },
-    {
-      "nombre": "Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-23T07:30:24.600500-05:00",
-      "ultima_deteccion": "2026-10-23T07:30:24.600500-05:00",
-      "canal_muestra": "Gamers React",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=baxgRU5X4DY"
       ]
     },
     {

@@ -1,55 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 07:38 PM (hora de Colombia)
+Actualizado: 23/10/2026 09:25 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Conter+
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 161
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=dZys_yd5Mlg
-
-### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.923
+- Vistas reportadas por YouTube: 11.007
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
+### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
 - Categoria: Clip de terceros
-- Creador/canal detectado: Programa: DEDsafio Minecraft
-- Canal que publico: Capitan Clipero
-- Publicado: 22/10/2026 10:00 PM
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Gamers React
+- Publicado: 23/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.915
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=Cy1e-ApBiA4
+- Vistas reportadas por YouTube: 4.704
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
 
-### Westcol habla de los baneos y clips en Barcelona 😱🔥
+### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Top Streamers
-- Publicado: 23/10/2026 04:00 PM
+- Canal que publico: WestCOL Fans | Comunidad
+- Publicado: 23/10/2026 08:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 283
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=bIV8wQn1IJE
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=6dKW6heI9wo
 
 ### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
 - Categoria: Cuenta de clips
@@ -57,7 +47,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.265
+- Vistas reportadas por YouTube: 49.725
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
 
@@ -67,26 +57,37 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.173
+- Vistas reportadas por YouTube: 34.587
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### Yeferson Cossio PERDIÓ el control 😬
+### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 23/10/2026 08:57 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 344
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
+
+### GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK | WILLITO LONCHE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14
+- Vistas reportadas por YouTube: 115
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
+- Enlace directo: https://www.youtube.com/watch?v=2JA83-DOLag
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
 - Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 01:00 AM
+- Publicado: 23/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
@@ -108,7 +109,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.814
+- Vistas reportadas por YouTube: 2.817
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -116,45 +117,35 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
-- **Texto en pantalla:** CONTER REACCIONA A MEJORES MOMENTOS EN DEDSAFIO MINECRAFT 4 DIA FINAL
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=dZys_yd5Mlg
-
-### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
-- **Texto en pantalla:** 1 Hora de clips de Hax para convencerte de votar por él en los Streame
+- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- **Gancho A:** ¿Ya habías visto este momento de Programa: DEDsafio Minecraft? 👀
+### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Programa: DEDsafio Minecraft.
-- **Título sugerido:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- **Texto en pantalla:** How Capitan Gato went from playing Dedsafio 4 to playing Roblox
-- **Descripción:** Fragmento relacionado con Programa: DEDsafio Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Texto en pantalla:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Cy1e-ApBiA4
+- **Fuente original:** https://www.youtube.com/watch?v=baxgRU5X4DY
 
-### Westcol habla de los baneos y clips en Barcelona 😱🔥
+### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol habla de los baneos y clips en Barcelona 😱🔥
-- **Texto en pantalla:** Westcol habla de los baneos y clips en Barcelona 😱🔥
+- **Título sugerido:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+- **Texto en pantalla:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bIV8wQn1IJE
+- **Fuente original:** https://www.youtube.com/watch?v=6dKW6heI9wo
 
 ### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -176,15 +167,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### Yeferson Cossio PERDIÓ el control 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
-- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
+- **Texto en pantalla:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
+- **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
+
+### GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK | WILLITO LONCHE
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK | WILLITO LONCHE
+- **Texto en pantalla:** GASTÉ MUCHO DINERO EN LA FAMOSA TIENDA DE LOUIS VUITTON EN NUEVA YORK 
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=2JA83-DOLag
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
@@ -248,6 +249,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 - **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
+- **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-23
+  - https://www.youtube.com/watch?v=baxgRU5X4DY
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=dZys_yd5Mlg
   - https://www.youtube.com/watch?v=Cy1e-ApBiA4
@@ -257,8 +260,6 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
   - https://www.youtube.com/watch?v=JBysDDxW1qY
 - **My 2026 Streamer Award Winners** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=E6bU1L-p_7c
-- **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-23
-  - https://www.youtube.com/watch?v=baxgRU5X4DY
 - **LOS MÁS divertidos DE LA HISTORIA en Minecraft #199** (candidata por revisar) — última detección: 2026-10-22
   - https://www.youtube.com/watch?v=mFmraA8akfA
 - **Reaccionando a El Capitulo de Farmear Aura De La Rosa de Guadalupe 🤢** (candidata por revisar) — última detección: 2026-10-22
