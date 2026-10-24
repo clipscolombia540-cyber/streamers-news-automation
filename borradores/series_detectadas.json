@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-24T01:28:22.994856-05:00",
+  "actualizado": "2026-10-24T03:24:50.368643-05:00",
   "series": [
     {
       "nombre": "1 Hour of Hax to Convince You to Vote Him for Streamer Awards",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-23T01:33:24.356877-05:00",
-      "ultima_deteccion": "2026-10-24T01:28:22.994856-05:00",
+      "ultima_deteccion": "2026-10-24T03:24:50.368643-05:00",
       "canal_muestra": "Abatchu",
       "enlaces": [
         "https://www.youtube.com/watch?v=zP2CgMI2SdY"
@@ -17,7 +17,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-23T19:38:29.972960-05:00",
-      "ultima_deteccion": "2026-10-23T23:25:15.516686-05:00",
+      "ultima_deteccion": "2026-10-24T03:24:50.368643-05:00",
       "canal_muestra": "Abatchu",
       "enlaces": [
         "https://www.youtube.com/watch?v=zP2CgMI2SdY"
@@ -28,7 +28,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-23T07:30:24.600500-05:00",
-      "ultima_deteccion": "2026-10-23T21:25:49.517362-05:00",
+      "ultima_deteccion": "2026-10-24T03:24:50.368643-05:00",
       "canal_muestra": "Gamers React",
       "enlaces": [
         "https://www.youtube.com/watch?v=baxgRU5X4DY"
