@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 24/10/2026 07:27 AM (hora de Colombia)
+Actualizado: 24/10/2026 09:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 0.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
+Clips incluidos: 11.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,29 +17,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Abatchu
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.376
+- Vistas reportadas por YouTube: 11.504
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+### EL REY DE LA LUJUR!4 ft. Pelicanger | El Muñe
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Gamers React
+- Creador/canal detectado: Pelicanger
+- Canal que publico: Calvotones
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.273
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
-
-### KRIS R "EL TRAP DE KOLOMBIA 2" REACCIÓN AL ÁLBUM COMPLETO 🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: DaniMarvel
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=UuaQLAaTIkg
+- Vistas reportadas por YouTube: 343
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=K_H5QppmFlE
 
 ### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - Categoria: Cuenta de clips
@@ -48,7 +38,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 23/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.410
+- Vistas reportadas por YouTube: 24.070
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
 
@@ -58,20 +48,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 37.437
+- Vistas reportadas por YouTube: 37.708
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
-
-### Yeferson Cossio PERDIÓ el control 😬
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.150
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### WESTCOL PARCHANDO EN BARCELONA
 - Categoria: Cuenta de clips
@@ -80,9 +59,20 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: westcol clips
 - Publicado: 24/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 783
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.680
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
+
+### Yeferson Cossio PERDIÓ el control 😬
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 23/10/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.150
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - Categoria: Cuenta de clips
@@ -94,13 +84,34 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=SOjgHWKeduY
 
+### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 568
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=2JA83-DOLag
+
+### Los peores jugadores de PEAK (Mejores Clips)
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KalvinZzz2
+- Canal que publico: KalvinZzz2
+- Publicado: 23/10/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
+
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Top Streamers
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.933
+- Vistas reportadas por YouTube: 2.944
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -128,25 +139,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+### EL REY DE LA LUJUR!4 ft. Pelicanger | El Muñe
+- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Texto en pantalla:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
+- **Título sugerido:** EL REY DE LA LUJUR!4 ft. Pelicanger | El Muñe
+- **Texto en pantalla:** EL REY DE LA LUJUR!4 ft. Pelicanger | El Muñe
+- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=baxgRU5X4DY
-
-### KRIS R "EL TRAP DE KOLOMBIA 2" REACCIÓN AL ÁLBUM COMPLETO 🔥
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** KRIS R "EL TRAP DE KOLOMBIA 2" REACCIÓN AL ÁLBUM COMPLETO 🔥
-- **Texto en pantalla:** KRIS R "EL TRAP DE KOLOMBIA 2" REACCIÓN AL ÁLBUM COMPLETO 🔥
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UuaQLAaTIkg
+- **Fuente original:** https://www.youtube.com/watch?v=K_H5QppmFlE
 
 ### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -168,16 +169,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
 
-### Yeferson Cossio PERDIÓ el control 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
-- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
-
 ### WESTCOL PARCHANDO EN BARCELONA
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -188,6 +179,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
 
+### Yeferson Cossio PERDIÓ el control 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
+- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
+
 ### CONTANDO COSITAS Y LLEGA BARBAS
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -197,6 +198,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: LONCHE DE HUEVITO CLIPS. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=SOjgHWKeduY
+
+### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+- **Texto en pantalla:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK |
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=2JA83-DOLag
+
+### Los peores jugadores de PEAK (Mejores Clips)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KalvinZzz2? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KalvinZzz2.
+- **Título sugerido:** Los peores jugadores de PEAK (Mejores Clips)
+- **Texto en pantalla:** Los peores jugadores de PEAK (Mejores Clips)
+- **Descripción:** Fragmento relacionado con Emergente: KalvinZzz2. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=8hgfXYybdjQ
 
 ### 😱 Lo que pasó en el stream de RDjavi | Fiesta de Estrellas
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Top Streamers? 👀
@@ -220,7 +241,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-No se encontraron noticias recientes en Google News RSS.
+- **[Creadores] Tulio Recomienda recuerda la historia detrás del éxito de Burger Master: “Sabía que era un fenómeno que venía con mucha fuerza” - Revista Semana** — 23/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbtIBhAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbg?oc=5)
+- **[Creadores] "No sé qué le vio Greeicy": Yina Calderón arremete contra Mike Bahía en los Billboard - La Kalle** — 23/10/2026 02:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURZU0N6YWRWY2FuRnl0TU1JZzlIb1dYSFhSbnNKdXlYSmhGNFRIWXVXMjlOQWkxR0lFdUk4dEpaeURwbkhlS3hQTk0tUGJMRW5Wa3RfTTF1dGdsYm13V2tvenplTEtsVkRmQXJ3SXBOR2l4X1dBWmpnV2tjbnI3ejlZQ3dnN3diODBnWmJtMkJqYlFoSVZmeG4xVmllc0FOTEtGN2dFbWlMRzJvMDh6SlJhWEVQZGNIX3ZyVjlRdzNvbWxUbjkzaWdiVGMzcTJheXpTWlB6clNBSTDSAegBQVVfeXFMTzNpS09ZX3VfOUNWRTEzNVFGR2NONk96a2JIQk9POHBwSk1Md044dF93MnpyZ2lnZXNWQ2pJZV9jc2x4RmFVR3c4Y1hKaEJfZFRCeDJNTjRXcnlNZnJNdGpLMXlMTXdqMzJSQWRCMXNNZEh2M05MNWxVbnlGdVN5WldReVBqUU5BaTJDMEVpU1lEWXFpOGl0R0tVSTR2NnBEcWRxTHRONktLUFJJQl9Ma3FwamdTcXZ6S3Nyd0tuXzlQMkVIVGhnMmFfX1ZST2Y4MDBVMmtwVnpPSTJIaVVrTHdUSGJ1SXJsMw?oc=5)
+- **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQdIBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
+- **[Creadores] Camilo Cifuentes y ‘La Mijita’ aparecieron juntos en fiesta de Westcol: ¿qué le confesaron? - Minuto60** — 22/10/2026 04:05 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF9Qb3pqMmJqMWZ0VmJHWmNtNE1iVXFRVk5jRjJCWF8ydkNEU3p1ckozV1dJZjExMktCM01SZGExdEh1X0ctbGxVWjh0eE9UaHdaYjYtNklKUkI4R2tZWjJrODFEWTZnNHUtd1g4Y1R1ZzhQVEFrMVBOQi04ZENoRFg5WHJTVi1PZ0FOWVpfLW83blJrdGx6aHBfemlzY1JWMU82ZTd0WXJ2OUR0cFA1d3B2OHRTeW9DRTNNXzhBeWEyYVk?oc=5)
+- **[Creadores] ¿No hay amistad entre hombres y mujeres?: la nueva polémica que generó Westcol con Andrea Valdiri - Noticias RCN** — 22/10/2026 03:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd25LM21FQkhyT0FCZWZDdFFaSkRrcTRHclBPUS1EZFE3dFRvYUEtcGd1YTctdWJKQzlVM1hHdkQ5cVJFOWpsV21WSWFpWV95ZFVRTFBwaTVmNVphaWluTE0yRHM4QTVnOVZXSUlKdDhSckNuYy1qU015VlgzUFhUS3pud0M0WEpTWkRyck9HQUZtRk01bk80cDRYbGljU1hWRXFQTG95WldvQkxxY3ZxS0l1Y3VmejhCeUI40gG7AUFVX3lxTE1Pb0hBcnYwMHlKU0llN0NoTmx3aTdfZGFDd3lYQVNkd3ZHVW90c3dYb2pBN21FXzRwb0lpQlJpV3lrRUZtVE9PbFdnR0ZUalJ6R05SRF9sUXA1MFJUNlg2WGRNMjVDTjhaZ3NWa0VjdU5nQUtCazN2c1Z3anFhd09zaFZtZlNZa2ZNbmhzTHZvVXlKWExzY2d1aVByaXNKNGlrU3pnM0NmcU1mbW52ZmktcHd4by04TXVnTTA?oc=5)
+- **[Creadores] 'Tulio Recomienda' contó el angustiante momento que vivió en una avioneta: "Es algo inexplicable” - Pulzo** — 22/10/2026 12:15 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmZ4S1MyVTJzVU81azhxUjU1NWtlbmxqVXJmRWtXekdEb0pjenoxcU9ocHZJc3BKQXc3ekZDRW9nMktPY3FqQWgxM0xrVXNUZGR0VWpDSDhlb2RMSzE2R01GLXpscjA1R0dQR3QzeXk5QkFoMnRYOEtOc2dWUWQzNlFGcFREVnp0WXJJUmhfN29EdjNLY2hkZ192TExza2NVMFdfVF95M2NtY2NQbHfSAbMBQVVfeXFMT3FCVmtjQXpkaFNUTnNDOV9CZDNiTi1ac3dENDM3SjhPN3ZMNVVucHNRVUJFWDlzc3BybTVZTldDRUE0aENrMjdvSG1YMzhNakZteWRWMUd4OWV2VloxTDRRYkZrYld3MTRRVHQtN01LdkZsMnNRd1VMeVRGYk9JeUhhd2lVcnMyckt4TVR0LThldk1jZkNaQ0lRQ1RGU1ozclpCRnhsWVBnTjQtMG9IV05Nems?oc=5)
 
 ## Creadores principales vigilados
 
