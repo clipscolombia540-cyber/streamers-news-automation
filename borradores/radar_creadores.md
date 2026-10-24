@@ -1,55 +1,36 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/10/2026 11:25 PM (hora de Colombia)
+Actualizado: 24/10/2026 01:28 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 8.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Abatchu
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.072
+- Vistas reportadas por YouTube: 11.153
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Westcol habla de los baneos y clips en Barcelona 😱🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Top Streamers
-- Publicado: 23/10/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 886
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=bIV8wQn1IJE
-
-### 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: jdcliks
-- Publicado: 23/10/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Ue_-C2U8f-k
-
-### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
+### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 22/10/2026 07:00 PM
+- Publicado: 23/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 50.257
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=GFzrd9KypUQ
+- Vistas reportadas por YouTube: 10.033
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
@@ -57,18 +38,29 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.390
+- Vistas reportadas por YouTube: 36.398
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
+
+### #Westcol #WestcolKick #KickClips #KickStreamer #WestcolC #StreamersColombia #HumorColombiano #Shorts
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: THE WEST CLIPS
+- Creador relacionado en el título: Westcol
+- Canal que publico: THE WEST CLIPS
+- Publicado: 22/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=X-46bVyA1t8
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Cossio Clips
 - Creador relacionado en el título: Yeferson Cossio
 - Canal que publico: Cossio Clips
-- Publicado: 23/10/2026 06:00 PM
+- Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 297
+- Vistas reportadas por YouTube: 610
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
@@ -76,7 +68,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
 - Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 12:00 AM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
@@ -98,7 +90,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.871
+- Vistas reportadas por YouTube: 2.868
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
 
@@ -106,45 +98,25 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** 1 Hora de clips de Hax para convencerte de votar por él en los Streamer Awards
-- **Texto en pantalla:** 1 Hora de clips de Hax para convencerte de votar por él en los Streame
+- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
 
-### Westcol habla de los baneos y clips en Barcelona 😱🔥
+### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol habla de los baneos y clips en Barcelona 😱🔥
-- **Texto en pantalla:** Westcol habla de los baneos y clips en Barcelona 😱🔥
+- **Título sugerido:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
+- **Texto en pantalla:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bIV8wQn1IJE
-
-### 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
-- **Texto en pantalla:** 😳 WESTCOL se encuentra con ALANA en España 🇪🇸 ¡No me esperaba esto!
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Ue_-C2U8f-k
-
-### TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTHERS... 😂🤣
-- **Texto en pantalla:** TALKING ABOUT STREAM FIGHTERS 5 WITH LA VALDIRI, LEANDRO, YAYA AND OTH
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GFzrd9KypUQ
+- **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
@@ -155,6 +127,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
+
+### #Westcol #WestcolKick #KickClips #KickStreamer #WestcolC #StreamersColombia #HumorColombiano #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** #Westcol #WestcolKick #KickClips #KickStreamer #WestcolC #StreamersColombia #HumorColombiano #Shorts
+- **Texto en pantalla:** #Westcol #WestcolKick #KickClips #KickStreamer #WestcolC #StreamersCol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=X-46bVyA1t8
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
@@ -226,7 +208,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
+- **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-24
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **1 Hora de de Hax para convencerte de votar por él en los Streamer Awards** (candidata por revisar) — última detección: 2026-10-23
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
