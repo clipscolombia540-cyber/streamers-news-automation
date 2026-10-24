@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 24/10/2026 01:23 PM (hora de Colombia)
+Actualizado: 24/10/2026 03:20 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 14.
+Clips incluidos: 10.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente por verificar: 4, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente por verificar: 2, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,32 +15,11 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Abatchu
-- Publicado: 23/10/2026 07:00 PM
+- Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 11.653
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
-
-### WESTCOL | EN BARCELONA
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: La Zona del Stream
-- Publicado: 24/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=bDwOSNVYzXU
-
-### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 23/10/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.698
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - Categoria: Cuenta de clips
@@ -48,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: Muñe Clips
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 39.004
+- Vistas reportadas por YouTube: 39.671
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
 
@@ -57,22 +36,11 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Creador/canal detectado: Cuenta de clips: LonchiClips
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: LonchiClips
-- Publicado: 24/10/2026 12:48 PM
+- Publicado: 24/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Iy4572vkCQ4
-
-### Yeferson Cossio PERDIÓ el control 😬
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 23/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.668
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
@@ -81,38 +49,50 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 683
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.590
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### CONTANDO COSITAS Y LLEGA BARBAS
+### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
-- Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 23/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=SOjgHWKeduY
+- Vistas reportadas por YouTube: 1.913
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
-### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 23/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Emm4nuelClips_
+- Publicado: 24/10/2026 02:48 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 667
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=2JA83-DOLag
+- Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
+
+### STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOKS CON CREADORAS Y MAS
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: PETARECLIPS 2.0
+- Creador relacionado en el título: Westcol
+- Canal que publico: PETARECLIPS 2.0
+- Publicado: 23/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 117
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=r5QfAE8PYh4
 
 ### Los peores jugadores de PEAK (Mejores Clips)
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: KalvinZzz2
 - Canal que publico: KalvinZzz2
-- Publicado: 23/10/2026 02:00 PM
+- Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
+- Vistas reportadas por YouTube: 29
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -122,29 +102,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: Top Streamers
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.984
+- Vistas reportadas por YouTube: 3.003
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Kyonax
-- Canal que publico: Kyonax
-- Publicado: 24/10/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
-
-### Davoo Xeneize: MESSI Joined His Stream
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: unTopGlobal Meta
-- Canal que publico: unTopGlobal Meta
-- Publicado: 22/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=t2HUkAOUlzw
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - Categoria: Influencer de respaldo
@@ -152,7 +112,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: Al Rojo Vivo
 - Publicado: 22/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.295
+- Vistas reportadas por YouTube: 3.293
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=EtszZMbiGK0
 
@@ -169,26 +129,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
-
-### WESTCOL | EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL | EN BARCELONA
-- **Texto en pantalla:** WESTCOL | EN BARCELONA
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bDwOSNVYzXU
-
-### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- **Texto en pantalla:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
 
 ### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
@@ -210,16 +150,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Iy4572vkCQ4
 
-### Yeferson Cossio PERDIÓ el control 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
-- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
-
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -230,25 +160,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### CONTANDO COSITAS Y LLEGA BARBAS
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
+### Yeferson Cossio PERDIÓ el control 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: LONCHE DE HUEVITO CLIPS.
-- **Título sugerido:** CONTANDO COSITAS Y LLEGA BARBAS
-- **Texto en pantalla:** CONTANDO COSITAS Y LLEGA BARBAS
-- **Descripción:** Fragmento relacionado con Cuenta de clips: LONCHE DE HUEVITO CLIPS. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
+- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=SOjgHWKeduY
+- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
 
-### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
-- **Texto en pantalla:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK |
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
+- **Texto en pantalla:** REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2JA83-DOLag
+- **Fuente original:** https://www.youtube.com/watch?v=Ynfu6l289EU
+
+### STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOKS CON CREADORAS Y MAS
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOKS CON CREADORAS Y MAS
+- **Texto en pantalla:** STREAM COMPLETO | WESTCOL NOCHE EN ESPAÑA | REENCUENTRO ALANA | TIKTOK
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=r5QfAE8PYh4
 
 ### Los peores jugadores de PEAK (Mejores Clips)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: KalvinZzz2? 👀
@@ -269,26 +209,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: Top Streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=XT-nupJK4EU
-
-### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Kyonax.
-- **Título sugerido:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- **Texto en pantalla:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- **Descripción:** Fragmento relacionado con Emergente: Kyonax. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=L-esFG-LtG8
-
-### Davoo Xeneize: MESSI Joined His Stream
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: unTopGlobal Meta? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: unTopGlobal Meta.
-- **Título sugerido:** Davoo Xeneize: MESSI Joined His Stream
-- **Texto en pantalla:** Davoo Xeneize: MESSI Joined His Stream
-- **Descripción:** Fragmento relacionado con Emergente: unTopGlobal Meta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=t2HUkAOUlzw
 
 ### Estalla la guerra en Juego de Villanos con Alicia Machado y Yina Calderón
 - **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
