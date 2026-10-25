@@ -1,10 +1,10 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 24/10/2026 07:28 PM (hora de Colombia)
+Actualizado: 24/10/2026 09:26 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 9.
-Noticias recientes: 3.
+Noticias recientes: 5.
 Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente
 - Canal que publico: Lo Mejor Del Stream
 - Publicado: 24/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=ynGPkuQJVJA
 
@@ -26,19 +26,20 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 23/10/2026 09:00 PM
+- Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.569
+- Vistas reportadas por YouTube: 35.165
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
 
-### PARCHANDO EN BARCELONA
+### WESTCOL PARCHANDO EN BARCELONA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: westcol clips
+- Creador relacionado en el título: Westcol
 - Canal que publico: westcol clips
 - Publicado: 24/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.308
+- Vistas reportadas por YouTube: 21.911
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
@@ -49,20 +50,20 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.970
+- Vistas reportadas por YouTube: 4.844
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### WESTCOL | WESTCOL Y LA PROMOTORA DE LOS DERECHOS DE TRANSMISION DE BARCELONA VS REAL MADRID
+### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips kick Latam
-- Creador relacionado en el título: Westcol
-- Canal que publico: Clips kick Latam
-- Publicado: 24/10/2026 07:13 PM
+- Creador/canal detectado: Cuenta de clips: Cossio Clips
+- Creador relacionado en el título: Yeferson Cossio
+- Canal que publico: Cossio Clips
+- Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=AqtcaJCQxw8
+- Vistas reportadas por YouTube: 2.785
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - Categoria: Cuenta de clips
@@ -71,7 +72,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente
 - Canal que publico: Emm4nuelClips_
 - Publicado: 24/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36
+- Vistas reportadas por YouTube: 60
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
 
@@ -91,7 +92,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 50
+- Vistas reportadas por YouTube: 64
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -99,9 +100,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Kyonax
 - Canal que publico: Kyonax
-- Publicado: 24/10/2026 12:00 PM
+- Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21
+- Vistas reportadas por YouTube: 33
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
@@ -129,13 +130,13 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
 
-### PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: westcol clips? 👀
+### WESTCOL PARCHANDO EN BARCELONA
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: westcol clips.
-- **Título sugerido:** PARCHANDO EN BARCELONA
-- **Texto en pantalla:** PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Cuenta de clips: westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
+- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
 
@@ -149,15 +150,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### WESTCOL | WESTCOL Y LA PROMOTORA DE LOS DERECHOS DE TRANSMISION DE BARCELONA VS REAL MADRID
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Yeferson Cossio PERDIÓ el control 😬
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL | WESTCOL Y LA PROMOTORA DE LOS DERECHOS DE TRANSMISION DE BARCELONA VS REAL MADRID
-- **Texto en pantalla:** WESTCOL | WESTCOL Y LA PROMOTORA DE LOS DERECHOS DE TRANSMISION DE BAR
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
+- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=AqtcaJCQxw8
+- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -201,6 +202,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
+- **[Creadores] Westcol (25 años), compara sus ingresos con los de Pablo Escobar: “Cinco millones de dólares a los 25...Yo con - AS Colombia** — 24/10/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwJBVV95cUxPQ05FcnNMUTF3cHRwZzVyNF9nZzlUV2NQWmRHQWJ1U0RXQ2hueVg0bE5jZGZ3b29Wd1IxQWE2cEhtYmtzQjZMR2drWEZScFR4Ty1YYTFlcW9kS2hFUkFFSzlDZWZGN0tXaEJjYlg2cHJ4ZllBTE04Mm1lVUdNTll6eDd3cFRmU2kyVENmRG4zTUZ4cjNOVDM0ZXlvT290SUxjYlVuR2hYUUl3NlF3MG9ycjlPX1NJUFVxRS1IMHZWR0lNYW5ScWRQTm5IR19WQjlCUUNZT3NsT09xMGo1engzUUgzSEZoM2w4SC1UemdYaVdGNVhkS1ZxT1otTTVsVmhMMjZLeVphMnF0V2U1bVJMUHFsOUJSbUJlemR4SGxsOERGdi1CSVRfaTJXZ3A2OExwM2F5LUxMWjU4UFFxeFEw0gG_AkFVX3lxTE9DTkVyc0xRMXdwdHBnNXI0X2dnOVRXY1BaZEdBYnVTRFdDaG55WDRsTmNkZndvb1Z3UjFBYTZwSG1ia3NCNkxHZ2tYRlJwVHhPLVhhMWVxb2RLaEVSQUVLOUNlZkY3S1doQmNiWDZwcnhmWUFMTTgybWVVR01OWXp4N3dwVGZTaTJUQ2ZEbjNNRnhyM05UMzRleW9Pb3RJTGNiVW5HaFhRSXc2UXcwb3JyOU9fU0lQVXFFLUgwdlZHSU1hblJxZFBObkhHX1ZCOUJRQ1lPc2xPT3EwajV6eDNRSDNIRmgzbDhILVR6Z1hpV0Y1WGRLVnFPWi1NNWxWaEwyNkt5WmEycXRXZTVtUkxQcWw5QlJtQmV6ZHhIbGw4REZ2LUJJVF9pMldncDY4THAzYXktTExaNThQUXF4UTA?oc=5)
 - **[Creadores] Tulio Recomienda recuerda la historia detrás del éxito de Burger Master: “Sabía que era un fenómeno que venía con mucha fuerza” - Revista Semana** — 23/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbtIBhAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbg?oc=5)
 - **[Creadores] "No sé qué le vio Greeicy": Yina Calderón arremete contra Mike Bahía en los Billboard - La Kalle** — 23/10/2026 02:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURZU0N6YWRWY2FuRnl0TU1JZzlIb1dYSFhSbnNKdXlYSmhGNFRIWXVXMjlOQWkxR0lFdUk4dEpaeURwbkhlS3hQTk0tUGJMRW5Wa3RfTTF1dGdsYm13V2tvenplTEtsVkRmQXJ3SXBOR2l4X1dBWmpnV2tjbnI3ejlZQ3dnN3diODBnWmJtMkJqYlFoSVZmeG4xVmllc0FOTEtGN2dFbWlMRzJvMDh6SlJhWEVQZGNIX3ZyVjlRdzNvbWxUbjkzaWdiVGMzcTJheXpTWlB6clNBSTDSAegBQVVfeXFMTzNpS09ZX3VfOUNWRTEzNVFGR2NONk96a2JIQk9POHBwSk1Md044dF93MnpyZ2lnZXNWQ2pJZV9jc2x4RmFVR3c4Y1hKaEJfZFRCeDJNTjRXcnlNZnJNdGpLMXlMTXdqMzJSQWRCMXNNZEh2M05MNWxVbnlGdVN5WldReVBqUU5BaTJDMEVpU1lEWXFpOGl0R0tVSTR2NnBEcWRxTHRONktLUFJJQl9Ma3FwamdTcXZ6S3Nyd0tuXzlQMkVIVGhnMmFfX1ZST2Y4MDBVMmtwVnpPSTJIaVVrTHdUSGJ1SXJsMw?oc=5)
 - **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQdIBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
