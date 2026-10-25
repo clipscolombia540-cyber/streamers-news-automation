@@ -1,37 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 03:24 AM (hora de Colombia)
+Actualizado: 25/10/2026 05:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 6.
 Noticias recientes: 6.
-Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 23/10/2026 07:00 PM
+### REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Lo Mejor Del Stream
+- Publicado: 24/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.249
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
-
-### WESTCOL PARCHANDO EN BARCELONA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcol clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcol clips
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.161
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=ynGPkuQJVJA
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
@@ -40,42 +28,20 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.886
+- Vistas reportadas por YouTube: 7.152
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
+### EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LonchiClips
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: LonchiClips
-- Publicado: 24/10/2026 01:00 PM
+- Creador/canal detectado: Cuenta de clips: ClipsCOLOMBIA
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsCOLOMBIA
+- Publicado: 25/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Iy4572vkCQ4
-
-### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.221
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=2JA83-DOLag
-
-### Yeferson Cossio PERDIÓ el control 😬
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.293
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=D5tp-T3B--w
 
 ### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - Categoria: Cuenta de clips
@@ -84,7 +50,7 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 - Canal que publico: Emm4nuelClips_
 - Publicado: 24/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 84
+- Vistas reportadas por YouTube: 88
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
 
@@ -94,7 +60,7 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 67
+- Vistas reportadas por YouTube: 65
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -104,7 +70,7 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 - Canal que publico: Kyonax
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 45
+- Vistas reportadas por YouTube: 46
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
@@ -112,25 +78,15 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
-- **Texto en pantalla:** WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- **Texto en pantalla:** REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
-
-### WESTCOL PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
-- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
+- **Fuente original:** https://www.youtube.com/watch?v=ynGPkuQJVJA
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -142,35 +98,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
-- **Texto en pantalla:** Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Texto en pantalla:** EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Iy4572vkCQ4
-
-### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
-- **Texto en pantalla:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK |
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2JA83-DOLag
-
-### Yeferson Cossio PERDIÓ el control 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
-- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
+- **Fuente original:** https://www.youtube.com/watch?v=D5tp-T3B--w
 
 ### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
