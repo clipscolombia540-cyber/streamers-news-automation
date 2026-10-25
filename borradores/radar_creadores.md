@@ -1,15 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 24/10/2026 11:27 PM (hora de Colombia)
+Actualizado: 25/10/2026 01:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
-Noticias recientes: 5.
-Distribución por categoría: Cuenta de clips: 6, Emergente por verificar: 1, Influencer de respaldo: 1.
+Clips incluidos: 9.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Lo Mejor Del Stream
+- Publicado: 24/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=ynGPkuQJVJA
+
+### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: WestCOL Fans | Comunidad
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 39
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=6dKW6heI9wo
 
 ### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - Categoria: Cuenta de clips
@@ -18,9 +38,19 @@ Distribución por categoría: Cuenta de clips: 6, Emergente por verificar: 1, In
 - Canal que publico: WestcolClips
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.658
+- Vistas reportadas por YouTube: 36.032
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
+
+### PARCHANDO EN BARCELONA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: westcol clips
+- Canal que publico: westcol clips
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 27.469
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
@@ -29,20 +59,9 @@ Distribución por categoría: Cuenta de clips: 6, Emergente por verificar: 1, In
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.585
+- Vistas reportadas por YouTube: 6.323
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
-
-### WESTCOL PARCHANDO EN BARCELONA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcol clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcol clips
-- Publicado: 24/10/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.267
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
@@ -51,7 +70,7 @@ Distribución por categoría: Cuenta de clips: 6, Emergente por verificar: 1, In
 - Canal que publico: Cossio Clips
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.069
+- Vistas reportadas por YouTube: 3.238
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
@@ -60,21 +79,11 @@ Distribución por categoría: Cuenta de clips: 6, Emergente por verificar: 1, In
 - Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Emm4nuelClips_
-- Publicado: 24/10/2026 03:00 PM
+- Publicado: 24/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 62
+- Vistas reportadas por YouTube: 77
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
-
-### CONTANDO COSITAS Y LLEGA BARBAS
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: LONCHE DE HUEVITO CLIPS
-- Canal que publico: LONCHE DE HUEVITO CLIPS
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=SOjgHWKeduY
 
 ### Los peores jugadores de PEAK (Mejores Clips)
 - Categoria: Emergente por verificar
@@ -82,23 +91,43 @@ Distribución por categoría: Cuenta de clips: 6, Emergente por verificar: 1, In
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 64
+- Vistas reportadas por YouTube: 65
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
-### Why the System Hates La Liendra (But Pays Him Millions)
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: La Liendra
-- Canal que publico: Detras Del Dinero
+### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Kyonax
+- Canal que publico: Kyonax
 - Publicado: 24/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32
+- Vistas reportadas por YouTube: 44
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Mq6l_M3NJzQ
+- Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- **Texto en pantalla:** REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ynGPkuQJVJA
+
+### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+- **Texto en pantalla:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=6dKW6heI9wo
 
 ### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -110,6 +139,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
 
+### PARCHANDO EN BARCELONA
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: westcol clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: westcol clips.
+- **Título sugerido:** PARCHANDO EN BARCELONA
+- **Texto en pantalla:** PARCHANDO EN BARCELONA
+- **Descripción:** Fragmento relacionado con Cuenta de clips: westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
+
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -119,16 +158,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
-
-### WESTCOL PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
-- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
@@ -150,16 +179,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Ynfu6l289EU
 
-### CONTANDO COSITAS Y LLEGA BARBAS
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: LONCHE DE HUEVITO CLIPS? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: LONCHE DE HUEVITO CLIPS.
-- **Título sugerido:** CONTANDO COSITAS Y LLEGA BARBAS
-- **Texto en pantalla:** CONTANDO COSITAS Y LLEGA BARBAS
-- **Descripción:** Fragmento relacionado con Cuenta de clips: LONCHE DE HUEVITO CLIPS. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=SOjgHWKeduY
-
 ### Los peores jugadores de PEAK (Mejores Clips)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: KalvinZzz2? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -170,20 +189,21 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=8hgfXYybdjQ
 
-### Why the System Hates La Liendra (But Pays Him Millions)
-- **Gancho A:** ¿Ya habías visto este momento de La Liendra? 👀
+### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de La Liendra.
-- **Título sugerido:** Why the System Hates La Liendra (But Pays Him Millions)
-- **Texto en pantalla:** Why the System Hates La Liendra (But Pays Him Millions)
-- **Descripción:** Fragmento relacionado con La Liendra. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=Mq6l_M3NJzQ
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Kyonax.
+- **Título sugerido:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- **Texto en pantalla:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- **Descripción:** Fragmento relacionado con Emergente: Kyonax. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=L-esFG-LtG8
 
 ## Noticias y contexto
 
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
 - **[Creadores] Westcol (25 años), compara sus ingresos con los de Pablo Escobar: “Cinco millones de dólares a los 25...Yo con - AS Colombia** — 24/10/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVDFrVDBKSG1vWHFtWkVRQUNiV1V5ZEJBX25mMGRZU2hkVm92azFYVnR0OGoybjhLbkltM1EwbXJkdHNWWVJGYkR4NGRzYmpMYmpiUVY4dTk2V2phSVdHZWlnMGxYN1p2TTZZc1E4cm96aGhLdHBna0VGcUppcVEyRFFnTGtLb2h4VndDNWhId2Q2WlNLS201d2hLUlB2VlVWMTBFRHkxSFp4ZTIzSjBtRXhCa3diWDJZQlhsRC1GUHdzN3dRNGFWM0xzS2pQRm9RbGVvbXhfRmt3TGNTbU9fMlVKenRlTUhiUUxnMzNHTDRCVnBtUHdCUjdQNXR2MVBmcUJuS0hKQjlQbmlNdmlxaG5nV0VfX0N4NTUzY2wycjJPRWM3NVFqQ0dfQdIBvwJBVV95cUxPQ05FcnNMUTF3cHRwZzVyNF9nZzlUV2NQWmRHQWJ1U0RXQ2hueVg0bE5jZGZ3b29Wd1IxQWE2cEhtYmtzQjZMR2drWEZScFR4Ty1YYTFlcW9kS2hFUkFFSzlDZWZGN0tXaEJjYlg2cHJ4ZllBTE04Mm1lVUdNTll6eDd3cFRmU2kyVENmRG4zTUZ4cjNOVDM0ZXlvT290SUxjYlVuR2hYUUl3NlF3MG9ycjlPX1NJUFVxRS1IMHZWR0lNYW5ScWRQTm5IR19WQjlCUUNZT3NsT09xMGo1engzUUgzSEZoM2w4SC1UemdYaVdGNVhkS1ZxT1otTTVsVmhMMjZLeVphMnF0V2U1bVJMUHFsOUJSbUJlemR4SGxsOERGdi1CSVRfaTJXZ3A2OExwM2F5LUxMWjU4UFFxeFEw?oc=5)
+- **[Creadores] Westcol (25 años), compara sus ingresos con los de Pablo Escobar: “Cinco millones de dólares a los 25...Yo con - AS Colombia** — 24/10/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwJBVV95cUxPQ05FcnNMUTF3cHRwZzVyNF9nZzlUV2NQWmRHQWJ1U0RXQ2hueVg0bE5jZGZ3b29Wd1IxQWE2cEhtYmtzQjZMR2drWEZScFR4Ty1YYTFlcW9kS2hFUkFFSzlDZWZGN0tXaEJjYlg2cHJ4ZllBTE04Mm1lVUdNTll6eDd3cFRmU2kyVENmRG4zTUZ4cjNOVDM0ZXlvT290SUxjYlVuR2hYUUl3NlF3MG9ycjlPX1NJUFVxRS1IMHZWR0lNYW5ScWRQTm5IR19WQjlCUUNZT3NsT09xMGo1engzUUgzSEZoM2w4SC1UemdYaVdGNVhkS1ZxT1otTTVsVmhMMjZLeVphMnF0V2U1bVJMUHFsOUJSbUJlemR4SGxsOERGdi1CSVRfaTJXZ3A2OExwM2F5LUxMWjU4UFFxeFEw0gG_AkFVX3lxTE9DTkVyc0xRMXdwdHBnNXI0X2dnOVRXY1BaZEdBYnVTRFdDaG55WDRsTmNkZndvb1Z3UjFBYTZwSG1ia3NCNkxHZ2tYRlJwVHhPLVhhMWVxb2RLaEVSQUVLOUNlZkY3S1doQmNiWDZwcnhmWUFMTTgybWVVR01OWXp4N3dwVGZTaTJUQ2ZEbjNNRnhyM05UMzRleW9Pb3RJTGNiVW5HaFhRSXc2UXcwb3JyOU9fU0lQVXFFLUgwdlZHSU1hblJxZFBObkhHX1ZCOUJRQ1lPc2xPT3EwajV6eDNRSDNIRmgzbDhILVR6Z1hpV0Y1WGRLVnFPWi1NNWxWaEwyNkt5WmEycXRXZTVtUkxQcWw5QlJtQmV6ZHhIbGw4REZ2LUJJVF9pMldncDY4THAzYXktTExaNThQUXF4UTA?oc=5)
 - **[Creadores] Tulio Recomienda recuerda la historia detrás del éxito de Burger Master: “Sabía que era un fenómeno que venía con mucha fuerza” - Revista Semana** — 23/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbtIBhAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbg?oc=5)
 - **[Creadores] "No sé qué le vio Greeicy": Yina Calderón arremete contra Mike Bahía en los Billboard - La Kalle** — 23/10/2026 02:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURZU0N6YWRWY2FuRnl0TU1JZzlIb1dYSFhSbnNKdXlYSmhGNFRIWXVXMjlOQWkxR0lFdUk4dEpaeURwbkhlS3hQTk0tUGJMRW5Wa3RfTTF1dGdsYm13V2tvenplTEtsVkRmQXJ3SXBOR2l4X1dBWmpnV2tjbnI3ejlZQ3dnN3diODBnWmJtMkJqYlFoSVZmeG4xVmllc0FOTEtGN2dFbWlMRzJvMDh6SlJhWEVQZGNIX3ZyVjlRdzNvbWxUbjkzaWdiVGMzcTJheXpTWlB6clNBSTDSAegBQVVfeXFMTzNpS09ZX3VfOUNWRTEzNVFGR2NONk96a2JIQk9POHBwSk1Md044dF93MnpyZ2lnZXNWQ2pJZV9jc2x4RmFVR3c4Y1hKaEJfZFRCeDJNTjRXcnlNZnJNdGpLMXlMTXdqMzJSQWRCMXNNZEh2M05MNWxVbnlGdVN5WldReVBqUU5BaTJDMEVpU1lEWXFpOGl0R0tVSTR2NnBEcWRxTHRONktLUFJJQl9Ma3FwamdTcXZ6S3Nyd0tuXzlQMkVIVGhnMmFfX1ZST2Y4MDBVMmtwVnpPSTJIaVVrTHdUSGJ1SXJsMw?oc=5)
 - **[Creadores] El fuerte accidente que sufrió Claudia Bahamón en MasterChef Celebrity y la polémica jugada de Pautips que enfureció a la cocina - Revista Semana** — 23/10/2026 06:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQdIBigJBVV95cUxOYkRmX0VNd3JIMDlUVVdxZFZPMGxGeFdkOGNjX2J6aHk4TVB4aXB0by11VTFsVjV4NlN6dWdsOUFGc05FUnZERWxZMTFxeHBoNlloQXdvazl2dlE3TWw1S0NqSWtWWGtLZlVScU1QSzlCZ3Y2eFQ3NFdnaEZqellYckdOUjhpREJ4SGdGUXI3bk9maGRaUjcyaUY4VjR2cVZzS0pScVdlZFRjV3k5THRKZGthbFoyVEZuTW5CZTRJbkdaTVp2LU04RkF3YlVrbzZTSUVxajFKdzZWQmtvRF95U1F0V2hYbGpha1U4bkhfQ0NmVXNzZnp5NEhvZmtPXzg1c0dzTmtJdEVaQQ?oc=5)
