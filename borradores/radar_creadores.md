@@ -1,35 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 01:30 AM (hora de Colombia)
+Actualizado: 25/10/2026 03:24 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 9.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente por verificar: 2.
+Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Lo Mejor Del Stream
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=ynGPkuQJVJA
-
-### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: WestCOL Fans | Comunidad
-- Publicado: 23/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 39
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6dKW6heI9wo
 
 ### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - Categoria: Cuenta de clips
@@ -38,17 +18,18 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.032
+- Vistas reportadas por YouTube: 36.249
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=zWTVRA9rXCM
 
-### PARCHANDO EN BARCELONA
+### WESTCOL PARCHANDO EN BARCELONA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: westcol clips
+- Creador relacionado en el título: Westcol
 - Canal que publico: westcol clips
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.469
+- Vistas reportadas por YouTube: 29.161
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
@@ -59,9 +40,31 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.323
+- Vistas reportadas por YouTube: 6.886
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
+
+### Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: LonchiClips
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: LonchiClips
+- Publicado: 24/10/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 15
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Iy4572vkCQ4
+
+### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.221
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=2JA83-DOLag
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - Categoria: Cuenta de clips
@@ -70,7 +73,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Cossio Clips
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.238
+- Vistas reportadas por YouTube: 3.293
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
@@ -79,9 +82,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Emm4nuelClips_
-- Publicado: 24/10/2026 04:00 PM
+- Publicado: 24/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 77
+- Vistas reportadas por YouTube: 84
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
 
@@ -91,7 +94,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 65
+- Vistas reportadas por YouTube: 67
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -99,35 +102,15 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Kyonax
 - Canal que publico: Kyonax
-- Publicado: 24/10/2026 12:00 PM
+- Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44
+- Vistas reportadas por YouTube: 45
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
-- **Texto en pantalla:** REYDELACITY REACCIONA A CLIPS QUE MANDA EL CHAT A SU DISCORD
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ynGPkuQJVJA
-
-### POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
-- **Texto en pantalla:** POOL PARTY de Halloween de Westcol: disfraces y pudines 🎃
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6dKW6heI9wo
 
 ### WESTCOL TAKING PENALTIES AND FILMING VIRAL TIKTOKS WITH SPANISH GIRLS 😂😂
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -139,13 +122,13 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zWTVRA9rXCM
 
-### PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: westcol clips? 👀
+### WESTCOL PARCHANDO EN BARCELONA
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: westcol clips.
-- **Título sugerido:** PARCHANDO EN BARCELONA
-- **Texto en pantalla:** PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Cuenta de clips: westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
+- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
 
@@ -158,6 +141,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
+
+### Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
+- **Texto en pantalla:** Lonche comiendo los MEJORES tacos de todos Los Angeles I LonchiClips
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Iy4572vkCQ4
+
+### I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK | WILLITO LONCHE
+- **Texto en pantalla:** I SPENT A LOT OF MONEY AT THE FAMOUS LOUIS VUITTON STORE IN NEW YORK |
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=2JA83-DOLag
 
 ### Yeferson Cossio PERDIÓ el control 😬
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
