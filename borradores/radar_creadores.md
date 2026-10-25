@@ -1,25 +1,45 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 07:27 AM (hora de Colombia)
+Actualizado: 25/10/2026 09:22 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 8.
 Noticias recientes: 4.
-Distribución por categoría: Cuenta de clips: 4, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Muñe Clips
-- Canal que publico: Muñe Clips
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Abatchu
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42.733
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=WmaItK4E4vo
+- Vistas reportadas por YouTube: 12.093
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=zP2CgMI2SdY
+
+### SAMULX CON FRAN TIRANDO FACTOS
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: GANGADELAW
+- Publicado: 25/10/2026 09:01 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
+
+### ASÍ FUE EL LANZAMIENTO DE LA W SOUND 10 | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: La Zona del Stream
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=1CEbN6yWZX8
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
@@ -28,7 +48,7 @@ Distribución por categoría: Cuenta de clips: 4, Emergente por verificar: 1.
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.268
+- Vistas reportadas por YouTube: 7.413
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
@@ -39,7 +59,7 @@ Distribución por categoría: Cuenta de clips: 4, Emergente por verificar: 1.
 - Canal que publico: Emm4nuelClips_
 - Publicado: 24/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 86
+- Vistas reportadas por YouTube: 89
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
 
@@ -63,19 +83,49 @@ Distribución por categoría: Cuenta de clips: 4, Emergente por verificar: 1.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
+### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Kyonax
+- Canal que publico: Kyonax
+- Publicado: 24/10/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 49
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
+
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Muñe Clips? 👀
+### 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Muñe Clips.
-- **Título sugerido:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Texto en pantalla:** EL MEJOR MECATO QUE DESAPARECIÓ DE COLOMBIA | MUÑE
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Muñe Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Texto en pantalla:** 1 Hour of Hax Clips to Convince You to Vote Him for Streamer Awards
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WmaItK4E4vo
+- **Fuente original:** https://www.youtube.com/watch?v=zP2CgMI2SdY
+
+### SAMULX CON FRAN TIRANDO FACTOS
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** SAMULX CON FRAN TIRANDO FACTOS
+- **Texto en pantalla:** SAMULX CON FRAN TIRANDO FACTOS
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
+
+### ASÍ FUE EL LANZAMIENTO DE LA W SOUND 10 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ASÍ FUE EL LANZAMIENTO DE LA W SOUND 10 | WESTCOL
+- **Texto en pantalla:** ASÍ FUE EL LANZAMIENTO DE LA W SOUND 10 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=1CEbN6yWZX8
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -117,6 +167,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=8hgfXYybdjQ
 
+### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Kyonax.
+- **Título sugerido:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- **Texto en pantalla:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
+- **Descripción:** Fragmento relacionado con Emergente: Kyonax. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=L-esFG-LtG8
+
 ## Noticias y contexto
 
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
@@ -144,7 +204,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-24
+- **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-25
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **1 Hora de de Hax para convencerte de votar por él en los Streamer Awards** (candidata por revisar) — última detección: 2026-10-24
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
