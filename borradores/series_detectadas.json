@@ -1,6 +1,28 @@
 {
-  "actualizado": "2026-10-25T15:20:05.509973-05:00",
+  "actualizado": "2026-10-25T17:19:56.653028-05:00",
   "series": [
+    {
+      "nombre": "Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-23T07:30:24.600500-05:00",
+      "ultima_deteccion": "2026-10-25T17:19:56.653028-05:00",
+      "canal_muestra": "Gamers React",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=baxgRU5X4DY"
+      ]
+    },
+    {
+      "nombre": "minecraft live fun with unfav #livestream #gaming #livestream #shortslive",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-25T17:19:56.653028-05:00",
+      "ultima_deteccion": "2026-10-25T17:19:56.653028-05:00",
+      "canal_muestra": "unfav is live",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=0cVdyR7qAZI"
+      ]
+    },
     {
       "nombre": "1 Hour of Hax to Convince You to Vote Him for Streamer Awards",
       "tipo": "serie_o_tema_candidato",
@@ -21,17 +43,6 @@
       "canal_muestra": "Abatchu",
       "enlaces": [
         "https://www.youtube.com/watch?v=zP2CgMI2SdY"
-      ]
-    },
-    {
-      "nombre": "Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-23T07:30:24.600500-05:00",
-      "ultima_deteccion": "2026-10-24T07:27:38.675528-05:00",
-      "canal_muestra": "Gamers React",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=baxgRU5X4DY"
       ]
     },
     {

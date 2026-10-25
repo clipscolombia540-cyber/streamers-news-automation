@@ -1,15 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 03:20 PM (hora de Colombia)
+Actualizado: 25/10/2026 05:19 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 12.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 3, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Gamers React
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8.197
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=baxgRU5X4DY
+
+### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: unfav is live
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 107
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=0cVdyR7qAZI
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - Categoria: Clip de terceros
@@ -21,17 +41,6 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
 
-### WESTCOL PARCHANDO EN BARCELONA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcol clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcol clips
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31.868
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
-
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
@@ -39,7 +48,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.749
+- Vistas reportadas por YouTube: 9.022
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
@@ -50,9 +59,20 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: Cossio Clips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.468
+- Vistas reportadas por YouTube: 3.574
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
+
+### EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsCOLOMBIA
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsCOLOMBIA
+- Publicado: 25/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=D5tp-T3B--w
 
 ### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - Categoria: Cuenta de clips
@@ -61,7 +81,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: Emm4nuelClips_
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 112
+- Vistas reportadas por YouTube: 115
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
 
@@ -81,7 +101,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: basuquito
 - Publicado: 25/10/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 181
+- Vistas reportadas por YouTube: 277
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
 
@@ -91,7 +111,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: KalvinZzz2
 - Publicado: 23/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70
+- Vistas reportadas por YouTube: 72
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
@@ -101,13 +121,43 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: Kyonax
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 55
+- Vistas reportadas por YouTube: 77
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
+
+### Yina Calderón promete hacer de las suyas | Premios De La Música Latina 2026
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yina Calderón
+- Canal que publico: Telemundo Entretenimiento
+- Publicado: 23/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 10.952
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=UUsJwFDz60c
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Texto en pantalla:** Los momentos MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=baxgRU5X4DY
+
+### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** minecraft live fun with unfav #livestream #gaming #livestream #shortslive
+- **Texto en pantalla:** minecraft live fun with unfav #livestream #gaming #livestream #shortsl
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0cVdyR7qAZI
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -118,16 +168,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
-
-### WESTCOL PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
-- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -148,6 +188,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
+
+### EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Texto en pantalla:** EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D5tp-T3B--w
 
 ### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -199,13 +249,23 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=L-esFG-LtG8
 
+### Yina Calderón promete hacer de las suyas | Premios De La Música Latina 2026
+- **Gancho A:** ¿Ya habías visto este momento de Yina Calderón? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yina Calderón.
+- **Título sugerido:** Yina Calderón promete hacer de las suyas | Premios De La Música Latina 2026
+- **Texto en pantalla:** Yina Calderón promete hacer de las suyas | Premios De La Música Latina
+- **Descripción:** Fragmento relacionado con Yina Calderón. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=UUsJwFDz60c
+
 ## Noticias y contexto
 
+- **[Creadores] Video | Westcol compartió con el FC Barcelona en la previa del partido ante Real Madrid: así fue su encuentro con el hermano de Lamine Yamal - Infobae** — 25/10/2026 04:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwJBVV95cUxORU5xWGMxbjVNUEJnN0pzUVJZNVQ4S0FLeUZsSlhLekZmdFJmU1RLdWwwTkMwNi1SaDUzeUVrbkoyZEN2Uy1Za0VpZ0tfdlRKSXZKY0FSSmk1TlJBdk84ZGVGM0wzd3NGdmRNUWpNZXMzSDJ5eGdXUFRnNkNIamExNXltOWVLYVNMSTQ4UU1wYy10b3VqdFFoTVJyZjNTcnNWRGZrWlB4bW9FQ1JUQ1hpZ1d6ZmQ3cHJyMFBrX0lmZlhraHR1WEZSUWV3NHJIeGt2clpQcWJMR0QtN09rNXlZbERxUHNfYWtlandBbnZpU2tON1hkcXhBU2lDYVNVVDFuZ1c1TWZDdVFLZjBkVnRGcm9Gb0M4dGFzdGZN0gG2AkFVX3lxTE5CUEtuTDR0dlpBcUtfTExOM2hEZ240cktJRGhHVG9iTGxscjRrd3FZSXg1WGM1aU5TY0ZtbktOdnZBbFE4NHE0V2NNUHNBYk5BRlExVWhRX1BHc0FYMHZXOXptV2lkM2tEY0tnU2IwZzIwWkRNcTdpMnRPZE8zRUVzSG44VldTUE1GMFVUblZjVmdEd0I3ZTI3d3lMakZzaEJDbHN3ZVQ3Ui0yRldXVjlhVllFNnNfVW9hcnNpNmo2VS15d2UyOW5iMFRaY3RCYWRVRkhESVd5V2JDQlgzaml3N2tNX1dHSjRTTVNuNnJBbjQ3QzFzcHdaUUFEdHlrZlo3Z2h3ejNUQ2VKOXlJbFB6b1pMVlBMNkZYdGdlbG9mRVBwdWloMnBxNHllMXNtTVVSX1R0TkE?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
 - **[Creadores] Westcol (25 años), compara sus ingresos con los de Pablo Escobar: “Cinco millones de dólares a los 25...Yo con - AS Colombia** — 24/10/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVDFrVDBKSG1vWHFtWkVRQUNiV1V5ZEJBX25mMGRZU2hkVm92azFYVnR0OGoybjhLbkltM1EwbXJkdHNWWVJGYkR4NGRzYmpMYmpiUVY4dTk2V2phSVdHZWlnMGxYN1p2TTZZc1E4cm96aGhLdHBna0VGcUppcVEyRFFnTGtLb2h4VndDNWhId2Q2WlNLS201d2hLUlB2VlVWMTBFRHkxSFp4ZTIzSjBtRXhCa3diWDJZQlhsRC1GUHdzN3dRNGFWM0xzS2pQRm9RbGVvbXhfRmt3TGNTbU9fMlVKenRlTUhiUUxnMzNHTDRCVnBtUHdCUjdQNXR2MVBmcUJuS0hKQjlQbmlNdmlxaG5nV0VfX0N4NTUzY2wycjJPRWM3NVFqQ0dfQdIBvwJBVV95cUxPQ05FcnNMUTF3cHRwZzVyNF9nZzlUV2NQWmRHQWJ1U0RXQ2hueVg0bE5jZGZ3b29Wd1IxQWE2cEhtYmtzQjZMR2drWEZScFR4Ty1YYTFlcW9kS2hFUkFFSzlDZWZGN0tXaEJjYlg2cHJ4ZllBTE04Mm1lVUdNTll6eDd3cFRmU2kyVENmRG4zTUZ4cjNOVDM0ZXlvT290SUxjYlVuR2hYUUl3NlF3MG9ycjlPX1NJUFVxRS1IMHZWR0lNYW5ScWRQTm5IR19WQjlCUUNZT3NsT09xMGo1engzUUgzSEZoM2w4SC1UemdYaVdGNVhkS1ZxT1otTTVsVmhMMjZLeVphMnF0V2U1bVJMUHFsOUJSbUJlemR4SGxsOERGdi1CSVRfaTJXZ3A2OExwM2F5LUxMWjU4UFFxeFEw?oc=5)
 - **[Creadores] Yina Calderón deslumbró con cuervos y un sombrero puntiagudo en los premios Billboard en Miami - Infobae** — 24/10/2026 12:19 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHgzdzd6aTlFQk5rbl9ZMmE5VHRyWTgyT01XT0gydU96V0R4c1ZJcHU4OU9lVi1LQ2stNTRWUVdLN1U1dzRVRXllQXVXbGhsWmluamsxTnNJYW93cUt5ZHNRYl9hOXNnZm4wektXdEhGanU2dHZ1UmNncEpoOTNDSU5oZllrZWh3UmFJV044bXF0Q2NNSFJkbU84ZTNBR1B6NTBWOUt4NUJ0Y29VN28xTEVJd2Q2S2FwY1p4cWtqMENrZnQza3RYckZmcVpEVU9EUUlYWEp30gHwAUFVX3lxTE1UNzZyRERYcFJMV3hoS3ZBYW8zTTBGM2FsUU0zOGNtMHBXcldQeFg1cTlKNVI1YkdqTFJ1WUVUZ1hhUlYzRXNuRWVpSFNYU1FoY1BJVk8tc19sbDNTTzNUVXpIWGR1djI4alVTLTZXRmdUbU5kNnlXV0J4RXhhNV91T2pDc01PMU90cWU2TW50X3BqaXJVbjhhTU9MVWZuOE5GMzR4WkF4V3RucHZ4b2k2NEhvelloMEJPZVIxQ1ZpblNpUlhDMGZBdmpMWjROMVk0ZXhkaThIQzN3bHB2dWJTNUUwTDNjM180alVfLUdFaQ?oc=5)
-- **[Creadores] Tulio Recomienda recuerda la historia detrás del éxito de Burger Master: “Sabía que era un fenómeno que venía con mucha fuerza” - Revista Semana** — 23/10/2026 05:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbtIBhAJBVV95cUxNMW5lR3pLMlpXd2RWR1MyNUZvUTFoN004eGI3M3piNmdKZXh4TmtNVzR1eEFUdzhTSWt2MFRyTkpQUk5Bc3h3Q0tYTjlTVzZPTENEV2h4SThfUDBUUVFQdHJHeklaVmRMaDhFZEdwNnc1bk9RdXdWckRxQjFRMFBTdjhyRTZiYVpHWkFnSV91bXBkekFtWk93UUNPanBkcGZlcW82RThQaXBKUl9YdEhRRE9kSmxtWHN6dnlveFVRMERJVHJacEtXcGNqcHB1VTR3MnRnVGFTZEFodVh4cmVGdnBEUkgzcVdwVl9hazJoa09GQUllSmtDeTZqb2V3U0tsZDEtbg?oc=5)
 
 ## Creadores principales vigilados
 
@@ -227,12 +287,14 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-25
+  - https://www.youtube.com/watch?v=baxgRU5X4DY
+- **minecraft live fun with unfav #livestream #gaming #livestream #shortslive** (candidata por revisar) — última detección: 2026-10-25
+  - https://www.youtube.com/watch?v=0cVdyR7qAZI
 - **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-25
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
 - **1 Hora de de Hax para convencerte de votar por él en los Streamer Awards** (candidata por revisar) — última detección: 2026-10-24
   - https://www.youtube.com/watch?v=zP2CgMI2SdY
-- **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-24
-  - https://www.youtube.com/watch?v=baxgRU5X4DY
 - **KRIS R "EL TRAP DE KOLOMBIA 2" REACCIÓN AL ÁLBUM COMPLETO 🔥** (candidata por revisar) — última detección: 2026-10-24
   - https://www.youtube.com/watch?v=UuaQLAaTIkg
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-23
