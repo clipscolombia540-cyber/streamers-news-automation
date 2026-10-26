@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 11:31 PM (hora de Colombia)
+Actualizado: 26/10/2026 01:38 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 7.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: WagsonX
 - Publicado: 25/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 642
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.469
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=hm06sMd2Q7M
+
+### Auron y Westcol, juntos en el Clásico🥶Pereira y Agustín asaltan DAZN🥶Mbappé les arruina la noche
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: La Hora del Salseo
+- Publicado: 25/10/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 471
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=Ur4QI1T6eug
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - Categoria: Clip de terceros
@@ -37,19 +47,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 50.919
+- Vistas reportadas por YouTube: 71.544
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
-
-### PARCHANDO EN BARCELONA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcol clips
-- Canal que publico: westcol clips
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.711
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
@@ -58,20 +58,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.837
+- Vistas reportadas por YouTube: 10.097
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
-
-### REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… ¡NO SE LO ESPERABA! 🤯🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 25/10/2026 11:18 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 205
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cW7XheiBxcw
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
@@ -79,7 +68,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: Ju4ncho_sw
 - Publicado: 25/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 32
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
@@ -89,7 +78,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: Kyonax
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 99
+- Vistas reportadas por YouTube: 116
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
@@ -106,6 +95,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hm06sMd2Q7M
+
+### Auron y Westcol, juntos en el Clásico🥶Pereira y Agustín asaltan DAZN🥶Mbappé les arruina la noche
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Auron y Westcol, juntos en el Clásico🥶Pereira y Agustín asaltan DAZN🥶Mbappé les arruina la noche
+- **Texto en pantalla:** Auron y Westcol, juntos en el Clásico🥶Pereira y Agustín asaltan DAZN🥶M
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Ur4QI1T6eug
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -127,16 +126,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YY-VTYc7NUg
 
-### PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: westcol clips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: westcol clips.
-- **Título sugerido:** PARCHANDO EN BARCELONA
-- **Texto en pantalla:** PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Cuenta de clips: westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
-
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -146,16 +135,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
-
-### REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… ¡NO SE LO ESPERABA! 🤯🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… ¡NO SE LO ESPERABA! 🤯🔥
-- **Texto en pantalla:** REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… 
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cW7XheiBxcw
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
