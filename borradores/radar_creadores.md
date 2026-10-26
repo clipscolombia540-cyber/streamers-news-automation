@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 09:30 PM (hora de Colombia)
+Actualizado: 25/10/2026 11:31 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
-Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente por verificar: 2.
+Clips incluidos: 8.
+Noticias recientes: 5.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Canal que publico: WagsonX
 - Publicado: 25/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 144
+- Vistas reportadas por YouTube: 642
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=hm06sMd2Q7M
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Canal que publico: GANGADELAW
 - Publicado: 25/10/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
 
@@ -37,9 +37,19 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28.216
+- Vistas reportadas por YouTube: 50.919
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
+
+### PARCHANDO EN BARCELONA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: westcol clips
+- Canal que publico: westcol clips
+- Publicado: 24/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 33.711
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - Categoria: Cuenta de clips
@@ -48,17 +58,28 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.471
+- Vistas reportadas por YouTube: 9.837
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
+
+### REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… ¡NO SE LO ESPERABA! 🤯🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 25/10/2026 11:18 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 205
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=cW7XheiBxcw
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Ju4ncho_sw
 - Canal que publico: Ju4ncho_sw
-- Publicado: 25/10/2026 09:12 PM
+- Publicado: 25/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
@@ -106,6 +127,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YY-VTYc7NUg
 
+### PARCHANDO EN BARCELONA
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: westcol clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: westcol clips.
+- **Título sugerido:** PARCHANDO EN BARCELONA
+- **Texto en pantalla:** PARCHANDO EN BARCELONA
+- **Descripción:** Fragmento relacionado con Cuenta de clips: westcol clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
+
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -115,6 +146,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
+
+### REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… ¡NO SE LO ESPERABA! 🤯🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… ¡NO SE LO ESPERABA! 🤯🔥
+- **Texto en pantalla:** REYDELACITY LLEGA AL BLOQUE DE YVNGCHIMI Y LO CONOCE POR PRIMERA VEZ… 
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=cW7XheiBxcw
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
@@ -138,6 +179,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Yina Calderón ironizó sobre el matrimonio de Ariadna Gutiérrez en Cartagena: “Felicitaciones a los novios” - Infobae** — 25/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSS1aVFB2M2pXMWVoMG1GZUpobW1GNENRWXJTR3QwNTctdlo1bmtmRzY5ZkxocUxsNXlzSVBUamxWUng1cnoteEhDa2tOa25yQ2c3RUNScEV2WDdWRXlqQWpBanhLdmRJYU1aZm9xT0tkdURSelFwQkNmUW91bTBZQXdjY0ozVEZQeXRSaVZPSDlqY19GLS1RaEpXX2pQWG00SnllRHBYLVdmUnNhdEwtMEEzeHVVNXl4cEtQUnBCNDNUNkxtcng3TlQ1bnhXM3RBbm9QNUk5aUF6N2J3ZEVDS0Vn0gH8AUFVX3lxTFBKQW1yQ2VQNTZ0MTQ1Yy1DM1pjR2pRczNmbEt4aFhJMDFaM20xNDhzdlNKTm5EOHg2SkFSS1VYN2dER1dyQ2xzZ19LR295UTRiYTZoY0FvR3pRaUJLajFVSzhFbHAweWtFbUVocm9CRlJubnliTUNnTXppSDBiNVpJR2UyNS1BZ3JuVEV2amhpSmZMUlBRTHdMSGF3RWpmd2JERFFJS1R3WWVFblNqNTVUR0FKVHF0WTZmWU9XVC01NHJNNzhLaFBqZURyZ1pLVnRCNmo4MU82cXhibXk1NDNqeUhNamloVnNsb29wRkV2N0Mxamh3NGZ4VHI1Vg?oc=5)
 - **[Creadores] Video | Westcol compartió con el FC Barcelona en la previa del partido ante Real Madrid: así fue su encuentro con el hermano de Lamine Yamal - Infobae** — 25/10/2026 04:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwJBVV95cUxORU5xWGMxbjVNUEJnN0pzUVJZNVQ4S0FLeUZsSlhLekZmdFJmU1RLdWwwTkMwNi1SaDUzeUVrbkoyZEN2Uy1Za0VpZ0tfdlRKSXZKY0FSSmk1TlJBdk84ZGVGM0wzd3NGdmRNUWpNZXMzSDJ5eGdXUFRnNkNIamExNXltOWVLYVNMSTQ4UU1wYy10b3VqdFFoTVJyZjNTcnNWRGZrWlB4bW9FQ1JUQ1hpZ1d6ZmQ3cHJyMFBrX0lmZlhraHR1WEZSUWV3NHJIeGt2clpQcWJMR0QtN09rNXlZbERxUHNfYWtlandBbnZpU2tON1hkcXhBU2lDYVNVVDFuZ1c1TWZDdVFLZjBkVnRGcm9Gb0M4dGFzdGZN0gG2AkFVX3lxTE5CUEtuTDR0dlpBcUtfTExOM2hEZ240cktJRGhHVG9iTGxscjRrd3FZSXg1WGM1aU5TY0ZtbktOdnZBbFE4NHE0V2NNUHNBYk5BRlExVWhRX1BHc0FYMHZXOXptV2lkM2tEY0tnU2IwZzIwWkRNcTdpMnRPZE8zRUVzSG44VldTUE1GMFVUblZjVmdEd0I3ZTI3d3lMakZzaEJDbHN3ZVQ3Ui0yRldXVjlhVllFNnNfVW9hcnNpNmo2VS15d2UyOW5iMFRaY3RCYWRVRkhESVd5V2JDQlgzaml3N2tNX1dHSjRTTVNuNnJBbjQ3QzFzcHdaUUFEdHlrZlo3Z2h3ejNUQ2VKOXlJbFB6b1pMVlBMNkZYdGdlbG9mRVBwdWloMnBxNHllMXNtTVVSX1R0TkE?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
