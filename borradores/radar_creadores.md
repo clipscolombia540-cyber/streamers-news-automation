@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/10/2026 07:40 PM (hora de Colombia)
+Actualizado: 25/10/2026 09:30 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente por verificar: 2.
+Clips incluidos: 6.
+Noticias recientes: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: WagsonX
+- Publicado: 25/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 144
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=hm06sMd2Q7M
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - Categoria: Clip de terceros
@@ -17,20 +27,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: GANGADELAW
 - Publicado: 25/10/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
-
-### WESTCOL PARCHANDO EN BARCELONA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcol clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcol clips
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.712
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
 - Categoria: Cuenta de clips
@@ -38,8 +37,8 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.773
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 28.216
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
 ### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
@@ -49,41 +48,19 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.216
+- Vistas reportadas por YouTube: 9.471
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Irl previo al PARTIDO DEL AMERICA para la despedida de Memo Ochoa l Mrstiventc
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Tangarife Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Tangarife Clips
-- Publicado: 25/10/2026 07:14 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=LrYmS5_CQVE
-
-### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Emm4nuelClips_
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 132
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
-
-### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 25/10/2026 01:00 PM
+- Creador/canal detectado: Emergente: Ju4ncho_sw
+- Canal que publico: Ju4ncho_sw
+- Publicado: 25/10/2026 09:12 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 370
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
 - Categoria: Emergente por verificar
@@ -91,13 +68,23 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente
 - Canal que publico: Kyonax
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 84
+- Vistas reportadas por YouTube: 99
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Texto en pantalla:** REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hm06sMd2Q7M
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -108,16 +95,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
-
-### WESTCOL PARCHANDO EN BARCELONA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL PARCHANDO EN BARCELONA
-- **Texto en pantalla:** WESTCOL PARCHANDO EN BARCELONA
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D3pNovgvTd8
 
 ### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -139,35 +116,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Irl previo al PARTIDO DEL AMERICA para la despedida de Memo Ochoa l Mrstiventc
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Irl previo al PARTIDO DEL AMERICA para la despedida de Memo Ochoa l Mrstiventc
-- **Texto en pantalla:** Irl previo al PARTIDO DEL AMERICA para la despedida de Memo Ochoa l Mr
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=LrYmS5_CQVE
-
-### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- **Texto en pantalla:** REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Ynfu6l289EU
-
-### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
+- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=ne956apb_Ss
+- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
@@ -185,7 +142,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
 - **[Creadores] Westcol (25 años), compara sus ingresos con los de Pablo Escobar: “Cinco millones de dólares a los 25...Yo con - AS Colombia** — 24/10/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVDFrVDBKSG1vWHFtWkVRQUNiV1V5ZEJBX25mMGRZU2hkVm92azFYVnR0OGoybjhLbkltM1EwbXJkdHNWWVJGYkR4NGRzYmpMYmpiUVY4dTk2V2phSVdHZWlnMGxYN1p2TTZZc1E4cm96aGhLdHBna0VGcUppcVEyRFFnTGtLb2h4VndDNWhId2Q2WlNLS201d2hLUlB2VlVWMTBFRHkxSFp4ZTIzSjBtRXhCa3diWDJZQlhsRC1GUHdzN3dRNGFWM0xzS2pQRm9RbGVvbXhfRmt3TGNTbU9fMlVKenRlTUhiUUxnMzNHTDRCVnBtUHdCUjdQNXR2MVBmcUJuS0hKQjlQbmlNdmlxaG5nV0VfX0N4NTUzY2wycjJPRWM3NVFqQ0dfQdIBvwJBVV95cUxPQ05FcnNMUTF3cHRwZzVyNF9nZzlUV2NQWmRHQWJ1U0RXQ2hueVg0bE5jZGZ3b29Wd1IxQWE2cEhtYmtzQjZMR2drWEZScFR4Ty1YYTFlcW9kS2hFUkFFSzlDZWZGN0tXaEJjYlg2cHJ4ZllBTE04Mm1lVUdNTll6eDd3cFRmU2kyVENmRG4zTUZ4cjNOVDM0ZXlvT290SUxjYlVuR2hYUUl3NlF3MG9ycjlPX1NJUFVxRS1IMHZWR0lNYW5ScWRQTm5IR19WQjlCUUNZT3NsT09xMGo1engzUUgzSEZoM2w4SC1UemdYaVdGNVhkS1ZxT1otTTVsVmhMMjZLeVphMnF0V2U1bVJMUHFsOUJSbUJlemR4SGxsOERGdi1CSVRfaTJXZ3A2OExwM2F5LUxMWjU4UFFxeFEw?oc=5)
-- **[Creadores] Yina Calderón deslumbró con cuervos y un sombrero puntiagudo en los premios Billboard en Miami - Infobae** — 24/10/2026 12:19 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHgzdzd6aTlFQk5rbl9ZMmE5VHRyWTgyT01XT0gydU96V0R4c1ZJcHU4OU9lVi1LQ2stNTRWUVdLN1U1dzRVRXllQXVXbGhsWmluamsxTnNJYW93cUt5ZHNRYl9hOXNnZm4wektXdEhGanU2dHZ1UmNncEpoOTNDSU5oZllrZWh3UmFJV044bXF0Q2NNSFJkbU84ZTNBR1B6NTBWOUt4NUJ0Y29VN28xTEVJd2Q2S2FwY1p4cWtqMENrZnQza3RYckZmcVpEVU9EUUlYWEp30gHwAUFVX3lxTE1UNzZyRERYcFJMV3hoS3ZBYW8zTTBGM2FsUU0zOGNtMHBXcldQeFg1cTlKNVI1YkdqTFJ1WUVUZ1hhUlYzRXNuRWVpSFNYU1FoY1BJVk8tc19sbDNTTzNUVXpIWGR1djI4alVTLTZXRmdUbU5kNnlXV0J4RXhhNV91T2pDc01PMU90cWU2TW50X3BqaXJVbjhhTU9MVWZuOE5GMzR4WkF4V3RucHZ4b2k2NEhvelloMEJPZVIxQ1ZpblNpUlhDMGZBdmpMWjROMVk0ZXhkaThIQzN3bHB2dWJTNUUwTDNjM180alVfLUdFaQ?oc=5)
 
 ## Creadores principales vigilados
 
