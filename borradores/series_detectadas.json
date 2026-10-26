@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-10-26T13:39:45.375162-05:00",
+  "actualizado": "2026-10-26T15:28:12.460843-05:00",
   "series": [
+    {
+      "nombre": "My favorite streamer",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-26T13:39:45.375162-05:00",
+      "ultima_deteccion": "2026-10-26T15:28:12.460843-05:00",
+      "canal_muestra": "TheCliperoBrother",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=3obnrtES3dM"
+      ]
+    },
     {
       "nombre": "minecraft live fun with unfav #livestream #gaming #livestream #shortslive",
       "tipo": "serie_o_tema_candidato",
@@ -11,17 +22,6 @@
       "enlaces": [
         "https://www.youtube.com/watch?v=AUrOF05Zsro",
         "https://www.youtube.com/watch?v=0cVdyR7qAZI"
-      ]
-    },
-    {
-      "nombre": "My favorite streamer",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-26T13:39:45.375162-05:00",
-      "ultima_deteccion": "2026-10-26T13:39:45.375162-05:00",
-      "canal_muestra": "TheCliperoBrother",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=3obnrtES3dM"
       ]
     },
     {

@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/10/2026 01:39 PM (hora de Colombia)
+Actualizado: 26/10/2026 03:28 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 4.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 3.
+Clips incluidos: 7.
+Noticias recientes: 5.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,47 +17,17 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: TheCliperoBrother
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.617
+- Vistas reportadas por YouTube: 3.796
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=3obnrtES3dM
-
-### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: unfav is live
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 108
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=0cVdyR7qAZI
-
-### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: unfav is live
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 714
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=AUrOF05Zsro
-
-### SAMULX CON FRAN TIRANDO FACTOS
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: GANGADELAW
-- Publicado: 25/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
 
 ### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 25/10/2026 05:00 PM
+- Publicado: 25/10/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 118.136
+- Vistas reportadas por YouTube: 132.003
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
@@ -66,9 +36,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 26/10/2026 01:00 AM
+- Publicado: 26/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.422
+- Vistas reportadas por YouTube: 29.733
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
@@ -79,20 +49,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.963
+- Vistas reportadas por YouTube: 11.245
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
-
-### Yeferson Cossio PERDIÓ el control 😬
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Cossio Clips
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.821
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
 ### What happened to Komanche? Details regarding the death of the renowned streamer
 - Categoria: Emergente por verificar
@@ -100,19 +59,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: EL TIEMPO
 - Publicado: 26/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.403
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.445
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=4gMAjwc9TtY
 
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Ju4ncho_sw
-- Canal que publico: Ju4ncho_sw
-- Publicado: 25/10/2026 10:00 PM
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
+- Vistas reportadas por YouTube: 857
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
 
 ### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
 - Categoria: Emergente por verificar
@@ -120,7 +79,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Kyonax
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 130
+- Vistas reportadas por YouTube: 133
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
@@ -137,36 +96,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3obnrtES3dM
-
-### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** minecraft live fun with unfav #livestream #gaming #livestream #shortslive
-- **Texto en pantalla:** minecraft live fun with unfav #livestream #gaming #livestream #shortsl
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=0cVdyR7qAZI
-
-### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** minecraft live fun with unfav #livestream #gaming #livestream #shortslive
-- **Texto en pantalla:** minecraft live fun with unfav #livestream #gaming #livestream #shortsl
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=AUrOF05Zsro
-
-### SAMULX CON FRAN TIRANDO FACTOS
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX CON FRAN TIRANDO FACTOS
-- **Texto en pantalla:** SAMULX CON FRAN TIRANDO FACTOS
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
 
 ### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -198,16 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Yeferson Cossio PERDIÓ el control 😬
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Yeferson Cossio PERDIÓ el control 😬
-- **Texto en pantalla:** Yeferson Cossio PERDIÓ el control 😬
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
-
 ### What happened to Komanche? Details regarding the death of the renowned streamer
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: EL TIEMPO? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -218,15 +137,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=4gMAjwc9TtY
 
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
+### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
-- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
+- **Fuente original:** https://www.youtube.com/watch?v=ne956apb_Ss
 
 ### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
@@ -240,8 +159,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Westcol reacciona a muerte de streamer 'Komanche' y desata polémica de usuarios en redes - La Kalle** — 26/10/2026 01:20 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSERlVU1SMmljWkZ2dE1BbHRQay0zTmh4bE4ySTFVdXNNNzREdFZuRFVlUnpIcmIyUGNGVU5RT3BIVGdodERYSms0SktuUm5SZWIyUUQwMHFPc2JlSFhjNGZRTEhnaDdhVEdBeXFIYy03X1VKb0hHMklZVV9zOF8tYzQ4ZGp6UlBtM1NtX01mNTVwajRKM1hROXpKT3JHR1hfNnNpbDhxbmRyNk4tekIzSkVWVFlkYmZvTE5MLW1zT2kzdGU5YXc1SzJyakJGRUdNbWxXdE5yLWM5ZUdENk9z0gHsAUFVX3lxTE54M3N1b2NzR1dKbWw3SGdhTC1nSVlXRWhmdEdvVllKMTVBWWo5Ml9xNXlJZ3NjQmZVdWZUZ1hIZU5LY3RYQ0IxSUk5V1JBbkpJdTdPTWNkdUZEYkhpVnE1dHZlM0J1QWRMQVNJbGctamtVcjVHUFJfN3lrNDhuaDQ1TVNXbEJCS3hRRWQweS1sTWJQNzBGcXYyaUdKWFU2UkllWWw4SjVjNWNnWVlrdDBwSHFDcEhSNmExVERvMUdyUjg3OXF1R3d0a3NhekJjX1E2TUJuZXhrTERoQzhGaWtFQU1KY1pKcU1Fb01P?oc=5)
-- **[Creadores] Westcol se pronunció tras la muerte de ‘Komanche’ y recibió fuertes críticas: ¿qué le dijeron? - Minuto60** — 26/10/2026 12:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSG9YR0MtRU8xbkhuVWs3NmM3bWxEOUM3ZWQ1bmhXczhYNmhuajZzWEgzVENmamRjUDV6MHhXU3FkNDhkWHhYYUoxSzkxNmtjTGl0M1VwUVJIaGdrZl9TRFVMTEczS3pubm9WWVVMd3lPclZEWHJyUlhlMUlUaFBtMjF3bUlBa2ZET0hYclQzWkJDQzNyQzc0SVhpOFhQYUxPRktVSkVna3JsNEJpWS1Pb2V3?oc=5)
+- **[Creadores] Westcol recibió críticas por sus condolencias tras la muerte de Komanche: “Hipócrita” - HSB Noticias** — 26/10/2026 02:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW5GeHlfcVZvMV9aSmxfWm9ORGdibmNKVk9ZdkNHQzlSYWxKMU5kV1RZX0RWOHpjOUdldENXMm5tcGpQZWtrcm5IbnpNTkJnQkRTSllqcWliRUpVYXQ4c0tmWGkzeVdUZzQ2UWpRam9HOWdneGpGUUU0WkJiVDRPYkJFREEzWGZKVS1HSDdBTm1UQXF3WkxlYmRVXzlvcWMteW9kWkNHNlJZc3RIaFNXTmRRX2Y2dw?oc=5)
+- **[Creadores] La Segura reveló la razón detrás de su ausencia en redes y preocupó a sus seguidores: “Estaré mejor” - Revista Semana** — 26/10/2026 02:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaNIB4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaA?oc=5)
+- **[Creadores] Westcol recibe críticas por despedirse de Komanche: ¿por qué lo llaman hipócrita? - Diario Extra** — 26/10/2026 01:50 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNU244ekMxWlQyU3diaVZQUWE3cUl6TUFycDQtSG4wQUR5ZmM4T3RTeFVibTNDMHo3bDlEYXNqY0Z3UFIzVGdzYzBJSG9QQXFJaWc4T0NJa0puUHVVZ2oybXJMSGZpLWYxcF8zeGsxYS1BQmFfTl8wdUdPbGpxbmtCUGNuZTZ1XzJFR3N2Uk9PX3JteEUtSFZXNENsV19RY0Y5a0taMGR5bkZORkdCNG9mcFNSS3BPZ9IBtgFBVV95cUxNU244ekMxWlQyU3diaVZQUWE3cUl6TUFycDQtSG4wQUR5ZmM4T3RTeFVibTNDMHo3bDlEYXNqY0Z3UFIzVGdzYzBJSG9QQXFJaWc4T0NJa0puUHVVZ2oybXJMSGZpLWYxcF8zeGsxYS1BQmFfTl8wdUdPbGpxbmtCUGNuZTZ1XzJFR3N2Uk9PX3JteEUtSFZXNENsV19RY0Y5a0taMGR5bkZORkdCNG9mcFNSS3BPZw?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
 
@@ -265,11 +185,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **My favorite streamer** (candidata por revisar) — última detección: 2026-10-26
+  - https://www.youtube.com/watch?v=3obnrtES3dM
 - **minecraft live fun with unfav #livestream #gaming #livestream #shortslive** (candidata por revisar) — última detección: 2026-10-26
   - https://www.youtube.com/watch?v=AUrOF05Zsro
   - https://www.youtube.com/watch?v=0cVdyR7qAZI
-- **My favorite streamer** (candidata por revisar) — última detección: 2026-10-26
-  - https://www.youtube.com/watch?v=3obnrtES3dM
 - **Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200** (candidata por revisar) — última detección: 2026-10-25
   - https://www.youtube.com/watch?v=baxgRU5X4DY
 - **1 Hour of Hax to Convince You to Vote Him for Streamer Awards** (candidata por revisar) — última detección: 2026-10-25
