@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/10/2026 03:40 AM (hora de Colombia)
+Actualizado: 26/10/2026 05:35 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 8.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Jose Gonzalez
+- Publicado: 26/10/2026 05:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.109
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
 
 ### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: WagsonX
 - Publicado: 25/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.814
+- Vistas reportadas por YouTube: 1.947
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=hm06sMd2Q7M
 
@@ -37,7 +47,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 81.586
+- Vistas reportadas por YouTube: 85.020
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
@@ -48,7 +58,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 26/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.581
+- Vistas reportadas por YouTube: 8.937
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
@@ -59,30 +69,19 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.206
+- Vistas reportadas por YouTube: 10.231
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Westcol en el estadio Spotify Camp Nou
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: westcol clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: westcol clips
-- Publicado: 26/10/2026 02:00 AM
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Ju4ncho_sw
+- Canal que publico: Ju4ncho_sw
+- Publicado: 25/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 27
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=kUtTgW0Dfz4
-
-### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 25/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 644
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
+- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
 - Categoria: Emergente por verificar
@@ -90,13 +89,23 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: Kyonax
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 116
+- Vistas reportadas por YouTube: 120
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
+- **Texto en pantalla:** EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=WeYWmX1-OKk
 
 ### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -148,25 +157,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
 
-### Westcol en el estadio Spotify Camp Nou
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol en el estadio Spotify Camp Nou
-- **Texto en pantalla:** Westcol en el estadio Spotify Camp Nou
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=kUtTgW0Dfz4
-
-### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
+- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=ne956apb_Ss
+- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
@@ -180,11 +179,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Muere el streamer Komanche a los 30 años: Westcol, Spreen, y otros, se despiden de él - LOS40** — 26/10/2026 04:02 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE42ZVJZN20tM0JQUFFDUHBaNmNwYXg1T1k4cVRmSXRVU21VVXV6WUo1MldMRTV0TjZYdE5hQnl5Qi1MbHRoYXkxeXJyVFhhUE5mQ1VsNDNPWTF0UGZsRlZKNGxJSHhhZUNERTZPeVV1U2Y4bmN1aGdGT3c2R2U1dXZXamFQdW1fOWJDbDhFTl9rdWtScTBHYms5djR0c1RVYi1Iem5tbVhyWWxOSVlXTtIBxAFBVV95cUxQMU03bHQxU2F2ZUNMelBWbnQxVzhLMm5oNFVsU3pJTjhYaENDdHV3b2JEY1dRVDI5SUVqVDB2WEFWZjJaYmJOSDE0SllubkY4Y0pIU1RSM3VzLUxZN09UT2JGWEt1SVpRcjZhejU0dXBoN1JiM3NURzlmTkxkbEJXLTQ4aGF2Y2E5T2s2Xy1KcjdEWVdCWmlMY3RPOGRIZjA5SG9MNlFEaEJHZVlrOHhmdW9HSklTNEdjeTZwa3AwY0s5MWQ1?oc=5)
+- **[Creadores] Westcol se despide de El Komanche y pide respeto a su familia tras la muerte del streamer salvadoreño - DSN Noticias** — 26/10/2026 02:46 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2xIb3psSThUMTV2cHhaSWJubk03WHZ6a0t3QlE1dnFrdml5aUdnRjJvMWttYlgtVWhLd0JLdEpaNlF5NHFNbGdzUS05R0p0SGdsQlZ3TlAtX1NSR05iaURvMlo0XzVKQThMN1pKTXc4RUkzdUNuWTdPZWtJNVZvUURGTWdjU29XOXpHT2R0T1RWX295VnA2Tm5SejI3al85X19KazJubDFoYVpYdVpLWVJTNVptZzdI?oc=5)
 - **[Creadores] Yina Calderón ironizó sobre el matrimonio de Ariadna Gutiérrez en Cartagena: “Felicitaciones a los novios” - Infobae** — 25/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSS1aVFB2M2pXMWVoMG1GZUpobW1GNENRWXJTR3QwNTctdlo1bmtmRzY5ZkxocUxsNXlzSVBUamxWUng1cnoteEhDa2tOa25yQ2c3RUNScEV2WDdWRXlqQWpBanhLdmRJYU1aZm9xT0tkdURSelFwQkNmUW91bTBZQXdjY0ozVEZQeXRSaVZPSDlqY19GLS1RaEpXX2pQWG00SnllRHBYLVdmUnNhdEwtMEEzeHVVNXl4cEtQUnBCNDNUNkxtcng3TlQ1bnhXM3RBbm9QNUk5aUF6N2J3ZEVDS0Vn0gH8AUFVX3lxTFBKQW1yQ2VQNTZ0MTQ1Yy1DM1pjR2pRczNmbEt4aFhJMDFaM20xNDhzdlNKTm5EOHg2SkFSS1VYN2dER1dyQ2xzZ19LR295UTRiYTZoY0FvR3pRaUJLajFVSzhFbHAweWtFbUVocm9CRlJubnliTUNnTXppSDBiNVpJR2UyNS1BZ3JuVEV2amhpSmZMUlBRTHdMSGF3RWpmd2JERFFJS1R3WWVFblNqNTVUR0FKVHF0WTZmWU9XVC01NHJNNzhLaFBqZURyZ1pLVnRCNmo4MU82cXhibXk1NDNqeUhNamloVnNsb29wRkV2N0Mxamh3NGZ4VHI1Vg?oc=5)
-- **[Creadores] Video | Westcol compartió con el FC Barcelona en la previa del partido ante Real Madrid: así fue su encuentro con el hermano de Lamine Yamal - Infobae** — 25/10/2026 04:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwJBVV95cUxORU5xWGMxbjVNUEJnN0pzUVJZNVQ4S0FLeUZsSlhLekZmdFJmU1RLdWwwTkMwNi1SaDUzeUVrbkoyZEN2Uy1Za0VpZ0tfdlRKSXZKY0FSSmk1TlJBdk84ZGVGM0wzd3NGdmRNUWpNZXMzSDJ5eGdXUFRnNkNIamExNXltOWVLYVNMSTQ4UU1wYy10b3VqdFFoTVJyZjNTcnNWRGZrWlB4bW9FQ1JUQ1hpZ1d6ZmQ3cHJyMFBrX0lmZlhraHR1WEZSUWV3NHJIeGt2clpQcWJMR0QtN09rNXlZbERxUHNfYWtlandBbnZpU2tON1hkcXhBU2lDYVNVVDFuZ1c1TWZDdVFLZjBkVnRGcm9Gb0M4dGFzdGZN0gG2AkFVX3lxTE5CUEtuTDR0dlpBcUtfTExOM2hEZ240cktJRGhHVG9iTGxscjRrd3FZSXg1WGM1aU5TY0ZtbktOdnZBbFE4NHE0V2NNUHNBYk5BRlExVWhRX1BHc0FYMHZXOXptV2lkM2tEY0tnU2IwZzIwWkRNcTdpMnRPZE8zRUVzSG44VldTUE1GMFVUblZjVmdEd0I3ZTI3d3lMakZzaEJDbHN3ZVQ3Ui0yRldXVjlhVllFNnNfVW9hcnNpNmo2VS15d2UyOW5iMFRaY3RCYWRVRkhESVd5V2JDQlgzaml3N2tNX1dHSjRTTVNuNnJBbjQ3QzFzcHdaUUFEdHlrZlo3Z2h3ejNUQ2VKOXlJbFB6b1pMVlBMNkZYdGdlbG9mRVBwdWloMnBxNHllMXNtTVVSX1R0TkE?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
-- **[Creadores] Westcol (25 años), compara sus ingresos con los de Pablo Escobar: “Cinco millones de dólares a los 25...Yo con - AS Colombia** — 24/10/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwJBVV95cUxPQ05FcnNMUTF3cHRwZzVyNF9nZzlUV2NQWmRHQWJ1U0RXQ2hueVg0bE5jZGZ3b29Wd1IxQWE2cEhtYmtzQjZMR2drWEZScFR4Ty1YYTFlcW9kS2hFUkFFSzlDZWZGN0tXaEJjYlg2cHJ4ZllBTE04Mm1lVUdNTll6eDd3cFRmU2kyVENmRG4zTUZ4cjNOVDM0ZXlvT290SUxjYlVuR2hYUUl3NlF3MG9ycjlPX1NJUFVxRS1IMHZWR0lNYW5ScWRQTm5IR19WQjlCUUNZT3NsT09xMGo1engzUUgzSEZoM2w4SC1UemdYaVdGNVhkS1ZxT1otTTVsVmhMMjZLeVphMnF0V2U1bVJMUHFsOUJSbUJlemR4SGxsOERGdi1CSVRfaTJXZ3A2OExwM2F5LUxMWjU4UFFxeFEw0gG_AkFVX3lxTE9DTkVyc0xRMXdwdHBnNXI0X2dnOVRXY1BaZEdBYnVTRFdDaG55WDRsTmNkZndvb1Z3UjFBYTZwSG1ia3NCNkxHZ2tYRlJwVHhPLVhhMWVxb2RLaEVSQUVLOUNlZkY3S1doQmNiWDZwcnhmWUFMTTgybWVVR01OWXp4N3dwVGZTaTJUQ2ZEbjNNRnhyM05UMzRleW9Pb3RJTGNiVW5HaFhRSXc2UXcwb3JyOU9fU0lQVXFFLUgwdlZHSU1hblJxZFBObkhHX1ZCOUJRQ1lPc2xPT3EwajV6eDNRSDNIRmgzbDhILVR6Z1hpV0Y1WGRLVnFPWi1NNWxWaEwyNkt5WmEycXRXZTVtUkxQcWw5QlJtQmV6ZHhIbGw4REZ2LUJJVF9pMldncDY4THAzYXktTExaNThQUXF4UTA?oc=5)
 
 ## Creadores principales vigilados
 
