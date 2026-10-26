@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-26T15:28:12.460843-05:00",
+  "actualizado": "2026-10-26T17:29:46.815058-05:00",
   "series": [
     {
       "nombre": "My favorite streamer",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-26T13:39:45.375162-05:00",
-      "ultima_deteccion": "2026-10-26T15:28:12.460843-05:00",
+      "ultima_deteccion": "2026-10-26T17:29:46.815058-05:00",
       "canal_muestra": "TheCliperoBrother",
       "enlaces": [
         "https://www.youtube.com/watch?v=3obnrtES3dM"
