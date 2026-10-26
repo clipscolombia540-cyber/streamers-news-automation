@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-26T05:35:40.268991-05:00",
+  "actualizado": "2026-10-26T09:40:29.442923-05:00",
   "series": [
+    {
+      "nombre": "minecraft live fun with unfav #livestream #gaming #livestream #shortslive",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-25T17:19:56.653028-05:00",
+      "ultima_deteccion": "2026-10-26T09:40:29.442923-05:00",
+      "canal_muestra": "unfav is live",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=AUrOF05Zsro",
+        "https://www.youtube.com/watch?v=0cVdyR7qAZI"
+      ]
+    },
     {
       "nombre": "Los MÁS graciosos DE TODOS LOS TIEMPOS en Minecraft #200",
       "tipo": "serie_o_tema_candidato",
@@ -10,17 +22,6 @@
       "canal_muestra": "Gamers React",
       "enlaces": [
         "https://www.youtube.com/watch?v=baxgRU5X4DY"
-      ]
-    },
-    {
-      "nombre": "minecraft live fun with unfav #livestream #gaming #livestream #shortslive",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-25T17:19:56.653028-05:00",
-      "ultima_deteccion": "2026-10-25T17:19:56.653028-05:00",
-      "canal_muestra": "unfav is live",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=0cVdyR7qAZI"
       ]
     },
     {
