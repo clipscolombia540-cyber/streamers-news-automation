@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/10/2026 09:40 AM (hora de Colombia)
+Actualizado: 26/10/2026 11:42 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 13.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente por verificar: 4.
+Clips incluidos: 14.
+Noticias recientes: 4.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6, Emergente por verificar: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: WagsonX
+- Publicado: 25/10/2026 09:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.298
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=hm06sMd2Q7M
 
 ### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
 - Categoria: Clip de terceros
@@ -47,8 +57,8 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 92.843
-- Puntaje heurístico de interés: 6
+- Vistas reportadas por YouTube: 103.253
+- Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
 ### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
@@ -58,7 +68,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 26/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.252
+- Vistas reportadas por YouTube: 20.239
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
@@ -67,9 +77,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 25/10/2026 07:00 PM
+- Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.469
+- Vistas reportadas por YouTube: 10.666
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
 
@@ -80,41 +90,31 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: Cossio Clips
 - Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.669
+- Vistas reportadas por YouTube: 4.821
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=-0BhsfOxrk0
 
-### Westcol en el estadio Spotify Camp Nou
+### westcol parchando en barcelona
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: westcol clips
 - Creador relacionado en el título: Westcol
 - Canal que publico: westcol clips
-- Publicado: 26/10/2026 02:00 AM
+- Publicado: 26/10/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 175
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=kUtTgW0Dfz4
+- Enlace directo: https://www.youtube.com/watch?v=ThZOstCxv3c
 
-### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
+### EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Emm4nuelClips_
+- Creador/canal detectado: Cuenta de clips: ClipsCOLOMBIA
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsCOLOMBIA
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 151
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
-
-### Los peores jugadores de PEAK (Mejores Clips)
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: KalvinZzz2
-- Canal que publico: KalvinZzz2
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 94
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
+- Enlace directo: https://www.youtube.com/watch?v=D5tp-T3B--w
 
 ### Salvadoran streamer 'Komanche' dies in Mexico | EL TIEMPO
 - Categoria: Emergente por verificar
@@ -122,9 +122,19 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: EL TIEMPO
 - Publicado: 26/10/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 503
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 2.285
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=4gMAjwc9TtY
+
+### Los peores jugadores de PEAK (Mejores Clips)
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KalvinZzz2
+- Canal que publico: KalvinZzz2
+- Publicado: 24/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 96
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=8hgfXYybdjQ
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
@@ -132,7 +142,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: Ju4ncho_sw
 - Publicado: 25/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 38
+- Vistas reportadas por YouTube: 44
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
@@ -140,15 +150,25 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Kyonax
 - Canal que publico: Kyonax
-- Publicado: 25/10/2026 07:00 PM
+- Publicado: 24/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 123
+- Vistas reportadas por YouTube: 126
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Texto en pantalla:** REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hm06sMd2Q7M
 
 ### minecraft live fun with unfav #livestream #gaming #livestream #shortslive
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -220,35 +240,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-0BhsfOxrk0
 
-### Westcol en el estadio Spotify Camp Nou
+### westcol parchando en barcelona
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol en el estadio Spotify Camp Nou
-- **Texto en pantalla:** Westcol en el estadio Spotify Camp Nou
+- **Título sugerido:** westcol parchando en barcelona
+- **Texto en pantalla:** westcol parchando en barcelona
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=kUtTgW0Dfz4
+- **Fuente original:** https://www.youtube.com/watch?v=ThZOstCxv3c
 
-### REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- **Texto en pantalla:** REYDELACITY SE BUSCA UN PROBLEMA CON LA 4L | C4RT3EL MEXICANO🫢
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Texto en pantalla:** EL PEOR TIMING! WESTCOL CUENTA COMO FUE LA W SOUND 10 🔥🔥!!!
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Ynfu6l289EU
-
-### Los peores jugadores de PEAK (Mejores Clips)
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: KalvinZzz2? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: KalvinZzz2.
-- **Título sugerido:** Los peores jugadores de PEAK (Mejores Clips)
-- **Texto en pantalla:** Los peores jugadores de PEAK (Mejores Clips)
-- **Descripción:** Fragmento relacionado con Emergente: KalvinZzz2. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=8hgfXYybdjQ
+- **Fuente original:** https://www.youtube.com/watch?v=D5tp-T3B--w
 
 ### Salvadoran streamer 'Komanche' dies in Mexico | EL TIEMPO
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: EL TIEMPO? 👀
@@ -259,6 +269,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: EL TIEMPO. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=4gMAjwc9TtY
+
+### Los peores jugadores de PEAK (Mejores Clips)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KalvinZzz2? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KalvinZzz2.
+- **Título sugerido:** Los peores jugadores de PEAK (Mejores Clips)
+- **Texto en pantalla:** Los peores jugadores de PEAK (Mejores Clips)
+- **Descripción:** Fragmento relacionado con Emergente: KalvinZzz2. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=8hgfXYybdjQ
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
@@ -282,9 +302,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Mensaje de condolencias de Westcol por la muerte de Komanche desató críticas en redes sociales: “Hipócrita” - Infobae** — 26/10/2026 09:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbHZRS25mUWlJZmhVWlBfT0NkTFlOTXdCdW9fRnRkMHd2bXRuZUtCU1YwaE9DbkQ4TE42bzluZ3V3MnUtOVdYT1R2aktQWkhxWGRwNmJNRDNzLUxqd2haWWw1bFh1MW1IYlNoTzBMLUJOWnlRcmxFdjRzN0dDbzdETndJdEpzc1ZGWE5wbkhMeFNzMmZ6VW1EWGc4M3VSd1hUQVR0UVQwSWJzS09iR0FLX1U2OFBJdXZSQWJTUHI0WU9UZnp0TnNJZnMwQkRPLUVMQTV0Z2NIWnZjdUNiUG10N05mY9IB_gFBVV95cUxOdWFuQlk5dnNXTjI4U3lFUGVTQlNmWHF2Ylc1d3VkdGJFU1piVzQ3Smh0UGZ6al9YRTlFZDlJbW5jcHk1V3VQRm51bm1yZ2RNTFgyS2VCaEozU2tHRzNOWnQ2VE9fWHhnVEJWcm9CU3BRa0luZ0F6cjJTaURrWUpxT21QcHpMNk96TFh2SEJNM3M0ZE1USFh3QWtoTER1aDAwcnNFQ0dkUlZvNnVoR1kzcml1Q29qQ1ZrTnpKZEM1MjFXdHFsRVc3N3BWQ3B3dU9salBFZmNwR2lLNEM0NnBhV3huQnFScTdFWWFacFZOMXhtZDZTa1I4SmdKWW10Zw?oc=5)
-- **[Creadores] Ibai Llanos, AuronPlay, Westcol y Polispol despiden al streamer Komanche tras ser hallado sin vida en México - El Tiempo** — 26/10/2026 08:35 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMEJROUktOVdaaEx0bzFpRGtsZjFncG9GQ3h0S0JRUXFXODhUbndINjE0LVV6UFRPSzJqaTg4ZHJ2aDlpSGxuX3dlc1dyeXZ5YW1TdTU1LThFSWNNM0JtZ0RQaElKMVJOYk9zVnVJd0dqbXJSWXNtSmNjQVZhX2I2ZjU2eVhzb0JmSWNKTFFjQkh3bDNBdjBLRUJvUFBvdWE0WHVPeFFwODMtMFNheHZoQXFWOXBCd0hXd2RyMXQ4ZmRmMmc4Umw1YVhodVZKSXRLTUQxQndBOC1IWVZJYngyWjZraDRyTzlR0gHuAUFVX3lxTFBsd21vMmt0bExGXzRtMnNUQlh5Yl9tR3RFZGpKRDhLOGZvbWM1YVNESE9wWmZScGN5eGdYRldRVmo3UnZyLWdNdlNFWUZ3U2xIblJtdzRVWnFFbGl6QWo3WW1QNHpoZXFsa0EyXzlmbjktdUtmU0I4ckc4OHdsdHdPaThIQV93NkFvTHpyc1RadkRJUTZ6RG1CT3dwYW5wcjBnVF9FSUFmczlBbUZVWDhWRE01dDA2cEg3MDhkek9uZEVQVl9ldG1DbW5USklVY0ZqMzZaQTFZaHV2bVB1UDJQdkRJbzc4NmZROTh2NGc?oc=5)
-- **[Creadores] Yina Calderón ironizó sobre el matrimonio de Ariadna Gutiérrez en Cartagena: “Felicitaciones a los novios” - Infobae** — 25/10/2026 07:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSS1aVFB2M2pXMWVoMG1GZUpobW1GNENRWXJTR3QwNTctdlo1bmtmRzY5ZkxocUxsNXlzSVBUamxWUng1cnoteEhDa2tOa25yQ2c3RUNScEV2WDdWRXlqQWpBanhLdmRJYU1aZm9xT0tkdURSelFwQkNmUW91bTBZQXdjY0ozVEZQeXRSaVZPSDlqY19GLS1RaEpXX2pQWG00SnllRHBYLVdmUnNhdEwtMEEzeHVVNXl4cEtQUnBCNDNUNkxtcng3TlQ1bnhXM3RBbm9QNUk5aUF6N2J3ZEVDS0Vn0gH8AUFVX3lxTFBKQW1yQ2VQNTZ0MTQ1Yy1DM1pjR2pRczNmbEt4aFhJMDFaM20xNDhzdlNKTm5EOHg2SkFSS1VYN2dER1dyQ2xzZ19LR295UTRiYTZoY0FvR3pRaUJLajFVSzhFbHAweWtFbUVocm9CRlJubnliTUNnTXppSDBiNVpJR2UyNS1BZ3JuVEV2amhpSmZMUlBRTHdMSGF3RWpmd2JERFFJS1R3WWVFblNqNTVUR0FKVHF0WTZmWU9XVC01NHJNNzhLaFBqZURyZ1pLVnRCNmo4MU82cXhibXk1NDNqeUhNamloVnNsb29wRkV2N0Mxamh3NGZ4VHI1Vg?oc=5)
+- **[Creadores] Westcol desató críticas por despedir a Komanche tras su muerte - El Frente** — 26/10/2026 11:23 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMl9tdU80SUlld2JrM0xPcGdrSUtqM29NY1kxLTdLVGI0dVVJZVAzeFZzb3BqUjdWNWhhUUR2UDZWRW90V21RWkQwNVFiZTdwSWkwZ3lXaGhxc1ZkcEZtcG9qbE1jTWJnTXRUdklmZ2tvT250Yk51bnhqS0hKdVdnMkVrT1hKRmw5TGJqMUZHcTA?oc=5)
+- **[Creadores] ¡Ola de críticas! Westcol despide a Komanche y usuarios reviven la polémica de septiembre - Colombia.com** — 26/10/2026 11:13 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXRzVllxbkRNSUh5dkNnUkRFM2ZPR3hvWHBWVkJqcE1ZQ09VZzh6Ym1SeU5pR3FVTF9VeUdWOUo2QnF1d0g5VXRGWmdETHJIb1NjekFRb3BMeXk2cUo4RERTbEliemRDSU9IN1Z0TDFLRThOVmt3Sjg1a3czT0JrVGxMaS02WlNQaUZqR3hzLW92cm5SaDg0UkZ4dkE2WmhoRF81aF85NjYzLUMyejJVVDFOZUVub1M3Q0trZXYwZy1yaUREMkIzTGk1RGs?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
 
