@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/10/2026 09:27 PM (hora de Colombia)
+Actualizado: 26/10/2026 11:30 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 7.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Jose Gonzalez
-- Publicado: 26/10/2026 04:00 AM
+- Publicado: 26/10/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 438.286
+- Vistas reportadas por YouTube: 449.906
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
 
@@ -31,26 +31,58 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
 
+### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 25/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 173.168
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
+
 ### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 26/10/2026 12:00 AM
+- Publicado: 26/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 40.217
+- Vistas reportadas por YouTube: 43.769
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Ju4ncho_sw
-- Canal que publico: Ju4ncho_sw
+### LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClipsZone
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClipsZone
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 54
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=-nzQtQyr1xQ
+
+### REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FILTRAN VARIAS CANCIONES! 🎶🇵🇷
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 26/10/2026 11:10 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 434
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
+- Enlace directo: https://www.youtube.com/watch?v=A-iv96zMKB0
+
+### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 25/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.034
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -76,6 +108,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
 
+### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
+- **Texto en pantalla:** THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO 
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YY-VTYc7NUg
+
 ### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -86,21 +128,41 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
+### LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
-- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
+- **Texto en pantalla:** LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=-nzQtQyr1xQ
+
+### REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FILTRAN VARIAS CANCIONES! 🎶🇵🇷
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FILTRAN VARIAS CANCIONES! 🎶🇵🇷
+- **Texto en pantalla:** REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FIL
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=A-iv96zMKB0
+
+### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
+- **Fuente original:** https://www.youtube.com/watch?v=ne956apb_Ss
 
 ## Noticias y contexto
 
+- **[Creadores] ¡Ola de críticas! Westcol despide a Komanche y usuarios reviven la polémica de septiembre - Colombia.com** — 26/10/2026 10:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXRzVllxbkRNSUh5dkNnUkRFM2ZPR3hvWHBWVkJqcE1ZQ09VZzh6Ym1SeU5pR3FVTF9VeUdWOUo2QnF1d0g5VXRGWmdETHJIb1NjekFRb3BMeXk2cUo4RERTbEliemRDSU9IN1Z0TDFLRThOVmt3Sjg1a3czT0JrVGxMaS02WlNQaUZqR3hzLW92cm5SaDg0UkZ4dkE2WmhoRF81aF85NjYzLUMyejJVVDFOZUVub1M3Q0trZXYwZy1yaUREMkIzTGk1RGs?oc=5)
 - **[Creadores] ¿Yeferson Cossio y Carolina Gómez terminaron? Estas son las pistas de su supuesta separación - LOS40** — 26/10/2026 07:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3RvazQtaDMwT0lLb3RqUlh4X2VmY0VxaDdCVTY1X3ZwaDdvbDk5R1lPaHlocXZ3NmxNT3NFR3AyZ3R3WHdMWmM5MEdKM08wT3hab0cxVHdRYmZjZ25jMFJVWEFIMllWb0FCN1RrbW5WV3luRUlsV3FDbFNaYzI3VkYyZ2QxRjZtMjBkYVZmcENGNUpZaWFWU3ZjYjBPN3BSSmdmQ0QzVk1XNjFTb25FMVZhbVMxRS1FYUtiU2t5Um7SAdQBQVVfeXFMUGgzcEZBRVZuSTh5U2lrWHh5TkYyZDljby1VSDZZZlpJTERnaGJSZUNXUFRwbXQ0eEY2dVZCMGZGOWxhT1FObzFvSU5rREM3eGxqY09yNHdiQ1dNYndIV0laT3B1R1JxSjZ6Ql83X2tNWWd5NnlUZ2hvUjkzamM3Z0NBSEVqc0F6WjVudVdycmpScFRGMHlQQWJVdVFNSkhGU18weC1LYzRVel9Yb2d1ZG82NVNrRDkwQ1JVdUMyNUNoeGtoRmN5Nzl6ZU13aXI5U0RmQmo?oc=5)
 - **[Creadores] La dura funa y polémica con Westcol que enfrentó El Komanche antes de morir - La Razón de México** — 26/10/2026 07:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSllDZ3Z5VGdqSXNsRzZJZkN3ZU5Mdm9NUGdXWmpsekE0R3dNYkRfV1Z1XzFOc0hPUmJKUHA2Q1lHRE9YenRPczFWekVER0ZJdTFwQTFHZlF1UEhCWW9BR2NCTUlmTTlKdGlTTmhsYV9GSjJNdWotUll2N1RqcTBxcVNwMENRYUYwdk9sa1p0Y1lFR0R2X2l6bVBvYi1qaEpCTGczMHBZb0VoVnBrdTZqNlVQNTBlZzU0OG1qRjFEX0ZxazdRaFlR0gHiAUFVX3lxTFBPMzdMeEJCTW5kSjlaUVI3U19lZ0tGcnBEa0UxSGxwWVFRMkxXZVpTWE9DNExjNU5TalZuZk43M1lZWmZHcVVFNVlVZDdpQlF0RjV4ZFlQZm5UN0RPZEVuX0xxaVlCN2w3Z1h6TVN0TVFGbGNKV0VyQnl1TTRCZWVidG5CYmtPdFByajRBMm0zdzRmclhQR2lQZDRJZWVQVlFXTElpRnp5ZWk4VHBEYnd2RDlKaEJoYXZWd3c0ZUhCMnVFTEU2NmhvbDhQX0Q0V2VrQ2FJZFdFOU5Ram5NdmRxMUE?oc=5)
-- **[Creadores] Westcol reacciona a la muerte de El Komanche y lo critican - La Razón de México** — 26/10/2026 07:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXprOEVvRDh0aUFpb2JkN080SS1mcXp4THcxb0dRb2JyR19qVG9ZeFlTZTdLd1o3MXVNcTZOMU1SaXoyeTgxLW5oNEFmY0J4TUVXSW9MYUwtR05XNC1jQmc5cmZNRHJuQnNtVEpYMm5mOWJOakRrZzhfcUFsRWxpeEpGdm9zMWRQZUxSMlRFVHJCVk9wT3BicmRfaVRPX3FNYVkwRjZrN2liMzcwdjBkYdIBywFBVV95cUxNQ2otVUpKTkotZ3ByZmE5akF0NkxFRW1LckNvaGc0ZXNBSk5SUW1icnpINUNBMEZaaWV1c2s1Uk1meVp3bmVod3FHa3BxV0FaX285S2Z1N0ZnRVZvemlnTEZVTVpGMFBDaVBRTDRfbHViTjF3dXdrM0pTejRFVUpFNlB5RHI5MDNwRG5UdmhvS3dhNTN0Zk5Ra1BZMk44TERSQjM4TmVfNERON0Rja0NXRGd6YkxrQTE2eGFNNkVWcS1yWC16cU1XNDRkcw?oc=5)
 - **[Creadores] La Segura reveló la razón detrás de su ausencia en redes y preocupó a sus seguidores: “Estaré mejor” - Revista Semana** — 26/10/2026 02:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaNIB4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaA?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 
