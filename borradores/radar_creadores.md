@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/10/2026 11:30 PM (hora de Colombia)
+Actualizado: 27/10/2026 01:36 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 5.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Canal que publico: Jose Gonzalez
 - Publicado: 26/10/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 449.906
+- Vistas reportadas por YouTube: 458.129
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
 
@@ -31,58 +31,36 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
 
-### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 25/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 173.168
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
-
 ### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 26/10/2026 01:00 AM
+- Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.769
+- Vistas reportadas por YouTube: 46.383
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClipsZone
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClipsZone
-- Publicado: 25/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=-nzQtQyr1xQ
-
-### REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FILTRAN VARIAS CANCIONES! 🎶🇵🇷
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 26/10/2026 11:10 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 434
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=A-iv96zMKB0
-
-### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+### What happened to Komanche? Details regarding the death of the renowned streamer
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
+- Creador/canal detectado: Emergente: EL TIEMPO
+- Canal que publico: EL TIEMPO
+- Publicado: 26/10/2026 09:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 20.364
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=4gMAjwc9TtY
+
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Ju4ncho_sw
+- Canal que publico: Ju4ncho_sw
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.034
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
+- Vistas reportadas por YouTube: 55
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -108,16 +86,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
 
-### THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO BARCELONA VS MADRID 🤩
-- **Texto en pantalla:** THIS IS THE VIP EXPERIENCE AT SPOTIFY CAMP NOU 🤯 WESTOL AT EL CLÁSICO 
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YY-VTYc7NUg
-
 ### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -128,35 +96,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### What happened to Komanche? Details regarding the death of the renowned streamer
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: EL TIEMPO? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
-- **Texto en pantalla:** LA SALCHICHA MÁS POLÉMICA Y EL TIKTOK VIRAL DE WESTCOL 🤣 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-nzQtQyr1xQ
-
-### REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FILTRAN VARIAS CANCIONES! 🎶🇵🇷
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FILTRAN VARIAS CANCIONES! 🎶🇵🇷
-- **Texto en pantalla:** REYDELACITY SE REENCUENTRA CON YVNGCHIMI Y SLAYTER EN EL CASERÍO… ¡FIL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=A-iv96zMKB0
-
-### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: EL TIEMPO.
+- **Título sugerido:** What happened to Komanche? Details regarding the death of the renowned streamer
+- **Texto en pantalla:** What happened to Komanche? Details regarding the death of the renowned
+- **Descripción:** Fragmento relacionado con Emergente: EL TIEMPO. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=ne956apb_Ss
+- **Fuente original:** https://www.youtube.com/watch?v=4gMAjwc9TtY
+
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
+- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Noticias y contexto
 
