@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 27/10/2026 11:43 AM (hora de Colombia)
+Actualizado: 27/10/2026 01:38 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 9.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### FUNAN a WESTCOL por KOMANCHE! PELIGROSA TENDENCIA! POLÉMICA en el FÚTBOL! ESTUDIANTES hacen HISTORIA
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Candres Peredo
-- Publicado: 27/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70.670
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=psqujdpcD5A
 
 ### 💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ | AuronPlay, Donato, Fargan y más 😢
 - Categoria: Clip de terceros
@@ -27,8 +17,8 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Twich User
 - Publicado: 27/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 79.605
-- Puntaje heurístico de interés: 8
+- Vistas reportadas por YouTube: 102.585
+- Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=HBDn-zFX2NE
 
 ### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Jose Gonzalez
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 468.241
+- Vistas reportadas por YouTube: 468.925
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
 
@@ -47,9 +37,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: TheCliperoBrother
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.686
+- Vistas reportadas por YouTube: 5.859
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=3obnrtES3dM
+
+### #westcol #westcolclips #Westcol
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Don Westky
+- Publicado: 27/10/2026 01:31 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=KWqNyBLCxR0
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - Categoria: Clip de terceros
@@ -67,7 +67,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 195.231
+- Vistas reportadas por YouTube: 202.950
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
@@ -78,7 +78,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 48.429
+- Vistas reportadas por YouTube: 48.999
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
@@ -89,19 +89,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Emm4nuelClips_
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 202
+- Vistas reportadas por YouTube: 203
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Ynfu6l289EU
-
-### What happened to Komanche? Details regarding the death of the renowned streamer
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: EL TIEMPO
-- Canal que publico: EL TIEMPO
-- Publicado: 26/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.825
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=4gMAjwc9TtY
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
@@ -109,23 +99,13 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Ju4ncho_sw
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 66
+- Vistas reportadas por YouTube: 62
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### FUNAN a WESTCOL por KOMANCHE! PELIGROSA TENDENCIA! POLÉMICA en el FÚTBOL! ESTUDIANTES hacen HISTORIA
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** FUNAN a WESTCOL por KOMANCHE! PELIGROSA TENDENCIA! POLÉMICA en el FÚTBOL! ESTUDIANTES hacen HISTORIA
-- **Texto en pantalla:** FUNAN a WESTCOL por KOMANCHE! PELIGROSA TENDENCIA! POLÉMICA en el FÚTB
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=psqujdpcD5A
 
 ### 💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ | AuronPlay, Donato, Fargan y más 😢
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -156,6 +136,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3obnrtES3dM
+
+### #westcol #westcolclips #Westcol
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** #westcol #westcolclips #Westcol
+- **Texto en pantalla:** #westcol #westcolclips #Westcol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=KWqNyBLCxR0
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -197,16 +187,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Ynfu6l289EU
 
-### What happened to Komanche? Details regarding the death of the renowned streamer
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: EL TIEMPO? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: EL TIEMPO.
-- **Título sugerido:** What happened to Komanche? Details regarding the death of the renowned streamer
-- **Texto en pantalla:** What happened to Komanche? Details regarding the death of the renowned
-- **Descripción:** Fragmento relacionado con Emergente: EL TIEMPO. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=4gMAjwc9TtY
-
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -219,14 +199,14 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Así reaccionaron Yeferson Cossio y Carolina Gómez a los rumores de ruptura por aparecer distantes en redes - Infobae** — 27/10/2026 12:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdkVFUzd3OWxscWpKa1FOYjBCZ1B4ZGQtaGRXM21mY3M3WWVrQkNUX3pvTF9IZ1ZfYzNJRTVwWVFsZXdZSjBvOUVQeEJkUW1WWS1yRzdwWVkyRXdZbjM4R3prb1AzamxXYUhybm9OQjhZMnJSWWFtaVhPXzBTY3p5V1JUeEFKZmVwOWdpMjlCSnJhTFE3SGpIZEszQW90QUlmUVVzREw5UWJ2Z09fVktyMnRSajNpekNib0RfdEZfV3EzeUhDemhjXzJ3VTduaFJaRHVnSXFhMEVjaG1BWkl3Z3Jsa3lsUdIBgAJBVV95cUxOX2pyRHJlMDdlQnRVMWhtU1pGNGtqa1hIME1WcmppaV96X0RzS1lqbjRzYW9sT2JTN1BDaW1sbmxVU3pDbjVTTXIwOWsydVFmTkNxd2R5NzZVc0VQSDBLYWVjUHlwM01CRzlKOW9lSERRUThJNWo3YTBobTkxaGZYMFBhRmtramFBMmpMVHlxUHdJRWd4dEltWXZjRUFlMjFkU1YzYU41Q0YwQkRHZzF3NWJhbURfb2J6LUZnOHBnVGFick90VzhKQ3FkZ2pjRjlYRWxfdkJtNWlNRTVfekVQa1RuZjZRVkZYZ3FRaDZDdGhmeURVN3RXQ3pjcGxfNzVz?oc=5)
+- **[Creadores] ¿Yeferson Cossio terminó con Carolina Gómez? Detalle desata rumores de separación - La Kalle** — 27/10/2026 12:33 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQanZKNDJjbjEzMjZUdXljdndYU2FSMzlubmIzb0lRR1d3MG1SejJHcmJ1bXhmeWNMOXlCN3FmN2UxRzJ6Q0EtZ1hhZVFtaGRTSW1YUjVzN2pfVEZxTTh1ZHhYbVhUWHBQbTdRWVV1YUdQcDBQYnJCcTY4cmhyMThmYUh0YU1yZ1FDRkRkVnVodlp3cjFGa1J0M1Zwc2hoN1lIemJGVXVWX2JfbnRTd19HWWNXQzd5OGxnaFRVMkt3RWIyNjhZaFBmWWh0d0VXQVVwc1dOdTl30gHjAUFVX3lxTFBuUFdJZnNwbWNqVXg1d1Fzc3JmMmRzcVV3U0d2NXJMeWhUWUNtZEZmVEZPNzN6cXhldmlBUXdJOXVnR01WUDgzaU9BdzdoSV9SNjhsMng5RXBtVnV3QXFpbFMyMzg3SlhqdFFma3R3Q0FMWXVJYUhsbENUSFZTWWI2SWE5dXpTMENiUGdQX2NDYTY5UHJ1QnpNck1RY1BaZlJ4eUJRSkFPTGE2aXFMM2NGOHVpamFhYmF5QUh6Zk9fUzRDZlpuZEtGOWVZR0VpUTBpa25HMkVoSjRVN3h4Sm9EOVVj?oc=5)
+- **[Creadores] Aída Victoria Merlano hace inesperada revelación tras delicada denuncia de ‘El Agropecuario’, su expareja - Revista Semana** — 27/10/2026 12:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2gtVjBUdHphdWJVMDdCZTZhVWh5RmV6NlhmSkJlVWFfMHFUbGw0cGhXczM2ckpyWWZQZWMwNEs0SkVKWEFhMmw1QXlTU1FKSUZuMFJWVnN5YzZDZHhJNHZfVUFrVllDQTlOeXlGUGlmOUlwN2s5dFVPcGdXX2FBeEg3LWhfbmN0LTRpSlUxZGlVbnVRb0RqdFBoMG4yVG5YS256aGNPOGRVMmxSRFpxZVo1ZXVVMUlxSUpXajFqMUVtN1lIUFRXVkowSS1WeUZEQ3dEY3ZwQ0VqbUd1SUF4SGJB0gHnAUFVX3lxTE10azRHYjZRQUtTRThjeFJOWnR0aDVtWlVUeWJCR0xSU0lxRUNkV0daLUdLREFwM3RZYWh6RWNmQjJyeVRVc284SHdiMmNSeGlfT1lIekxVTEFkTENKZ0g5bENCNFpUZ3VtNU9WVE81UmJQRzBObkNSZHVnVGRXYmNVMlJXd09DbGUzMGhNaU5lck1BbEhaVUxYcFdmOU9aNWRBSVBhY1ZrdnM3QWZmemhkYXFSRk5helg2VTl2b0ozWHJlamZaZlFoVmpkXzFDMGNQaHBSdHdoQ01aeWlKR0ZDMXNybld0TQ?oc=5)
 - **[Creadores] Yina Calderón fue eliminada del programa ‘Juego de villanos’: duró solo dos semanas en la competencia - Infobae** — 27/10/2026 10:45 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVlgwSU5UV3pCcXZtSjJzR1F0Vmx4NDNodDFUNXNiU1FFUWxqLUV6VThEVThWS2NqSWNKZmlWUXRfMmVkQlc3dU5WbGVPQkxLU21MNHhpUnRidVR6dGdMaHQwT1dGTnAyNzB3ZEFvQ0owTFlDX2hBUXhVLTVuN3RnZjNleC05cTJhaF9mY0JaWWhxdUpnQjZLcHpCb0xSQ19RSDdHMHZNYUFDMkdNN3FMQ1hmRVdpd1B4Qm9HOUZQbjZBYUNOZ3N3VWFDLWJIRVd2YldadHRDWHZaUlHSAfYBQVVfeXFMT3FuQlllRlhDanpmWU9Pd2RTYlFwSHhVX3dkd2t5dEZJQ1BVM0pfNEdMV0VFSHJOM3VobG5IdFYxS3BpdW1ubzVhSjVqREI3Qk43MXRrTTE1dlUtc0stUXZHLVR3ZWlFY09zQ1RlT2dCZFdLTVlsUmJEOThnMDdIWVZzdEN4NWNxenZaWVlPcmx5RU5xcTBraVJfS3JSM2hKR0ZxR1hsa3VRTXlEZE00dDJHVXRzUnp4TzQ0Z2d5UmxyYmFkLWFVZy0tYVExZFlBRk9Pa0RFZWtGdjJsTWVCQlRVdzNBTzFCS05GOUVxLUJGVEhSOF9R?oc=5)
 - **[Creadores] Muerte de Komanche desata polémica: ¿por qué señalan al streamer colombiano Westcol? - El Diario - Noticias Pereira, Colombia y el Mundo** — 27/10/2026 10:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTJxVEM5bmdlS3B0TlZMU0lZU2dvSWFTN3dQeXRDVlpwcWJFTGlOZm90bFpPQmJBNmNKVW1YSW9ZNGVfMHZoZzJkLTIwX05tMDZ4ZTBmZi1lUk93NVN1cmpON1dlMGJCOXp3MGhfVjdyT2ZKSGJpZDAtbk5WdkpLX2hnSnpnbE5DLUpNeFpManhZZ0M1aDhXZExzakl6YXo0djFwU2x2ZGFwZUMzZ05CVE9wLWhnOWpfRWJJMDd3VUM5SDl4Z2NZNkJIcw?oc=5)
-- **[Creadores] Yeferson Cossio y Carolina Gómez rompieron el silencio frente a los rumores de ruptura; esto dijeron - LOS40** — 27/10/2026 10:11 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYlAyb29VVDZTekRxOTl0M3RZbkcxNHFFZGV3VXNkT3E3VFNlRkwwek5rUWZmX2gwU3pJZmxqSHg2VHhXV1E2WTQ0cXN5SVpDcHJVZTZCc1RsME9fTUw3WG4tRUJXVGpIeUtGNlBmMHZiaU5wWm5nMkM1THUzb3pfaWxXcl9hR1NEUzlXR0w3ODdCRXlGQnptYTF4V1FGWmx0NmhXeklybTlzNUFCclFfZFBadDEyWC0yblhrUTJYS3lQWUhHdEdDVUpLVlbSAeABQVVfeXFMTlNWNEJwdjFvOW5QN1RaVEV3eGFVbno4YXczZl9jb0w4Nlh2NEk0XzBRMGszVXpHeEs5NmhhN3RhN3FzdVYybGpyZGdnRVBjY2oteUxZcFdjWmU3U2FWOXR5MTNxR2d2SW1mRWdBeml6RzZZc0UyTGFoTDZRamdzMHFRN0VrenhOMVdGLTc4OWo2UzY5dHlKZnNYY2dLanlBTThfa1V5amlxRklEcmxScVpNa0JGNWdud3dtTm9qbU1lOWt0a3VodENFTlItQ0UyMEZBZ0RaZ2Jqdl9WSGU4NU0?oc=5)
 - **[Creadores] Supuesta expareja de Escro, prometido de Aida Victoria Merlano, acusó al creador de contenido de no responder por su hijo: “Ausente totalmente” - Infobae** — 27/10/2026 10:06 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAJBVV95cUxPVlVNUmFBSmZJclJaUUc3VDM5dDMydHVzZFRSUDNENVhwVWFLN0lsN2VUZ1RvRHYxUWc4cHUwSTg5cHdYbVFKYTJvS19zS1NuWWw3cVpIVUxaOHVTdE5FSjA5R3FQR0tmc3k2bWpuVnVZczVIUWlaOG1ZdjkwUE40M29jbG1DX293bU5QWGxfenh1Sm5Ucnc2X2lzWlBTYzR1MXpzRVhVZXVCNUJzTnl6MVhpejY0NlhNTFNRem5CSDNudmktV1A2WWZWcENidEZadnh5UlNpZmljXzM5enpnb183bHljSkxtRkVHX0xFRFMtajBrYTZ3VnZudzhkaUVnRVp0Y2FuS1JuZFBlcEdCX9IBqwJBVV95cUxQYmt0OW9kQXRnM1JFSjJLQktWUS14czlqWTZzWjctNVJDbzJVNmhFd2JKQWNFZkotVm9ZU2hLZXN6V09CLWs3RWdERXZrRFdQRXhNeXZnZWxGd0VtSHcteGtfd3l4c21TTFlYUTliWEw1dnkzaXZ2akZZa2Y0dk5pWUFxbmhGUThXb01lV2tDTHF4ZUJyN3lNUVF1YjR1bWJ1dTNvLTNoOS15VTI1bGJleTdiTXRqSDBUanlWclVwUThvZzJGUURTN2RDLWxTTF90a181WmlIU2pvRGFoTXdCelhpR3oyNThxd2VPeVB2YjdCWWY5ZExheEVLODByeERNMXdzWExabkNSM1l0Z3V0TkJrSkFUMVY5QVVJeEVYNWJ5Qk5udWhYU3I1cw?oc=5)
 - **[Creadores] La dura funa y polémica con Westcol que enfrentó El Komanche antes de morir - La Razón de México** — 27/10/2026 10:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSllDZ3Z5VGdqSXNsRzZJZkN3ZU5Mdm9NUGdXWmpsekE0R3dNYkRfV1Z1XzFOc0hPUmJKUHA2Q1lHRE9YenRPczFWekVER0ZJdTFwQTFHZlF1UEhCWW9BR2NCTUlmTTlKdGlTTmhsYV9GSjJNdWotUll2N1RqcTBxcVNwMENRYUYwdk9sa1p0Y1lFR0R2X2l6bVBvYi1qaEpCTGczMHBZb0VoVnBrdTZqNlVQNTBlZzU0OG1qRjFEX0ZxazdRaFlR0gHiAUFVX3lxTFBPMzdMeEJCTW5kSjlaUVI3U19lZ0tGcnBEa0UxSGxwWVFRMkxXZVpTWE9DNExjNU5TalZuZk43M1lZWmZHcVVFNVlVZDdpQlF0RjV4ZFlQZm5UN0RPZEVuX0xxaVlCN2w3Z1h6TVN0TVFGbGNKV0VyQnl1TTRCZWVidG5CYmtPdFByajRBMm0zdzRmclhQR2lQZDRJZWVQVlFXTElpRnp5ZWk4VHBEYnd2RDlKaEJoYXZWd3c0ZUhCMnVFTEU2NmhvbDhQX0Q0V2VrQ2FJZFdFOU5Ram5NdmRxMUE?oc=5)
 - **[Creadores] ¡Le cambió la vida! Juanda Caribe anuncia casa nueva para el joven de las chancletas - Chica Noticias** — 27/10/2026 08:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk94dzFYdlNWTkhRRWdnY0JmTjVCWnpRZElORUliNV9RR2hCRFFQUk5KT2RXeHhCeEZ6N3VTSEZDSTgxeXcwbnVmSm51M3E5OEdJWHJBbHVmbVhZc2Z1RmxkMkFXMm1hV042dFN4YWdzTy1LWFF6d2pqazV6bnZDak9LN21LQmtHcG5keC1Yd2UzcGszblVtdzdxQ1dRTm9VWjBIeFdtWWdWaThxNDVkSm9OeHM1ZEdrWWhQWFRKTU1rQQ?oc=5)
-- **[Creadores] Aida Victoria Merlano habría respondido a el ‘Agropecuario’ tras pedir ayuda para encontrar a su hijo - LOS40** — 27/10/2026 06:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3VjdV9DTmFFY0htZHVMVUlWb3U5QVo0Szd3NnZUdnFRUWtGOThCMXhnM2xFS2ZGZnhLckxodjlqYmp2bjZIUkpxMVBtUWQ3QVdDbUlPeExGQjZNZGk2bGNjejhYQy1WVFFIak9xOFI1QmpUNU5aNUk4RTc5ZzlHMmc3QThoN09TV3IxMk5MaVlwTHpGVGlMbU8zWGUxa1FmQ3pnSTVNd3J1dDFpejM0REVrX0RyVWJRbnRjMjRieWdBSldNdG5hd0VpaGrSAeABQVVfeXFMUEE3MTFLTG9PNUlWMjhxak52Q2hhcTEwM2hIYTZEZ1FoS2VCME43ZVIyN1NnODBWVEhGWTFrbV9PSDNqTGVoUUE4V2hyN0w1MTQwemp6bUZ3NmlKcTE3TkFIWkwzaUNFajdpcnB0U082V3RvUFhPUnV6WVdtOWZxaTZXVl9xbmtyb0d5NFdCaWFKNkJPTGJlUjNXUDA2NXdjWk9mZzJRVTBGOEhZeFIyeENmTnU0dEZUZlRjbEFLa3pSUXYyQ25RaG5za1JfRkZKZkVPWGx0dDI1UFF0NFd5NkY?oc=5)
-- **[Creadores] ¿Yeferson Cossio y Carolina Gómez terminaron? Estas son las pistas de su supuesta separación - LOS40** — 26/10/2026 07:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3RvazQtaDMwT0lLb3RqUlh4X2VmY0VxaDdCVTY1X3ZwaDdvbDk5R1lPaHlocXZ3NmxNT3NFR3AyZ3R3WHdMWmM5MEdKM08wT3hab0cxVHdRYmZjZ25jMFJVWEFIMllWb0FCN1RrbW5WV3luRUlsV3FDbFNaYzI3VkYyZ2QxRjZtMjBkYVZmcENGNUpZaWFWU3ZjYjBPN3BSSmdmQ0QzVk1XNjFTb25FMVZhbVMxRS1FYUtiU2t5Um7SAdQBQVVfeXFMUGgzcEZBRVZuSTh5U2lrWHh5TkYyZDljby1VSDZZZlpJTERnaGJSZUNXUFRwbXQ0eEY2dVZCMGZGOWxhT1FObzFvSU5rREM3eGxqY09yNHdiQ1dNYndIV0laT3B1R1JxSjZ6Ql83X2tNWWd5NnlUZ2hvUjkzamM3Z0NBSEVqc0F6WjVudVdycmpScFRGMHlQQWJVdVFNSkhGU18weC1LYzRVel9Yb2d1ZG82NVNrRDkwQ1JVdUMyNUNoeGtoRmN5Nzl6ZU13aXI5U0RmQmo?oc=5)
 - **[Creadores] La Segura reveló la razón detrás de su ausencia en redes y preocupó a sus seguidores: “Estaré mejor” - Revista Semana** — 26/10/2026 02:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaNIB4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaA?oc=5)
 
 ## Creadores principales vigilados
