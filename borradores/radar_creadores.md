@@ -1,45 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/10/2026 05:29 PM (hora de Colombia)
+Actualizado: 26/10/2026 07:32 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3, Emergente por verificar: 2.
+Clips incluidos: 8.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### KOMANCHE HAS PASSED AWAY: AURON, VEGETTA, IBAI, SPREEN, WESTCOL, LUZU, AND MORE SAY GOODBYE
+### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Break Espectáculos
-- Publicado: 26/10/2026 09:00 AM
+- Canal que publico: Jose Gonzalez
+- Publicado: 26/10/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 95.431
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=MMmwBi7BGRI
+- Vistas reportadas por YouTube: 425.584
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
 
-### My favorite streamer
+### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: TheCliperoBrother
-- Publicado: 24/10/2026 07:00 PM
+- Creador/canal detectado: Rey de la City
+- Canal que publico: WagsonX
+- Publicado: 25/10/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.101
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=3obnrtES3dM
-
-### Westcol fue su propio camarógrafo en España… ¿y pasó esto? 😳
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: kinezz oficial
-- Publicado: 26/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=GyP1gIDXJWg
+- Vistas reportadas por YouTube: 2.992
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=hm06sMd2Q7M
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - Categoria: Clip de terceros
@@ -57,7 +47,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 145.011
+- Vistas reportadas por YouTube: 151.663
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
@@ -68,20 +58,30 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 26/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.602
+- Vistas reportadas por YouTube: 36.767
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
+### I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Moroclips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Moroclips
-- Publicado: 24/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 26/10/2026 07:01 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.452
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=AOeckuKiWCg
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=jnuqvB2j5x0
+
+### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 25/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 953
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ne956apb_Ss
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
@@ -93,49 +93,29 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
-### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Kyonax
-- Canal que publico: Kyonax
-- Publicado: 24/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 131
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=L-esFG-LtG8
-
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### KOMANCHE HAS PASSED AWAY: AURON, VEGETTA, IBAI, SPREEN, WESTCOL, LUZU, AND MORE SAY GOODBYE
+### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** KOMANCHE HAS PASSED AWAY: AURON, VEGETTA, IBAI, SPREEN, WESTCOL, LUZU, AND MORE SAY GOODBYE
-- **Texto en pantalla:** KOMANCHE HAS PASSED AWAY: AURON, VEGETTA, IBAI, SPREEN, WESTCOL, LUZU,
+- **Título sugerido:** EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
+- **Texto en pantalla:** EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=MMmwBi7BGRI
+- **Fuente original:** https://www.youtube.com/watch?v=WeYWmX1-OKk
 
-### My favorite streamer
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+### REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** My favorite streamer
-- **Texto en pantalla:** My favorite streamer
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Texto en pantalla:** REYDELACITY VISITS EXOTIC CAR DEALERSHIPS IN COLOMBIA 🇨🇴🔥
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3obnrtES3dM
-
-### Westcol fue su propio camarógrafo en España… ¿y pasó esto? 😳
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol fue su propio camarógrafo en España… ¿y pasó esto? 😳
-- **Texto en pantalla:** Westcol fue su propio camarógrafo en España… ¿y pasó esto? 😳
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=GyP1gIDXJWg
+- **Fuente original:** https://www.youtube.com/watch?v=hm06sMd2Q7M
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -167,15 +147,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
-- **Texto en pantalla:** 🥵THE WORST SQUAD IN HISTORY GUYS😂|Mrstiven Funny Moments😂
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- **Texto en pantalla:** I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=AOeckuKiWCg
+- **Fuente original:** https://www.youtube.com/watch?v=jnuqvB2j5x0
+
+### CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.99 | AGACHE CABEZA
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=ne956apb_Ss
 
 ### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
@@ -187,20 +177,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
 
-### ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Kyonax? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Kyonax.
-- **Título sugerido:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- **Texto en pantalla:** ¿Qué sucedió con Kyonax? 4 años desaparecido | Recuerdos de Twitch
-- **Descripción:** Fragmento relacionado con Emergente: Kyonax. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=L-esFG-LtG8
-
 ## Noticias y contexto
 
+- **[Creadores] ¿Yeferson Cossio y Carolina Gómez terminaron? Estas son las pistas de su supuesta separación - LOS40** — 26/10/2026 07:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3RvazQtaDMwT0lLb3RqUlh4X2VmY0VxaDdCVTY1X3ZwaDdvbDk5R1lPaHlocXZ3NmxNT3NFR3AyZ3R3WHdMWmM5MEdKM08wT3hab0cxVHdRYmZjZ25jMFJVWEFIMllWb0FCN1RrbW5WV3luRUlsV3FDbFNaYzI3VkYyZ2QxRjZtMjBkYVZmcENGNUpZaWFWU3ZjYjBPN3BSSmdmQ0QzVk1XNjFTb25FMVZhbVMxRS1FYUtiU2t5Um7SAdQBQVVfeXFMUGgzcEZBRVZuSTh5U2lrWHh5TkYyZDljby1VSDZZZlpJTERnaGJSZUNXUFRwbXQ0eEY2dVZCMGZGOWxhT1FObzFvSU5rREM3eGxqY09yNHdiQ1dNYndIV0laT3B1R1JxSjZ6Ql83X2tNWWd5NnlUZ2hvUjkzamM3Z0NBSEVqc0F6WjVudVdycmpScFRGMHlQQWJVdVFNSkhGU18weC1LYzRVel9Yb2d1ZG82NVNrRDkwQ1JVdUMyNUNoeGtoRmN5Nzl6ZU13aXI5U0RmQmo?oc=5)
+- **[Creadores] La dura funa y polémica con Westcol que enfrentó El Komanche antes de morir - La Razón de México** — 26/10/2026 07:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSllDZ3Z5VGdqSXNsRzZJZkN3ZU5Mdm9NUGdXWmpsekE0R3dNYkRfV1Z1XzFOc0hPUmJKUHA2Q1lHRE9YenRPczFWekVER0ZJdTFwQTFHZlF1UEhCWW9BR2NCTUlmTTlKdGlTTmhsYV9GSjJNdWotUll2N1RqcTBxcVNwMENRYUYwdk9sa1p0Y1lFR0R2X2l6bVBvYi1qaEpCTGczMHBZb0VoVnBrdTZqNlVQNTBlZzU0OG1qRjFEX0ZxazdRaFlR0gHiAUFVX3lxTFBPMzdMeEJCTW5kSjlaUVI3U19lZ0tGcnBEa0UxSGxwWVFRMkxXZVpTWE9DNExjNU5TalZuZk43M1lZWmZHcVVFNVlVZDdpQlF0RjV4ZFlQZm5UN0RPZEVuX0xxaVlCN2w3Z1h6TVN0TVFGbGNKV0VyQnl1TTRCZWVidG5CYmtPdFByajRBMm0zdzRmclhQR2lQZDRJZWVQVlFXTElpRnp5ZWk4VHBEYnd2RDlKaEJoYXZWd3c0ZUhCMnVFTEU2NmhvbDhQX0Q0V2VrQ2FJZFdFOU5Ram5NdmRxMUE?oc=5)
 - **[Creadores] Westcol se cuela en el Clásico: previa con el Barça y encuentro con el hermano de Lamine Yamal - Qué.es** — 26/10/2026 05:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMieEFVX3lxTE1wYWpHd01TUmNfUjJuWFRrY01GdEF5azNOQVRHZV9xVl9NX0phU1RXRFg1cG4xLXlva3B3dEJrYVdDd1A2TG9YYUdCMEhLU1oxZzFLQWxicjE5UUk3eFVwd2FxckZBNFZ4Y2JvaVpfMTByd1BCcG5KZw?oc=5)
-- **[Creadores] Usuarios en redes tildan de “hipócrita” a Westcol tras despedirse de Komanche: ¿qué pasó? - Vanguardia** — 26/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSUlmZnloZGpfazMyal84TFhwQTRCMm9mWTZsQjdhckpfYV9Ka01FY2o4cGh5ZVFfSF8tVE5TSnItTFNISlZxVXFrNktJQ0prVEF6eWkwbjdSRDZ1X01UNWdyT0JXSjFpWmdBQThYMUJhWEJwVE5rVGROMjFRX0VLdWdYNlZqY0h2MGd1d3Mzb1d0ZVR3NFFnYmRFeGJnTl9EUHVvUF9sTFU3eEV6S3FYRE5VYjhDZi03Q0t4ZWExc09BNlMtZm8zTWotSi1lWXAzWlB6ajBxbE5hZHRSd1lCNUFjN2swNjZHZnc?oc=5)
 - **[Creadores] La Segura reveló la razón detrás de su ausencia en redes y preocupó a sus seguidores: “Estaré mejor” - Revista Semana** — 26/10/2026 02:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaNIB4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaA?oc=5)
 - **[Creadores] ‘El Agropecuario’, ex de Aída Victoria, pide ayuda para localizar al hijo de los dos - Eluniversal.com.co** — 25/10/2026 09:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYndITDVreU1VV0RHTFVjamllUzlQZ3RoZ255U2JMRDlDQzVxSWZWUm9EMHdjcUllekh1R3lGd1pCZXpNQWM4Vm1kNWhkVnRYV1AxNXFmOExiaEFvUE5qRG9Ib01tbFd4djlEamoyaHlFWDBUMXJwR2JDNThodkVGb250cm1lQWNvSTQtUzlBdXRUM18yUGFvZXNDOEwwZE8yUHRiVUJLcmczd1lUSTZBd1pBWDJVbURLeGdzbjhyTmpiR1FlWW55QkF3LWoyUQ?oc=5)
 - **[Creadores] “Ayúdenme a localizarlo”: Expareja de Aida Victoria Merlano pide ayuda tras denunciar la presunta desaparición de su hijo - Publimetro Colombia** — 24/10/2026 08:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkY2Sy1RaWkxWXFrMkRMcXpBZUNpVzc3U3VmNU9ZQ19aX1dfQXNxNkRhN2ZpQlRnNkNQZDFrZEFKd2ZzVlc5d0RwbTk3bHhjaTJFRktqRGtmc0NIV3RlZGsyQnpSbXNmVzlZQVhJOHFrYVBacjlxblJGNjk5SmNZUEs1djI3VjI1endiRDRSSEo4TDEycjlZTndOeUtRSmVxeGg0WHpCTjFHeWlsNF9uOXl0OGI0Qzh1aTVUdFpFemxRVXVHOHUtdHIydmdadkZUX0JpbEQ5LW9KQjBQaXVWaXRZNTVEdV85NWx1ZlRFbGRqT2d0TnViSzhqNHB3VEFaUkE?oc=5)
