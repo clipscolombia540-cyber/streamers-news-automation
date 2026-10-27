@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-10-27T03:36:33.332117-05:00",
+  "actualizado": "2026-10-27T05:33:31.241145-05:00",
   "series": [
+    {
+      "nombre": "💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ AuronPlay, Donato, Fargan y más 😢",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-27T05:33:31.241145-05:00",
+      "ultima_deteccion": "2026-10-27T05:33:31.241145-05:00",
+      "canal_muestra": "Twich User",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=HBDn-zFX2NE"
+      ]
+    },
     {
       "nombre": "My favorite streamer",
       "tipo": "serie_o_tema_candidato",

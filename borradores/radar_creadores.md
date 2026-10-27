@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 27/10/2026 03:36 AM (hora de Colombia)
+Actualizado: 27/10/2026 05:33 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 7.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,21 +15,41 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Candres Peredo
-- Publicado: 27/10/2026 02:45 AM
+- Publicado: 27/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.926
-- Puntaje heurístico de interés: 8
+- Vistas reportadas por YouTube: 7.573
+- Puntaje heurístico de interés: 10
 - Enlace directo: https://www.youtube.com/watch?v=psqujdpcD5A
+
+### 💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ | AuronPlay, Donato, Fargan y más 😢
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: Twich User
+- Publicado: 27/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 35.517
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=HBDn-zFX2NE
 
 ### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Jose Gonzalez
-- Publicado: 26/10/2026 05:00 AM
+- Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 462.404
+- Vistas reportadas por YouTube: 464.052
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
+
+### HACIENDO SPARRING INTENSIVO Y VAMOS DE COMPRAS CON LONCHE EN BEVERLY HILLS | WILLITO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Lonche de Huevito
+- Canal que publico: La Lonchiza
+- Publicado: 26/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4.687
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=0cl7gZV577c
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - Categoria: Clip de terceros
@@ -47,7 +67,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 185.816
+- Vistas reportadas por YouTube: 187.219
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=YY-VTYc7NUg
 
@@ -58,19 +78,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 25/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 47.304
+- Vistas reportadas por YouTube: 47.692
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
-
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Ju4ncho_sw
-- Canal que publico: Ju4ncho_sw
-- Publicado: 25/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 55
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -86,6 +96,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=psqujdpcD5A
 
+### 💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ | AuronPlay, Donato, Fargan y más 😢
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** 💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ | AuronPlay, Donato, Fargan y más 😢
+- **Texto en pantalla:** 💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ | AuronPlay, Do
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=HBDn-zFX2NE
+
 ### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -95,6 +115,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WeYWmX1-OKk
+
+### HACIENDO SPARRING INTENSIVO Y VAMOS DE COMPRAS CON LONCHE EN BEVERLY HILLS | WILLITO
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** HACIENDO SPARRING INTENSIVO Y VAMOS DE COMPRAS CON LONCHE EN BEVERLY HILLS | WILLITO
+- **Texto en pantalla:** HACIENDO SPARRING INTENSIVO Y VAMOS DE COMPRAS CON LONCHE EN BEVERLY H
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0cl7gZV577c
 
 ### SAMULX CON FRAN TIRANDO FACTOS
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -126,16 +156,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ikt5_OwVLzM
 
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
-- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
-
 ## Noticias y contexto
 
 - **[Creadores] La dura funa y polémica con Westcol que enfrentó El Komanche antes de morir - La Razón de México** — 27/10/2026 01:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSllDZ3Z5VGdqSXNsRzZJZkN3ZU5Mdm9NUGdXWmpsekE0R3dNYkRfV1Z1XzFOc0hPUmJKUHA2Q1lHRE9YenRPczFWekVER0ZJdTFwQTFHZlF1UEhCWW9BR2NCTUlmTTlKdGlTTmhsYV9GSjJNdWotUll2N1RqcTBxcVNwMENRYUYwdk9sa1p0Y1lFR0R2X2l6bVBvYi1qaEpCTGczMHBZb0VoVnBrdTZqNlVQNTBlZzU0OG1qRjFEX0ZxazdRaFlR0gHiAUFVX3lxTFBPMzdMeEJCTW5kSjlaUVI3U19lZ0tGcnBEa0UxSGxwWVFRMkxXZVpTWE9DNExjNU5TalZuZk43M1lZWmZHcVVFNVlVZDdpQlF0RjV4ZFlQZm5UN0RPZEVuX0xxaVlCN2w3Z1h6TVN0TVFGbGNKV0VyQnl1TTRCZWVidG5CYmtPdFByajRBMm0zdzRmclhQR2lQZDRJZWVQVlFXTElpRnp5ZWk4VHBEYnd2RDlKaEJoYXZWd3c0ZUhCMnVFTEU2NmhvbDhQX0Q0V2VrQ2FJZFdFOU5Ram5NdmRxMUE?oc=5)
@@ -164,6 +184,8 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **💔 STREAMERS REACCIONAN AL FALLECIMIENTO DE KOMANCHE 🕊️ AuronPlay, Donato, Fargan y más 😢** (candidata por revisar) — última detección: 2026-10-27
+  - https://www.youtube.com/watch?v=HBDn-zFX2NE
 - **My favorite streamer** (candidata por revisar) — última detección: 2026-10-26
   - https://www.youtube.com/watch?v=3obnrtES3dM
 - **minecraft live fun with unfav #livestream #gaming #livestream #shortslive** (candidata por revisar) — última detección: 2026-10-26
