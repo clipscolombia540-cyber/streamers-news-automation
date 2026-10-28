@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 27/10/2026 09:41 PM (hora de Colombia)
+Actualizado: 27/10/2026 11:39 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 4.
@@ -17,42 +17,42 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Canal que publico: Jose Gonzalez
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 478.420
+- Vistas reportadas por YouTube: 481.041
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
-
-### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 26/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.409
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=ikt5_OwVLzM
-
-### West reacciona a komanche #westcol #w #reacción #komanche #westcolclips #westcolumbiasc#westcolkick
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MultiClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: MultiClips
-- Publicado: 27/10/2026 09:09 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=BLIV4FRUbzA
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 27/10/2026 09:03 PM
+- Publicado: 27/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 922
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 3.536
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
+
+### REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL 🏀
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Emm4nuelClips_
+- Publicado: 27/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=l8uSmG4-gLQ
+
+### I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 26/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=jnuqvB2j5x0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -68,26 +68,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WeYWmX1-OKk
 
-### REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL 😳🔥🇵🇷
-- **Texto en pantalla:** REYDELACITY HABLA CON YVNGCHIMI EN EL CASERÍO Y LE MANDA FUEGO A ANUEL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ikt5_OwVLzM
-
-### West reacciona a komanche #westcol #w #reacción #komanche #westcolclips #westcolumbiasc#westcolkick
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** West reacciona a komanche #westcol #w #reacción #komanche #westcolclips #westcolumbiasc#westcolkick
-- **Texto en pantalla:** West reacciona a komanche #westcol #w #reacción #komanche #westcolclip
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=BLIV4FRUbzA
-
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -98,12 +78,32 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
 
+### REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL 🏀
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL 🏀
+- **Texto en pantalla:** REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=l8uSmG4-gLQ
+
+### I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- **Texto en pantalla:** I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=jnuqvB2j5x0
+
 ## Noticias y contexto
 
 - **[Creadores] Expareja de Escro, prometido de Aida Victoria Merlano, lo acusó de ser un padre ausente - HSB Noticias** — 27/10/2026 05:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXlxX3hoeklrcTNVYmZ1N1pXWkN5U0pLeDJSNnEtOWFycFZyY0g5YWtNczVwMVRScEZ1ZlVPYTNVUjJuZi0xM2liMlNpenl6ck1ZVkZwM1ZpYm5XUVM1VUl6WGhYM3ktaFFiT0FBSTVtcVdNWkZQVWUwYjZYQUR1OHBhRmtqSi16dDhSMWEtLTlkaldvNHNDR1RKUUpORVFPRElXcnZSOExUQl9VY1VRYy1FYlBUVnFobUE?oc=5)
-- **[Creadores] La dura funa y polémica con Westcol que enfrentó El Komanche antes de morir - La Razón de México** — 27/10/2026 05:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSllDZ3Z5VGdqSXNsRzZJZkN3ZU5Mdm9NUGdXWmpsekE0R3dNYkRfV1Z1XzFOc0hPUmJKUHA2Q1lHRE9YenRPczFWekVER0ZJdTFwQTFHZlF1UEhCWW9BR2NCTUlmTTlKdGlTTmhsYV9GSjJNdWotUll2N1RqcTBxcVNwMENRYUYwdk9sa1p0Y1lFR0R2X2l6bVBvYi1qaEpCTGczMHBZb0VoVnBrdTZqNlVQNTBlZzU0OG1qRjFEX0ZxazdRaFlR0gHiAUFVX3lxTFBPMzdMeEJCTW5kSjlaUVI3U19lZ0tGcnBEa0UxSGxwWVFRMkxXZVpTWE9DNExjNU5TalZuZk43M1lZWmZHcVVFNVlVZDdpQlF0RjV4ZFlQZm5UN0RPZEVuX0xxaVlCN2w3Z1h6TVN0TVFGbGNKV0VyQnl1TTRCZWVidG5CYmtPdFByajRBMm0zdzRmclhQR2lQZDRJZWVQVlFXTElpRnp5ZWk4VHBEYnd2RDlKaEJoYXZWd3c0ZUhCMnVFTEU2NmhvbDhQX0Q0V2VrQ2FJZFdFOU5Ram5NdmRxMUE?oc=5)
 - **[Creadores] Supuesta expareja de Escro, prometido de Aida Victoria, lo acusa de no responder por su hijo - Eluniversal.com.co** — 27/10/2026 05:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1ZiaVo0YlhxQmFqd1g0ZC1wX0J3aG1iREpzZWsyT25iUzFKeTJqeW8wdm1OTE1oVHVHWDBMWjY5M0ZYX1Y3N3JjdFdUaWhHZWxzakdlbGsxcVBtQ0swMUV3bHZpOTZ2YU5mMHNWUnU3cEVRZ0JqRXMydm9SNGxScC1wQzd2Y1p1RG43cHB3NS0wRm5kbmwtdXQ0bVRQMWlla2xwd2pqcE5ZTE00cVoxRXozY3I4U1RHb01ObG1sWWRXOWRILUFjZGRySFJMR09xdFFzNlpDOE01QTg?oc=5)
 - **[Creadores] Yeferson Cossio y Carolina Gómez respondieron a los rumores de ruptura - HSB Noticias** — 27/10/2026 04:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnI2d2VvU0NDNHJQaExYbEFiRm1iMXByV1dhYS1wTnZXRGN5SnVhR2VkbWsxTGEtSWNjZ1N2TE5vSFFmU0wxT29vLWVXWktTZEdwNk02eEdON2FNTEpvTDAyRzJFS0M3a0lLX0xibTAwZGNWYjBMd2haZTY2N1ZabjYzU2Z3SXktN21uUlY2Z2RrcERzTWJyTGY5ZTVPWXdLWjNJb3dB?oc=5)
+- **[Creadores] Muerte de El Komanche revive polémica con FernandaVaal y WestCol - www.laprensa.hn** — 27/10/2026 02:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1FCdzkzckZNY1Jqc081SG5WTWhEZ0c1cTJydFhiU1pkbGxfZ2Y5UEpDVmRTZ0RUcnV1QmwxaWN0djh4SThwYUlPb293UmthM2JQRkpDV3lwZHRBZS15S1VHYzl5b3ctSXF0VVVsTTVSbTZ3UmJYcWg5eEJzTVN5dVFIdlpJX1F3c1IyVklidU15UWNFaDhld0RUbmhNVFM3eXc?oc=5)
 - **[Creadores] "Qué hipócrita eres": critican a Westcol por condolencias tras la muerte de El Komanche; lo acusan de haber di - MILENIO** — 27/10/2026 02:19 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEZOWExHam02NmRvU25vY0l4TURkbDFIOU1zT2R6MTJlbnhhZFNtY2Vacm9BUjdEY3p6Y2xCdTdvb0lwYmFuU0kyWFB2Q295SEZVbVgzMGI2akxTMkZ4NHloRXF3S1RFMmdRSDllN09HbkZDdnVCSzNmSVAydEdzSGlnYVVsejQ4bTRFQzQ3NjBJSFA4NDdhUtIBmAFBVV95cUxQdy10U0lyUV8xYll6eWwxNWVyOVdzTFNGZEtkZnBLdVdIQmlVYnlMUjdzLVRIR1M2dzFFNEI5cS1zekNzVXRzNm1XeUt3VXZxSVhpS0I5N0tYeWcyTFJmMWRvT1FwTWt4MnlYVjdLMUlJWFp3OXdJcGRyNEVsdGg3Z3hhNDNqdEp0SFdTYzFHdVZsUkU1SWR2MQ?oc=5)
 - **[Creadores] Así reaccionaron Yeferson Cossio y Carolina Gómez a los rumores de ruptura por aparecer distantes en redes - Infobae** — 27/10/2026 01:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdkVFUzd3OWxscWpKa1FOYjBCZ1B4ZGQtaGRXM21mY3M3WWVrQkNUX3pvTF9IZ1ZfYzNJRTVwWVFsZXdZSjBvOUVQeEJkUW1WWS1yRzdwWVkyRXdZbjM4R3prb1AzamxXYUhybm9OQjhZMnJSWWFtaVhPXzBTY3p5V1JUeEFKZmVwOWdpMjlCSnJhTFE3SGpIZEszQW90QUlmUVVzREw5UWJ2Z09fVktyMnRSajNpekNib0RfdEZfV3EzeUhDemhjXzJ3VTduaFJaRHVnSXFhMEVjaG1BWkl3Z3Jsa3lsUdIBgAJBVV95cUxOX2pyRHJlMDdlQnRVMWhtU1pGNGtqa1hIME1WcmppaV96X0RzS1lqbjRzYW9sT2JTN1BDaW1sbmxVU3pDbjVTTXIwOWsydVFmTkNxd2R5NzZVc0VQSDBLYWVjUHlwM01CRzlKOW9lSERRUThJNWo3YTBobTkxaGZYMFBhRmtramFBMmpMVHlxUHdJRWd4dEltWXZjRUFlMjFkU1YzYU41Q0YwQkRHZzF3NWJhbURfb2J6LUZnOHBnVGFick90VzhKQ3FkZ2pjRjlYRWxfdkJtNWlNRTVfekVQa1RuZjZRVkZYZ3FRaDZDdGhmeURVN3RXQ3pjcGxfNzVz?oc=5)
 - **[Creadores] Yina Calderón fue eliminada del programa ‘Juego de villanos’: duró solo dos semanas en la competencia - Infobae** — 27/10/2026 10:45 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVlgwSU5UV3pCcXZtSjJzR1F0Vmx4NDNodDFUNXNiU1FFUWxqLUV6VThEVThWS2NqSWNKZmlWUXRfMmVkQlc3dU5WbGVPQkxLU21MNHhpUnRidVR6dGdMaHQwT1dGTnAyNzB3ZEFvQ0owTFlDX2hBUXhVLTVuN3RnZjNleC05cTJhaF9mY0JaWWhxdUpnQjZLcHpCb0xSQ19RSDdHMHZNYUFDMkdNN3FMQ1hmRVdpd1B4Qm9HOUZQbjZBYUNOZ3N3VWFDLWJIRVd2YldadHRDWHZaUlHSAfYBQVVfeXFMT3FuQlllRlhDanpmWU9Pd2RTYlFwSHhVX3dkd2t5dEZJQ1BVM0pfNEdMV0VFSHJOM3VobG5IdFYxS3BpdW1ubzVhSjVqREI3Qk43MXRrTTE1dlUtc0stUXZHLVR3ZWlFY09zQ1RlT2dCZFdLTVlsUmJEOThnMDdIWVZzdEN4NWNxenZaWVlPcmx5RU5xcTBraVJfS3JSM2hKR0ZxR1hsa3VRTXlEZE00dDJHVXRzUnp4TzQ0Z2d5UmxyYmFkLWFVZy0tYVExZFlBRk9Pa0RFZWtGdjJsTWVCQlRVdzNBTzFCS05GOUVxLUJGVEhSOF9R?oc=5)
