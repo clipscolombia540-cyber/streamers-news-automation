@@ -1,25 +1,55 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 28/10/2026 05:40 AM (hora de Colombia)
+Actualizado: 28/10/2026 07:43 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### JUGANDO ESCONDITE CON LA GANGA Y MODELOS HERMOSAS | WESTCOL
+### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Westcuy
-- Publicado: 27/10/2026 06:00 PM
+- Canal que publico: Jose Gonzalez
+- Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9
+- Vistas reportadas por YouTube: 486.292
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
+
+### WESTCOL RESPONDE a la FUNA! KOMANCHE! PERRITOS ENVENENADOS! MBAPPÉ PIERDE MILLONES! GOLPEAN MODELO!
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Candres Peredo
+- Publicado: 28/10/2026 03:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 22.577
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=a2PNsylAKe8
+
+### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: tops los music ant
+- Publicado: 27/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 350
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xVp0bQ2NHjM
+- Enlace directo: https://www.youtube.com/watch?v=cdii6uPvlHQ
+
+### SAMULX CON FRAN TIRANDO FACTOS
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: GANGADELAW
+- Publicado: 26/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=xYjexau-CPg
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
@@ -28,66 +58,74 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 27/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.367
+- Vistas reportadas por YouTube: 12.386
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
-
-### WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 28/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.483
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Zi5OoAd29QY
 
 ### ZELIKA Y MRSTIVENTC EN VIVO 🔥🔥 free queso🧀
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clip virales Col 23
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: Clip virales Col 23
-- Publicado: 28/10/2026 05:06 AM
+- Publicado: 28/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=cfSqcOTgBBk
 
-### YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WESTCOL CLIPS | STTBEL
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: WESTCOL CLIPS | STTBEL
-- Publicado: 27/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=l5hx1Iv4zNg
-
-### What happened to Komanche? Details regarding the death of the renowned streamer
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: EL TIEMPO
-- Canal que publico: EL TIEMPO
+- Creador/canal detectado: Emergente: Ju4ncho_sw
+- Canal que publico: Ju4ncho_sw
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30.216
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=4gMAjwc9TtY
+- Vistas reportadas por YouTube: 85
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### JUGANDO ESCONDITE CON LA GANGA Y MODELOS HERMOSAS | WESTCOL
+### EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** JUGANDO ESCONDITE CON LA GANGA Y MODELOS HERMOSAS | WESTCOL
-- **Texto en pantalla:** JUGANDO ESCONDITE CON LA GANGA Y MODELOS HERMOSAS | WESTCOL
+- **Título sugerido:** EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
+- **Texto en pantalla:** EL KOMANCHE PASSES AWAY: SPREEN, WESTCOL, AND MORE STREAMERS REACT
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xVp0bQ2NHjM
+- **Fuente original:** https://www.youtube.com/watch?v=WeYWmX1-OKk
+
+### WESTCOL RESPONDE a la FUNA! KOMANCHE! PERRITOS ENVENENADOS! MBAPPÉ PIERDE MILLONES! GOLPEAN MODELO!
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL RESPONDE a la FUNA! KOMANCHE! PERRITOS ENVENENADOS! MBAPPÉ PIERDE MILLONES! GOLPEAN MODELO!
+- **Texto en pantalla:** WESTCOL RESPONDE a la FUNA! KOMANCHE! PERRITOS ENVENENADOS! MBAPPÉ PIE
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=a2PNsylAKe8
+
+### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- **Texto en pantalla:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=cdii6uPvlHQ
+
+### SAMULX CON FRAN TIRANDO FACTOS
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** SAMULX CON FRAN TIRANDO FACTOS
+- **Texto en pantalla:** SAMULX CON FRAN TIRANDO FACTOS
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xYjexau-CPg
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -99,16 +137,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
 
-### WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- **Texto en pantalla:** WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Zi5OoAd29QY
-
 ### ZELIKA Y MRSTIVENTC EN VIVO 🔥🔥 free queso🧀
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -119,25 +147,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=cfSqcOTgBBk
 
-### YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- **Texto en pantalla:** YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=l5hx1Iv4zNg
-
-### What happened to Komanche? Details regarding the death of the renowned streamer
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: EL TIEMPO? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: EL TIEMPO.
-- **Título sugerido:** What happened to Komanche? Details regarding the death of the renowned streamer
-- **Texto en pantalla:** What happened to Komanche? Details regarding the death of the renowned
-- **Descripción:** Fragmento relacionado con Emergente: EL TIEMPO. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
+- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
+- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=4gMAjwc9TtY
+- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Noticias y contexto
 
@@ -145,9 +163,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Supuesta expareja de Escro, prometido de Aida Victoria, lo acusa de no responder por su hijo - Eluniversal.com.co** — 27/10/2026 05:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1ZiaVo0YlhxQmFqd1g0ZC1wX0J3aG1iREpzZWsyT25iUzFKeTJqeW8wdm1OTE1oVHVHWDBMWjY5M0ZYX1Y3N3JjdFdUaWhHZWxzakdlbGsxcVBtQ0swMUV3bHZpOTZ2YU5mMHNWUnU3cEVRZ0JqRXMydm9SNGxScC1wQzd2Y1p1RG43cHB3NS0wRm5kbmwtdXQ0bVRQMWlla2xwd2pqcE5ZTE00cVoxRXozY3I4U1RHb01ObG1sWWRXOWRILUFjZGRySFJMR09xdFFzNlpDOE01QTg?oc=5)
 - **[Creadores] Yeferson Cossio y Carolina Gómez respondieron a los rumores de ruptura - HSB Noticias** — 27/10/2026 04:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnI2d2VvU0NDNHJQaExYbEFiRm1iMXByV1dhYS1wTnZXRGN5SnVhR2VkbWsxTGEtSWNjZ1N2TE5vSFFmU0wxT29vLWVXWktTZEdwNk02eEdON2FNTEpvTDAyRzJFS0M3a0lLX0xibTAwZGNWYjBMd2haZTY2N1ZabjYzU2Z3SXktN21uUlY2Z2RrcERzTWJyTGY5ZTVPWXdLWjNJb3dB?oc=5)
 - **[Creadores] Muerte de El Komanche revive polémica con FernandaVaal y WestCol - www.laprensa.hn** — 27/10/2026 02:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1FCdzkzckZNY1Jqc081SG5WTWhEZ0c1cTJydFhiU1pkbGxfZ2Y5UEpDVmRTZ0RUcnV1QmwxaWN0djh4SThwYUlPb293UmthM2JQRkpDV3lwZHRBZS15S1VHYzl5b3ctSXF0VVVsTTVSbTZ3UmJYcWg5eEJzTVN5dVFIdlpJX1F3c1IyVklidU15UWNFaDhld0RUbmhNVFM3eXc?oc=5)
-- **[Creadores] "Qué hipócrita eres": critican a Westcol por condolencias tras la muerte de El Komanche; lo acusan de haber di - MILENIO** — 27/10/2026 02:19 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEZOWExHam02NmRvU25vY0l4TURkbDFIOU1zT2R6MTJlbnhhZFNtY2Vacm9BUjdEY3p6Y2xCdTdvb0lwYmFuU0kyWFB2Q295SEZVbVgzMGI2akxTMkZ4NHloRXF3S1RFMmdRSDllN09HbkZDdnVCSzNmSVAydEdzSGlnYVVsejQ4bTRFQzQ3NjBJSFA4NDdhUtIBmAFBVV95cUxQdy10U0lyUV8xYll6eWwxNWVyOVdzTFNGZEtkZnBLdVdIQmlVYnlMUjdzLVRIR1M2dzFFNEI5cS1zekNzVXRzNm1XeUt3VXZxSVhpS0I5N0tYeWcyTFJmMWRvT1FwTWt4MnlYVjdLMUlJWFp3OXdJcGRyNEVsdGg3Z3hhNDNqdEp0SFdTYzFHdVZsUkU1SWR2MQ?oc=5)
+- **[Creadores] "Qué hipócrita eres": critican a Westcol por condolencias tras la muerte de El Komanche; lo acusan de haber di - Milenio** — 27/10/2026 02:19 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEZOWExHam02NmRvU25vY0l4TURkbDFIOU1zT2R6MTJlbnhhZFNtY2Vacm9BUjdEY3p6Y2xCdTdvb0lwYmFuU0kyWFB2Q295SEZVbVgzMGI2akxTMkZ4NHloRXF3S1RFMmdRSDllN09HbkZDdnVCSzNmSVAydEdzSGlnYVVsejQ4bTRFQzQ3NjBJSFA4NDdhUtIBmAFBVV95cUxQdy10U0lyUV8xYll6eWwxNWVyOVdzTFNGZEtkZnBLdVdIQmlVYnlMUjdzLVRIR1M2dzFFNEI5cS1zekNzVXRzNm1XeUt3VXZxSVhpS0I5N0tYeWcyTFJmMWRvT1FwTWt4MnlYVjdLMUlJWFp3OXdJcGRyNEVsdGg3Z3hhNDNqdEp0SFdTYzFHdVZsUkU1SWR2MQ?oc=5)
 - **[Creadores] Así reaccionaron Yeferson Cossio y Carolina Gómez a los rumores de ruptura por aparecer distantes en redes - Infobae** — 27/10/2026 01:54 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdkVFUzd3OWxscWpKa1FOYjBCZ1B4ZGQtaGRXM21mY3M3WWVrQkNUX3pvTF9IZ1ZfYzNJRTVwWVFsZXdZSjBvOUVQeEJkUW1WWS1yRzdwWVkyRXdZbjM4R3prb1AzamxXYUhybm9OQjhZMnJSWWFtaVhPXzBTY3p5V1JUeEFKZmVwOWdpMjlCSnJhTFE3SGpIZEszQW90QUlmUVVzREw5UWJ2Z09fVktyMnRSajNpekNib0RfdEZfV3EzeUhDemhjXzJ3VTduaFJaRHVnSXFhMEVjaG1BWkl3Z3Jsa3lsUdIBgAJBVV95cUxOX2pyRHJlMDdlQnRVMWhtU1pGNGtqa1hIME1WcmppaV96X0RzS1lqbjRzYW9sT2JTN1BDaW1sbmxVU3pDbjVTTXIwOWsydVFmTkNxd2R5NzZVc0VQSDBLYWVjUHlwM01CRzlKOW9lSERRUThJNWo3YTBobTkxaGZYMFBhRmtramFBMmpMVHlxUHdJRWd4dEltWXZjRUFlMjFkU1YzYU41Q0YwQkRHZzF3NWJhbURfb2J6LUZnOHBnVGFick90VzhKQ3FkZ2pjRjlYRWxfdkJtNWlNRTVfekVQa1RuZjZRVkZYZ3FRaDZDdGhmeURVN3RXQ3pjcGxfNzVz?oc=5)
-- **[Creadores] Yina Calderón fue eliminada del programa ‘Juego de villanos’: duró solo dos semanas en la competencia - Infobae** — 27/10/2026 10:43 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVlgwSU5UV3pCcXZtSjJzR1F0Vmx4NDNodDFUNXNiU1FFUWxqLUV6VThEVThWS2NqSWNKZmlWUXRfMmVkQlc3dU5WbGVPQkxLU21MNHhpUnRidVR6dGdMaHQwT1dGTnAyNzB3ZEFvQ0owTFlDX2hBUXhVLTVuN3RnZjNleC05cTJhaF9mY0JaWWhxdUpnQjZLcHpCb0xSQ19RSDdHMHZNYUFDMkdNN3FMQ1hmRVdpd1B4Qm9HOUZQbjZBYUNOZ3N3VWFDLWJIRVd2YldadHRDWHZaUlHSAfYBQVVfeXFMT3FuQlllRlhDanpmWU9Pd2RTYlFwSHhVX3dkd2t5dEZJQ1BVM0pfNEdMV0VFSHJOM3VobG5IdFYxS3BpdW1ubzVhSjVqREI3Qk43MXRrTTE1dlUtc0stUXZHLVR3ZWlFY09zQ1RlT2dCZFdLTVlsUmJEOThnMDdIWVZzdEN4NWNxenZaWVlPcmx5RU5xcTBraVJfS3JSM2hKR0ZxR1hsa3VRTXlEZE00dDJHVXRzUnp4TzQ0Z2d5UmxyYmFkLWFVZy0tYVExZFlBRk9Pa0RFZWtGdjJsTWVCQlRVdzNBTzFCS05GOUVxLUJGVEhSOF9R?oc=5)
 - **[Creadores] ¡Le cambió la vida! Juanda Caribe anuncia casa nueva para el joven de las chancletas - Chica Noticias** — 27/10/2026 08:40 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk94dzFYdlNWTkhRRWdnY0JmTjVCWnpRZElORUliNV9RR2hCRFFQUk5KT2RXeHhCeEZ6N3VTSEZDSTgxeXcwbnVmSm51M3E5OEdJWHJBbHVmbVhZc2Z1RmxkMkFXMm1hV042dFN4YWdzTy1LWFF6d2pqazV6bnZDak9LN21LQmtHcG5keC1Yd2UzcGszblVtdzdxQ1dRTm9VWjBIeFdtWWdWaThxNDVkSm9OeHM1ZEdrWWhQWFRKTU1rQQ?oc=5)
 - **[Creadores] La Segura reveló la razón detrás de su ausencia en redes y preocupó a sus seguidores: “Estaré mejor” - Revista Semana** — 26/10/2026 02:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaNIB4AFBVV95cUxPXzYydmhsMDRvaVNrQ1FLOUxPUjFwdVZBUVp4Q1R1Z1pyMzZDaU0ySU92WEs0MU82bzlHT0d0TjdrU2JGb2xnbmdYU1lWNHc1VHFsUWRGUlB0VWVFc3VQYUF4WTNqZHJoWnlKRkZOVDZ1SGJrNjQzOVFPcVc1WnpmV2RLLXhybGprd2lCVHRLT2swOWRZMWtyX2NUTVowNGNBc0hIWW5BalB2d1JVLXpXR21RcHhZMWw0STlsSkw0cmlxY2dwemVrVmd2WlYwQnlZR3VzSFBqbGRKX0dOUDlPaA?oc=5)
 
