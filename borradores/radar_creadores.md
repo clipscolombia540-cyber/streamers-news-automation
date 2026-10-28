@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 27/10/2026 11:39 PM (hora de Colombia)
+Actualizado: 28/10/2026 01:42 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 3.
 Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Canal que publico: Jose Gonzalez
 - Publicado: 26/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 481.041
+- Vistas reportadas por YouTube: 483.561
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=WeYWmX1-OKk
 
@@ -28,20 +28,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 27/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.536
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 7.757
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
-
-### REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL 🏀
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Emm4nuelClips_
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Emm4nuelClips_
-- Publicado: 27/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=l8uSmG4-gLQ
 
 ### I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
 - Categoria: Cuenta de clips
@@ -77,16 +66,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
-
-### REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL 🏀
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL 🏀
-- **Texto en pantalla:** REYDELACITY🤴 APUESTA $1000Usd💵 EN UN 1VS1 CON YOVNGCHIMI👹EN BASKETBALL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=l8uSmG4-gLQ
 
 ### I AM THE WORST IMPOSTOR PLAYING AMONG US | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
