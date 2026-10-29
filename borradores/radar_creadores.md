@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 29/10/2026 11:47 AM (hora de Colombia)
+Actualizado: 29/10/2026 01:42 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influencer de respaldo: 2.
+Clips incluidos: 12.
+Noticias recientes: 10.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente por verificar: 1, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,16 +21,35 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=a0hT0DiaJXA
 
-### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
+### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CHISME URBANO TV
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 16.351
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
+- Vistas reportadas por YouTube: 39.003
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=B37b57f7G9o
+
+### TEMACH VS WESTCOL, ACUSACIONES P6
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CarnegieDALE
+- Publicado: 29/10/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=EiD4sQoLTho
+
+### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: tops los music ant
+- Publicado: 27/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 570
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=cdii6uPvlHQ
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
@@ -39,7 +58,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.424
+- Vistas reportadas por YouTube: 36.175
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
@@ -50,7 +69,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.015
+- Vistas reportadas por YouTube: 21.063
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
@@ -61,7 +80,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 29/10/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29
+- Vistas reportadas por YouTube: 49
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=iAcZeiAJX8E
 
@@ -83,31 +102,19 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Canal que publico: MILICA CLIPS
 - Publicado: 29/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 11
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### PVP DE MINECRAFT CON WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 28/10/2026 07:00 PM
+### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 29/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=yg8RnmndgRw
-
-### A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 28/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=TDz-hWPxYlg
+- Vistas reportadas por YouTube: 100
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=znKW3YFHVbQ
 
 ### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
 - Categoria: Influencer de respaldo
@@ -115,7 +122,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Canal que publico: Yefito
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 397.231
+- Vistas reportadas por YouTube: 408.226
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
 
@@ -125,7 +132,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 8, Influence
 - Canal que publico: Xime Ponch
 - Publicado: 28/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.224
+- Vistas reportadas por YouTube: 7.386
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -143,15 +150,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=a0hT0DiaJXA
 
-### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Texto en pantalla:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=B37b57f7G9o
+
+### TEMACH VS WESTCOL, ACUSACIONES P6
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** TEMACH VS WESTCOL, ACUSACIONES P6
+- **Texto en pantalla:** TEMACH VS WESTCOL, ACUSACIONES P6
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=EiD4sQoLTho
+
+### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
-- **Texto en pantalla:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL 
+- **Título sugerido:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- **Texto en pantalla:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bFjWcEOK9YY
+- **Fuente original:** https://www.youtube.com/watch?v=cdii6uPvlHQ
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -203,25 +230,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### PVP DE MINECRAFT CON WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** PVP DE MINECRAFT CON WESTCOL
-- **Texto en pantalla:** PVP DE MINECRAFT CON WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yg8RnmndgRw
-
-### A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
-- **Texto en pantalla:** A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=TDz-hWPxYlg
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- **Texto en pantalla:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=znKW3YFHVbQ
 
 ### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
@@ -245,6 +262,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Luisa Fernanda W y Pipe Bueno se casarán en la Catedral de Sal de Zipaquirá: hora, código de vestuario y otros detalles - Infobae** — 29/10/2026 01:39 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMWtMaHhCM0VUdTM1OS1tcDRyMWxNdlNpb2RfQnVnQ3kxQXRVRWdHMUI1R3FoeVpwallTeUUzQ3JDSkQzdDhJNzJPYXlNZDd1SlFBVDZMWFNzY2M4SzVRSUZFQ0l0cFdCZllONEhKS1J4TlFRVE5nQWtlMjFDbWZoTFRDcGNGa2QzZ0lkekxPdTZrSU1kY2tSTEdsY1huTi12Qmh5THIyVDZTSEhWRTJ4Qi1wS3NSc2hBMnFQeHh6WHVJcGhtRndaOWRSYlNwYmJ6OVpVOE9sOEFqbnlJWV9PUFhqRmhGU3RrdW9jLUxyMEthb1hT0gGPAkFVX3lxTE1PckVUc19Uck9DNHI3MU9NMXEzdG8zNkhWWldsTmFsLXlqLTltRzdtUTZoMUVZVlpMcmR4U1hKdEhoaGRUX1o3SWJ5VXQ5Z2NXQUlDX2hCY2tuNENYYzROYjRYZm9mQ1pqdkE0S2s5SVNnSkF6RERHZ0VmdkdYalpJNXRqbm1uYV9QYXM1WWh3MmJjZEx3YmEtTER3cXdfZ3FheENtS0NrYm55Znk0UzM2MjNZa1Q0X3NOWTdpVVJQWF9Gc3g5MGFkOVItdHhJWVVsNzZaZnd1aElEYkQwd25mVVJENnFSaWxKMWNuRGJ4MzViTjZlZzhfMW1KM3N5UE5RTjNXTmtoU1dMSGYtOWs?oc=5)
 - **[Creadores] Dicen qué pidieron Pipe Bueno y Luisa Fernanda W de regalo para su boda; es opcional - Pulzo** — 29/10/2026 07:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjA0X2FoYWJaOUE1RGx5U2REcVlBa2FpTjZrY09NX1VmWmpuOTdFZWt1eUJlYmRfOHBQN2pHTzRBVEFLRHFETkdvY1Q1UUZBNXE4QzdHYW56NlZ6aWREcEpNZ0xIaldTamN4NGR3TXBrZ3hrdExjaUY3b1B1UWxYTnA5eHFvemR5UnpQQWU3Z2JNcHIwUVRMeVhldzZfR3NFVDYycHE1ZXVOZWtfcm5Z0gG0AUFVX3lxTFBINzdSczlMOE5FXzFZLUpwUnJER0VvZE5qWnNRRHE1UXlJRlZRX1BmaURmaXZmNlgxY0ZvTXRhNjk1dXE2WUJfaXlWZ3k2ZnRXcEQwZ3Fhc1YwSkdBVnphMEdhU29WRE5wX3VYOTlJMC1yYTkwWVhzRWhHbTk4SGFMS3JRb2EzLS05S3VibTFuU29yRkstNERFVnU1d3ZWUzU1bjVlQnREQ0h4cnJudWcwMms0UA?oc=5)
 - **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
 - **[Creadores] Westcol respondió a señalamientos tras la muerte de Komanche y aclaró su relación con el streamer - Revista Aló** — 28/10/2026 04:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ25rei1acTVUUEdpM0liTlB2eHRZN3VqYUR4a0t2M0VWMHRmZnBCMFhEYVcwT0hOZ0JuQUx1UlU0eXRHMWJGOVV6cThIVloxc3ZhUTF6ekliM01JTVA4UHdUV1paTi1BMmRYaVJNamRUNkQ4NEE2cW9wdExnOVJ4TFlfSDZWSlVwNFdoMFo4OUlROEVpMVM1bHg5TnN5N2RsVzh2NU9sZHA0SF9rR2E3RmVWaDFaYzljUUJkU0xHQlV2ZFhSUGlfR3FGVi1OamlnYlpfNWgzVjBiV3NX0gHiAUFVX3lxTE12ckpGMFZEeGZGeE5rWk5YSjBRRUtUZEhuNmR0bFdRbVRTRUhwdm1kcjNIVWxKc01uSFlCeTJ5VWpUY0dTQXMzT2kySFFxT2pvWlliZ0FmN2FjeTJfS1NFZnltSWVJNkhYeDRvYTJHTUlQeVVfRXhfYVJwOWFqSjUyTVBNUUFwUDl1azN3MzM3czExZzJlXzMzM3RNVDY3ZldiQVJPbnliTjJZQURZNVhVaGdxMWc5ZktCYmV4bHZsVUI1UlNKSzEtaEp6WVAxT25hSlhaRWVNMk40TDhTSnpldnc?oc=5)
