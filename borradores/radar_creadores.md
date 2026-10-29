@@ -1,15 +1,46 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 29/10/2026 01:45 AM (hora de Colombia)
+Actualizado: 29/10/2026 03:48 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
-Noticias recientes: 8.
-Distribución por categoría: Cuenta de clips: 8, Influencer de respaldo: 2.
+Noticias recientes: 9.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CHISME URBANO TV
+- Publicado: 28/10/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8.578
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=B37b57f7G9o
+
+### Westcol y Komanche: la polémica que incendió las redes 👀🔥 #Shorts
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Chispacuentos⭐️
+- Publicado: 27/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=lthmkSoCQdY
+
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 27/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 15.582
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
@@ -18,7 +49,7 @@ Distribución por categoría: Cuenta de clips: 8, Influencer de respaldo: 2.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 27/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.627
+- Vistas reportadas por YouTube: 33.577
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
@@ -29,42 +60,20 @@ Distribución por categoría: Cuenta de clips: 8, Influencer de respaldo: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.771
+- Vistas reportadas por YouTube: 16.073
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### Westcol se pronuncia ante lo sucedido con komanche #parati #westcol #samulx #komanche #clips
+### NOCHE DE JUEGOS EN MEXICO | MR STIVEN
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips Virales
-- Creador relacionado en el título: Westcol
-- Canal que publico: Clips Virales
-- Publicado: 28/10/2026 10:00 PM
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MRSTIVEN TC CLIPSS
+- Publicado: 29/10/2026 03:11 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=NQUVczDJHaM
-
-### TEMACH Y WESTCOL RESUELVEN DUDAS EN LO QUE PASO CON EL CASO KOMANCHE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: JOSE CLIPS 17
-- Creador relacionado en el título: Westcol
-- Canal que publico: JOSE CLIPS 17
-- Publicado: 28/10/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.828
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=JXRahx1546E
-
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 29/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
+- Enlace directo: https://www.youtube.com/watch?v=iAcZeiAJX8E
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - Categoria: Cuenta de clips
@@ -73,31 +82,20 @@ Distribución por categoría: Cuenta de clips: 8, Influencer de respaldo: 2.
 - Canal que publico: MILICA CLIPS
 - Publicado: 29/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+### NOCHE DE STREAM CON MI MAMA | CHANTY
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: TeddyRL Clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: TeddyRL Clips
-- Publicado: 28/10/2026 11:00 PM
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 29/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=in0ySlCPuR4
-
-### Mrstiven jugando en vivo free fire
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MrstivenTc clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MrstivenTc clips
-- Publicado: 28/10/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=9DYsXzjugXs
+- Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
 ### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
 - Categoria: Influencer de respaldo
@@ -105,7 +103,7 @@ Distribución por categoría: Cuenta de clips: 8, Influencer de respaldo: 2.
 - Canal que publico: Yefito
 - Publicado: 27/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 364.881
+- Vistas reportadas por YouTube: 376.270
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
 
@@ -115,13 +113,43 @@ Distribución por categoría: Cuenta de clips: 8, Influencer de respaldo: 2.
 - Canal que publico: Xime Ponch
 - Publicado: 28/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.500
+- Vistas reportadas por YouTube: 4.270
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Texto en pantalla:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=B37b57f7G9o
+
+### Westcol y Komanche: la polémica que incendió las redes 👀🔥 #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol y Komanche: la polémica que incendió las redes 👀🔥 #Shorts
+- **Texto en pantalla:** Westcol y Komanche: la polémica que incendió las redes 👀🔥 #Shorts
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=lthmkSoCQdY
+
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- **Texto en pantalla:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL 
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -143,35 +171,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### Westcol se pronuncia ante lo sucedido con komanche #parati #westcol #samulx #komanche #clips
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### NOCHE DE JUEGOS EN MEXICO | MR STIVEN
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol se pronuncia ante lo sucedido con komanche #parati #westcol #samulx #komanche #clips
-- **Texto en pantalla:** Westcol se pronuncia ante lo sucedido con komanche #parati #westcol #s
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** NOCHE DE JUEGOS EN MEXICO | MR STIVEN
+- **Texto en pantalla:** NOCHE DE JUEGOS EN MEXICO | MR STIVEN
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NQUVczDJHaM
-
-### TEMACH Y WESTCOL RESUELVEN DUDAS EN LO QUE PASO CON EL CASO KOMANCHE
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TEMACH Y WESTCOL RESUELVEN DUDAS EN LO QUE PASO CON EL CASO KOMANCHE
-- **Texto en pantalla:** TEMACH Y WESTCOL RESUELVEN DUDAS EN LO QUE PASO CON EL CASO KOMANCHE
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=JXRahx1546E
-
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Texto en pantalla:** NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
+- **Fuente original:** https://www.youtube.com/watch?v=iAcZeiAJX8E
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -183,25 +191,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### NOCHE DE STREAM CON MI MAMA | CHANTY
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Texto en pantalla:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** NOCHE DE STREAM CON MI MAMA | CHANTY
+- **Texto en pantalla:** NOCHE DE STREAM CON MI MAMA | CHANTY
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=in0ySlCPuR4
-
-### Mrstiven jugando en vivo free fire
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Mrstiven jugando en vivo free fire
-- **Texto en pantalla:** Mrstiven jugando en vivo free fire
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=9DYsXzjugXs
+- **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
 ### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
@@ -228,7 +226,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
 - **[Creadores] Westcol respondió a señalamientos tras la muerte de Komanche y aclaró su relación con el streamer - Revista Aló** — 28/10/2026 04:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ25rei1acTVUUEdpM0liTlB2eHRZN3VqYUR4a0t2M0VWMHRmZnBCMFhEYVcwT0hOZ0JuQUx1UlU0eXRHMWJGOVV6cThIVloxc3ZhUTF6ekliM01JTVA4UHdUV1paTi1BMmRYaVJNamRUNkQ4NEE2cW9wdExnOVJ4TFlfSDZWSlVwNFdoMFo4OUlROEVpMVM1bHg5TnN5N2RsVzh2NU9sZHA0SF9rR2E3RmVWaDFaYzljUUJkU0xHQlV2ZFhSUGlfR3FGVi1OamlnYlpfNWgzVjBiV3NX0gHiAUFVX3lxTE12ckpGMFZEeGZGeE5rWk5YSjBRRUtUZEhuNmR0bFdRbVRTRUhwdm1kcjNIVWxKc01uSFlCeTJ5VWpUY0dTQXMzT2kySFFxT2pvWlliZ0FmN2FjeTJfS1NFZnltSWVJNkhYeDRvYTJHTUlQeVVfRXhfYVJwOWFqSjUyTVBNUUFwUDl1azN3MzM3czExZzJlXzMzM3RNVDY3ZldiQVJPbnliTjJZQURZNVhVaGdxMWc5ZktCYmV4bHZsVUI1UlNKSzEtaEp6WVAxT25hSlhaRWVNMk40TDhTSnpldnc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0dfc1ZvMjc2cEpkcm1ldUdoZ0tmVzZwbXl2UXFUdTk3QkNWS251U0JKQkxOY0pDLTI3UFlTN1MxMEp0N2NCQ29PYUJIU0dJa3RHc0ZNdXZKS084R2ljYXNDMDJaQjVKSnkwRkJBalRXQU0yYjVESnhXaFNNZHE2YURwV0VIOThtNVNpbWlLZ1l0YUhDYmFxek9CV3Rxd1BKbkZIempua05odE1ZM0ZGWW9SN240RS1wdWZCaTcyUmxUZFpyS1hfNmd4NkpJZlFnQlNNadIB4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn?oc=5)
-- **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 10:35 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2TSAa8CQVVfeXFMUGhGb2NkaE1TTDg3dF9vYWoyUEVUTnBad1Z1R3owM2M2eEFhUWlsVkhUd2hVbmdxOU0wblRsSW1lYi0yLVFkM1JxNVQyVG1uUjFtVWxORXZYUjhUd1EtQy1NUGplUEhZY0xFbDVBOE9wbTcxaWw1aWhWZm4xTndjVXVza2RxRXM5WHVDcjBYZHBFT1V0SUZWT1JIRHZxREYycVFFUWNEN1Njc21EcUp4cjQ3dElDSzNnd1BYODUtRE5PNFlQY21sSlM5eEN4dzFZS1VvRTRYczRmZTFWWnBVNU0yNlhwSm1OQmtuRURZcmt1U0JIeFJmRFhubzYzUDRpN0hKNXUtMjVpUVhjbHhZVlh3TWFnakF4bWt3VFVVSTBZSTZwM0xEaGlxZ29QZjlz?oc=5)
+- **[Creadores] Madre de La Segura expresó su tristeza por su delicado estado de salud - Uruguay Al Día** — 28/10/2026 12:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1PM285VDFqSGFEdy0wVjluOW9qYmxxR3ZKaFdXc0dJbkNPUVd0X24xTHE5dTFqaUVpQmd2VWtWNHp3TU1DaF9MUW5sZlZydGZqYVFKV1FUcDdoc2J2SzdNLW1IajRLOFB6alZURW5nSEM1XzlONXRDM2JNMXhIcS1MNkp2ZzhSVEhaWmhXaGlTM0lBdUozNDdtRTdPVk5n?oc=5)
+- **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 09:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2TSAa8CQVVfeXFMUGhGb2NkaE1TTDg3dF9vYWoyUEVUTnBad1Z1R3owM2M2eEFhUWlsVkhUd2hVbmdxOU0wblRsSW1lYi0yLVFkM1JxNVQyVG1uUjFtVWxORXZYUjhUd1EtQy1NUGplUEhZY0xFbDVBOE9wbTcxaWw1aWhWZm4xTndjVXVza2RxRXM5WHVDcjBYZHBFT1V0SUZWT1JIRHZxREYycVFFUWNEN1Njc21EcUp4cjQ3dElDSzNnd1BYODUtRE5PNFlQY21sSlM5eEN4dzFZS1VvRTRYczRmZTFWWnBVNU0yNlhwSm1OQmtuRURZcmt1U0JIeFJmRFhubzYzUDRpN0hKNXUtMjVpUVhjbHhZVlh3TWFnakF4bWt3VFVVSTBZSTZwM0xEaGlxZ29QZjlz?oc=5)
 - **[Creadores] Crecen las dudas por la relación entre Yeferson Cossio y Carolina Gómez - Identidad Correntina** — 28/10/2026 04:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxPalQwN0dlRWpwaFM0MmlSRElkMi1fTGRHckxjdlgwTTVXMUJ6Y0VScEpOQXd4aTR0N09KX2xLNnNfSVM1cUI1STI1VGlROHZkUzdkeXhrbU1ZQThFUDc3TWRKVU5EUlRNZEQwNlRBNklZdTZPYVU5VjVCZ1pBSDM0N0M2ZEt1eG9yNkpFWmxUS0M0VFVkWldrNTAtMGZrTG1CZWNxVzhsNHVsQXVrb2M1a0hyNWNNa2lMbEc0WWFBMTFNelVE?oc=5)
 - **[Creadores] Expareja de Escro, prometido de Aida Victoria Merlano, lo acusó de ser un padre ausente - HSB Noticias** — 27/10/2026 05:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXlxX3hoeklrcTNVYmZ1N1pXWkN5U0pLeDJSNnEtOWFycFZyY0g5YWtNczVwMVRScEZ1ZlVPYTNVUjJuZi0xM2liMlNpenl6ck1ZVkZwM1ZpYm5XUVM1VUl6WGhYM3ktaFFiT0FBSTVtcVdNWkZQVWUwYjZYQUR1OHBhRmtqSi16dDhSMWEtLTlkaldvNHNDR1RKUUpORVFPRElXcnZSOExUQl9VY1VRYy1FYlBUVnFobUE?oc=5)
 - **[Creadores] Yeferson Cossio y Carolina Gómez respondieron a los rumores de ruptura - HSB Noticias** — 27/10/2026 04:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnI2d2VvU0NDNHJQaExYbEFiRm1iMXByV1dhYS1wTnZXRGN5SnVhR2VkbWsxTGEtSWNjZ1N2TE5vSFFmU0wxT29vLWVXWktTZEdwNk02eEdON2FNTEpvTDAyRzJFS0M3a0lLX0xibTAwZGNWYjBMd2haZTY2N1ZabjYzU2Z3SXktN21uUlY2Z2RrcERzTWJyTGY5ZTVPWXdLWjNJb3dB?oc=5)
