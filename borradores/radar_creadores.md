@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 29/10/2026 01:42 PM (hora de Colombia)
+Actualizado: 29/10/2026 03:38 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 12.
 Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente por verificar: 1, Influencer de respaldo: 2.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente por verificar: 1, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,41 +15,32 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
+- Publicado: 28/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 51.463
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=pI8pPbmll7I
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
 - Publicado: 27/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 67.117
+- Vistas reportadas por YouTube: 67.127
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=a0hT0DiaJXA
 
-### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: CHISME URBANO TV
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 39.003
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=B37b57f7G9o
-
-### TEMACH VS WESTCOL, ACUSACIONES P6
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: CarnegieDALE
-- Publicado: 29/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=EiD4sQoLTho
-
-### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: tops los music ant
-- Publicado: 27/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 570
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cdii6uPvlHQ
+- Vistas reportadas por YouTube: 17.166
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
@@ -58,7 +49,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.175
+- Vistas reportadas por YouTube: 37.069
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
@@ -67,33 +58,22 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 28/10/2026 03:00 PM
+- Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.063
+- Vistas reportadas por YouTube: 23.650
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### NOCHE DE JUEGOS EN MEXICO | MR STIVEN
+### 😱 ¿WESTCOL ESTÁ ACABADO? 💀🔥👀 ¡SUSCRÍBETE! 🚀 #westcol #eltemach #viral #streamer #shorts
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 29/10/2026 04:00 AM
+- Creador/canal detectado: Cuenta de clips: GANGA CLIPS
+- Creador relacionado en el título: Westcol
+- Canal que publico: GANGA CLIPS
+- Publicado: 29/10/2026 03:08 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=iAcZeiAJX8E
-
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 29/10/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=PocW8oKiqNU
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - Categoria: Cuenta de clips
@@ -106,13 +86,35 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
+### NOCHE DE STREAM CON MI MAMA | CHANTY
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 29/10/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
+
+### A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 28/10/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=TDz-hWPxYlg
+
 ### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 29/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 100
+- Vistas reportadas por YouTube: 254
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=znKW3YFHVbQ
 
@@ -122,7 +124,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: Yefito
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 408.226
+- Vistas reportadas por YouTube: 420.775
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
 
@@ -132,7 +134,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: Xime Ponch
 - Publicado: 28/10/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.386
+- Vistas reportadas por YouTube: 8.434
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -148,37 +150,27 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pI8pPbmll7I
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=a0hT0DiaJXA
 
-### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
-- **Texto en pantalla:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=B37b57f7G9o
-
-### TEMACH VS WESTCOL, ACUSACIONES P6
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TEMACH VS WESTCOL, ACUSACIONES P6
-- **Texto en pantalla:** TEMACH VS WESTCOL, ACUSACIONES P6
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EiD4sQoLTho
-
-### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
-- **Texto en pantalla:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- **Título sugerido:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- **Texto en pantalla:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cdii6uPvlHQ
+- **Fuente original:** https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -200,15 +192,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### NOCHE DE JUEGOS EN MEXICO | MR STIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### 😱 ¿WESTCOL ESTÁ ACABADO? 💀🔥👀 ¡SUSCRÍBETE! 🚀 #westcol #eltemach #viral #streamer #shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** NOCHE DE JUEGOS EN MEXICO | MR STIVEN
-- **Texto en pantalla:** NOCHE DE JUEGOS EN MEXICO | MR STIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 😱 ¿WESTCOL ESTÁ ACABADO? 💀🔥👀 ¡SUSCRÍBETE! 🚀 #westcol #eltemach #viral #streamer #shorts
+- **Texto en pantalla:** 😱 ¿WESTCOL ESTÁ ACABADO? 💀🔥👀 ¡SUSCRÍBETE! 🚀 #westcol #eltemach #viral 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=iAcZeiAJX8E
+- **Fuente original:** https://www.youtube.com/watch?v=PocW8oKiqNU
+
+### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Texto en pantalla:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
 
 ### NOCHE DE STREAM CON MI MAMA | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -220,15 +222,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
-### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Texto en pantalla:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
+- **Texto en pantalla:** A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
+- **Fuente original:** https://www.youtube.com/watch?v=TDz-hWPxYlg
 
 ### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -262,10 +264,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Luisa Fernanda W y Pipe Bueno se casarán en la Catedral de Sal de Zipaquirá: hora, código de vestuario y otros detalles - Infobae** — 29/10/2026 01:39 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMWtMaHhCM0VUdTM1OS1tcDRyMWxNdlNpb2RfQnVnQ3kxQXRVRWdHMUI1R3FoeVpwallTeUUzQ3JDSkQzdDhJNzJPYXlNZDd1SlFBVDZMWFNzY2M4SzVRSUZFQ0l0cFdCZllONEhKS1J4TlFRVE5nQWtlMjFDbWZoTFRDcGNGa2QzZ0lkekxPdTZrSU1kY2tSTEdsY1huTi12Qmh5THIyVDZTSEhWRTJ4Qi1wS3NSc2hBMnFQeHh6WHVJcGhtRndaOWRSYlNwYmJ6OVpVOE9sOEFqbnlJWV9PUFhqRmhGU3RrdW9jLUxyMEthb1hT0gGPAkFVX3lxTE1PckVUc19Uck9DNHI3MU9NMXEzdG8zNkhWWldsTmFsLXlqLTltRzdtUTZoMUVZVlpMcmR4U1hKdEhoaGRUX1o3SWJ5VXQ5Z2NXQUlDX2hCY2tuNENYYzROYjRYZm9mQ1pqdkE0S2s5SVNnSkF6RERHZ0VmdkdYalpJNXRqbm1uYV9QYXM1WWh3MmJjZEx3YmEtTER3cXdfZ3FheENtS0NrYm55Znk0UzM2MjNZa1Q0X3NOWTdpVVJQWF9Gc3g5MGFkOVItdHhJWVVsNzZaZnd1aElEYkQwd25mVVJENnFSaWxKMWNuRGJ4MzViTjZlZzhfMW1KM3N5UE5RTjNXTmtoU1dMSGYtOWs?oc=5)
+- **[Creadores] Luisa Fernanda W y Pipe Bueno se casarán en la Catedral de Sal de Zipaquirá: hora, código de vestuario y otros detalles - Infobae** — 29/10/2026 01:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMWtMaHhCM0VUdTM1OS1tcDRyMWxNdlNpb2RfQnVnQ3kxQXRVRWdHMUI1R3FoeVpwallTeUUzQ3JDSkQzdDhJNzJPYXlNZDd1SlFBVDZMWFNzY2M4SzVRSUZFQ0l0cFdCZllONEhKS1J4TlFRVE5nQWtlMjFDbWZoTFRDcGNGa2QzZ0lkekxPdTZrSU1kY2tSTEdsY1huTi12Qmh5THIyVDZTSEhWRTJ4Qi1wS3NSc2hBMnFQeHh6WHVJcGhtRndaOWRSYlNwYmJ6OVpVOE9sOEFqbnlJWV9PUFhqRmhGU3RrdW9jLUxyMEthb1hT0gGPAkFVX3lxTE1PckVUc19Uck9DNHI3MU9NMXEzdG8zNkhWWldsTmFsLXlqLTltRzdtUTZoMUVZVlpMcmR4U1hKdEhoaGRUX1o3SWJ5VXQ5Z2NXQUlDX2hCY2tuNENYYzROYjRYZm9mQ1pqdkE0S2s5SVNnSkF6RERHZ0VmdkdYalpJNXRqbm1uYV9QYXM1WWh3MmJjZEx3YmEtTER3cXdfZ3FheENtS0NrYm55Znk0UzM2MjNZa1Q0X3NOWTdpVVJQWF9Gc3g5MGFkOVItdHhJWVVsNzZaZnd1aElEYkQwd25mVVJENnFSaWxKMWNuRGJ4MzViTjZlZzhfMW1KM3N5UE5RTjNXTmtoU1dMSGYtOWs?oc=5)
+- **[Creadores] El Temach y WestCol discuten en vivo por el caso Komanche - www.laprensa.hn** — 29/10/2026 09:21 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3FQOG12cG9QazZBNU9jdmxwamxVYk03RnpYTXVDcU1Ca2FlenYzRVJpd0JsRk9YZldwSGJQUWEydDNPcnBrcWw3WDdPb1NTcHhKcUNVZDk4Y0k0MUlnSjNmUFp6RmJERGVvcUVUSmI1R1ctb19ieHZlMEQ1Mm5oMDBfc2E0bF9TdU9JNWZhaw?oc=5)
 - **[Creadores] Dicen qué pidieron Pipe Bueno y Luisa Fernanda W de regalo para su boda; es opcional - Pulzo** — 29/10/2026 07:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjA0X2FoYWJaOUE1RGx5U2REcVlBa2FpTjZrY09NX1VmWmpuOTdFZWt1eUJlYmRfOHBQN2pHTzRBVEFLRHFETkdvY1Q1UUZBNXE4QzdHYW56NlZ6aWREcEpNZ0xIaldTamN4NGR3TXBrZ3hrdExjaUY3b1B1UWxYTnA5eHFvemR5UnpQQWU3Z2JNcHIwUVRMeVhldzZfR3NFVDYycHE1ZXVOZWtfcm5Z0gG0AUFVX3lxTFBINzdSczlMOE5FXzFZLUpwUnJER0VvZE5qWnNRRHE1UXlJRlZRX1BmaURmaXZmNlgxY0ZvTXRhNjk1dXE2WUJfaXlWZ3k2ZnRXcEQwZ3Fhc1YwSkdBVnphMEdhU29WRE5wX3VYOTlJMC1yYTkwWVhzRWhHbTk4SGFMS3JRb2EzLS05S3VibTFuU29yRkstNERFVnU1d3ZWUzU1bjVlQnREQ0h4cnJudWcwMms0UA?oc=5)
 - **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
-- **[Creadores] Westcol respondió a señalamientos tras la muerte de Komanche y aclaró su relación con el streamer - Revista Aló** — 28/10/2026 04:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ25rei1acTVUUEdpM0liTlB2eHRZN3VqYUR4a0t2M0VWMHRmZnBCMFhEYVcwT0hOZ0JuQUx1UlU0eXRHMWJGOVV6cThIVloxc3ZhUTF6ekliM01JTVA4UHdUV1paTi1BMmRYaVJNamRUNkQ4NEE2cW9wdExnOVJ4TFlfSDZWSlVwNFdoMFo4OUlROEVpMVM1bHg5TnN5N2RsVzh2NU9sZHA0SF9rR2E3RmVWaDFaYzljUUJkU0xHQlV2ZFhSUGlfR3FGVi1OamlnYlpfNWgzVjBiV3NX0gHiAUFVX3lxTE12ckpGMFZEeGZGeE5rWk5YSjBRRUtUZEhuNmR0bFdRbVRTRUhwdm1kcjNIVWxKc01uSFlCeTJ5VWpUY0dTQXMzT2kySFFxT2pvWlliZ0FmN2FjeTJfS1NFZnltSWVJNkhYeDRvYTJHTUlQeVVfRXhfYVJwOWFqSjUyTVBNUUFwUDl1azN3MzM3czExZzJlXzMzM3RNVDY3ZldiQVJPbnliTjJZQURZNVhVaGdxMWc5ZktCYmV4bHZsVUI1UlNKSzEtaEp6WVAxT25hSlhaRWVNMk40TDhTSnpldnc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn0gHiAUFVX3lxTE9fTjRRQ2Q3Y3QtSHVNdThWSk4yQjJKcTZMWEV4M3BUWEx3bk5Db1JtQkw3TjJyNlNiTmtNMzFjblNhNnA2N1dPalVzYWk5NDlQQk1vZnRudFA5UnVLYk5aMm0tZDlLVzEtVko3ZENoVXZkRkZfS0NnQVgySTR5b21pX1R5SkZ3dW9XdWZIc21GeG8ycU5oWGtxRzFoMzVNVGRtMnAyeUFBZ2pJV3pPcUZCWmdxNEhxaWFaUTBIWFNWTUYzZ0c4bkxVT0ZTVjUwY0k3MnZmdTVwSnhEUGREVGxUNmc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0dfc1ZvMjc2cEpkcm1ldUdoZ0tmVzZwbXl2UXFUdTk3QkNWS251U0JKQkxOY0pDLTI3UFlTN1MxMEp0N2NCQ29PYUJIU0dJa3RHc0ZNdXZKS084R2ljYXNDMDJaQjVKSnkwRkJBalRXQU0yYjVESnhXaFNNZHE2YURwV0VIOThtNVNpbWlLZ1l0YUhDYmFxek9CV3Rxd1BKbkZIempua05odE1ZM0ZGWW9SN240RS1wdWZCaTcyUmxUZFpyS1hfNmd4NkpJZlFnQlNNadIB4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn?oc=5)
 - **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 09:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2Q?oc=5)
