@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 28/10/2026 05:33 PM (hora de Colombia)
+Actualizado: 28/10/2026 07:42 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 5.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### FUIMOS A VER EL PRIMER LAMBORGHINI REVUELTO DE COLOMBIA 🇨🇴🔥 | Chanty
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: La Ganga
-- Publicado: 28/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Ag0-u9noJQo
 
 ### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
 - Categoria: Clip de terceros
@@ -27,20 +17,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: tops los music ant
 - Publicado: 27/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 458
+- Vistas reportadas por YouTube: 489
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=cdii6uPvlHQ
-
-### WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 28/10/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.515
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=Zi5OoAd29QY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
@@ -49,8 +28,8 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 27/10/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.839
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 27.398
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
@@ -60,20 +39,20 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.630
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.828
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### HOW I BOUGHT A $100,000 ROBOT | WESTCOL
+### A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ClipsWcol
 - Creador relacionado en el título: Westcol
 - Canal que publico: ClipsWcol
-- Publicado: 28/10/2026 05:30 PM
+- Publicado: 28/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=b2bbtu_gJtw
+- Enlace directo: https://www.youtube.com/watch?v=TDz-hWPxYlg
 
 ### Mrstiven jugando en vivo free fire
 - Categoria: Cuenta de clips
@@ -82,43 +61,13 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: MrstivenTc clips
 - Publicado: 28/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=9DYsXzjugXs
-
-### Quise retar a Yelty y volvi a Fortnite
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: SamulxClips
-- Canal que publico: SamulxClips
-- Publicado: 28/10/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1qWhwEXGwYA
-
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Ju4ncho_sw
-- Canal que publico: Ju4ncho_sw
-- Publicado: 26/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 112
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=7Xxat97VyPM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### FUIMOS A VER EL PRIMER LAMBORGHINI REVUELTO DE COLOMBIA 🇨🇴🔥 | Chanty
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** FUIMOS A VER EL PRIMER LAMBORGHINI REVUELTO DE COLOMBIA 🇨🇴🔥 | Chanty
-- **Texto en pantalla:** FUIMOS A VER EL PRIMER LAMBORGHINI REVUELTO DE COLOMBIA 🇨🇴🔥 | Chanty
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Ag0-u9noJQo
 
 ### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -129,16 +78,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=cdii6uPvlHQ
-
-### WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- **Texto en pantalla:** WESTCOL AND SAMULX CLARIFY THE KOMANCHE CONTROVERSY
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Zi5OoAd29QY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -160,15 +99,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### HOW I BOUGHT A $100,000 ROBOT | WESTCOL
+### A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** HOW I BOUGHT A $100,000 ROBOT | WESTCOL
-- **Texto en pantalla:** HOW I BOUGHT A $100,000 ROBOT | WESTCOL
+- **Título sugerido:** A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
+- **Texto en pantalla:** A ROBOT ALMOST DESTROYED MY SETUP | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=b2bbtu_gJtw
+- **Fuente original:** https://www.youtube.com/watch?v=TDz-hWPxYlg
 
 ### Mrstiven jugando en vivo free fire
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -180,30 +119,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=9DYsXzjugXs
 
-### Quise retar a Yelty y volvi a Fortnite
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: SamulxClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: SamulxClips.
-- **Título sugerido:** Quise retar a Yelty y volvi a Fortnite
-- **Texto en pantalla:** Quise retar a Yelty y volvi a Fortnite
-- **Descripción:** Fragmento relacionado con Cuenta de clips: SamulxClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1qWhwEXGwYA
-
-### MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Ju4ncho_sw? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Ju4ncho_sw.
-- **Título sugerido:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Texto en pantalla:** MOTO, HUMOR Y CAOS EN BOGOTÁ FT. AARON GOOD 🚨 (STREAM IRL KICK)
-- **Descripción:** Fragmento relacionado con Emergente: Ju4ncho_sw. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=7Xxat97VyPM
-
 ## Noticias y contexto
 
 - **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
-- **[Creadores] Westcol y el video viral con Milica: esto dijo el streamer sobre el escándalo (y la dura respuesta de ella - Vantage Data Centers** — 28/10/2026 03:23 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMisgJBVV95cUxPaFEweWVYcF9BR25vUXRsRXJMaDJHb2hrenJwanFGem9JcXg2Z3dDbWlEelA5UlQwSkNKNHhZa214d3ZfUkJEZHJlSXdBaEtpS2ZCRnExNmFrZ21iMkpTV2dUZDlJazdIZUJFbFczZWdGWndPcUJBaU0xaGNNTm9MWHEyaGNHeVhuSmJEejdBcEZPX3ZHdGRseGFRZUlqZ3FGQkRXQVdsdHRoZVpvek4xWjJhZjBESWp0WW1hSTl4ZEN6R2VxLWV5R1lra2pySUJQTXJFYUJIeE1tX3lnYjZSQXNzcUtJWXhfTmVUaWhocGNxblJiZ1pMb2FQVjJPYThWbGNuRGlpVzJnb3YxSzZjdWNCc0JuWUdWY3Y4QVBCLXFRQVhjVXlYTXVYYVFHM0RGOGc?oc=5)
+- **[Creadores] Westcol respondió a señalamientos tras la muerte de Komanche y aclaró su relación con el streamer - Revista Aló** — 28/10/2026 04:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ25rei1acTVUUEdpM0liTlB2eHRZN3VqYUR4a0t2M0VWMHRmZnBCMFhEYVcwT0hOZ0JuQUx1UlU0eXRHMWJGOVV6cThIVloxc3ZhUTF6ekliM01JTVA4UHdUV1paTi1BMmRYaVJNamRUNkQ4NEE2cW9wdExnOVJ4TFlfSDZWSlVwNFdoMFo4OUlROEVpMVM1bHg5TnN5N2RsVzh2NU9sZHA0SF9rR2E3RmVWaDFaYzljUUJkU0xHQlV2ZFhSUGlfR3FGVi1OamlnYlpfNWgzVjBiV3NX0gHiAUFVX3lxTE12ckpGMFZEeGZGeE5rWk5YSjBRRUtUZEhuNmR0bFdRbVRTRUhwdm1kcjNIVWxKc01uSFlCeTJ5VWpUY0dTQXMzT2kySFFxT2pvWlliZ0FmN2FjeTJfS1NFZnltSWVJNkhYeDRvYTJHTUlQeVVfRXhfYVJwOWFqSjUyTVBNUUFwUDl1azN3MzM3czExZzJlXzMzM3RNVDY3ZldiQVJPbnliTjJZQURZNVhVaGdxMWc5ZktCYmV4bHZsVUI1UlNKSzEtaEp6WVAxT25hSlhaRWVNMk40TDhTSnpldnc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0dfc1ZvMjc2cEpkcm1ldUdoZ0tmVzZwbXl2UXFUdTk3QkNWS251U0JKQkxOY0pDLTI3UFlTN1MxMEp0N2NCQ29PYUJIU0dJa3RHc0ZNdXZKS084R2ljYXNDMDJaQjVKSnkwRkJBalRXQU0yYjVESnhXaFNNZHE2YURwV0VIOThtNVNpbWlLZ1l0YUhDYmFxek9CV3Rxd1BKbkZIempua05odE1ZM0ZGWW9SN240RS1wdWZCaTcyUmxUZFpyS1hfNmd4NkpJZlFnQlNNadIB4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn?oc=5)
 - **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 10:35 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2TSAa8CQVVfeXFMUGhGb2NkaE1TTDg3dF9vYWoyUEVUTnBad1Z1R3owM2M2eEFhUWlsVkhUd2hVbmdxOU0wblRsSW1lYi0yLVFkM1JxNVQyVG1uUjFtVWxORXZYUjhUd1EtQy1NUGplUEhZY0xFbDVBOE9wbTcxaWw1aWhWZm4xTndjVXVza2RxRXM5WHVDcjBYZHBFT1V0SUZWT1JIRHZxREYycVFFUWNEN1Njc21EcUp4cjQ3dElDSzNnd1BYODUtRE5PNFlQY21sSlM5eEN4dzFZS1VvRTRYczRmZTFWWnBVNU0yNlhwSm1OQmtuRURZcmt1U0JIeFJmRFhubzYzUDRpN0hKNXUtMjVpUVhjbHhZVlh3TWFnakF4bWt3VFVVSTBZSTZwM0xEaGlxZ29QZjlz?oc=5)
 - **[Creadores] Crecen las dudas por la relación entre Yeferson Cossio y Carolina Gómez - Identidad Correntina** — 28/10/2026 04:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxPalQwN0dlRWpwaFM0MmlSRElkMi1fTGRHckxjdlgwTTVXMUJ6Y0VScEpOQXd4aTR0N09KX2xLNnNfSVM1cUI1STI1VGlROHZkUzdkeXhrbU1ZQThFUDc3TWRKVU5EUlRNZEQwNlRBNklZdTZPYVU5VjVCZ1pBSDM0N0M2ZEt1eG9yNkpFWmxUS0M0VFVkWldrNTAtMGZrTG1CZWNxVzhsNHVsQXVrb2M1a0hyNWNNa2lMbEc0WWFBMTFNelVE?oc=5)
