@@ -1,34 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 28/10/2026 07:42 PM (hora de Colombia)
+Actualizado: 28/10/2026 09:43 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 6.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
+Distribución por categoría: Cuenta de clips: 5, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: tops los music ant
-- Publicado: 27/10/2026 07:00 PM
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 27/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 489
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cdii6uPvlHQ
+- Vistas reportadas por YouTube: 13.460
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 27/10/2026 10:00 PM
+- Publicado: 27/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.398
+- Vistas reportadas por YouTube: 29.167
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
@@ -39,7 +40,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.828
+- Vistas reportadas por YouTube: 9.112
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
@@ -54,30 +55,40 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=TDz-hWPxYlg
 
-### Mrstiven jugando en vivo free fire
+### HOW I BOUGHT A $100,000 ROBOT | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MrstivenTc clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MrstivenTc clips
-- Publicado: 28/10/2026 02:00 PM
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 28/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=9DYsXzjugXs
+- Enlace directo: https://www.youtube.com/watch?v=b2bbtu_gJtw
+
+### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Pautips
+- Canal que publico: Xime Ponch
+- Publicado: 28/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 967
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
-- **Texto en pantalla:** REy De La City YOVNGCHIMI LE TIRA A ANUEL Y LAJA. 🎶 En vivo bobo 🎶🎹
+- **Título sugerido:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- **Texto en pantalla:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cdii6uPvlHQ
+- **Fuente original:** https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -109,15 +120,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=TDz-hWPxYlg
 
-### Mrstiven jugando en vivo free fire
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### HOW I BOUGHT A $100,000 ROBOT | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Mrstiven jugando en vivo free fire
-- **Texto en pantalla:** Mrstiven jugando en vivo free fire
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** HOW I BOUGHT A $100,000 ROBOT | WESTCOL
+- **Texto en pantalla:** HOW I BOUGHT A $100,000 ROBOT | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=9DYsXzjugXs
+- **Fuente original:** https://www.youtube.com/watch?v=b2bbtu_gJtw
+
+### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
+- **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Pautips.
+- **Título sugerido:** Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
+- **Texto en pantalla:** Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips 
+- **Descripción:** Fragmento relacionado con Pautips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Noticias y contexto
 
