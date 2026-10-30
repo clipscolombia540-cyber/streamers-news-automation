@@ -1,6 +1,35 @@
 {
-  "actualizado": "2026-10-30T11:42:14.129602-05:00",
+  "actualizado": "2026-10-30T13:39:48.939754-05:00",
   "series": [
+    {
+      "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
+      "ultima_deteccion": "2026-10-30T13:39:48.939754-05:00",
+      "canal_muestra": "Drice Gamerz",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=hTlRV78bF54",
+        "https://www.youtube.com/watch?v=ElNstcXs2pY",
+        "https://www.youtube.com/watch?v=pI8pPbmll7I",
+        "https://www.youtube.com/watch?v=a0hT0DiaJXA"
+      ]
+    },
+    {
+      "nombre": "DEDsafio Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": true,
+      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
+      "ultima_deteccion": "2026-10-30T13:39:48.939754-05:00",
+      "canal_muestra": "ClipsWcol",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=2sENM6P_JDE",
+        "https://www.youtube.com/watch?v=dZys_yd5Mlg",
+        "https://www.youtube.com/watch?v=Cy1e-ApBiA4",
+        "https://www.youtube.com/watch?v=D5nIap6LFnA",
+        "https://www.youtube.com/watch?v=Jx4JS4wMFw0"
+      ]
+    },
     {
       "nombre": "Minecraft Speedrunning but it's just ANJOUU losing his mind",
       "tipo": "serie_o_tema_candidato",
@@ -10,19 +39,6 @@
       "canal_muestra": "Waxed Lightly Weathered Cut Copper Stairs Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=-VqKH4Gd9jk"
-      ]
-    },
-    {
-      "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
-      "ultima_deteccion": "2026-10-30T05:42:36.247841-05:00",
-      "canal_muestra": "Drice Gamerz",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=ElNstcXs2pY",
-        "https://www.youtube.com/watch?v=pI8pPbmll7I",
-        "https://www.youtube.com/watch?v=a0hT0DiaJXA"
       ]
     },
     {
@@ -101,21 +117,6 @@
       "canal_muestra": "DaniMarvel",
       "enlaces": [
         "https://www.youtube.com/watch?v=UuaQLAaTIkg"
-      ]
-    },
-    {
-      "nombre": "DEDsafio Minecraft",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": true,
-      "primera_deteccion": "2026-10-09T22:55:50.999499-05:00",
-      "ultima_deteccion": "2026-10-23T19:38:29.972960-05:00",
-      "canal_muestra": "Capitan Clipero",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=dZys_yd5Mlg",
-        "https://www.youtube.com/watch?v=Cy1e-ApBiA4",
-        "https://www.youtube.com/watch?v=D5nIap6LFnA",
-        "https://www.youtube.com/watch?v=Jx4JS4wMFw0",
-        "https://www.youtube.com/watch?v=wQvfv6jvF6I"
       ]
     },
     {
