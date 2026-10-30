@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 01:45 AM (hora de Colombia)
+Actualizado: 30/10/2026 03:48 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 9.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 29/10/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 25.293
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=ElNstcXs2pY
 
 ### Westcol responde a las acusaciones de ser el culpable de lo de Komanche
 - Categoria: Clip de terceros
@@ -17,9 +27,19 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Influence
 - Canal que publico: Cell Junior™
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.182
+- Vistas reportadas por YouTube: 52.430
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=DsQ-gNvbxYw
+
+### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CHISME URBANO TV
+- Publicado: 30/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.689
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - Categoria: Cuenta de clips
@@ -28,31 +48,42 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31.842
+- Vistas reportadas por YouTube: 32.759
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+### Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 08:00 PM
+- Creador/canal detectado: Cuenta de clips: Clip Rafagazo
+- Creador relacionado en el título: Samulx
+- Canal que publico: Clip Rafagazo
+- Publicado: 29/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
+- Enlace directo: https://www.youtube.com/watch?v=89N2oa1_dbg
 
-### MrStivenTC pierde la partida y explota 😡 Farming de Kick
+### Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Parcero Clips 🔥
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: El Parcero Clips 🔥
-- Publicado: 29/10/2026 05:00 PM
+- Creador/canal detectado: Cuenta de clips: Clip Rafagazo
+- Creador relacionado en el título: Samulx
+- Canal que publico: Clip Rafagazo
+- Publicado: 29/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=qk-CMZB-m-4
+
+### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: GANGA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: GANGA CLIPS
+- Publicado: 29/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=QQDGTaFR_vk
+- Enlace directo: https://www.youtube.com/watch?v=pdLdbkPAz8U
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - Categoria: Cuenta de clips
@@ -61,31 +92,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Influence
 - Canal que publico: MILICA CLIPS
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 93
+- Vistas reportadas por YouTube: 113
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
-
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 28/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 81
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
-
-### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: TeddyRL Clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: TeddyRL Clips
-- Publicado: 28/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=in0ySlCPuR4
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - Categoria: Influencer de respaldo
@@ -93,13 +102,23 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6, Influence
 - Canal que publico: Xime Ponch
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.418
+- Vistas reportadas por YouTube: 12.780
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ElNstcXs2pY
 
 ### Westcol responde a las acusaciones de ser el culpable de lo de Komanche
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -111,6 +130,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=DsQ-gNvbxYw
 
+### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+- **Texto en pantalla:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZZmuLLlUMOU
+
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -121,25 +150,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Texto en pantalla:** Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
+- **Fuente original:** https://www.youtube.com/watch?v=89N2oa1_dbg
 
-### MrStivenTC pierde la partida y explota 😡 Farming de Kick
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC pierde la partida y explota 😡 Farming de Kick
-- **Texto en pantalla:** MrStivenTC pierde la partida y explota 😡 Farming de Kick
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Texto en pantalla:** Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=QQDGTaFR_vk
+- **Fuente original:** https://www.youtube.com/watch?v=qk-CMZB-m-4
+
+### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+- **Texto en pantalla:** 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CU
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pdLdbkPAz8U
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -150,26 +189,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
-
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Texto en pantalla:** NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
-
-### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Texto en pantalla:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=in0ySlCPuR4
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
@@ -212,7 +231,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-10-29
+- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-10-30
   - https://www.youtube.com/watch?v=ElNstcXs2pY
   - https://www.youtube.com/watch?v=pI8pPbmll7I
 - **My favorite streamer** (candidata por revisar) — última detección: 2026-10-27
