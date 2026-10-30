@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 01:39 PM (hora de Colombia)
+Actualizado: 30/10/2026 03:31 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 10.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CHISME URBANO TV
+- Publicado: 30/10/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 132.435
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -17,28 +27,28 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influence
 - Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.165
+- Vistas reportadas por YouTube: 51.179
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
-### 🤣 ¡Blessd rompió el vidrio en pleno directo de Westcol!
+### Westcol responde a las acusaciones de ser el culpable de lo de Komanche
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Ravien
-- Publicado: 30/10/2026 01:00 PM
+- Canal que publico: Cell Junior™
+- Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=I5aYGnO86ow
+- Vistas reportadas por YouTube: 53.844
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=DsQ-gNvbxYw
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 29/10/2026 07:00 PM
+- Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.288
+- Vistas reportadas por YouTube: 37.566
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
@@ -49,20 +59,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influence
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42.331
+- Vistas reportadas por YouTube: 42.606
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
-
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
 
 ### MERCANDO CON MI MUJER | CHANTY
 - Categoria: Cuenta de clips
@@ -71,7 +70,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influence
 - Canal que publico: MILICA CLIPS
 - Publicado: 30/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
 
@@ -103,13 +102,33 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influence
 - Canal que publico: Yefito
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 523.523
+- Vistas reportadas por YouTube: 532.937
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
+
+### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Pautips
+- Canal que publico: Xime Ponch
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 16.118
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+- **Texto en pantalla:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -121,15 +140,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
 
-### 🤣 ¡Blessd rompió el vidrio en pleno directo de Westcol!
+### Westcol responde a las acusaciones de ser el culpable de lo de Komanche
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🤣 ¡Blessd rompió el vidrio en pleno directo de Westcol!
-- **Texto en pantalla:** 🤣 ¡Blessd rompió el vidrio en pleno directo de Westcol!
+- **Título sugerido:** Westcol responde a las acusaciones de ser el culpable de lo de Komanche
+- **Texto en pantalla:** Westcol responde a las acusaciones de ser el culpable de lo de Komanch
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=I5aYGnO86ow
+- **Fuente original:** https://www.youtube.com/watch?v=DsQ-gNvbxYw
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -150,16 +169,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
-
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
 
 ### MERCANDO CON MI MUJER | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -201,12 +210,22 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
 - **Fuente original:** https://www.youtube.com/watch?v=3f9S8OlwCuY
 
+### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
+- **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Pautips.
+- **Título sugerido:** Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
+- **Texto en pantalla:** Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips 
+- **Descripción:** Fragmento relacionado con Pautips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=RgGcgZrvmfs
+
 ## Noticias y contexto
 
-- **[Creadores] Yina Calderón dice que desea volver a un ring de boxeo; ¿le pedirá 'cacao' a Westcol? - La Kalle** — 30/10/2026 12:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3RmX19hOVVLWlBCRFU5a0dXQjlobUdFeUpobEo5UHVkdXJlUHJWMmszY1h1eEVvZS00dU5yTzkyQjE5ZlFKRWQ3eWhQTTI2dXpFeDNnR1JTakJsTUpwTzdjcUlMMnhabVJ1SW9GZUpIclM4eXdlemRUYzU0RnlwV2lBQVl0S2ljMXdMNlF3ZkwzaDJlVlU1NjZWakI5QlRMY2JlRmlZTnNITk8yaGtFNVl5djBfY04tUHFYbG5BZEVqaXFWS0lWNWphNFlPMm90S21RM0kyVdIB5AFBVV95cUxPTFNaakdBR3NoRUV3WTctb01BdGdFWnJXejd3eThWc1pjMWpmMjRSWFdTRllpOWdNVDJLbE5qaTgxd3k0RExZOWVLb0xzRnFqeU5hSEpNU0dQa3Jjd211MXFOWFhpRTZ1SU0xV205MmI5NktsQnVTWDBlWWYzS3dCT1JuU1B0aTZ2M2p2QmcxYTJiZWF1N0ViZUllRVltVmxYOXRVRTBUSnYxNGdJQl9FNTBZV2Z5VEF0Sm8waFpSUVlPX2hvOThsdEpOa0xwb1lfZFdIMDlhcjZaUWlocjU5UGhiQmo?oc=5)
-- **[Creadores] Westcol y el video viral con Milica: esto dijo el streamer sobre el escándalo (y la dura respuesta de ella - Port of Rotterdam** — 30/10/2026 11:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgJBVV95cUxNV0NRRkNrWjBYRWZoTmo1WklKcUNKbk9jNTRnTGlUaW9zbkN2RlhNUVJieGhxSi1hYmNYaWljNEthdXVMeV9zODJRUkwzZHZzYmtjdEJhLTd5MVNsQ2ZOSnFOS0tEWEg2ZzhZOTBDMW9weGJzVERfUUVncHNsYVlOdEN6QTJjay00NDBWbWRYYzdiM3pUbGRkRzBYNTUzRlZ2TGVUX0Z4VnhLbDVDZ043ZlhMblBmanNQVFRTeXdjTEJucHloc1FfV1liMDVBZzc4UGRFWnhYakx3VXFyMDk2NmRRVUFlbGtwaEdLajd0RkJkb3Ffd3B1STNEVExzbXdZN0hwTXBXc0Qyd25jMTBVbW8zNl9GZUdlOWxVN3pwVEQxVG5FdHNGMTRfbVgwaExDbGMyRGlR?oc=5)
-- **[Creadores] Pipe Bueno y Luisa Fernanda W se casaron: así fue su boda en la Catedral de Sal de Zipaquirá - Caracol Radio** — 30/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTXRiZ1pvWTgyTFZKcFMxOHlaeE5sOGYybTdpZnpPLVhZSGV4VUQzVG9OS2VvbTkweWM2RERyUVdTTkRNWVo5M1FRMm9fb2RDOWxpanJWY0ZwUjczZTYzVFJwMm83TkFCbU5XYVFCQ1ZZTFJDcUxBWTBTTjFIUjh3aV9RVUg5ei1ieXIzTGU1VllUMzZjdy0waldjcWlOX0VNMDRjZUMxRG1ydDVmNkNqcllzMWdGQ1JvOFlvSjVDTnVfaloz0gHYAUFVX3lxTE9rQmVKWC1WcWRhNE43ZmRDQS03dzBUdkdvb1pNWWVBMnFPUnh1VWtlMmhiY1B5RTlETmxKbjNhcnJ5YlZmOHJMSWpuaWlTdFo5RXBlZE94Rk8zdnFvZzI5YkJUcklLdzJvM2pJUU5kbDR5b3ZNTTJuNTRXQXpyS2h2U0VIRFBSX2lIN2NLU2VKb2ttUXliMkttNXBaRjc0TXQ3cWZ0NmM3aDBtX1BhN3doQzNfR1Jxb0ZYbWQ5MnFkUjJLcHZEcjNpVVE0WnNyMzZMcFNtR1RQaQ?oc=5)
-- **[Creadores] Luisa Fernanda W y Pipe Bueno se casaron en Zipaquirá - El Norte Hoy** — 30/10/2026 09:56 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWRLNGwwOU05VW5BQzY2bG03c0lKbmkxWnRLbEo2LWN3RXktdm1NOFIwWE1NSzZ6bGlha0ZHY05RUW1jV3hlZVdEcWxrV3Z2RlNadDVsb3ItaVpqdGktVUVSSC1wZWlERmpXTWJRMGNhZmlZaUZfbUp2TTRuVkhONFN4N243UGgtUUJuc3Vn?oc=5)
+- **[Creadores] Luisa Fernanda W y Pipe Bueno se casaron en Zipaquirá - El Norte Hoy** — 30/10/2026 02:45 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWRLNGwwOU05VW5BQzY2bG03c0lKbmkxWnRLbEo2LWN3RXktdm1NOFIwWE1NSzZ6bGlha0ZHY05RUW1jV3hlZVdEcWxrV3Z2RlNadDVsb3ItaVpqdGktVUVSSC1wZWlERmpXTWJRMGNhZmlZaUZfbUp2TTRuVkhONFN4N243UGgtUUJuc3Vn?oc=5)
+- **[Creadores] Westcol negó haber incitado ataques contra el streamer fallecido Komanche: 'Nunca tuve nada en contra de él' - El Tiempo** — 30/10/2026 02:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUZaN0NqNzlnWEZxWFhCRWJfMlNqN3ZUWXJXVXZQaXItVURUSGZOcEpvTlNxcVVzV3UzeUt3VnZsaERVdlBNMjd3UERWWlBmVXdyOHl4cElnbnI5cDNrRWpWTnp0T0cxWG05TzVtay1fMzFOeVpXaXFaUmJRZGl5SjVyUVY1Qm5JX2ZfRzhTT0V3Y2t3bGl1VV9iazZJTy04UC0xSzB5eEU1b0Nwb1FRZWJvZmVGMFlTTl83T2l5MWNSTWg2dXR1WTlJcUFlQ2RaTE9hTFo2dmJNY0hSWlM5NEpIc0x3S2fSAewBQVVfeXFMTi1WZ3pRakI3NjV2bk14T0ppdF9RbkZQZW9pdy1BMUxhcjBybG43OW85X1B1Q1g0WjFtWUM5eEk4WVdodW9RQURrSFYtb3lyWDRhOHkwWnR3WlJxNGNSc0pCb2VGMmRMLUVGR3lGZ3N6NlQtSkQ2M2haU1h0X0ZucWdtRXBDd0ViRC0tUnQ2WEU0dGY5SjA2TE9aN3BzeFVzY21GZUd0dWp3VXYtSkMwYVZvblFtTkdnRDRyS3NDcDgyMExxakRBenNXNkdjYmZ3V2IwdHRfd3FpSUJJcWU0MFZ6TXNSNG5yVjJJVm8?oc=5)
+- **[Creadores] ¡Por todo lo alto! Así fue la boda de Pipe Bueno y Luisa Fernanda W - Aldia.co** — 30/10/2026 01:16 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMENSdDRNQmVnbUpEZkRSVVphRjdHTnN6OHVOZVA5bWNQb0xmTGRpbkdpN2tGbEl3RTVHQUZEelFUYXRLZl82RkoyaUpROVhUa0t2Q2RVTVNmOGozY2ZXN05XbFhDdVZsNEFjSmN0TmltUTZMMHVPYmRpdnR4Qnh3R0VaUDNiRm1nc3dLM0xQX2RZWi1xR1hyWmdiNXVQWXZ1?oc=5)
+- **[Creadores] Westcol niega haber promovido ataques de odio contra Komanche tras polémica de abuso sexual: “Yo nunca lo acusé” - La Prensa Gráfica** — 30/10/2026 01:04 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcEJPQTlvOWpnZllmcTFNM1VPaGR5QzVTcWttUjRwakk2cEx3X1QwdXA5ZC1qVUlOUkxaVG9sTkNmbzRhTUJaUG9KYUJmZkh5ejItdHI3U1BVLXBoc3FSaDB5QjlvUG91cHV3blZqd29vWUVZSzhmdWRCTnNSRGQ5UGdEOUMxVTY1YjhESks0ZGI0ZzdmU01oMGd3X0YtR1dURnZYSm5iNFlETzFnc090a0N2ZE81S2dpNF9TQkJFcnI5REhCU1F1R091Ynp4dnZCTGVIWkY3alRFQmQyY29tMHI3TFl0eks2Z2l6cGE0Y01ZdWNwWjRnbkJzaHQtQk0?oc=5)
 - **[Creadores] «¡Ya es real, la ayuda va!»: Juanda Caribe confirma que reconstruirá la casa del «Chancletica» - río noticias** — 30/10/2026 08:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI2dUNCVTJ0SHhLbDdSMW9KQjdzcW9nd3lCYm1CMU9qSlQtYzREYkZKTDNSbzdHZk9yeWNYZk1XcFd5ck1tVi11YXNkNk9hTHRaOXBrVlA5OEgtXzV3NUZMMTlUWkxrWkxPLXRmUWJPT3MxLTdDdzJKbEhxOVEwWmtUZmJZVXFuQmRoUVdtS0FZSmgyeGVhaW1VNFlKMGdFbFViajNGdGxkYnJPOGp30gG0AUFVX3lxTE9IOEQ0UTFibld2M1dQa2pBUjIxajNOSkphRFVwekc4cTBUeDBucThwYTRfcFJsVEVwS2x3SEFsY1prRWNzTzJaUWw3NzZ3aWRTR19GaFlPWDdINWJ5amU5aHRNTkNidlRldi0ydkloUXpzd2ZBcmcxc29hTEJodmFaZHVXR0FZUjlld2JfMHBwSWhiVHk2S3YzYkFXQXExR3RLLUlJd0pVWGRoZEVoT2JWa1dxaw?oc=5)
 
 ## Creadores principales vigilados
