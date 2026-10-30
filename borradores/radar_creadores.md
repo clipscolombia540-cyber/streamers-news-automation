@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 29/10/2026 05:35 PM (hora de Colombia)
+Actualizado: 29/10/2026 07:43 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 12.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente por verificar: 1, Influencer de respaldo: 2.
+Clips incluidos: 9.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 7, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,37 +21,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=pI8pPbmll7I
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 27/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 67.129
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=a0hT0DiaJXA
-
-### TEMACH VS WESTCOL, ACUSACIONES P4
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: CarnegieDALE
-- Publicado: 29/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=SUiGy0LHnsw
-
-### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 28/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.694
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
-
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
@@ -59,7 +28,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.751
+- Vistas reportadas por YouTube: 27.092
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
@@ -70,16 +39,27 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 38.034
+- Vistas reportadas por YouTube: 38.927
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
+
+### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
 
 ### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ClipsWcol
 - Creador relacionado en el título: Westcol
 - Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 05:30 PM
+- Publicado: 29/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 1
@@ -92,7 +72,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 29/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 16
+- Vistas reportadas por YouTube: 65
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
@@ -103,37 +83,28 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 6, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 29/10/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
+- Vistas reportadas por YouTube: 40
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
-### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 29/10/2026 01:00 PM
+### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: TeddyRL Clips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: TeddyRL Clips
+- Publicado: 28/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 400
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=znKW3YFHVbQ
-
-### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Yeferson Cossio
-- Canal que publico: Yefito
-- Publicado: 27/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 436.874
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=in0ySlCPuR4
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Pautips
 - Canal que publico: Xime Ponch
-- Publicado: 28/10/2026 08:00 PM
+- Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.458
+- Vistas reportadas por YouTube: 10.446
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -150,36 +121,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=pI8pPbmll7I
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=a0hT0DiaJXA
-
-### TEMACH VS WESTCOL, ACUSACIONES P4
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TEMACH VS WESTCOL, ACUSACIONES P4
-- **Texto en pantalla:** TEMACH VS WESTCOL, ACUSACIONES P4
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=SUiGy0LHnsw
-
-### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
-- **Texto en pantalla:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL 
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -200,6 +141,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
+
+### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
 
 ### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -231,25 +182,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
-### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- **Texto en pantalla:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=znKW3YFHVbQ
-
-### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
-- **Texto en pantalla:** Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | 
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=3f9S8OlwCuY
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- **Texto en pantalla:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=in0ySlCPuR4
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
@@ -263,15 +204,14 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Famosos que fueron a boda de Luisa Fernanda W y Pipe Bueno: una llevó corona de flores - Caracol TV** — 29/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHJxQmJhOUt0R2RONi1WUHlRUGRCaFlkQ0RFVjN1NHlVZzJ0N1gzMmQzZFhfYzZlcXloblFGMTZCWm9mWkVTZ011UzZqQW82R3hhcGhDTm1WSmZTYlBRVDEyX2pGMmE2MUVVWGhuZjRVV2tFeHJUWDBtVkR3bHBYVTFOZlUtc1pfWUFwYU5wSmRuOXJ4YUVyUmg5NmxaMEV3UXFYd3Z1dDZsV1dvY19zWENxSnEwRU1sVTM3WERMLXhTNEFkNVHSAdMBQVVfeXFMTjc4MllMenRZdTNLaVBOYm9WOW5PMTJvTDlyaTVQTWFSektzRmtHMy0ySkt6bU5FVk5GaFRycWRZUmFJSWs5Nm1HWkNzZEdBdjlPYVhxWThSLXppMkdaM3BnV0pJSFQyTF91My10YlJ6bGtla3JfZ1Jvdkk4ZW00MnNsVVhmQVZtRTFEYVZRdUVfcTVPR0ZDSURYcmtFTllBRU1aVXJjZ2dYNTJaVGNQSm1UbzkxSFkxREtCN0twY0oySmxtMktEek1kT2ZGa2RwZG5hTQ?oc=5)
-- **[Creadores] Luisa Fernanda W y Pipe Bueno se casan en la Catedral de Sal: estos son los detalles de la boda - El Frente** — 29/10/2026 03:46 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaW9GOVQ4YWlVOUtRVnFocHRCcEJDVGFCbGJuSW5oNVFUUXhRclRDdmgwanZqdHd4ejQ5U29YS2JXWlFNWTlXSm9jRmdyc1p2ZjJyQ0hqSlF1Qm9YMlRlaUxiUFNkQ1MyaldkNEkxSVJhYUhQMmxkeWY1c0FYdmozNnBTbExfU05keHNPR0VfMTZIME9Za1UzSkRidzdQOVFiSnRIb2dQRV9jNWdhNlNLMzFYa3dmNmswRVJ3?oc=5)
+- **[Creadores] ¿Cuáles serán los regalos que darán en la boda de Luisa Fernanda W y Pipe Bueno? Esta fue su petición - LOS40** — 29/10/2026 05:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUtzdTB1OVJEQnFaUHY0MXdDTHFEZUxLN1VNc2U2TkU2NnNHWW1RcGw1c3BLUDZ3Yy1sWXRxMXVZZ2tSaDJEUWFfVzU5X3g0dzBwOUxBU0pHTWhzd3psN0NobDNYbUZFdnFuY2c4TUotcEtQQk9ZOGNqZnhrZ1BORWZwbUJwYVVkTllpbXlNVlgzOTFRcjUwUER0dmNPZlZ5SFVaTTlvVEpMc2U3aHNPSEFPUDh0eW40ZUp3NERxRnZWeUZUZzJoY3RCWkrSAeABQVVfeXFMT2VzRi10bFpxOHFZZjIxMmpaXzdtTkhoUnRHeW1vdGJzYXFuNHI3Y0hELW9hbk8xUl96NWNVcVF5VjBjVGNEZGs5Njk0ekFFNDVJSkcxSVhyQ3NDb25wWEdiVmF6c0pGWmlpTXZBNE5WV1NIZ25kSU1FX0gxVzZvdkVvb1VfaEVmbnlhcG9idWNkYzZKc0VUZ3VxUzd5UVRTSTBVMEw0Mk5fMFJkQTlZZHd6OTk5b0t4SmZrV0p1ZWQ0ZUxhd0M0ZnlyYW1NdjBXY3FaU2N1YXVVQkNOMVhqM08?oc=5)
+- **[Creadores] Famosos que fueron a boda de Luisa Fernanda W y Pipe Bueno: una llevó corona de flores - Caracol TV** — 29/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONzgyWUx6dFl1M0tpUE5ib1Y5bk8xMm9MOXJpNVBNYVJ6S3NGa0czLTJKS3ptTkVWTkZoVHJxZFlSYUlJazk2bUdaQ3NkR0F2OU9hWHFZOFItemkyR1ozcGdXSklIVDJMX3UzLXRiUnpsa2Vrcl9nUm92SThlbTQyc2xVWGZBVm1FMURhVlF1RV9xNU9HRkNJRFhya0VOWUFFTVpVcmNnZ1g1MlpUY1BKbVRvOTFIWTFES0I3S3BjSjJKbG0yS0R6TWRPZkZrZHBkbmFN0gHTAUFVX3lxTE43ODJZTHp0WXUzS2lQTmJvVjluTzEyb0w5cmk1UE1hUnpLc0ZrRzMtMkpLem1ORVZORmhUcnFkWVJhSUlrOTZtR1pDc2RHQXY5T2FYcVk4Ui16aTJHWjNwZ1dKSUhUMkxfdTMtdGJSemxrZWtyX2dSb3ZJOGVtNDJzbFVYZkFWbUUxRGFWUXVFX3E1T0dGQ0lEWHJrRU5ZQUVNWlVyY2dnWDUyWlRjUEptVG85MUhZMURLQjdLcGNKMkpsbTJLRHpNZE9mRmtkcGRuYU0?oc=5)
 - **[Creadores] El Temach y WestCol discuten en vivo por el caso Komanche - www.laprensa.hn** — 29/10/2026 09:21 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3FQOG12cG9QazZBNU9jdmxwamxVYk03RnpYTXVDcU1Ca2FlenYzRVJpd0JsRk9YZldwSGJQUWEydDNPcnBrcWw3WDdPb1NTcHhKcUNVZDk4Y0k0MUlnSjNmUFp6RmJERGVvcUVUSmI1R1ctb19ieHZlMEQ1Mm5oMDBfc2E0bF9TdU9JNWZhaw?oc=5)
 - **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn0gHiAUFVX3lxTE9fTjRRQ2Q3Y3QtSHVNdThWSk4yQjJKcTZMWEV4M3BUWEx3bk5Db1JtQkw3TjJyNlNiTmtNMzFjblNhNnA2N1dPalVzYWk5NDlQQk1vZnRudFA5UnVLYk5aMm0tZDlLVzEtVko3ZENoVXZkRkZfS0NnQVgySTR5b21pX1R5SkZ3dW9XdWZIc21GeG8ycU5oWGtxRzFoMzVNVGRtMnAyeUFBZ2pJV3pPcUZCWmdxNEhxaWFaUTBIWFNWTUYzZ0c4bkxVT0ZTVjUwY0k3MnZmdTVwSnhEUGREVGxUNmc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0dfc1ZvMjc2cEpkcm1ldUdoZ0tmVzZwbXl2UXFUdTk3QkNWS251U0JKQkxOY0pDLTI3UFlTN1MxMEp0N2NCQ29PYUJIU0dJa3RHc0ZNdXZKS084R2ljYXNDMDJaQjVKSnkwRkJBalRXQU0yYjVESnhXaFNNZHE2YURwV0VIOThtNVNpbWlLZ1l0YUhDYmFxek9CV3Rxd1BKbkZIempua05odE1ZM0ZGWW9SN240RS1wdWZCaTcyUmxUZFpyS1hfNmd4NkpJZlFnQlNNadIB4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn?oc=5)
-- **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 09:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2Q?oc=5)
+- **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 09:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2TSAa8CQVVfeXFMUGhGb2NkaE1TTDg3dF9vYWoyUEVUTnBad1Z1R3owM2M2eEFhUWlsVkhUd2hVbmdxOU0wblRsSW1lYi0yLVFkM1JxNVQyVG1uUjFtVWxORXZYUjhUd1EtQy1NUGplUEhZY0xFbDVBOE9wbTcxaWw1aWhWZm4xTndjVXVza2RxRXM5WHVDcjBYZHBFT1V0SUZWT1JIRHZxREYycVFFUWNEN1Njc21EcUp4cjQ3dElDSzNnd1BYODUtRE5PNFlQY21sSlM5eEN4dzFZS1VvRTRYczRmZTFWWnBVNU0yNlhwSm1OQmtuRURZcmt1U0JIeFJmRFhubzYzUDRpN0hKNXUtMjVpUVhjbHhZVlh3TWFnakF4bWt3VFVVSTBZSTZwM0xEaGlxZ29QZjlz?oc=5)
 - **[Creadores] Crecen las dudas por la relación entre Yeferson Cossio y Carolina Gómez - Identidad Correntina** — 28/10/2026 04:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxPalQwN0dlRWpwaFM0MmlSRElkMi1fTGRHckxjdlgwTTVXMUJ6Y0VScEpOQXd4aTR0N09KX2xLNnNfSVM1cUI1STI1VGlROHZkUzdkeXhrbU1ZQThFUDc3TWRKVU5EUlRNZEQwNlRBNklZdTZPYVU5VjVCZ1pBSDM0N0M2ZEt1eG9yNkpFWmxUS0M0VFVkWldrNTAtMGZrTG1CZWNxVzhsNHVsQXVrb2M1a0hyNWNNa2lMbEc0WWFBMTFNelVE?oc=5)
-- **[Creadores] Expareja de Escro, prometido de Aida Victoria Merlano, lo ac - Diario del Sur** — 27/10/2026 05:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbllvMndlZC1PSXE4QXQ0akE5SThJem9hRFNvdkVYNXE0QnBhaGV2dlJCbWpfUHJENHdscWNVVkF3dDFUY21nMTBfNGw5OFBZdWVsRW1uT2k4ZlQtN1NVMldPM0pvSmFkbTVzWVRvamZkWk80eDF2NkUyY3l6RTRkcWdySVBtMVFPRTJZVFVLZ29nRDJ2N3BQT1dxekY4S2NqVXo0b2lvSmNFbDBXMHJ5T2xqRWYybUx5bDVMR0NB?oc=5)
 
 ## Creadores principales vigilados
 
