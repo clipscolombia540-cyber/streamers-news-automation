@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 03:48 AM (hora de Colombia)
+Actualizado: 30/10/2026 05:42 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influencer de respaldo: 1.
+Clips incluidos: 7.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: Drice Gamerz
 - Publicado: 29/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.293
+- Vistas reportadas por YouTube: 25.305
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ElNstcXs2pY
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: Cell Junior™
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.430
+- Vistas reportadas por YouTube: 52.657
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=DsQ-gNvbxYw
 
@@ -37,8 +37,8 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: CHISME URBANO TV
 - Publicado: 30/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.689
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 9.625
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
@@ -48,31 +48,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.759
+- Vistas reportadas por YouTube: 33.074
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
-
-### Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clip Rafagazo
-- Creador relacionado en el título: Samulx
-- Canal que publico: Clip Rafagazo
-- Publicado: 29/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=89N2oa1_dbg
-
-### Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clip Rafagazo
-- Creador relacionado en el título: Samulx
-- Canal que publico: Clip Rafagazo
-- Publicado: 29/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=qk-CMZB-m-4
 
 ### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
 - Categoria: Cuenta de clips
@@ -102,7 +80,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: Xime Ponch
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.780
+- Vistas reportadas por YouTube: 12.987
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -150,26 +128,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
-- **Texto en pantalla:** Samulx parte 04 retos tik tok-que riiiiicoooo🔥🔥🔥
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=89N2oa1_dbg
-
-### Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
-- **Texto en pantalla:** Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=qk-CMZB-m-4
-
 ### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -209,7 +167,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn0gHiAUFVX3lxTE9fTjRRQ2Q3Y3QtSHVNdThWSk4yQjJKcTZMWEV4M3BUWEx3bk5Db1JtQkw3TjJyNlNiTmtNMzFjblNhNnA2N1dPalVzYWk5NDlQQk1vZnRudFA5UnVLYk5aMm0tZDlLVzEtVko3ZENoVXZkRkZfS0NnQVgySTR5b21pX1R5SkZ3dW9XdWZIc21GeG8ycU5oWGtxRzFoMzVNVGRtMnAyeUFBZ2pJV3pPcUZCWmdxNEhxaWFaUTBIWFNWTUYzZ0c4bkxVT0ZTVjUwY0k3MnZmdTVwSnhEUGREVGxUNmc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0dfc1ZvMjc2cEpkcm1ldUdoZ0tmVzZwbXl2UXFUdTk3QkNWS251U0JKQkxOY0pDLTI3UFlTN1MxMEp0N2NCQ29PYUJIU0dJa3RHc0ZNdXZKS084R2ljYXNDMDJaQjVKSnkwRkJBalRXQU0yYjVESnhXaFNNZHE2YURwV0VIOThtNVNpbWlLZ1l0YUhDYmFxek9CV3Rxd1BKbkZIempua05odE1ZM0ZGWW9SN240RS1wdWZCaTcyUmxUZFpyS1hfNmd4NkpJZlFnQlNNadIB4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn?oc=5)
 - **[Creadores] Aida Victoria Merlano compartió una reflexión sobre su rol con el hijo que tuvo con El Agropecuario: “Nadie sabe por lo que he tenido que pasar” - Infobae** — 28/10/2026 09:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilAJBVV95cUxNX3Z3aG8xQTBnTnZhMTlfVWxuNEtoRm1NMVYtRE1vTmNuY3V6TllLRE5weDdxZXpoSjk5YXZUT0ZPUnlKRUJReHRzbVZEbE04QXp2WUxVYnQ1bnhRdFcxTjNYcUFzV01aRWM5TG5BaFhTSWVaU0ppZUw1Q2N6SXdNbGcwWDZJaXZ4b1YzVEFsMWVnT0tlMG5wV3lhcEhEamctT0dkbjlwRVZLa3Z2R183WUR5dlNPWC1zSkt3Y20zcl9BNnhkWnBtakk4d1NBSlV5NFYyeHFSMGxDR1oxQzVlbDYta09xekg4dlpvdEtxU1ZwVS1jWlBJelhjRTllZGh3UFhKdC0teUhsQ3ZSTHNWMWZnU2TSAa8CQVVfeXFMUGhGb2NkaE1TTDg3dF9vYWoyUEVUTnBad1Z1R3owM2M2eEFhUWlsVkhUd2hVbmdxOU0wblRsSW1lYi0yLVFkM1JxNVQyVG1uUjFtVWxORXZYUjhUd1EtQy1NUGplUEhZY0xFbDVBOE9wbTcxaWw1aWhWZm4xTndjVXVza2RxRXM5WHVDcjBYZHBFT1V0SUZWT1JIRHZxREYycVFFUWNEN1Njc21EcUp4cjQ3dElDSzNnd1BYODUtRE5PNFlQY21sSlM5eEN4dzFZS1VvRTRYczRmZTFWWnBVNU0yNlhwSm1OQmtuRURZcmt1U0JIeFJmRFhubzYzUDRpN0hKNXUtMjVpUVhjbHhZVlh3TWFnakF4bWt3VFVVSTBZSTZwM0xEaGlxZ29QZjlz?oc=5)
-- **[Creadores] Crecen las dudas por la relación entre Yeferson Cossio y Carolina Gómez - Identidad Correntina** — 28/10/2026 04:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxPalQwN0dlRWpwaFM0MmlSRElkMi1fTGRHckxjdlgwTTVXMUJ6Y0VScEpOQXd4aTR0N09KX2xLNnNfSVM1cUI1STI1VGlROHZkUzdkeXhrbU1ZQThFUDc3TWRKVU5EUlRNZEQwNlRBNklZdTZPYVU5VjVCZ1pBSDM0N0M2ZEt1eG9yNkpFWmxUS0M0VFVkWldrNTAtMGZrTG1CZWNxVzhsNHVsQXVrb2M1a0hyNWNNa2lMbEc0WWFBMTFNelVE?oc=5)
 
 ## Creadores principales vigilados
 
