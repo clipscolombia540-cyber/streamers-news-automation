@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-10-30T07:44:20.809476-05:00",
+  "actualizado": "2026-10-30T09:51:01.215558-05:00",
   "series": [
+    {
+      "nombre": "Minecraft Speedrunning but it's just ANJOUU losing his mind",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-30T09:51:01.215558-05:00",
+      "ultima_deteccion": "2026-10-30T09:51:01.215558-05:00",
+      "canal_muestra": "Waxed Lightly Weathered Cut Copper Stairs Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=-VqKH4Gd9jk"
+      ]
+    },
     {
       "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
