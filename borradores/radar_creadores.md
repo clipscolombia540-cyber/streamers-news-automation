@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 03:31 PM (hora de Colombia)
+Actualizado: 30/10/2026 05:34 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influencer de respaldo: 2.
+Clips incluidos: 11.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 7, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: CHISME URBANO TV
 - Publicado: 30/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 132.435
+- Vistas reportadas por YouTube: 178.337
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
@@ -35,11 +35,22 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Cell Junior™
-- Publicado: 29/10/2026 07:00 PM
+- Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 53.844
+- Vistas reportadas por YouTube: 54.127
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=DsQ-gNvbxYw
+
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 28/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 20.806
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - Categoria: Cuenta de clips
@@ -48,7 +59,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 37.566
+- Vistas reportadas por YouTube: 38.820
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
@@ -59,7 +70,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42.606
+- Vistas reportadas por YouTube: 42.863
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
@@ -70,41 +81,42 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: MILICA CLIPS
 - Publicado: 30/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
 
-### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+### GAME NIGHT IN MEXICO | MR STIVEN
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: GANGA CLIPS
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MRSTIVEN TC CLIPSS
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 132
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=iAcZeiAJX8E
+
+### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
-- Canal que publico: GANGA CLIPS
-- Publicado: 29/10/2026 11:00 PM
+- Canal que publico: MILICA CLIPS
+- Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 144
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=pdLdbkPAz8U
+- Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
+### Mi coleccion de gorras - Samulx
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WESTCOL CLIPS | STTBEL
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: WESTCOL CLIPS | STTBEL
+- Creador/canal detectado: Cuenta de clips: SamulxClips
+- Creador relacionado en el título: Samulx
+- Canal que publico: SamulxClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=l5hx1Iv4zNg
-
-### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Yeferson Cossio
-- Canal que publico: Yefito
-- Publicado: 28/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 532.937
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
+- Enlace directo: https://www.youtube.com/watch?v=M7wwNQ4ILko
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - Categoria: Influencer de respaldo
@@ -112,7 +124,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: Xime Ponch
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 16.118
+- Vistas reportadas por YouTube: 16.854
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -150,6 +162,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=DsQ-gNvbxYw
 
+### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
+- **Texto en pantalla:** ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL 
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=bFjWcEOK9YY
+
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -180,35 +202,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
 
-### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+### GAME NIGHT IN MEXICO | MR STIVEN
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** GAME NIGHT IN MEXICO | MR STIVEN
+- **Texto en pantalla:** GAME NIGHT IN MEXICO | MR STIVEN
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=iAcZeiAJX8E
+
+### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
-- **Texto en pantalla:** 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CU
+- **Título sugerido:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Texto en pantalla:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pdLdbkPAz8U
+- **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### Mi coleccion de gorras - Samulx
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- **Texto en pantalla:** YOVNGCHIMI LE TIRA A ANUEL AA FRENTE A REYDELACITY
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Mi coleccion de gorras - Samulx
+- **Texto en pantalla:** Mi coleccion de gorras - Samulx
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=l5hx1Iv4zNg
-
-### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
-- **Texto en pantalla:** Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | 
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=3f9S8OlwCuY
+- **Fuente original:** https://www.youtube.com/watch?v=M7wwNQ4ILko
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
@@ -222,7 +244,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Luisa Fernanda W y Pipe Bueno se casaron en Zipaquirá - El Norte Hoy** — 30/10/2026 02:45 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWRLNGwwOU05VW5BQzY2bG03c0lKbmkxWnRLbEo2LWN3RXktdm1NOFIwWE1NSzZ6bGlha0ZHY05RUW1jV3hlZVdEcWxrV3Z2RlNadDVsb3ItaVpqdGktVUVSSC1wZWlERmpXTWJRMGNhZmlZaUZfbUp2TTRuVkhONFN4N243UGgtUUJuc3Vn?oc=5)
+- **[Creadores] Boda de Pipe Bueno y Luisa Fernanda W: invitados y vestido - cablenoticias** — 30/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbV9RSU53QlBjOGwtbGNoeWxwWDdPYllDdVZoT1lDVGtoWXFRcmRPZFREci1yQXp1RmZDOXJvY3RJSGNNZE5xODJkZXp6VVN2VkRpMloxVC1vTVotRFA3bHU4WkFiQ1dwLUFkQnVXWXd4UFVfRVpaQXVHMmxrcUpPUnBfVktja0dodzdpY2NGdmRIM3IxdlZESzVldGJnR3l1NHc?oc=5)
+- **[Creadores] ¿Quién es la novia de Mr. Stiven? Ella es la bellísima mexicana, pareja del influencer colombiano - LOS40** — 30/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnRsQlJTVEVUY3drRlpha0hHX1FraXgwN3ZKNUc2QkEzX3V2UDRvUjkwcVJUOXZfQzNwb3AtWmtPdWpKeTVXNk1oU0F0Q3BmaUhKd1ZyWjhOVHFfM19Xb3N1ZldYLU8zZTRqNWN0Tm9aeE5LdFdtUEtPQ09qUlZJWEJFQ0ZYV1NXbXluUVlGdm94VzYxQXlabHhEOWphbndzMFYzS0M2cXdZZUVhcDdMUFJPeThmQ1dCRU5SUXdQUi1FdHpv0gHYAUFVX3lxTE5sczBxRWhUcTZaQWg2OWFLbU01am5BM0xRenJwbVh0NnBPd01qd1ZDM0RIaGdLZmFobXVIdnVXLW9sX00yWThGSUlFbGNyM1k5SkRnMW4wQ0wtcGNXLVVpeTU4S29VN0pVOFBDODh0czdObm5yVUhDdk16OGhVV2I3NTRpZVRZaHNNcXFwNWlYRXZDOVk0SXM1aldCdVBPT3E2TWJNVDZROW5ZNk1iaEdsTnpEODg3QVdYbGNVYmN0VDN1SjcyVzV6VXVZNkJybVdpanBNamM3RA?oc=5)
 - **[Creadores] Westcol negó haber incitado ataques contra el streamer fallecido Komanche: 'Nunca tuve nada en contra de él' - El Tiempo** — 30/10/2026 02:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUZaN0NqNzlnWEZxWFhCRWJfMlNqN3ZUWXJXVXZQaXItVURUSGZOcEpvTlNxcVVzV3UzeUt3VnZsaERVdlBNMjd3UERWWlBmVXdyOHl4cElnbnI5cDNrRWpWTnp0T0cxWG05TzVtay1fMzFOeVpXaXFaUmJRZGl5SjVyUVY1Qm5JX2ZfRzhTT0V3Y2t3bGl1VV9iazZJTy04UC0xSzB5eEU1b0Nwb1FRZWJvZmVGMFlTTl83T2l5MWNSTWg2dXR1WTlJcUFlQ2RaTE9hTFo2dmJNY0hSWlM5NEpIc0x3S2fSAewBQVVfeXFMTi1WZ3pRakI3NjV2bk14T0ppdF9RbkZQZW9pdy1BMUxhcjBybG43OW85X1B1Q1g0WjFtWUM5eEk4WVdodW9RQURrSFYtb3lyWDRhOHkwWnR3WlJxNGNSc0pCb2VGMmRMLUVGR3lGZ3N6NlQtSkQ2M2haU1h0X0ZucWdtRXBDd0ViRC0tUnQ2WEU0dGY5SjA2TE9aN3BzeFVzY21GZUd0dWp3VXYtSkMwYVZvblFtTkdnRDRyS3NDcDgyMExxakRBenNXNkdjYmZ3V2IwdHRfd3FpSUJJcWU0MFZ6TXNSNG5yVjJJVm8?oc=5)
 - **[Creadores] ¡Por todo lo alto! Así fue la boda de Pipe Bueno y Luisa Fernanda W - Aldia.co** — 30/10/2026 01:16 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMENSdDRNQmVnbUpEZkRSVVphRjdHTnN6OHVOZVA5bWNQb0xmTGRpbkdpN2tGbEl3RTVHQUZEelFUYXRLZl82RkoyaUpROVhUa0t2Q2RVTVNmOGozY2ZXN05XbFhDdVZsNEFjSmN0TmltUTZMMHVPYmRpdnR4Qnh3R0VaUDNiRm1nc3dLM0xQX2RZWi1xR1hyWmdiNXVQWXZ1?oc=5)
 - **[Creadores] Westcol niega haber promovido ataques de odio contra Komanche tras polémica de abuso sexual: “Yo nunca lo acusé” - La Prensa Gráfica** — 30/10/2026 01:04 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcEJPQTlvOWpnZllmcTFNM1VPaGR5QzVTcWttUjRwakk2cEx3X1QwdXA5ZC1qVUlOUkxaVG9sTkNmbzRhTUJaUG9KYUJmZkh5ejItdHI3U1BVLXBoc3FSaDB5QjlvUG91cHV3blZqd29vWUVZSzhmdWRCTnNSRGQ5UGdEOUMxVTY1YjhESks0ZGI0ZzdmU01oMGd3X0YtR1dURnZYSm5iNFlETzFnc090a0N2ZE81S2dpNF9TQkJFcnI5REhCU1F1R091Ynp4dnZCTGVIWkY3alRFQmQyY29tMHI3TFl0eks2Z2l6cGE0Y01ZdWNwWjRnbkJzaHQtQk0?oc=5)
