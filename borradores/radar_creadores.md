@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 09:51 AM (hora de Colombia)
+Actualizado: 30/10/2026 11:42 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente por verificar: 1, Influencer de respaldo: 2.
+Clips incluidos: 10.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### Minecraft Speedrunning Clips but it's just ANJOUU losing his mind
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Waxed Lightly Weathered Cut Copper Stairs Clips
-- Publicado: 29/10/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.604
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=-VqKH4Gd9jk
 
 ### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
 - Categoria: Clip de terceros
@@ -27,9 +17,19 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: CHISME URBANO TV
 - Publicado: 30/10/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.747
+- Vistas reportadas por YouTube: 47.047
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
+
+### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CHISME URBANO TV
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 66.755
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=B37b57f7G9o
 
 ### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
 - Categoria: Cuenta de clips
@@ -38,7 +38,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19.902
+- Vistas reportadas por YouTube: 20.069
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=bFjWcEOK9YY
 
@@ -49,7 +49,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.027
+- Vistas reportadas por YouTube: 35.020
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
@@ -60,20 +60,31 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.890
+- Vistas reportadas por YouTube: 42.041
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+### Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 08:00 PM
+- Creador/canal detectado: Cuenta de clips: Clip Rafagazo
+- Creador relacionado en el título: Samulx
+- Canal que publico: Clip Rafagazo
+- Publicado: 29/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
+- Enlace directo: https://www.youtube.com/watch?v=qk-CMZB-m-4
+
+### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: GANGA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: GANGA CLIPS
+- Publicado: 29/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=pdLdbkPAz8U
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - Categoria: Cuenta de clips
@@ -86,34 +97,13 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 29/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 85
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
-
-### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 29/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 920
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=znKW3YFHVbQ
-
 ### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Yeferson Cossio
 - Canal que publico: Yefito
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 509.021
+- Vistas reportadas por YouTube: 515.370
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=3f9S8OlwCuY
 
@@ -123,23 +113,13 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: Xime Ponch
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.665
+- Vistas reportadas por YouTube: 14.326
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### Minecraft Speedrunning Clips but it's just ANJOUU losing his mind
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Minecraft Speedrunning Clips but it's just ANJOUU losing his mind
-- **Texto en pantalla:** Minecraft Speedrunning Clips but it's just ANJOUU losing his mind
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-VqKH4Gd9jk
 
 ### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -150,6 +130,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZZmuLLlUMOU
+
+### WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Texto en pantalla:** WESTCOL CALLED OUT by EVERYONE for KOMANCHE'S PASSING
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=B37b57f7G9o
 
 ### ¡1VS1! REYDELACITY SE ENFRENTA A YVNGCHIMI JUGANDO BASKETBALL… ¡FINAL INESPERADO! 😳🏀🔥
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -181,15 +171,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Texto en pantalla:** Samulx parte 01 retos tik tok-que riiiiicoooo🔥🔥🔥
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
+- **Fuente original:** https://www.youtube.com/watch?v=qk-CMZB-m-4
+
+### 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CUÁNTO DINERO LOGRARON RECOGER?
+- **Texto en pantalla:** 😱 ¡CHANTY Y LA PIQUIÑA SE CONVIERTEN EN COBRADIARIOS POR UN DÍA!💸🏍️¿CU
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pdLdbkPAz8U
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -200,26 +200,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
-
-### NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Texto en pantalla:** NOCHE DE STREAM CON MI MAMA | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
-
-### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- **Texto en pantalla:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=znKW3YFHVbQ
 
 ### Healing her inner child, celebrating my sister's 15th birthday ❤️‍🩹 | Yeferson Cossio
 - **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
@@ -243,10 +223,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Westcol y el video viral con Milica: esto dijo el streamer sobre el escándalo (y la dura respuesta de ella - Port of Rotterdam** — 30/10/2026 11:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgJBVV95cUxNV0NRRkNrWjBYRWZoTmo1WklKcUNKbk9jNTRnTGlUaW9zbkN2RlhNUVJieGhxSi1hYmNYaWljNEthdXVMeV9zODJRUkwzZHZzYmtjdEJhLTd5MVNsQ2ZOSnFOS0tEWEg2ZzhZOTBDMW9weGJzVERfUUVncHNsYVlOdEN6QTJjay00NDBWbWRYYzdiM3pUbGRkRzBYNTUzRlZ2TGVUX0Z4VnhLbDVDZ043ZlhMblBmanNQVFRTeXdjTEJucHloc1FfV1liMDVBZzc4UGRFWnhYakx3VXFyMDk2NmRRVUFlbGtwaEdLajd0RkJkb3Ffd3B1STNEVExzbXdZN0hwTXBXc0Qyd25jMTBVbW8zNl9GZUdlOWxVN3pwVEQxVG5FdHNGMTRfbVgwaExDbGMyRGlR?oc=5)
+- **[Creadores] ¿Es verdad que capturaron a Westcol y está preso hoy? ¿Está en la cárcel? - TuNota** — 30/10/2026 10:54 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihwFBVV95cUxOR2ZzZS1zbTZGaEpLTGFvSTI2dDVlWHdzV0I0Ul9qcnpNeUw5dXgxQkNta3hTUHc2elhvMzk0cE5tUTlydUdiZURzWUJRUE5ib056Y3E4WVZaMzhfQ3p2cGtXMVYxZ0R3NnR5NGZTYTBoTTRMYWY1alNQVHpySFlHeXJtbGx2dDQ?oc=5)
+- **[Creadores] Pipe Bueno y Luisa Fernanda W se casaron: así fue su boda en la Catedral de Sal de Zipaquirá - Caracol Radio** — 30/10/2026 09:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTXRiZ1pvWTgyTFZKcFMxOHlaeE5sOGYybTdpZnpPLVhZSGV4VUQzVG9OS2VvbTkweWM2RERyUVdTTkRNWVo5M1FRMm9fb2RDOWxpanJWY0ZwUjczZTYzVFJwMm83TkFCbU5XYVFCQ1ZZTFJDcUxBWTBTTjFIUjh3aV9RVUg5ei1ieXIzTGU1VllUMzZjdy0waldjcWlOX0VNMDRjZUMxRG1ydDVmNkNqcllzMWdGQ1JvOFlvSjVDTnVfaloz0gHYAUFVX3lxTE9rQmVKWC1WcWRhNE43ZmRDQS03dzBUdkdvb1pNWWVBMnFPUnh1VWtlMmhiY1B5RTlETmxKbjNhcnJ5YlZmOHJMSWpuaWlTdFo5RXBlZE94Rk8zdnFvZzI5YkJUcklLdzJvM2pJUU5kbDR5b3ZNTTJuNTRXQXpyS2h2U0VIRFBSX2lIN2NLU2VKb2ttUXliMkttNXBaRjc0TXQ3cWZ0NmM3aDBtX1BhN3doQzNfR1Jxb0ZYbWQ5MnFkUjJLcHZEcjNpVVE0WnNyMzZMcFNtR1RQaQ?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno se casaron en Zipaquirá - El Norte Hoy** — 30/10/2026 08:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWRLNGwwOU05VW5BQzY2bG03c0lKbmkxWnRLbEo2LWN3RXktdm1NOFIwWE1NSzZ6bGlha0ZHY05RUW1jV3hlZVdEcWxrV3Z2RlNadDVsb3ItaVpqdGktVUVSSC1wZWlERmpXTWJRMGNhZmlZaUZfbUp2TTRuVkhONFN4N243UGgtUUJuc3Vn?oc=5)
-- **[Creadores] ¡De lujo! Influenciadores y figuras de la farándula se dieron cita en la boda de Pipe Bueno y Luisa Fernanda W - Alerta** — 30/10/2026 08:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkZzcmhJQ0EyT1BmNko0WEl1M0toX01BdXMyeTdxa1BnOEs3QmlMZDRqX0RpOUJQb3pMTG5YQzNGZl9udFp0dXNLZnhjTmlySHQtRTRxX2ZiVzFSR0NTTlRXdVF4VHlvZHhnUmdxZ0tnNlQxbm5GY09mS3hkam5fR2p0MGcyOFhwX1F3Rkl1YUZORWJ3WEs1WVlueXd1S3B1RXZkQlNZa9IBqwFBVV95cUxQSC0wSDNTQ3hvNGs5VXFYdnNBa3ZOYXlqWDV5d1NDbFA0OGNrRUlIMUhxV3F1T1dudVdtOHhtdzltYzVCbWg2c2lwdTl5Wk1la1BFaC0yNU11ZWVEWkduZjFhaTZPcXo5emFDYlNjNDdQTnJVOTZadDA0eHVwZzY3U2dlMjRPX20wSE4tSG4tMUZ2Mk1FcXpxZHVwQ0xBc3JmNklEQldUMUYzTHM?oc=5)
-- **[Creadores] El Temach y WestCol discuten en vivo por el caso Komanche - www.laprensa.hn** — 29/10/2026 08:48 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3FQOG12cG9QazZBNU9jdmxwamxVYk03RnpYTXVDcU1Ca2FlenYzRVJpd0JsRk9YZldwSGJQUWEydDNPcnBrcWw3WDdPb1NTcHhKcUNVZDk4Y0k0MUlnSjNmUFp6RmJERGVvcUVUSmI1R1ctb19ieHZlMEQ1Mm5oMDBfc2E0bF9TdU9JNWZhaw?oc=5)
-- **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
+- **[Creadores] «¡Ya es real, la ayuda va!»: Juanda Caribe confirma que reconstruirá la casa del «Chancletica» - río noticias** — 30/10/2026 08:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI2dUNCVTJ0SHhLbDdSMW9KQjdzcW9nd3lCYm1CMU9qSlQtYzREYkZKTDNSbzdHZk9yeWNYZk1XcFd5ck1tVi11YXNkNk9hTHRaOXBrVlA5OEgtXzV3NUZMMTlUWkxrWkxPLXRmUWJPT3MxLTdDdzJKbEhxOVEwWmtUZmJZVXFuQmRoUVdtS0FZSmgyeGVhaW1VNFlKMGdFbFViajNGdGxkYnJPOGp30gG0AUFVX3lxTE9IOEQ0UTFibld2M1dQa2pBUjIxajNOSkphRFVwekc4cTBUeDBucThwYTRfcFJsVEVwS2x3SEFsY1prRWNzTzJaUWw3NzZ3aWRTR19GaFlPWDdINWJ5amU5aHRNTkNidlRldi0ydkloUXpzd2ZBcmcxc29hTEJodmFaZHVXR0FZUjlld2JfMHBwSWhiVHk2S3YzYkFXQXExR3RLLUlJd0pVWGRoZEVoT2JWa1dxaw?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn0gHiAUFVX3lxTE9fTjRRQ2Q3Y3QtSHVNdThWSk4yQjJKcTZMWEV4M3BUWEx3bk5Db1JtQkw3TjJyNlNiTmtNMzFjblNhNnA2N1dPalVzYWk5NDlQQk1vZnRudFA5UnVLYk5aMm0tZDlLVzEtVko3ZENoVXZkRkZfS0NnQVgySTR5b21pX1R5SkZ3dW9XdWZIc21GeG8ycU5oWGtxRzFoMzVNVGRtMnAyeUFBZ2pJV3pPcUZCWmdxNEhxaWFaUTBIWFNWTUYzZ0c4bkxVT0ZTVjUwY0k3MnZmdTVwSnhEUGREVGxUNmc?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0dfc1ZvMjc2cEpkcm1ldUdoZ0tmVzZwbXl2UXFUdTk3QkNWS251U0JKQkxOY0pDLTI3UFlTN1MxMEp0N2NCQ29PYUJIU0dJa3RHc0ZNdXZKS084R2ljYXNDMDJaQjVKSnkwRkJBalRXQU0yYjVESnhXaFNNZHE2YURwV0VIOThtNVNpbWlLZ1l0YUhDYmFxek9CV3Rxd1BKbkZIempua05odE1ZM0ZGWW9SN240RS1wdWZCaTcyUmxUZFpyS1hfNmd4NkpJZlFnQlNNadIB4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn?oc=5)
 
