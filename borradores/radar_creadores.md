@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 29/10/2026 07:43 PM (hora de Colombia)
+Actualizado: 29/10/2026 09:43 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 7.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 7, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,29 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 7, Influence
 - Canal que publico: Drice Gamerz
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.467
+- Vistas reportadas por YouTube: 51.468
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=pI8pPbmll7I
+
+### Westcol responde a las acusaciones de ser el culpable de lo de Komanche
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Cell Junior™
+- Publicado: 28/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 51.540
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=DsQ-gNvbxYw
+
+### TEMACH VS WESTCOL, ACUSACIONES P4
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CarnegieDALE
+- Publicado: 29/10/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=SUiGy0LHnsw
 
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - Categoria: Cuenta de clips
@@ -28,42 +48,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 7, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.092
+- Vistas reportadas por YouTube: 28.578
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
-
-### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 28/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 38.927
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=45Xz-d394-4
-
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
-
-### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - Categoria: Cuenta de clips
@@ -87,24 +74,13 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 7, Influence
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
-### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: TeddyRL Clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: TeddyRL Clips
-- Publicado: 28/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=in0ySlCPuR4
-
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Pautips
 - Canal que publico: Xime Ponch
 - Publicado: 28/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.446
+- Vistas reportadas por YouTube: 11.206
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -122,6 +98,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=pI8pPbmll7I
 
+### Westcol responde a las acusaciones de ser el culpable de lo de Komanche
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol responde a las acusaciones de ser el culpable de lo de Komanche
+- **Texto en pantalla:** Westcol responde a las acusaciones de ser el culpable de lo de Komanch
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=DsQ-gNvbxYw
+
+### TEMACH VS WESTCOL, ACUSACIONES P4
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** TEMACH VS WESTCOL, ACUSACIONES P4
+- **Texto en pantalla:** TEMACH VS WESTCOL, ACUSACIONES P4
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=SUiGy0LHnsw
+
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -131,36 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
-
-### REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀🔥
-- **Texto en pantalla:** REYDELACITY PLAYING BASKETBALL WITH YVNGCHIMI IN THE PROJECTS… CRAZY!🏀
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=45Xz-d394-4
-
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
-
-### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Texto en pantalla:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
 
 ### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -182,16 +148,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=KsrVmzmI-uQ
 
-### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Texto en pantalla:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=in0ySlCPuR4
-
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -204,8 +160,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] ¿Cuáles serán los regalos que darán en la boda de Luisa Fernanda W y Pipe Bueno? Esta fue su petición - LOS40** — 29/10/2026 05:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUtzdTB1OVJEQnFaUHY0MXdDTHFEZUxLN1VNc2U2TkU2NnNHWW1RcGw1c3BLUDZ3Yy1sWXRxMXVZZ2tSaDJEUWFfVzU5X3g0dzBwOUxBU0pHTWhzd3psN0NobDNYbUZFdnFuY2c4TUotcEtQQk9ZOGNqZnhrZ1BORWZwbUJwYVVkTllpbXlNVlgzOTFRcjUwUER0dmNPZlZ5SFVaTTlvVEpMc2U3aHNPSEFPUDh0eW40ZUp3NERxRnZWeUZUZzJoY3RCWkrSAeABQVVfeXFMT2VzRi10bFpxOHFZZjIxMmpaXzdtTkhoUnRHeW1vdGJzYXFuNHI3Y0hELW9hbk8xUl96NWNVcVF5VjBjVGNEZGs5Njk0ekFFNDVJSkcxSVhyQ3NDb25wWEdiVmF6c0pGWmlpTXZBNE5WV1NIZ25kSU1FX0gxVzZvdkVvb1VfaEVmbnlhcG9idWNkYzZKc0VUZ3VxUzd5UVRTSTBVMEw0Mk5fMFJkQTlZZHd6OTk5b0t4SmZrV0p1ZWQ0ZUxhd0M0ZnlyYW1NdjBXY3FaU2N1YXVVQkNOMVhqM08?oc=5)
-- **[Creadores] Famosos que fueron a boda de Luisa Fernanda W y Pipe Bueno: una llevó corona de flores - Caracol TV** — 29/10/2026 05:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONzgyWUx6dFl1M0tpUE5ib1Y5bk8xMm9MOXJpNVBNYVJ6S3NGa0czLTJKS3ptTkVWTkZoVHJxZFlSYUlJazk2bUdaQ3NkR0F2OU9hWHFZOFItemkyR1ozcGdXSklIVDJMX3UzLXRiUnpsa2Vrcl9nUm92SThlbTQyc2xVWGZBVm1FMURhVlF1RV9xNU9HRkNJRFhya0VOWUFFTVpVcmNnZ1g1MlpUY1BKbVRvOTFIWTFES0I3S3BjSjJKbG0yS0R6TWRPZkZrZHBkbmFN0gHTAUFVX3lxTE43ODJZTHp0WXUzS2lQTmJvVjluTzEyb0w5cmk1UE1hUnpLc0ZrRzMtMkpLem1ORVZORmhUcnFkWVJhSUlrOTZtR1pDc2RHQXY5T2FYcVk4Ui16aTJHWjNwZ1dKSUhUMkxfdTMtdGJSemxrZWtyX2dSb3ZJOGVtNDJzbFVYZkFWbUUxRGFWUXVFX3E1T0dGQ0lEWHJrRU5ZQUVNWlVyY2dnWDUyWlRjUEptVG85MUhZMURLQjdLcGNKMkpsbTJLRHpNZE9mRmtkcGRuYU0?oc=5)
+- **[Creadores] Así fue la boda de Luisa Fernanda W y Pipe Bueno: lugar, invitados y video del beso - Noticias RCN** — 29/10/2026 09:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU1OejVEclI2OVZfckxRWW9sYjB0NlJCbWpMdHc3UlN6QXcyZXQ5V3BMLWkwMzk2TExNZWdNTmhVbkktSVdQUllsU3dUVjFEZjdFbUdWTFJEN0hrRVBsdkpUMjRFazF4dHRCdFJJQWtKQno4SVF1TGdMY0RCeHBiT3YyRTFwZmZONzRzVTJ2bTBTa09XaUw2aGdQZ9IBmwFBVV95cUxNR3BGamJnVlFkaGRWX2VqTEJzdGpVdkdTTmhwRjdJMnlJLUhnUEZyaGtCNkgyeWdnanRQR3dfbldRdHVUWlBOTGh0R3VLdkNydE0zeXc4YjJ2eUVUclNVaHY1NlNGdTlGVy1ZQ1NWMWVQMWxwSXdEbHdZQkNjN3lEYVNwTDJBTURKQnk3dUhMMmVYRVdtblp5YUVXcw?oc=5)
+- **[Creadores] Así fue la boda de Luisa Fernanda W y Pipe Bueno: lugar e invitados - Vanguardia** — 29/10/2026 08:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmhNRTFRcTlXdUJaNXhUazJoZW9lQ2M2ekZ6aldURkhoMmxJRHZjUUN5Q21TNTIxNTJ3eGdyaXV4b1lwejhSTUhVSV93a2FySUc1Rl9hcFBJWW9ZSzRGLWtPY0RYa1hzUUdMU3ZwcGVaRTEtbHNDdkJSX0hOQzBVTEs1UXRpaDluU1VldEI4QzR0b0RoSGdGOGZKYkIzQWVKVmQwVHRjS3A5aENSbW9Ia1ZDVlpnOFRzaDZMaXZfMjlqLVNOQW5hX19WZVQ?oc=5)
 - **[Creadores] El Temach y WestCol discuten en vivo por el caso Komanche - www.laprensa.hn** — 29/10/2026 09:21 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3FQOG12cG9QazZBNU9jdmxwamxVYk03RnpYTXVDcU1Ca2FlenYzRVJpd0JsRk9YZldwSGJQUWEydDNPcnBrcWw3WDdPb1NTcHhKcUNVZDk4Y0k0MUlnSjNmUFp6RmJERGVvcUVUSmI1R1ctb19ieHZlMEQ1Mm5oMDBfc2E0bF9TdU9JNWZhaw?oc=5)
 - **[Creadores] ¿Qué pasó con Westcol? El streamer negó acoso contra Komanche - EXA FM** — 28/10/2026 04:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUc1a0VpckhVZEVCV1ZJbV9kNG11dEk3U2t3bVNpNW85aFZnaUdsdW5KZFJtbVFOcWVESU1vREJ0WkplZnVINGRzeWc0dE9PVGU0azQ0WEhIQWhxZWNtYjkxdlRrMy1yYlFRVnh1b0tTTWRyaEZPcndWQnAyXzROQXRnQVA5TVpjVndscWpQaG5ncnh1QUFRRVl2RlpCZDJvSDlRbWtybw?oc=5)
 - **[Creadores] Polémicas palabras de Yina Calderón tras la muerte de Komanche; generó polémica - La Kalle** — 28/10/2026 01:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX040UUNkN2N0LUh1TXU4VkpOMkIySnE2TFhFeDNwVFhMd25OQ29SbUJMN04ycjZTYk5rTTMxY25TYTZwNjdXT2pVc2FpOTQ5UEJNb2Z0bnRQOVJ1S2JOWjJtLWQ5S1cxLVZKN2RDaFV2ZEZGX0tDZ0FYMkk0eW9taV9UeUpGd3VvV3VmSHNtRnhvMnFOaFhrcUcxaDM1TVRkbTJwMnlBQWdqSVd6T3FGQlpncTRIcWlhWlEwSFhTVk1GM2dHOG5MVU9GU1Y1MGNJNzJ2ZnU1cEp4RFBkRFRsVDZn0gHiAUFVX3lxTE9fTjRRQ2Q3Y3QtSHVNdThWSk4yQjJKcTZMWEV4M3BUWEx3bk5Db1JtQkw3TjJyNlNiTmtNMzFjblNhNnA2N1dPalVzYWk5NDlQQk1vZnRudFA5UnVLYk5aMm0tZDlLVzEtVko3ZENoVXZkRkZfS0NnQVgySTR5b21pX1R5SkZ3dW9XdWZIc21GeG8ycU5oWGtxRzFoMzVNVGRtMnAyeUFBZ2pJV3pPcUZCWmdxNEhxaWFaUTBIWFNWTUYzZ0c4bkxVT0ZTVjUwY0k3MnZmdTVwSnhEUGREVGxUNmc?oc=5)
