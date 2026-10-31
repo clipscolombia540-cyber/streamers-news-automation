@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 31/10/2026 11:30 AM (hora de Colombia)
+Actualizado: 31/10/2026 01:35 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 10.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Canal que publico: SHOWTUBERS TV
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 101.034
+- Vistas reportadas por YouTube: 103.313
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
-
-### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: CHISME URBANO TV
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 281.432
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -37,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.210
+- Vistas reportadas por YouTube: 51.211
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
@@ -48,31 +38,53 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.692
+- Vistas reportadas por YouTube: 44.580
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### MERCANDO CON MI MUJER | CHANTY
+### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 30/10/2026 01:00 PM
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
 
-### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+### MR STIVEN JUGANDO FREE FIRE A TOPE
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MRSTIVEN TC CLIPSS
+- Publicado: 31/10/2026 01:28 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=RCJZchH_c2Y
+
+### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
-- Publicado: 29/10/2026 07:00 PM
+- Publicado: 31/10/2026 12:58 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 248
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
+- Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
+
+### BLESSD y RYAN CASTRO en PROVENZA ft Chanty 🎃🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Piquiña Clips
+- Creador relacionado en el título: Chanty
+- Canal que publico: Piquiña Clips
+- Publicado: 31/10/2026 12:55 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=QPGdg8u6pRY
 
 ### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
 - Categoria: Cuenta de clips
@@ -85,13 +97,23 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influence
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=in0ySlCPuR4
 
+### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.298
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=znKW3YFHVbQ
+
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Pautips
 - Canal que publico: Xime Ponch
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.274
+- Vistas reportadas por YouTube: 23.422
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
@@ -108,16 +130,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
-
-### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
-- **Texto en pantalla:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -139,25 +151,45 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
-### MERCANDO CON MI MUJER | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** MERCANDO CON MI MUJER | CHANTY
-- **Texto en pantalla:** MERCANDO CON MI MUJER | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Texto en pantalla:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
+- **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
 
-### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+### MR STIVEN JUGANDO FREE FIRE A TOPE
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN JUGANDO FREE FIRE A TOPE
+- **Texto en pantalla:** MR STIVEN JUGANDO FREE FIRE A TOPE
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=RCJZchH_c2Y
+
+### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Texto en pantalla:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Título sugerido:** CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
+- **Texto en pantalla:** CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
+- **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
+
+### BLESSD y RYAN CASTRO en PROVENZA ft Chanty 🎃🤣
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** BLESSD y RYAN CASTRO en PROVENZA ft Chanty 🎃🤣
+- **Texto en pantalla:** BLESSD y RYAN CASTRO en PROVENZA ft Chanty 🎃🤣
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=QPGdg8u6pRY
 
 ### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -168,6 +200,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=in0ySlCPuR4
+
+### DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- **Texto en pantalla:** DRAKE TE DA $10.000.000 🤑 | CLIPS DE LA GANGA pt.100
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=znKW3YFHVbQ
 
 ### Haters, call-outs, MasterChef, and returning to YouTube?? ft. Pautips | EP #73 | S4
 - **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
