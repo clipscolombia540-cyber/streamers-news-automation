@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 11:38 PM (hora de Colombia)
+Actualizado: 31/10/2026 01:43 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 4.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.197
+- Vistas reportadas por YouTube: 51.199
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
-### Everyone hates Westcol for what happened with Komanche…
+### LA TERRIBLE entrevista a FERNANDAVAAL, ELTEMACH ¡DURISIMO con WESTCOL! EXs de AURON se EMPIEZAN a...
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Txrry
-- Publicado: 30/10/2026 06:00 PM
+- Canal que publico: Shur News
+- Publicado: 30/10/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 70.025
+- Vistas reportadas por YouTube: 39.171
 - Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=pITBtuK1yXQ
+- Enlace directo: https://www.youtube.com/watch?v=rjI-wl6qIOA
 
 ### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
 - Categoria: Clip de terceros
@@ -37,40 +37,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: SHOWTUBERS TV
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 93.256
+- Vistas reportadas por YouTube: 96.238
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Mc x Akki
-- Publicado: 30/10/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 785
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=DOdMKdwL7Qs
-
-### 🌭JUGANDO ONE-ARMERD COCK CON @pelicanger 2.0🌭
-- Categoria: Clip de terceros
-- Creador/canal detectado: Pelicanger
-- Canal que publico: Miguelito con M
-- Publicado: 30/10/2026 10:54 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=j3g49lgazSE
-
-### FIESTA de HALLOWEEN con JESUS MENDOZA, YSRAEL BARAJAS y MUJERES | WILLITO LONCHE y FAMOSOS
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 30/10/2026 08:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.915
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=nzIAsI_jSvo
 
 ### MERCANDO CON MI MUJER | CHANTY
 - Categoria: Cuenta de clips
@@ -79,20 +48,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: MILICA CLIPS
 - Publicado: 30/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
+- Vistas reportadas por YouTube: 11
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
-
-### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 29/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 155
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -108,15 +66,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
 
-### Everyone hates Westcol for what happened with Komanche…
+### LA TERRIBLE entrevista a FERNANDAVAAL, ELTEMACH ¡DURISIMO con WESTCOL! EXs de AURON se EMPIEZAN a...
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Everyone hates Westcol for what happened with Komanche…
-- **Texto en pantalla:** Everyone hates Westcol for what happened with Komanche…
+- **Título sugerido:** LA TERRIBLE entrevista a FERNANDAVAAL, ELTEMACH ¡DURISIMO con WESTCOL! EXs de AURON se EMPIEZAN a...
+- **Texto en pantalla:** LA TERRIBLE entrevista a FERNANDAVAAL, ELTEMACH ¡DURISIMO con WESTCOL!
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pITBtuK1yXQ
+- **Fuente original:** https://www.youtube.com/watch?v=rjI-wl6qIOA
 
 ### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -128,36 +86,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=DOdMKdwL7Qs
-
-### 🌭JUGANDO ONE-ARMERD COCK CON @pelicanger 2.0🌭
-- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
-- **Título sugerido:** 🌭JUGANDO ONE-ARMERD COCK CON @pelicanger 2.0🌭
-- **Texto en pantalla:** 🌭JUGANDO ONE-ARMERD COCK CON @pelicanger 2.0🌭
-- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=j3g49lgazSE
-
-### FIESTA de HALLOWEEN con JESUS MENDOZA, YSRAEL BARAJAS y MUJERES | WILLITO LONCHE y FAMOSOS
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** FIESTA de HALLOWEEN con JESUS MENDOZA, YSRAEL BARAJAS y MUJERES | WILLITO LONCHE y FAMOSOS
-- **Texto en pantalla:** FIESTA de HALLOWEEN con JESUS MENDOZA, YSRAEL BARAJAS y MUJERES | WILL
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=nzIAsI_jSvo
-
 ### MERCANDO CON MI MUJER | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -168,21 +96,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
 
-### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Texto en pantalla:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
-
 ## Noticias y contexto
 
+- **[Creadores] ¿Quién atrapó el ramo de Luisa Fernanda W? Su reacción se hizo viral | El Colombiano - El Colombiano** — 30/10/2026 08:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxlYm56WnZFaUdrRVFrZ3lKYl9CaUYzX2hGY2VmV1BheHNqMGVadTVyT2M0SVNKNkozSVlzSGNaSGRKT0pQTmJTVk9rWHZobDBDR1ZHd0VJUXZCNDRCZ3RZeTJLanpkTFlMODVPR2FZZHZBelk4U2M3aTV2Q2w5NW1DWGRHbWFWNmZ2LXMzaV83MDY2LTF2NGYwdjJIai1NZ2pnSmxUQ29BQdIBrwFBVV95cUxOT0h5enp0SG1BOVlZRUg2XzZxMlRPc2lLaWZvU1lkYXJzUngwMk9sYWFhTi0tX2tkcUM4Y0IydWlWbkg0RTcxYTV2TEhib0t0ZUcyaENJbHBVVF9OQklNdlJPbEN0UXVvdHFhNmxnNDZGeUliSW1hWHI5MmtBaXRiZjBZWE04MV9MMVJ0QnY3V3hDaVZGdE9mbnZjVjlTbjVuaUtTQmFXc3dYQnVycHdB?oc=5)
 - **[Creadores] Westcol rompe el silencio tras la muerte de Komanche - elsalvador.com** — 30/10/2026 06:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWhPekJ5OUU0LTVMeU5LYjFlX2k5RnRWaFNkN1owR0ZLTmgxOXdZa2p3OENqVUpmWEo5ekdsb1BHR1NjRWxoeUFvWEFDQVlNQlc2dU4wTTBwdXNnZ2FNZFY2SG1ROEtVVEhqVUJWejMwdUxVQnBBakdnLW1wMGxBc2IzTWo5LXlfY0lCU2M5TVpEbC0xeWR3ZFd3?oc=5)
 - **[Creadores] ¿Qué famosos asistieron a la boda de Pipe Bueno y Luisa Fernanda W? - Kienyke** — 30/10/2026 05:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2xsNng1ZkpVRFZnQ1FQa3FqbjhaeV90U21Od2xxakRUNnFPNUVqMjBmTlhMU3ZEbDNtNHQwV0tiNk92OWwydnBNT1FieEFjOFNPcC1Ub1ZpLWNTekJvRFl1amhaNzd0dXdDSUhGVWtBeTJVZ1FsZHFCMHE3bGZ3SEZhQ2stX2xqdDZZZjlmVjRvcFZmRUE?oc=5)
-- **[Creadores] Boda de Pipe Bueno y Luisa Fernanda W: invitados y vestido - cablenoticias** — 30/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbV9RSU53QlBjOGwtbGNoeWxwWDdPYllDdVZoT1lDVGtoWXFRcmRPZFREci1yQXp1RmZDOXJvY3RJSGNNZE5xODJkZXp6VVN2VkRpMloxVC1vTVotRFA3bHU4WkFiQ1dwLUFkQnVXWXd4UFVfRVpaQXVHMmxrcUpPUnBfVktja0dodzdpY2NGdmRIM3IxdlZESzVldGJnR3l1NHc?oc=5)
 - **[Creadores] ¿Quién es la novia de Mr. Stiven? Ella es la bellísima mexicana, pareja del influencer colombiano - LOS40** — 30/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnRsQlJTVEVUY3drRlpha0hHX1FraXgwN3ZKNUc2QkEzX3V2UDRvUjkwcVJUOXZfQzNwb3AtWmtPdWpKeTVXNk1oU0F0Q3BmaUhKd1ZyWjhOVHFfM19Xb3N1ZldYLU8zZTRqNWN0Tm9aeE5LdFdtUEtPQ09qUlZJWEJFQ0ZYV1NXbXluUVlGdm94VzYxQXlabHhEOWphbndzMFYzS0M2cXdZZUVhcDdMUFJPeThmQ1dCRU5SUXdQUi1FdHpv0gHYAUFVX3lxTE5sczBxRWhUcTZaQWg2OWFLbU01am5BM0xRenJwbVh0NnBPd01qd1ZDM0RIaGdLZmFobXVIdnVXLW9sX00yWThGSUlFbGNyM1k5SkRnMW4wQ0wtcGNXLVVpeTU4S29VN0pVOFBDODh0czdObm5yVUhDdk16OGhVV2I3NTRpZVRZaHNNcXFwNWlYRXZDOVk0SXM1aldCdVBPT3E2TWJNVDZROW5ZNk1iaEdsTnpEODg3QVdYbGNVYmN0VDN1SjcyVzV6VXVZNkJybVdpanBNamM3RA?oc=5)
 - **[Creadores] Westcol negó haber incitado ataques contra el streamer fallecido Komanche: 'Nunca tuve nada en contra de él' - El Tiempo** — 30/10/2026 02:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUZaN0NqNzlnWEZxWFhCRWJfMlNqN3ZUWXJXVXZQaXItVURUSGZOcEpvTlNxcVVzV3UzeUt3VnZsaERVdlBNMjd3UERWWlBmVXdyOHl4cElnbnI5cDNrRWpWTnp0T0cxWG05TzVtay1fMzFOeVpXaXFaUmJRZGl5SjVyUVY1Qm5JX2ZfRzhTT0V3Y2t3bGl1VV9iazZJTy04UC0xSzB5eEU1b0Nwb1FRZWJvZmVGMFlTTl83T2l5MWNSTWg2dXR1WTlJcUFlQ2RaTE9hTFo2dmJNY0hSWlM5NEpIc0x3S2fSAewBQVVfeXFMTi1WZ3pRakI3NjV2bk14T0ppdF9RbkZQZW9pdy1BMUxhcjBybG43OW85X1B1Q1g0WjFtWUM5eEk4WVdodW9RQURrSFYtb3lyWDRhOHkwWnR3WlJxNGNSc0pCb2VGMmRMLUVGR3lGZ3N6NlQtSkQ2M2haU1h0X0ZucWdtRXBDd0ViRC0tUnQ2WEU0dGY5SjA2TE9aN3BzeFVzY21GZUd0dWp3VXYtSkMwYVZvblFtTkdnRDRyS3NDcDgyMExxakRBenNXNkdjYmZ3V2IwdHRfd3FpSUJJcWU0MFZ6TXNSNG5yVjJJVm8?oc=5)
 - **[Creadores] «¡Ya es real, la ayuda va!»: Juanda Caribe confirma que reconstruirá la casa del «Chancletica» - río noticias** — 30/10/2026 08:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI2dUNCVTJ0SHhLbDdSMW9KQjdzcW9nd3lCYm1CMU9qSlQtYzREYkZKTDNSbzdHZk9yeWNYZk1XcFd5ck1tVi11YXNkNk9hTHRaOXBrVlA5OEgtXzV3NUZMMTlUWkxrWkxPLXRmUWJPT3MxLTdDdzJKbEhxOVEwWmtUZmJZVXFuQmRoUVdtS0FZSmgyeGVhaW1VNFlKMGdFbFViajNGdGxkYnJPOGp30gG0AUFVX3lxTE9IOEQ0UTFibld2M1dQa2pBUjIxajNOSkphRFVwekc4cTBUeDBucThwYTRfcFJsVEVwS2x3SEFsY1prRWNzTzJaUWw3NzZ3aWRTR19GaFlPWDdINWJ5amU5aHRNTkNidlRldi0ydkloUXpzd2ZBcmcxc29hTEJodmFaZHVXR0FZUjlld2JfMHBwSWhiVHk2S3YzYkFXQXExR3RLLUlJd0pVWGRoZEVoT2JWa1dxaw?oc=5)
@@ -207,7 +125,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-10-30
+- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-10-31
   - https://www.youtube.com/watch?v=DOdMKdwL7Qs
   - https://www.youtube.com/watch?v=hTlRV78bF54
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-30
