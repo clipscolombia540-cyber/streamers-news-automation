@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 31/10/2026 05:30 AM (hora de Colombia)
+Actualizado: 31/10/2026 07:39 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 7.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,18 +15,29 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: SHOWTUBERS TV
-- Publicado: 29/10/2026 07:00 PM
+- Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 98.419
+- Vistas reportadas por YouTube: 98.909
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
+
+### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 42.974
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
 ### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ClipsWcol
 - Creador relacionado en el título: Westcol
 - Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 07:00 PM
+- Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 1
@@ -39,20 +50,42 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3.
 - Canal que publico: MILICA CLIPS
 - Publicado: 30/10/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
+- Vistas reportadas por YouTube: 13
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
 
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+### GAME NIGHT IN MEXICO | MR STIVEN
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clip virales Col 23
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
 - Creador relacionado en el título: MrStivenTC
-- Canal que publico: Clip virales Col 23
+- Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 153
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cVXrnZlrFoc
+- Enlace directo: https://www.youtube.com/watch?v=iAcZeiAJX8E
+
+### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 242
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
+
+### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: TeddyRL Clips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: TeddyRL Clips
+- Publicado: 29/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=in0ySlCPuR4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -67,6 +100,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
+
+### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
+- **Texto en pantalla:** 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
 
 ### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -88,23 +131,43 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
 
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+### GAME NIGHT IN MEXICO | MR STIVEN
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Texto en pantalla:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+- **Título sugerido:** GAME NIGHT IN MEXICO | MR STIVEN
+- **Texto en pantalla:** GAME NIGHT IN MEXICO | MR STIVEN
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cVXrnZlrFoc
+- **Fuente original:** https://www.youtube.com/watch?v=iAcZeiAJX8E
+
+### EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Texto en pantalla:** EL PRIMER LAMBORGHINI REVUELTO EN COLOMBIA | CHANTY
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=EWRkF2MuVlo
+
+### REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- **Texto en pantalla:** REYDELACITY ES LAMBON DE WESTCOOL (RDJAVI)
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=in0ySlCPuR4
 
 ## Noticias y contexto
 
+- **[Creadores] ¿Quién atrapó el ramo de Luisa Fernanda W? Su reacción se hizo viral | El Colombiano - El Colombiano** — 30/10/2026 08:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxlYm56WnZFaUdrRVFrZ3lKYl9CaUYzX2hGY2VmV1BheHNqMGVadTVyT2M0SVNKNkozSVlzSGNaSGRKT0pQTmJTVk9rWHZobDBDR1ZHd0VJUXZCNDRCZ3RZeTJLanpkTFlMODVPR2FZZHZBelk4U2M3aTV2Q2w5NW1DWGRHbWFWNmZ2LXMzaV83MDY2LTF2NGYwdjJIai1NZ2pnSmxUQ29BQdIBrwFBVV95cUxOT0h5enp0SG1BOVlZRUg2XzZxMlRPc2lLaWZvU1lkYXJzUngwMk9sYWFhTi0tX2tkcUM4Y0IydWlWbkg0RTcxYTV2TEhib0t0ZUcyaENJbHBVVF9OQklNdlJPbEN0UXVvdHFhNmxnNDZGeUliSW1hWHI5MmtBaXRiZjBZWE04MV9MMVJ0QnY3V3hDaVZGdE9mbnZjVjlTbjVuaUtTQmFXc3dYQnVycHdB?oc=5)
 - **[Creadores] Westcol rompe el silencio tras la muerte del streamer salvadoreño Komanche - elsalvador.com** — 30/10/2026 06:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWhPekJ5OUU0LTVMeU5LYjFlX2k5RnRWaFNkN1owR0ZLTmgxOXdZa2p3OENqVUpmWEo5ekdsb1BHR1NjRWxoeUFvWEFDQVlNQlc2dU4wTTBwdXNnZ2FNZFY2SG1ROEtVVEhqVUJWejMwdUxVQnBBakdnLW1wMGxBc2IzTWo5LXlfY0lCU2M5TVpEbC0xeWR3ZFd3?oc=5)
 - **[Creadores] ¿Qué famosos asistieron a la boda de Pipe Bueno y Luisa Fernanda W? - Kienyke** — 30/10/2026 05:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2xsNng1ZkpVRFZnQ1FQa3FqbjhaeV90U21Od2xxakRUNnFPNUVqMjBmTlhMU3ZEbDNtNHQwV0tiNk92OWwydnBNT1FieEFjOFNPcC1Ub1ZpLWNTekJvRFl1amhaNzd0dXdDSUhGVWtBeTJVZ1FsZHFCMHE3bGZ3SEZhQ2stX2xqdDZZZjlmVjRvcFZmRUE?oc=5)
-- **[Creadores] Boda de Pipe Bueno y Luisa Fernanda W: invitados y vestido - cablenoticias** — 30/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbV9RSU53QlBjOGwtbGNoeWxwWDdPYllDdVZoT1lDVGtoWXFRcmRPZFREci1yQXp1RmZDOXJvY3RJSGNNZE5xODJkZXp6VVN2VkRpMloxVC1vTVotRFA3bHU4WkFiQ1dwLUFkQnVXWXd4UFVfRVpaQXVHMmxrcUpPUnBfVktja0dodzdpY2NGdmRIM3IxdlZESzVldGJnR3l1NHc?oc=5)
 - **[Creadores] ¿Quién es la novia de Mr. Stiven? Ella es la bellísima mexicana, pareja del influencer colombiano - LOS40** — 30/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnRsQlJTVEVUY3drRlpha0hHX1FraXgwN3ZKNUc2QkEzX3V2UDRvUjkwcVJUOXZfQzNwb3AtWmtPdWpKeTVXNk1oU0F0Q3BmaUhKd1ZyWjhOVHFfM19Xb3N1ZldYLU8zZTRqNWN0Tm9aeE5LdFdtUEtPQ09qUlZJWEJFQ0ZYV1NXbXluUVlGdm94VzYxQXlabHhEOWphbndzMFYzS0M2cXdZZUVhcDdMUFJPeThmQ1dCRU5SUXdQUi1FdHpv0gHYAUFVX3lxTE5sczBxRWhUcTZaQWg2OWFLbU01am5BM0xRenJwbVh0NnBPd01qd1ZDM0RIaGdLZmFobXVIdnVXLW9sX00yWThGSUlFbGNyM1k5SkRnMW4wQ0wtcGNXLVVpeTU4S29VN0pVOFBDODh0czdObm5yVUhDdk16OGhVV2I3NTRpZVRZaHNNcXFwNWlYRXZDOVk0SXM1aldCdVBPT3E2TWJNVDZROW5ZNk1iaEdsTnpEODg3QVdYbGNVYmN0VDN1SjcyVzV6VXVZNkJybVdpanBNamM3RA?oc=5)
-- **[Creadores] Westcol negó haber incitado ataques contra el streamer fallecido Komanche: 'Nunca tuve nada en contra de él' - El Tiempo** — 30/10/2026 02:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUZaN0NqNzlnWEZxWFhCRWJfMlNqN3ZUWXJXVXZQaXItVURUSGZOcEpvTlNxcVVzV3UzeUt3VnZsaERVdlBNMjd3UERWWlBmVXdyOHl4cElnbnI5cDNrRWpWTnp0T0cxWG05TzVtay1fMzFOeVpXaXFaUmJRZGl5SjVyUVY1Qm5JX2ZfRzhTT0V3Y2t3bGl1VV9iazZJTy04UC0xSzB5eEU1b0Nwb1FRZWJvZmVGMFlTTl83T2l5MWNSTWg2dXR1WTlJcUFlQ2RaTE9hTFo2dmJNY0hSWlM5NEpIc0x3S2fSAewBQVVfeXFMTi1WZ3pRakI3NjV2bk14T0ppdF9RbkZQZW9pdy1BMUxhcjBybG43OW85X1B1Q1g0WjFtWUM5eEk4WVdodW9RQURrSFYtb3lyWDRhOHkwWnR3WlJxNGNSc0pCb2VGMmRMLUVGR3lGZ3N6NlQtSkQ2M2haU1h0X0ZucWdtRXBDd0ViRC0tUnQ2WEU0dGY5SjA2TE9aN3BzeFVzY21GZUd0dWp3VXYtSkMwYVZvblFtTkdnRDRyS3NDcDgyMExxakRBenNXNkdjYmZ3V2IwdHRfd3FpSUJJcWU0MFZ6TXNSNG5yVjJJVm8?oc=5)
+- **[Creadores] Westcol negó haber incitado ataques contra el streamer fallecido Komanche: 'Nunca tuve nada en contra de él' - El Tiempo** — 30/10/2026 02:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUZaN0NqNzlnWEZxWFhCRWJfMlNqN3ZUWXJXVXZQaXItVURUSGZOcEpvTlNxcVVzV3UzeUt3VnZsaERVdlBNMjd3UERWWlBmVXdyOHl4cElnbnI5cDNrRWpWTnp0T0cxWG05TzVtay1fMzFOeVpXaXFaUmJRZGl5SjVyUVY1Qm5JX2ZfRzhTT0V3Y2t3bGl1VV9iazZJTy04UC0xSzB5eEU1b0Nwb1FRZWJvZmVGMFlTTl83T2l5MWNSTWg2dXR1WTlJcUFlQ2RaTE9hTFo2dmJNY0hSWlM5NEpIc0x3S2c?oc=5)
 - **[Creadores] «¡Ya es real, la ayuda va!»: Juanda Caribe confirma que reconstruirá la casa del «Chancletica» - río noticias** — 30/10/2026 08:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI2dUNCVTJ0SHhLbDdSMW9KQjdzcW9nd3lCYm1CMU9qSlQtYzREYkZKTDNSbzdHZk9yeWNYZk1XcFd5ck1tVi11YXNkNk9hTHRaOXBrVlA5OEgtXzV3NUZMMTlUWkxrWkxPLXRmUWJPT3MxLTdDdzJKbEhxOVEwWmtUZmJZVXFuQmRoUVdtS0FZSmgyeGVhaW1VNFlKMGdFbFViajNGdGxkYnJPOGp30gG0AUFVX3lxTE9IOEQ0UTFibld2M1dQa2pBUjIxajNOSkphRFVwekc4cTBUeDBucThwYTRfcFJsVEVwS2x3SEFsY1prRWNzTzJaUWw3NzZ3aWRTR19GaFlPWDdINWJ5amU5aHRNTkNidlRldi0ydkloUXpzd2ZBcmcxc29hTEJodmFaZHVXR0FZUjlld2JfMHBwSWhiVHk2S3YzYkFXQXExR3RLLUlJd0pVWGRoZEVoT2JWa1dxaw?oc=5)
 
 ## Creadores principales vigilados
