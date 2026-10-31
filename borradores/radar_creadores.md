@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 31/10/2026 09:30 AM (hora de Colombia)
+Actualizado: 31/10/2026 11:30 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 8.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: SHOWTUBERS TV
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 101.034
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
 
 ### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: CHISME URBANO TV
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 269.948
+- Vistas reportadas por YouTube: 281.432
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
 
@@ -31,16 +41,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
-### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: SHOWTUBERS TV
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 99.544
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
-
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
@@ -48,20 +48,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: MR Moroclips
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.197
+- Vistas reportadas por YouTube: 43.692
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=Cgx48Zgo1zQ
-
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clip virales Col 23
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Clip virales Col 23
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cVXrnZlrFoc
 
 ### MERCANDO CON MI MUJER | CHANTY
 - Categoria: Cuenta de clips
@@ -102,13 +91,23 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Influence
 - Canal que publico: Xime Ponch
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.429
+- Vistas reportadas por YouTube: 22.274
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=RgGcgZrvmfs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
+- **Texto en pantalla:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAU
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
 
 ### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -130,16 +129,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
 
-### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- **Texto en pantalla:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAU
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
-
 ### 🥵I AM A TOTAL BEAST AT SOLO PLAY GUYS😂|Mrstiven funny moments🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -149,16 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Cgx48Zgo1zQ
-
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Texto en pantalla:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cVXrnZlrFoc
 
 ### MERCANDO CON MI MUJER | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -202,11 +181,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Aida Victoria Merlano supera a Westcol y Luisa Fernanda W: así quedó el ranking de influencers - Minuto60** — 31/10/2026 10:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1NFQ3VMS1hfSXBJeG9idm5nTkc0b1d2cWdEVHdsYml2TmtwT1FIWUZYVjY0SEVPeWhqS3NWUUdMV0JacjRKODFLa2VNck5qeV94V0FWcmxNM2pCUXgxSnVlNnQ3a1cwWlBlRzJfM3IxUi1jQ3AySy1yWHRLUTNnSGNsX2dibVVKOUhGMGZrSDI4VEJSVmlaVmxWcFp2QU1DcC15RGlqS3lRS2JsWFQzUGFSTnRDRmlHYjJfYU80Y0NwUQ?oc=5)
 - **[Creadores] Westcol rompe el silencio tras la muerte del streamer salvadoreño Komanche - elsalvador.com** — 30/10/2026 06:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWhPekJ5OUU0LTVMeU5LYjFlX2k5RnRWaFNkN1owR0ZLTmgxOXdZa2p3OENqVUpmWEo5ekdsb1BHR1NjRWxoeUFvWEFDQVlNQlc2dU4wTTBwdXNnZ2FNZFY2SG1ROEtVVEhqVUJWejMwdUxVQnBBakdnLW1wMGxBc2IzTWo5LXlfY0lCU2M5TVpEbC0xeWR3ZFd3?oc=5)
 - **[Creadores] ¿Qué famosos asistieron a la boda de Pipe Bueno y Luisa Fernanda W? - Kienyke** — 30/10/2026 05:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2xsNng1ZkpVRFZnQ1FQa3FqbjhaeV90U21Od2xxakRUNnFPNUVqMjBmTlhMU3ZEbDNtNHQwV0tiNk92OWwydnBNT1FieEFjOFNPcC1Ub1ZpLWNTekJvRFl1amhaNzd0dXdDSUhGVWtBeTJVZ1FsZHFCMHE3bGZ3SEZhQ2stX2xqdDZZZjlmVjRvcFZmRUE?oc=5)
 - **[Creadores] Boda de Pipe Bueno y Luisa Fernanda W: invitados y vestido - cablenoticias** — 30/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbV9RSU53QlBjOGwtbGNoeWxwWDdPYllDdVZoT1lDVGtoWXFRcmRPZFREci1yQXp1RmZDOXJvY3RJSGNNZE5xODJkZXp6VVN2VkRpMloxVC1vTVotRFA3bHU4WkFiQ1dwLUFkQnVXWXd4UFVfRVpaQXVHMmxrcUpPUnBfVktja0dodzdpY2NGdmRIM3IxdlZESzVldGJnR3l1NHc?oc=5)
 - **[Creadores] ¿Quién es la novia de Mr. Stiven? Ella es la bellísima mexicana, pareja del influencer colombiano - LOS40** — 30/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnRsQlJTVEVUY3drRlpha0hHX1FraXgwN3ZKNUc2QkEzX3V2UDRvUjkwcVJUOXZfQzNwb3AtWmtPdWpKeTVXNk1oU0F0Q3BmaUhKd1ZyWjhOVHFfM19Xb3N1ZldYLU8zZTRqNWN0Tm9aeE5LdFdtUEtPQ09qUlZJWEJFQ0ZYV1NXbXluUVlGdm94VzYxQXlabHhEOWphbndzMFYzS0M2cXdZZUVhcDdMUFJPeThmQ1dCRU5SUXdQUi1FdHpv0gHYAUFVX3lxTE5sczBxRWhUcTZaQWg2OWFLbU01am5BM0xRenJwbVh0NnBPd01qd1ZDM0RIaGdLZmFobXVIdnVXLW9sX00yWThGSUlFbGNyM1k5SkRnMW4wQ0wtcGNXLVVpeTU4S29VN0pVOFBDODh0czdObm5yVUhDdk16OGhVV2I3NTRpZVRZaHNNcXFwNWlYRXZDOVk0SXM1aldCdVBPT3E2TWJNVDZROW5ZNk1iaEdsTnpEODg3QVdYbGNVYmN0VDN1SjcyVzV6VXVZNkJybVdpanBNamM3RA?oc=5)
-- **[Creadores] Westcol negó haber incitado ataques contra el streamer fallecido Komanche: 'Nunca tuve nada en contra de él' - El Tiempo** — 30/10/2026 02:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUZaN0NqNzlnWEZxWFhCRWJfMlNqN3ZUWXJXVXZQaXItVURUSGZOcEpvTlNxcVVzV3UzeUt3VnZsaERVdlBNMjd3UERWWlBmVXdyOHl4cElnbnI5cDNrRWpWTnp0T0cxWG05TzVtay1fMzFOeVpXaXFaUmJRZGl5SjVyUVY1Qm5JX2ZfRzhTT0V3Y2t3bGl1VV9iazZJTy04UC0xSzB5eEU1b0Nwb1FRZWJvZmVGMFlTTl83T2l5MWNSTWg2dXR1WTlJcUFlQ2RaTE9hTFo2dmJNY0hSWlM5NEpIc0x3S2fSAewBQVVfeXFMTi1WZ3pRakI3NjV2bk14T0ppdF9RbkZQZW9pdy1BMUxhcjBybG43OW85X1B1Q1g0WjFtWUM5eEk4WVdodW9RQURrSFYtb3lyWDRhOHkwWnR3WlJxNGNSc0pCb2VGMmRMLUVGR3lGZ3N6NlQtSkQ2M2haU1h0X0ZucWdtRXBDd0ViRC0tUnQ2WEU0dGY5SjA2TE9aN3BzeFVzY21GZUd0dWp3VXYtSkMwYVZvblFtTkdnRDRyS3NDcDgyMExxakRBenNXNkdjYmZ3V2IwdHRfd3FpSUJJcWU0MFZ6TXNSNG5yVjJJVm8?oc=5)
 - **[Creadores] «¡Ya es real, la ayuda va!»: Juanda Caribe confirma que reconstruirá la casa del «Chancletica» - río noticias** — 30/10/2026 08:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI2dUNCVTJ0SHhLbDdSMW9KQjdzcW9nd3lCYm1CMU9qSlQtYzREYkZKTDNSbzdHZk9yeWNYZk1XcFd5ck1tVi11YXNkNk9hTHRaOXBrVlA5OEgtXzV3NUZMMTlUWkxrWkxPLXRmUWJPT3MxLTdDdzJKbEhxOVEwWmtUZmJZVXFuQmRoUVdtS0FZSmgyeGVhaW1VNFlKMGdFbFViajNGdGxkYnJPOGp30gG0AUFVX3lxTE9IOEQ0UTFibld2M1dQa2pBUjIxajNOSkphRFVwekc4cTBUeDBucThwYTRfcFJsVEVwS2x3SEFsY1prRWNzTzJaUWw3NzZ3aWRTR19GaFlPWDdINWJ5amU5aHRNTkNidlRldi0ydkloUXpzd2ZBcmcxc29hTEJodmFaZHVXR0FZUjlld2JfMHBwSWhiVHk2S3YzYkFXQXExR3RLLUlJd0pVWGRoZEVoT2JWa1dxaw?oc=5)
 
 ## Creadores principales vigilados
