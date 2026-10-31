@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 30/10/2026 07:49 PM (hora de Colombia)
+Actualizado: 30/10/2026 09:42 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 5.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,52 +17,29 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.191
+- Vistas reportadas por YouTube: 51.197
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
-### REYDELACITY PASA LA NOCHE CON SU NOVIA Y FAMILIA 🎱❤️ | IRL
+### Everyone hates Westcol for what happened with Komanche…
 - Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: WagsonX
-- Publicado: 30/10/2026 07:00 PM
+- Creador/canal detectado: Westcol
+- Canal que publico: Txrry
+- Publicado: 30/10/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ZHmssOjogaM
+- Vistas reportadas por YouTube: 31.489
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=pITBtuK1yXQ
 
-### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
+### DECLARACIONES DE WESTCOL Y TEMACH SOBRE EL CASO KOMANCHE
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Mario videolyrics
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
-
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 29/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
-
-### 🔥 DOMIDOS HABLA SOBRE LOS BOTS DEL REY DE LA CITY 🤖😱 ¡SE DESTAPA LA POLÉMICA!
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: DomiTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: DomiTheClips
-- Publicado: 30/10/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ua45LrDZY9k
+- Vistas reportadas por YouTube: 8.353
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Fuc0J1x3xdU
 
 ### MERCANDO CON MI MUJER | CHANTY
 - Categoria: Cuenta de clips
@@ -82,7 +59,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Canal que publico: MILICA CLIPS
 - Publicado: 29/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 148
+- Vistas reportadas por YouTube: 155
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=EWRkF2MuVlo
 
@@ -100,45 +77,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
 
-### REYDELACITY PASA LA NOCHE CON SU NOVIA Y FAMILIA 🎱❤️ | IRL
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY PASA LA NOCHE CON SU NOVIA Y FAMILIA 🎱❤️ | IRL
-- **Texto en pantalla:** REYDELACITY PASA LA NOCHE CON SU NOVIA Y FAMILIA 🎱❤️ | IRL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZHmssOjogaM
-
-### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+### Everyone hates Westcol for what happened with Komanche…
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Texto en pantalla:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Título sugerido:** Everyone hates Westcol for what happened with Komanche…
+- **Texto en pantalla:** Everyone hates Westcol for what happened with Komanche…
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
+- **Fuente original:** https://www.youtube.com/watch?v=pITBtuK1yXQ
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+### DECLARACIONES DE WESTCOL Y TEMACH SOBRE EL CASO KOMANCHE
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Título sugerido:** DECLARACIONES DE WESTCOL Y TEMACH SOBRE EL CASO KOMANCHE
+- **Texto en pantalla:** DECLARACIONES DE WESTCOL Y TEMACH SOBRE EL CASO KOMANCHE
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
-
-### 🔥 DOMIDOS HABLA SOBRE LOS BOTS DEL REY DE LA CITY 🤖😱 ¡SE DESTAPA LA POLÉMICA!
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** 🔥 DOMIDOS HABLA SOBRE LOS BOTS DEL REY DE LA CITY 🤖😱 ¡SE DESTAPA LA POLÉMICA!
-- **Texto en pantalla:** 🔥 DOMIDOS HABLA SOBRE LOS BOTS DEL REY DE LA CITY 🤖😱 ¡SE DESTAPA LA PO
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ua45LrDZY9k
+- **Fuente original:** https://www.youtube.com/watch?v=Fuc0J1x3xdU
 
 ### MERCANDO CON MI MUJER | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
