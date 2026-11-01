@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 07:40 AM (hora de Colombia)
+Actualizado: 01/11/2026 09:31 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
+Clips incluidos: 10.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: SHOWTUBERS TV
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 111.376
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -27,9 +17,39 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.154
+- Vistas reportadas por YouTube: 51.155
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
+
+### PvP with you live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 25.289
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=ElNstcXs2pY
+
+### ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire #funny #mrstiven #ff
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 31/10/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3.448
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ByShTyFreNg
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Fun2shhOG
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 233
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=QkfLisodgiQ
 
 ### MEJORES CLIPS DE LA G4NG4 PARTE 1
 - Categoria: Cuenta de clips
@@ -51,6 +71,28 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
+
+### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
+
+### 😱 MANOLO LE MUESTRA SU NAVAJA A MRSTIVEN 🔥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Stiven clips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Stiven clips
+- Publicado: 01/11/2026 09:11 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=Hju50RxhFTE
 
 ### MERCANDO CON MI MUJER | CHANTY
 - Categoria: Cuenta de clips
@@ -74,30 +116,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clip virales Col 23
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Clip virales Col 23
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cVXrnZlrFoc
-
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- **Texto en pantalla:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAU
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -108,6 +129,36 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
+
+### PvP with you live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** PvP with you live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** PvP with you live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ElNstcXs2pY
+
+### ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire #funny #mrstiven #ff
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire #funny #mrstiven #ff
+- **Texto en pantalla:** ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ByShTyFreNg
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=QkfLisodgiQ
 
 ### MEJORES CLIPS DE LA G4NG4 PARTE 1
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol MedaYork Clips? 👀
@@ -129,6 +180,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
 
+### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
+
+### 😱 MANOLO LE MUESTRA SU NAVAJA A MRSTIVEN 🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 😱 MANOLO LE MUESTRA SU NAVAJA A MRSTIVEN 🔥
+- **Texto en pantalla:** 😱 MANOLO LE MUESTRA SU NAVAJA A MRSTIVEN 🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Hju50RxhFTE
+
 ### MERCANDO CON MI MUJER | CHANTY
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -149,16 +220,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Texto en pantalla:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cVXrnZlrFoc
-
 ## Noticias y contexto
 
 - **[Creadores] Cuánto costó la boda de Luisa Fernanda W y Pipe Bueno: esta sería la millonaria cuenta de la ceremonia en la Catedral de Sal, el vestido, joyas y otros lujos - Infobae** — 31/10/2026 06:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgJBVV95cUxQNEo5SlBWYV9WLUVKUlV2VXFxd3lPTmJFRjlmMFplT0pMUFJDZGc2eXJzUGxuZHFCQ2dGR2FramZSRFdYNVdMcXpsdS1xLXdnMUxpN1pLd042MzFZSTFvUF9pblhaTnJpMnlGUG1BVmdLTzRUMVg5N2ZDMDN5UUhKSWZMY1ZUN1FTM28xVXVPeWQwM1JWaVl2TWdFakNEVDJaeU1HeTl1Mk5rSjNlZWNGTG1ZWkViUk5vY0hfMi1GT0ktSEZnN3dNRkxVTS1XMnRZQ0dqcW1ncDV6SURWVDMwaDE0QWhBTEgxT3paa1JKdnRDY1p5cVAtcVJhdVBDZ3JLQ19ET0ViSnQxN2pSa0pRUTFfQlEwMkJ5NmtxdnNBUDFvaHh1cVHSAcACQVVfeXFMTTdvLVhlLW9CVzRFUm1UYmkwTUhodXhOaEcyWGM3ZjZZcHBSWVNDSmJoN2tHYzltMkc0MlZmT1RFNWhVeERMdXVxa1hVMzctc0lhUFBJa2ZDYXVoVmN1ZXNfdWFDd0Q2NDlZYWhpOHY4Nzdod2taRGQyOHdPV2NlMUpHWXdlWHF3bzZPa1hQaEhiWVN0RU1VTTNURXdvQVRCU0NHdmtQdVY1SXBGRVZrOFRDNWo4STQ2a0ZCNnNiSlF1Sl9pSlh3MGh0SlpKRk1RNzlleXdoYTBCLXQ1ZlpRaXJxbFY5clh2NS1DZHF0SGRyS2FMdDVVeUoxeWRXU2o2bjhlcjh6WWNZVW1TRktmZ0lLYVJwb0hUczBuekdBVWptZ1M2dGJMNTdJdjFLZVZRVmMySk9MWDF2TVVKV2YzNEQ?oc=5)
@@ -167,7 +228,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] La Mijita rompió el silencio ante Westcol por su relación con Camilo Cifuentes - Noticias RCN** — 31/10/2026 02:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW8ta29wRkFkcmczeW81OW51Nkt0d3JzaXlnclMyZ0ZjMWlCRGhPX3haaTRkV3lxUHNRU2JqTEdzVkgtOWdZNkRsamExTWpPek9EY1M5ZkUtOTNkNFp3ZFBrVWo1MFZPTjNCTzBtNl96Y3FmcDE2NjI0R2dmRjhrY0QwRDNvZ2N3UXlLN1B1Z2g0RmMyeV9oLUtR0gGaAUFVX3lxTE5yWXJWR2lUWngwdkFGMG0wMC1HWU1FSFl6TGNwOS1rWmpMT1phWXNCdlN0a0V1SUVzWEh2VkZnTHpSTHVfMkozRm1nM2M2WmZJOFBjT1dSbXlielRrQVcxcEtCWTU3Ym41U0VxU2dRTlE0T05WQnVJcmZiNlhsSWpmcERFNGYteW5DamNyV0tVNkdBRXdWZEEzdWc?oc=5)
 - **[Creadores] Aida Victoria Merlano supera a Westcol y Luisa Fernanda W: así quedó el ranking de influencers - Minuto60** — 31/10/2026 10:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1NFQ3VMS1hfSXBJeG9idm5nTkc0b1d2cWdEVHdsYml2TmtwT1FIWUZYVjY0SEVPeWhqS3NWUUdMV0JacjRKODFLa2VNck5qeV94V0FWcmxNM2pCUXgxSnVlNnQ3a1cwWlBlRzJfM3IxUi1jQ3AySy1yWHRLUTNnSGNsX2dibVVKOUhGMGZrSDI4VEJSVmlaVmxWcFp2QU1DcC15RGlqS3lRS2JsWFQzUGFSTnRDRmlHYjJfYU80Y0NwUQ?oc=5)
 - **[Creadores] ¿Quién es la novia de Mr. Stiven? Ella es la bellísima mexicana, pareja del influencer colombiano - LOS40** — 30/10/2026 04:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnRsQlJTVEVUY3drRlpha0hHX1FraXgwN3ZKNUc2QkEzX3V2UDRvUjkwcVJUOXZfQzNwb3AtWmtPdWpKeTVXNk1oU0F0Q3BmaUhKd1ZyWjhOVHFfM19Xb3N1ZldYLU8zZTRqNWN0Tm9aeE5LdFdtUEtPQ09qUlZJWEJFQ0ZYV1NXbXluUVlGdm94VzYxQXlabHhEOWphbndzMFYzS0M2cXdZZUVhcDdMUFJPeThmQ1dCRU5SUXdQUi1FdHpv0gHYAUFVX3lxTE5sczBxRWhUcTZaQWg2OWFLbU01am5BM0xRenJwbVh0NnBPd01qd1ZDM0RIaGdLZmFobXVIdnVXLW9sX00yWThGSUlFbGNyM1k5SkRnMW4wQ0wtcGNXLVVpeTU4S29VN0pVOFBDODh0czdObm5yVUhDdk16OGhVV2I3NTRpZVRZaHNNcXFwNWlYRXZDOVk0SXM1aldCdVBPT3E2TWJNVDZROW5ZNk1iaEdsTnpEODg3QVdYbGNVYmN0VDN1SjcyVzV6VXVZNkJybVdpanBNamM3RA?oc=5)
-- **[Creadores] «¡Ya es real, la ayuda va!»: Juanda Caribe confirma que reconstruirá la casa del «Chancletica» - río noticias** — 30/10/2026 08:39 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI2dUNCVTJ0SHhLbDdSMW9KQjdzcW9nd3lCYm1CMU9qSlQtYzREYkZKTDNSbzdHZk9yeWNYZk1XcFd5ck1tVi11YXNkNk9hTHRaOXBrVlA5OEgtXzV3NUZMMTlUWkxrWkxPLXRmUWJPT3MxLTdDdzJKbEhxOVEwWmtUZmJZVXFuQmRoUVdtS0FZSmgyeGVhaW1VNFlKMGdFbFViajNGdGxkYnJPOGp30gG0AUFVX3lxTE9IOEQ0UTFibld2M1dQa2pBUjIxajNOSkphRFVwekc4cTBUeDBucThwYTRfcFJsVEVwS2x3SEFsY1prRWNzTzJaUWw3NzZ3aWRTR19GaFlPWDdINWJ5amU5aHRNTkNidlRldi0ydkloUXpzd2ZBcmcxc29hTEJodmFaZHVXR0FZUjlld2JfMHBwSWhiVHk2S3YzYkFXQXExR3RLLUlJd0pVWGRoZEVoT2JWa1dxaw?oc=5)
 
 ## Creadores principales vigilados
 
@@ -189,9 +249,9 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-01
+- **PvP with you live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-01
+  - https://www.youtube.com/watch?v=QkfLisodgiQ
   - https://www.youtube.com/watch?v=IcFUqey_WoY
-  - https://www.youtube.com/watch?v=DOdMKdwL7Qs
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-30
   - https://www.youtube.com/watch?v=2sENM6P_JDE
   - https://www.youtube.com/watch?v=dZys_yd5Mlg
