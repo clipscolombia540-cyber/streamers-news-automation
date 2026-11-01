@@ -1,77 +1,59 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 11:31 AM (hora de Colombia)
+Actualizado: 01/11/2026 01:35 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 6.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Distribución por categoría: Cuenta de clips: 5, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### Everyone hates Westcol for what happened with Komanche…
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Txrry
-- Publicado: 31/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 264.493
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=pITBtuK1yXQ
-
-### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: CHISME URBANO TV
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 349.774
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=ZZmuLLlUMOU
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.155
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
-
-### MEJORES CLIPS DE LA G4NG4 PARTE 1
+### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
-- Canal que publico: Westcol MedaYork Clips
-- Publicado: 31/10/2026 11:00 PM
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=jhc9bEBGqk8
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
 
-### LOS JUSTIN BIEBER COLOMBIANOS | CHANTY Y LA PIQUIÑA
+### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
+
+### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 16
+- Vistas reportadas por YouTube: 30
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
-### MERCANDO CON MI MUJER | CHANTY
+### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19
+- Vistas reportadas por YouTube: 16
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
+- Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
 ### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
 - Categoria: Cuenta de clips
@@ -84,69 +66,59 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=cVXrnZlrFoc
 
+### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 01/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 74
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
+
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### Everyone hates Westcol for what happened with Komanche…
+### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Everyone hates Westcol for what happened with Komanche…
-- **Texto en pantalla:** Everyone hates Westcol for what happened with Komanche…
+- **Título sugerido:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Texto en pantalla:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pITBtuK1yXQ
+- **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
 
-### WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
+### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS BLUNT | SPREEN BREAKS DOWN
-- **Texto en pantalla:** WESTCOL DEFENDS HIMSELF and it GOES WRONG | RIVERS RETIRES | RUBIUS IS
+- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
+- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZZmuLLlUMOU
+- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
-
-### MEJORES CLIPS DE LA G4NG4 PARTE 1
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol MedaYork Clips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol MedaYork Clips.
-- **Título sugerido:** MEJORES CLIPS DE LA G4NG4 PARTE 1
-- **Texto en pantalla:** MEJORES CLIPS DE LA G4NG4 PARTE 1
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol MedaYork Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jhc9bEBGqk8
-
-### LOS JUSTIN BIEBER COLOMBIANOS | CHANTY Y LA PIQUIÑA
+### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** LOS JUSTIN BIEBER COLOMBIANOS | CHANTY Y LA PIQUIÑA
-- **Texto en pantalla:** LOS JUSTIN BIEBER COLOMBIANOS | CHANTY Y LA PIQUIÑA
+- **Título sugerido:** THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
+- **Texto en pantalla:** THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=o2wNcz5vAiY
 
-### MERCANDO CON MI MUJER | CHANTY
+### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** MERCANDO CON MI MUJER | CHANTY
-- **Texto en pantalla:** MERCANDO CON MI MUJER | CHANTY
+- **Título sugerido:** CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
+- **Texto en pantalla:** CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
+- **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
 
 ### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -157,6 +129,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=cVXrnZlrFoc
+
+### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Noticias y contexto
 
