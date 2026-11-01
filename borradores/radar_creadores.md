@@ -1,26 +1,36 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 03:43 AM (hora de Colombia)
+Actualizado: 01/11/2026 05:34 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 3.
+Clips incluidos: 4.
 Noticias recientes: 7.
-Distribución por categoría: Cuenta de clips: 3.
+Distribución por categoría: Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### MR STIVEN TALKING ABOUT THE AUDIO CONTROVERSY
+### MEJORES CLIPS DE LA G4NG4 PARTE 1
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
+- Canal que publico: Westcol MedaYork Clips
+- Publicado: 31/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=jhc9bEBGqk8
+
+### MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 31/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20
+- Vistas reportadas por YouTube: 60
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=r3Qb57Xhtj4
+- Enlace directo: https://www.youtube.com/watch?v=RCJZchH_c2Y
 
 ### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - Categoria: Cuenta de clips
@@ -29,7 +39,7 @@ Distribución por categoría: Cuenta de clips: 3.
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
@@ -48,15 +58,25 @@ Distribución por categoría: Cuenta de clips: 3.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### MR STIVEN TALKING ABOUT THE AUDIO CONTROVERSY
+### MEJORES CLIPS DE LA G4NG4 PARTE 1
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol MedaYork Clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol MedaYork Clips.
+- **Título sugerido:** MEJORES CLIPS DE LA G4NG4 PARTE 1
+- **Texto en pantalla:** MEJORES CLIPS DE LA G4NG4 PARTE 1
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol MedaYork Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=jhc9bEBGqk8
+
+### MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN TALKING ABOUT THE AUDIO CONTROVERSY
-- **Texto en pantalla:** MR STIVEN TALKING ABOUT THE AUDIO CONTROVERSY
+- **Título sugerido:** MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
+- **Texto en pantalla:** MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=r3Qb57Xhtj4
+- **Fuente original:** https://www.youtube.com/watch?v=RCJZchH_c2Y
 
 ### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
