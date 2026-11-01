@@ -1,37 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 01:35 PM (hora de Colombia)
+Actualizado: 01/11/2026 03:29 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
-Noticias recientes: 6.
-Distribución por categoría: Cuenta de clips: 5, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
+- Vistas reportadas por YouTube: 51.158
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ClipsWcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: ClipsWcol
-- Publicado: 30/10/2026 07:00 PM
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=IxgCjjCdxVA
+- Vistas reportadas por YouTube: 24.253
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=IcFUqey_WoY
 
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - Categoria: Cuenta de clips
@@ -40,7 +38,7 @@ Distribución por categoría: Cuenta de clips: 5, Emergente por verificar: 1.
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30
+- Vistas reportadas por YouTube: 59
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
@@ -51,54 +49,65 @@ Distribución por categoría: Cuenta de clips: 5, Emergente por verificar: 1.
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 16
+- Vistas reportadas por YouTube: 98
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+### ANSWERING CONTROVERSIAL QUESTIONS OF THE MOMENT | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clip virales Col 23
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Clip virales Col 23
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=iI99N0n6sFc
+
+### REACTING TO THE STORY OF GARAVITO | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cVXrnZlrFoc
+- Enlace directo: https://www.youtube.com/watch?v=0h1PRWdLO9c
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 74
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 184
+- Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Texto en pantalla:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
+- **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
 
-### ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Texto en pantalla:** ATRAPADO EN EL LIMBO | DEDSAFIO MINECRAFT 4 - DÍA #11 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IxgCjjCdxVA
+- **Fuente original:** https://www.youtube.com/watch?v=IcFUqey_WoY
 
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -120,28 +129,39 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### ANSWERING CONTROVERSIAL QUESTIONS OF THE MOMENT | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Texto en pantalla:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ANSWERING CONTROVERSIAL QUESTIONS OF THE MOMENT | WESTCOL
+- **Texto en pantalla:** ANSWERING CONTROVERSIAL QUESTIONS OF THE MOMENT | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cVXrnZlrFoc
+- **Fuente original:** https://www.youtube.com/watch?v=iI99N0n6sFc
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### REACTING TO THE STORY OF GARAVITO | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** REACTING TO THE STORY OF GARAVITO | WESTCOL
+- **Texto en pantalla:** REACTING TO THE STORY OF GARAVITO | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=0h1PRWdLO9c
+
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
-- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Noticias y contexto
 
+- **[Creadores] Yina Calderón defendió a Karol G tras su polémico baile con Young Miko y señaló “la doble vara” del reguetón: “El ejemplo lo tienen que dar los papás en casa” - Infobae** — 01/11/2026 12:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipAJBVV95cUxQZWxjX1BXQWx0bDJvcm8wTV9iWmxPUXoxQkVlRktEblk5eHl0eHg3OEQ5SmJQejdSVWxxQjkwSDlNZnlYdjBlQXRScTlPaVpKYXRvUUFNMEpFVEJnZm1tZ1NxUTRZZ0lRRThZNHU0eGcya0MtQ0d1S1pyV2FpSE1EdEJ4M202cUNuenBEMl9EUmU4MVhCSTJvdnhBRWVLLVRmQUNjVTJZUDVKcU5LWndRNFl0anFob2s0eUI4cnhDVk5Tc2Q5Zm1QUVA4dndMUkJTcDZHanRadG5NMUlWNGJsSnZuRXpBRTBfc014WEp3dU82eGZFZk9BTFZZZUx5M09sTS01NDZ0TC1OV2pjREptdElpSWd5SUdfSF82NGliU1EybDZ50gG_AkFVX3lxTE9zSk9ZZ0pHZm1EQU43NFZQQ09mcFNQTEFqcnAtR0E2ZUtiWW5RNzlpQTJRVXF5NzVEb3lVZDNwNFJKVll5VXprMXc2NHpSZXUxVmFnMnlGUUhLbDR3VWJRSVFxNmltaTVVOXpSenNLV0V1WFp0UlU0YlJxWEFXNTFNWU05OUhsdktlU3dOLV9uM3o4Q2c3Y3hXbV9kS0lDOVM3NHo4Rlg1UWFmTFNxMzhURDFCYTF0S3JUcHBJVy1vbVFRTlhXSHJBUmY1MTU1TXc0NzVrakpsX2FQTEN4QW9XWklTSU40YUx2NlVINGNZRVkyWFpXSXRWRm1FT0cweEpqS0dyYktRdDVoMk1WVG1YeHRzaXZZR3E4ZDdCeThiT205cy1WSnJpWU9GSk9yQXZsQS1KcHdpUlpMZEhYd1E?oc=5)
 - **[Creadores] Cuánto costó la boda de Luisa Fernanda W y Pipe Bueno: esta sería la millonaria cuenta de la ceremonia en la Catedral de Sal, el vestido, joyas y otros lujos - Infobae** — 31/10/2026 06:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgJBVV95cUxQNEo5SlBWYV9WLUVKUlV2VXFxd3lPTmJFRjlmMFplT0pMUFJDZGc2eXJzUGxuZHFCQ2dGR2FramZSRFdYNVdMcXpsdS1xLXdnMUxpN1pLd042MzFZSTFvUF9pblhaTnJpMnlGUG1BVmdLTzRUMVg5N2ZDMDN5UUhKSWZMY1ZUN1FTM28xVXVPeWQwM1JWaVl2TWdFakNEVDJaeU1HeTl1Mk5rSjNlZWNGTG1ZWkViUk5vY0hfMi1GT0ktSEZnN3dNRkxVTS1XMnRZQ0dqcW1ncDV6SURWVDMwaDE0QWhBTEgxT3paa1JKdnRDY1p5cVAtcVJhdVBDZ3JLQ19ET0ViSnQxN2pSa0pRUTFfQlEwMkJ5NmtxdnNBUDFvaHh1cVHSAcACQVVfeXFMTTdvLVhlLW9CVzRFUm1UYmkwTUhodXhOaEcyWGM3ZjZZcHBSWVNDSmJoN2tHYzltMkc0MlZmT1RFNWhVeERMdXVxa1hVMzctc0lhUFBJa2ZDYXVoVmN1ZXNfdWFDd0Q2NDlZYWhpOHY4Nzdod2taRGQyOHdPV2NlMUpHWXdlWHF3bzZPa1hQaEhiWVN0RU1VTTNURXdvQVRCU0NHdmtQdVY1SXBGRVZrOFRDNWo4STQ2a0ZCNnNiSlF1Sl9pSlh3MGh0SlpKRk1RNzlleXdoYTBCLXQ1ZlpRaXJxbFY5clh2NS1DZHF0SGRyS2FMdDVVeUoxeWRXU2o2bjhlcjh6WWNZVW1TRktmZ0lLYVJwb0hUczBuekdBVWptZ1M2dGJMNTdJdjFLZVZRVmMySk9MWDF2TVVKV2YzNEQ?oc=5)
 - **[Creadores] Coste de la boda de Luisa Fernanda W y Pipe Bueno, lujo incluido - Uruguay Al Día** — 31/10/2026 05:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjJSVXlhVnZHMmdPUVhHRUxEb08yZFhmRGZJYjJmOEpDM2gxQlFrN0ZCREFDUG5wQnVwX2RoVk1USGJJVl9GX2NDMFlVWG1FRS1GbXhNdzRiREQ2Z05zWFJDOVlQdC1sOElfbm9UVGRzVTE1RWNyS09DZE5JTFpSanBJeF84T1ZjdDNSN3o3M1NHTjJmVjFR?oc=5)
 - **[Creadores] ¿La Liendra y Dani Duke terminaron su relación? Esto pasó en el matrimonio de Pipe Bueno: VIDEO - Noticias RCN** — 31/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2E2dkdWa2M5NDBwelQ0RUxla0NDT0lXNG9kNHRvQXVzTGVEUjY1SzhxU0ZpUTUyXzRuTzd2LUU4dmtyOWN1MmEydURPdUNiSTVnWHBvYmpMN3VEMkNEYW94LXlHcXFjcEZ6bndWRkhvLUlKLWVkYllVYzFBYzdrZmRiNmQ4dmh6RDViV2hIRDZNOGJDRm1Od3ZiM1IwSS1kV21pSU1WT2lwcjNYVWpaTWZsdHVCNHVCWkZnYTJiOTJEcDNQRm1za3FtMG9kbXY5STJsbzN5ekNfanPSAdsBQVVfeXFMTS1ESXRodXNwWEFwLUdTNWlaaG5iMEJLX05GallDZ0JSVkxqaE1rWkFFS1l0SnJNVVNzdWQ4UFRVTEZwMmpZOW1jLWlqcmhmRUxjWE9lR3dUbm9mMGxMd0JsalViMGZEd2drZ3dVbHJCdzJPTnJ5RU9ocktWOVREaDFjQzVsWk1oS3g0MXJEQy12LW42UmRCVks4SlkxbjhMajQzaU9DMlp2dEJXSHpCZGFid1Z5UjJnYzEwamZySDU3Zy04WnZkQmoyQ195SDRkRkdianJGaVFUcVUw?oc=5)
