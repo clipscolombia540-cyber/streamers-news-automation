@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 31/10/2026 09:42 PM (hora de Colombia)
+Actualizado: 31/10/2026 11:45 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 6.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### Everyone hates Westcol for what happened with Komanche…
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Txrry
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 233.988
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=pITBtuK1yXQ
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -27,9 +37,19 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 - Canal que publico: Drice Gamerz
 - Publicado: 31/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.284
+- Vistas reportadas por YouTube: 24.286
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=IcFUqey_WoY
+
+### MEJORES CLIPS DE LA G4NG4 PARTE 1
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
+- Canal que publico: Westcol MedaYork Clips
+- Publicado: 31/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=jhc9bEBGqk8
 
 ### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - Categoria: Cuenta de clips
@@ -49,13 +69,23 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 - Canal que publico: MILICA CLIPS
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 18
+- Vistas reportadas por YouTube: 19
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### Everyone hates Westcol for what happened with Komanche…
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Everyone hates Westcol for what happened with Komanche…
+- **Texto en pantalla:** Everyone hates Westcol for what happened with Komanche…
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=pITBtuK1yXQ
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -76,6 +106,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=IcFUqey_WoY
+
+### MEJORES CLIPS DE LA G4NG4 PARTE 1
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol MedaYork Clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol MedaYork Clips.
+- **Título sugerido:** MEJORES CLIPS DE LA G4NG4 PARTE 1
+- **Texto en pantalla:** MEJORES CLIPS DE LA G4NG4 PARTE 1
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol MedaYork Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=jhc9bEBGqk8
 
 ### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
