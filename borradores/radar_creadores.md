@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 31/10/2026 07:50 PM (hora de Colombia)
+Actualizado: 31/10/2026 09:42 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 4.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: SHOWTUBERS TV
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 107.652
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -27,7 +17,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Drice Gamerz
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.149
+- Vistas reportadas por YouTube: 51.150
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
@@ -37,30 +27,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: Drice Gamerz
 - Publicado: 31/10/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.283
+- Vistas reportadas por YouTube: 24.284
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=IcFUqey_WoY
-
-### ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire #funny #mrstiven #ff
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 31/10/2026 07:24 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 91
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ByShTyFreNg
-
-### MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 31/10/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=RCJZchH_c2Y
 
 ### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - Categoria: Cuenta de clips
@@ -69,7 +38,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
@@ -87,16 +56,6 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3.
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
-- **Texto en pantalla:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAU
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -117,26 +76,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=IcFUqey_WoY
-
-### ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire #funny #mrstiven #ff
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire #funny #mrstiven #ff
-- **Texto en pantalla:** ✨AAAHII !! PARCE 😡 LA HPT* BOLA DE PERIODO ME TIENE CAGAO* 😂 #freefire
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ByShTyFreNg
-
-### MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- **Texto en pantalla:** MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=RCJZchH_c2Y
 
 ### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -160,8 +99,8 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Cuánto costó la boda de Luisa Fernanda W y Pipe Bueno: esta sería la millonaria cuenta de la ceremonia en la Catedral de Sal, el vestido, joyas y otros lujos - Infobae** — 31/10/2026 06:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgJBVV95cUxQNEo5SlBWYV9WLUVKUlV2VXFxd3lPTmJFRjlmMFplT0pMUFJDZGc2eXJzUGxuZHFCQ2dGR2FramZSRFdYNVdMcXpsdS1xLXdnMUxpN1pLd042MzFZSTFvUF9pblhaTnJpMnlGUG1BVmdLTzRUMVg5N2ZDMDN5UUhKSWZMY1ZUN1FTM28xVXVPeWQwM1JWaVl2TWdFakNEVDJaeU1HeTl1Mk5rSjNlZWNGTG1ZWkViUk5vY0hfMi1GT0ktSEZnN3dNRkxVTS1XMnRZQ0dqcW1ncDV6SURWVDMwaDE0QWhBTEgxT3paa1JKdnRDY1p5cVAtcVJhdVBDZ3JLQ19ET0ViSnQxN2pSa0pRUTFfQlEwMkJ5NmtxdnNBUDFvaHh1cVHSAcACQVVfeXFMTTdvLVhlLW9CVzRFUm1UYmkwTUhodXhOaEcyWGM3ZjZZcHBSWVNDSmJoN2tHYzltMkc0MlZmT1RFNWhVeERMdXVxa1hVMzctc0lhUFBJa2ZDYXVoVmN1ZXNfdWFDd0Q2NDlZYWhpOHY4Nzdod2taRGQyOHdPV2NlMUpHWXdlWHF3bzZPa1hQaEhiWVN0RU1VTTNURXdvQVRCU0NHdmtQdVY1SXBGRVZrOFRDNWo4STQ2a0ZCNnNiSlF1Sl9pSlh3MGh0SlpKRk1RNzlleXdoYTBCLXQ1ZlpRaXJxbFY5clh2NS1DZHF0SGRyS2FMdDVVeUoxeWRXU2o2bjhlcjh6WWNZVW1TRktmZ0lLYVJwb0hUczBuekdBVWptZ1M2dGJMNTdJdjFLZVZRVmMySk9MWDF2TVVKV2YzNEQ?oc=5)
 - **[Creadores] Coste de la boda de Luisa Fernanda W y Pipe Bueno, lujo incluido - Uruguay Al Día** — 31/10/2026 05:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjJSVXlhVnZHMmdPUVhHRUxEb08yZFhmRGZJYjJmOEpDM2gxQlFrN0ZCREFDUG5wQnVwX2RoVk1USGJJVl9GX2NDMFlVWG1FRS1GbXhNdzRiREQ2Z05zWFJDOVlQdC1sOElfbm9UVGRzVTE1RWNyS09DZE5JTFpSanBJeF84T1ZjdDNSN3o3M1NHTjJmVjFR?oc=5)
-- **[Creadores] Cuánto costó la boda de Luisa Fernanda W y Pipe Bueno: esta sería la millonaria cuenta de la ceremonia en la Catedral de Sal, el vestido, joyas y otros lujos - Infobae** — 31/10/2026 05:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMipgJBVV95cUxQNEo5SlBWYV9WLUVKUlV2VXFxd3lPTmJFRjlmMFplT0pMUFJDZGc2eXJzUGxuZHFCQ2dGR2FramZSRFdYNVdMcXpsdS1xLXdnMUxpN1pLd042MzFZSTFvUF9pblhaTnJpMnlGUG1BVmdLTzRUMVg5N2ZDMDN5UUhKSWZMY1ZUN1FTM28xVXVPeWQwM1JWaVl2TWdFakNEVDJaeU1HeTl1Mk5rSjNlZWNGTG1ZWkViUk5vY0hfMi1GT0ktSEZnN3dNRkxVTS1XMnRZQ0dqcW1ncDV6SURWVDMwaDE0QWhBTEgxT3paa1JKdnRDY1p5cVAtcVJhdVBDZ3JLQ19ET0ViSnQxN2pSa0pRUTFfQlEwMkJ5NmtxdnNBUDFvaHh1cVHSAcACQVVfeXFMTTdvLVhlLW9CVzRFUm1UYmkwTUhodXhOaEcyWGM3ZjZZcHBSWVNDSmJoN2tHYzltMkc0MlZmT1RFNWhVeERMdXVxa1hVMzctc0lhUFBJa2ZDYXVoVmN1ZXNfdWFDd0Q2NDlZYWhpOHY4Nzdod2taRGQyOHdPV2NlMUpHWXdlWHF3bzZPa1hQaEhiWVN0RU1VTTNURXdvQVRCU0NHdmtQdVY1SXBGRVZrOFRDNWo4STQ2a0ZCNnNiSlF1Sl9pSlh3MGh0SlpKRk1RNzlleXdoYTBCLXQ1ZlpRaXJxbFY5clh2NS1DZHF0SGRyS2FMdDVVeUoxeWRXU2o2bjhlcjh6WWNZVW1TRktmZ0lLYVJwb0hUczBuekdBVWptZ1M2dGJMNTdJdjFLZVZRVmMySk9MWDF2TVVKV2YzNEQ?oc=5)
 - **[Creadores] ¿La Liendra y Dani Duke terminaron su relación? Esto pasó en el matrimonio de Pipe Bueno: VIDEO - Noticias RCN** — 31/10/2026 04:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2E2dkdWa2M5NDBwelQ0RUxla0NDT0lXNG9kNHRvQXVzTGVEUjY1SzhxU0ZpUTUyXzRuTzd2LUU4dmtyOWN1MmEydURPdUNiSTVnWHBvYmpMN3VEMkNEYW94LXlHcXFjcEZ6bndWRkhvLUlKLWVkYllVYzFBYzdrZmRiNmQ4dmh6RDViV2hIRDZNOGJDRm1Od3ZiM1IwSS1kV21pSU1WT2lwcjNYVWpaTWZsdHVCNHVCWkZnYTJiOTJEcDNQRm1za3FtMG9kbXY5STJsbzN5ekNfanPSAdsBQVVfeXFMTS1ESXRodXNwWEFwLUdTNWlaaG5iMEJLX05GallDZ0JSVkxqaE1rWkFFS1l0SnJNVVNzdWQ4UFRVTEZwMmpZOW1jLWlqcmhmRUxjWE9lR3dUbm9mMGxMd0JsalViMGZEd2drZ3dVbHJCdzJPTnJ5RU9ocktWOVREaDFjQzVsWk1oS3g0MXJEQy12LW42UmRCVks4SlkxbjhMajQzaU9DMlp2dEJXSHpCZGFid1Z5UjJnYzEwamZySDU3Zy04WnZkQmoyQ195SDRkRkdianJGaVFUcVUw?oc=5)
 - **[Creadores] Aida Victoria Merlano supera a Westcol y Luisa Fernanda W: así quedó el ranking de influencers - Minuto60** — 31/10/2026 10:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1NFQ3VMS1hfSXBJeG9idm5nTkc0b1d2cWdEVHdsYml2TmtwT1FIWUZYVjY0SEVPeWhqS3NWUUdMV0JacjRKODFLa2VNck5qeV94V0FWcmxNM2pCUXgxSnVlNnQ3a1cwWlBlRzJfM3IxUi1jQ3AySy1yWHRLUTNnSGNsX2dibVVKOUhGMGZrSDI4VEJSVmlaVmxWcFp2QU1DcC15RGlqS3lRS2JsWFQzUGFSTnRDRmlHYjJfYU80Y0NwUQ?oc=5)
 - **[Creadores] Westcol rompe el silencio tras la muerte del streamer salvadoreño Komanche - elsalvador.com** — 30/10/2026 06:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWhPekJ5OUU0LTVMeU5LYjFlX2k5RnRWaFNkN1owR0ZLTmgxOXdZa2p3OENqVUpmWEo5ekdsb1BHR1NjRWxoeUFvWEFDQVlNQlc2dU4wTTBwdXNnZ2FNZFY2SG1ROEtVVEhqVUJWejMwdUxVQnBBakdnLW1wMGxBc2IzTWo5LXlfY0lCU2M5TVpEbC0xeWR3ZFd3?oc=5)
