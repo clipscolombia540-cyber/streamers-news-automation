@@ -1,55 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 01:48 AM (hora de Colombia)
+Actualizado: 01/11/2026 03:43 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 3.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
+Distribución por categoría: Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### Everyone hates Westcol for what happened with Komanche…
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Txrry
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 245.984
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=pITBtuK1yXQ
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.150
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 31/10/2026 06:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.286
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=IcFUqey_WoY
-
-### MEJORES CLIPS DE LA G4NG4 PARTE 1
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
-- Canal que publico: Westcol MedaYork Clips
-- Publicado: 31/10/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=jhc9bEBGqk8
 
 ### MR STIVEN TALKING ABOUT THE AUDIO CONTROVERSY
 - Categoria: Cuenta de clips
@@ -58,18 +18,18 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 31/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
+- Vistas reportadas por YouTube: 20
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=r3Qb57Xhtj4
 
-### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
+### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
@@ -88,46 +48,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4.
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### Everyone hates Westcol for what happened with Komanche…
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Everyone hates Westcol for what happened with Komanche…
-- **Texto en pantalla:** Everyone hates Westcol for what happened with Komanche…
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pITBtuK1yXQ
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IcFUqey_WoY
-
-### MEJORES CLIPS DE LA G4NG4 PARTE 1
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol MedaYork Clips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Westcol MedaYork Clips.
-- **Título sugerido:** MEJORES CLIPS DE LA G4NG4 PARTE 1
-- **Texto en pantalla:** MEJORES CLIPS DE LA G4NG4 PARTE 1
-- **Descripción:** Fragmento relacionado con Cuenta de clips: Westcol MedaYork Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jhc9bEBGqk8
-
 ### MR STIVEN TALKING ABOUT THE AUDIO CONTROVERSY
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -138,12 +58,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=r3Qb57Xhtj4
 
-### CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
+### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
-- **Texto en pantalla:** CHANTY Y LA PIQUIÑA DISFRAZADOS DE BLESSD Y RYAN CASTRO
+- **Título sugerido:** CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
+- **Texto en pantalla:** CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
