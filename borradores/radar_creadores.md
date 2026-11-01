@@ -1,15 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 05:34 AM (hora de Colombia)
+Actualizado: 01/11/2026 07:40 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
+Clips incluidos: 7.
 Noticias recientes: 7.
-Distribución por categoría: Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: SHOWTUBERS TV
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 111.376
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=Wam19NLngPQ
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 30/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 51.154
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
 ### MEJORES CLIPS DE LA G4NG4 PARTE 1
 - Categoria: Cuenta de clips
@@ -21,16 +41,27 @@ Distribución por categoría: Cuenta de clips: 4.
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=jhc9bEBGqk8
 
-### MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
+### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 31/10/2026 02:00 PM
+- Creador/canal detectado: Cuenta de clips: ClipsWcol
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipsWcol
+- Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 60
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=2sENM6P_JDE
+
+### MERCANDO CON MI MUJER | CHANTY
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 31/10/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 19
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=RCJZchH_c2Y
+- Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
 
 ### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - Categoria: Cuenta de clips
@@ -39,24 +70,44 @@ Distribución por categoría: Cuenta de clips: 4.
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### MERCANDO CON MI MUJER | CHANTY
+### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
+- Creador/canal detectado: Cuenta de clips: Clip virales Col 23
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: Clip virales Col 23
 - Publicado: 30/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 19
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=6-v3MilygO8
+- Enlace directo: https://www.youtube.com/watch?v=cVXrnZlrFoc
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAUDE EN VIDEO | SPEED FILTRADO
+- **Texto en pantalla:** WESTCOL EN SU PEOR FUNA por KOMANCHE | DESCUBREN que MrBEAST HIZO FRAU
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Wam19NLngPQ
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
 
 ### MEJORES CLIPS DE LA G4NG4 PARTE 1
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Westcol MedaYork Clips? 👀
@@ -68,15 +119,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=jhc9bEBGqk8
 
-### MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- **Texto en pantalla:** MR STIVEN PLAYING FREE FIRE AT FULL THROTTLE
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Texto en pantalla:** THE BEST MOMENTS OF DEDSAFIO 4 | DAYS #4 AND #5 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=RCJZchH_c2Y
+- **Fuente original:** https://www.youtube.com/watch?v=2sENM6P_JDE
+
+### MERCANDO CON MI MUJER | CHANTY
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** MERCANDO CON MI MUJER | CHANTY
+- **Texto en pantalla:** MERCANDO CON MI MUJER | CHANTY
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
 
 ### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -88,15 +149,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### MERCANDO CON MI MUJER | CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** MERCANDO CON MI MUJER | CHANTY
-- **Texto en pantalla:** MERCANDO CON MI MUJER | CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+- **Texto en pantalla:** MRSTIVENTC Y ERICKTC 🔥JUGANDO FREE 🧀 MODO 😈 🔥🔥🔥
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6-v3MilygO8
+- **Fuente original:** https://www.youtube.com/watch?v=cVXrnZlrFoc
 
 ## Noticias y contexto
 
