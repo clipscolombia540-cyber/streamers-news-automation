@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 07:51 PM (hora de Colombia)
+Actualizado: 01/11/2026 09:46 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 5.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: Drice Gamerz
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.256
+- Vistas reportadas por YouTube: 24.258
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=IcFUqey_WoY
 
@@ -28,7 +28,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: Westcol MedaYork Clips
 - Publicado: 01/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=MsRdVkR_FSo
 
@@ -50,7 +50,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 109
+- Vistas reportadas por YouTube: 143
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
@@ -61,19 +61,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 170
+- Vistas reportadas por YouTube: 178
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
-
-### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 01/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 413
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -128,16 +118,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
-
-### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
-- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Noticias y contexto
 
