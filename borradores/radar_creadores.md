@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 02/11/2026 03:56 AM (hora de Colombia)
+Actualizado: 02/11/2026 05:53 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 6.
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: The Burnt Peanut Fam Tv
 - Publicado: 01/11/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24
+- Vistas reportadas por YouTube: 23
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
@@ -39,7 +39,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.285
+- Vistas reportadas por YouTube: 2.347
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=3WgfWEdoLxY
 
@@ -61,7 +61,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 202
+- Vistas reportadas por YouTube: 301
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
