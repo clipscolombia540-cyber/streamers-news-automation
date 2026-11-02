@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 01/11/2026 05:30 PM (hora de Colombia)
+Actualizado: 01/11/2026 07:51 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 5.
+Clips incluidos: 6.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 30/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 51.160
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=hTlRV78bF54
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -31,6 +21,28 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=IcFUqey_WoY
 
+### BEST #westcol CLIPS PART 2
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Westcol MedaYork Clips
+- Publicado: 01/11/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=MsRdVkR_FSo
+
+### BEST CLIPS OF #westcol PART 2
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Westcol MedaYork Clips
+- Publicado: 31/10/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=jhc9bEBGqk8
+
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
@@ -38,7 +50,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 97
+- Vistas reportadas por YouTube: 109
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
@@ -49,18 +61,18 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 31/10/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 100
+- Vistas reportadas por YouTube: 170
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 292
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 413
+- Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Borradores de copy para clips (revisar antes de publicar)
@@ -75,17 +87,27 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hTlRV78bF54
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=IcFUqey_WoY
+
+### BEST #westcol CLIPS PART 2
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** BEST #westcol CLIPS PART 2
+- **Texto en pantalla:** BEST #westcol CLIPS PART 2
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=MsRdVkR_FSo
+
+### BEST CLIPS OF #westcol PART 2
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** BEST CLIPS OF #westcol PART 2
+- **Texto en pantalla:** BEST CLIPS OF #westcol PART 2
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=jhc9bEBGqk8
 
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -107,12 +129,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
-- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
