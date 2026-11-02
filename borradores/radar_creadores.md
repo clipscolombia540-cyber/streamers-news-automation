@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 02/11/2026 05:53 AM (hora de Colombia)
+Actualizado: 02/11/2026 07:55 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 5.
 Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,31 +17,31 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: The Burnt Peanut Fam Tv
 - Publicado: 01/11/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
+- Vistas reportadas por YouTube: 45
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### BEST #westcol CLIPS PART 2
+### MRSTIVENTC CON PIRLO EN MEDELLÍN #mrstiventc @MrStivenTc #medellin @Pirlo420 #viralshorts #rodadas
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Westcol MedaYork Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: Westcol MedaYork Clips
-- Publicado: 01/11/2026 05:00 PM
+- Creador/canal detectado: Cuenta de clips: MR CLIPS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR CLIPS
+- Publicado: 01/11/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=MsRdVkR_FSo
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=p2Bh-hE_p4Y
 
-### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 31/10/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.347
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=3WgfWEdoLxY
+- Vistas reportadas por YouTube: 325
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - Categoria: Cuenta de clips
@@ -50,20 +50,9 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 162
+- Vistas reportadas por YouTube: 178
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
-
-### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 31/10/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 301
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=nY7J5TZA0cM
 
 ### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - Categoria: Emergente por verificar
@@ -71,7 +60,7 @@ Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 4, Emergente
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 715
+- Vistas reportadas por YouTube: 741
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
@@ -89,35 +78,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### BEST #westcol CLIPS PART 2
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### MRSTIVENTC CON PIRLO EN MEDELLÍN #mrstiventc @MrStivenTc #medellin @Pirlo420 #viralshorts #rodadas
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** BEST #westcol CLIPS PART 2
-- **Texto en pantalla:** BEST #westcol CLIPS PART 2
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MRSTIVENTC CON PIRLO EN MEDELLÍN #mrstiventc @MrStivenTc #medellin @Pirlo420 #viralshorts #rodadas
+- **Texto en pantalla:** MRSTIVENTC CON PIRLO EN MEDELLÍN #mrstiventc @MrStivenTc #medellin @Pi
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=MsRdVkR_FSo
-
-### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
-- **Texto en pantalla:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3WgfWEdoLxY
-
-### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
-- **Texto en pantalla:** THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=o2wNcz5vAiY
+- **Fuente original:** https://www.youtube.com/watch?v=p2Bh-hE_p4Y
 
 ### CHANTY AND LA PIQUIÑA DRESSED UP AS BLESSD AND RYAN CASTRO
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -128,6 +97,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=nY7J5TZA0cM
+
+### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
+- **Texto en pantalla:** THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=o2wNcz5vAiY
 
 ### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
