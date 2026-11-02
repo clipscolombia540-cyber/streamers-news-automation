@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-11-02T02:12:27.341822-05:00",
+  "actualizado": "2026-11-02T03:56:20.522043-05:00",
   "series": [
+    {
+      "nombre": "TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-01T23:54:40.850094-05:00",
+      "ultima_deteccion": "2026-11-02T03:56:20.522043-05:00",
+      "canal_muestra": "The Burnt Peanut Fam Tv",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=vGZAtR3R8QQ"
+      ]
+    },
     {
       "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
@@ -14,17 +25,6 @@
         "https://www.youtube.com/watch?v=DOdMKdwL7Qs",
         "https://www.youtube.com/watch?v=hTlRV78bF54",
         "https://www.youtube.com/watch?v=ElNstcXs2pY"
-      ]
-    },
-    {
-      "nombre": "TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-01T23:54:40.850094-05:00",
-      "ultima_deteccion": "2026-11-02T02:12:27.341822-05:00",
-      "canal_muestra": "The Burnt Peanut Fam Tv",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=vGZAtR3R8QQ"
       ]
     },
     {
