@@ -1,6 +1,6 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 01:57 AM (hora de Colombia)
+Actualizado: 03/11/2026 03:54 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
@@ -17,29 +17,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: Drice Gamerz
 - Publicado: 02/11/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.959
+- Vistas reportadas por YouTube: 21.966
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
-
-### WESTCOL REGRESA Y HABLA DE LA SITUACIÓN QUE VIVIÓ CON EL TEMA DE KOMANCHE
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 02/11/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.780
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=S8QytcNvYb4
-
-### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: The Burnt Peanut Fam Tv
-- Publicado: 01/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.116
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
 - Categoria: Clip de terceros
@@ -47,9 +27,29 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: CHISME URBANO TV
 - Publicado: 03/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.424
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 7.808
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=iKkWHif4h0o
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: The Burnt Peanut Fam Tv
+- Publicado: 01/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4.203
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
+
+### Los Mejores Clips de la Semana #1 | WestCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: La Ganga
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=EFKT5pW9Bxw
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - Categoria: Cuenta de clips
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.489
+- Vistas reportadas por YouTube: 23.794
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
 
@@ -67,7 +67,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.285
+- Vistas reportadas por YouTube: 15.955
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=8L8CP3xe3Qo
 
@@ -100,27 +100,27 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 197
+- Vistas reportadas por YouTube: 217
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
-### OCTUBRE EN KICK COLOMBIA 2026
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Chimbonauta
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1.252
-- Puntaje heurístico de interés: 2
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 993
+- Vistas reportadas por YouTube: 1.051
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
@@ -138,15 +138,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
 
-### WESTCOL REGRESA Y HABLA DE LA SITUACIÓN QUE VIVIÓ CON EL TEMA DE KOMANCHE
+### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REGRESA Y HABLA DE LA SITUACIÓN QUE VIVIÓ CON EL TEMA DE KOMANCHE
-- **Texto en pantalla:** WESTCOL REGRESA Y HABLA DE LA SITUACIÓN QUE VIVIÓ CON EL TEMA DE KOMAN
+- **Título sugerido:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
+- **Texto en pantalla:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=S8QytcNvYb4
+- **Fuente original:** https://www.youtube.com/watch?v=iKkWHif4h0o
 
 ### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -158,15 +158,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
+### Los Mejores Clips de la Semana #1 | WestCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
-- **Texto en pantalla:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | 
+- **Título sugerido:** Los Mejores Clips de la Semana #1 | WestCOL
+- **Texto en pantalla:** Los Mejores Clips de la Semana #1 | WestCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=iKkWHif4h0o
+- **Fuente original:** https://www.youtube.com/watch?v=EFKT5pW9Bxw
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -218,22 +218,22 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=o2wNcz5vAiY
 
-### OCTUBRE EN KICK COLOMBIA 2026
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
-- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
-- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
+- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
 - **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
-- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
