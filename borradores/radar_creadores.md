@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 03:54 AM (hora de Colombia)
+Actualizado: 03/11/2026 05:52 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 10.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,7 +15,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
-- Publicado: 02/11/2026 05:00 AM
+- Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 21.966
 - Puntaje heurístico de interés: 5
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: CHISME URBANO TV
 - Publicado: 03/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.808
+- Vistas reportadas por YouTube: 8.561
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=iKkWHif4h0o
 
@@ -37,19 +37,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: The Burnt Peanut Fam Tv
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.203
+- Vistas reportadas por YouTube: 4.290
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### Los Mejores Clips de la Semana #1 | WestCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: La Ganga
+### WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=EFKT5pW9Bxw
+- Vistas reportadas por YouTube: 11.417
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=hc_eHyGrndY
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - Categoria: Cuenta de clips
@@ -57,19 +58,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.794
+- Vistas reportadas por YouTube: 24.738
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
-
-### I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA W SOUND WITH HADES66 🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 02/11/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.955
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=8L8CP3xe3Qo
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - Categoria: Cuenta de clips
@@ -110,7 +101,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.252
+- Vistas reportadas por YouTube: 1.361
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
@@ -120,7 +111,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.051
+- Vistas reportadas por YouTube: 1.064
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
@@ -158,15 +149,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### Los Mejores Clips de la Semana #1 | WestCOL
+### WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Los Mejores Clips de la Semana #1 | WestCOL
-- **Texto en pantalla:** Los Mejores Clips de la Semana #1 | WestCOL
+- **Título sugerido:** WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
+- **Texto en pantalla:** WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=EFKT5pW9Bxw
+- **Fuente original:** https://www.youtube.com/watch?v=hc_eHyGrndY
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -177,16 +168,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
-
-### I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA W SOUND WITH HADES66 🤯
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA W SOUND WITH HADES66 🤯
-- **Texto en pantalla:** I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=8L8CP3xe3Qo
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
