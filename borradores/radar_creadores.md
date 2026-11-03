@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 02/11/2026 11:48 PM (hora de Colombia)
+Actualizado: 03/11/2026 01:57 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,34 +21,34 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
 
-### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: The Burnt Peanut Fam Tv
-- Publicado: 01/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.949
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
-
 ### WESTCOL REGRESA Y HABLA DE LA SITUACIÓN QUE VIVIÓ CON EL TEMA DE KOMANCHE
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Aida Victoria Stream
 - Publicado: 02/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.345
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 6.780
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=S8QytcNvYb4
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: The Burnt Peanut Fam Tv
+- Publicado: 01/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4.116
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: CHISME URBANO TV
-- Publicado: 02/11/2026 11:02 PM
+- Publicado: 03/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 186
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 2.424
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=iKkWHif4h0o
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.985
+- Vistas reportadas por YouTube: 20.489
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
 
@@ -67,9 +67,20 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.559
+- Vistas reportadas por YouTube: 15.285
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=8L8CP3xe3Qo
+
+### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: clipstremmears
+- Creador relacionado en el título: Chanty
+- Canal que publico: clipstremmears
+- Publicado: 03/11/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=h6-QGk5hsU8
 
 ### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
 - Categoria: Cuenta de clips
@@ -99,7 +110,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.005
+- Vistas reportadas por YouTube: 1.252
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
@@ -112,16 +123,6 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Vistas reportadas por YouTube: 993
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
-
-### Kick: la Plataforma que Nació de un Casino
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Señal Rota
-- Canal que publico: Señal Rota
-- Publicado: 02/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=RLx969BlcFs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -137,16 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
 
-### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- **Texto en pantalla:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut 
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
-
 ### WESTCOL REGRESA Y HABLA DE LA SITUACIÓN QUE VIVIÓ CON EL TEMA DE KOMANCHE
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -156,6 +147,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=S8QytcNvYb4
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- **Texto en pantalla:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut 
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -186,6 +187,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=8L8CP3xe3Qo
+
+### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- **Texto en pantalla:** PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=h6-QGk5hsU8
 
 ### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -227,16 +238,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
-### Kick: la Plataforma que Nació de un Casino
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Señal Rota? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Señal Rota.
-- **Título sugerido:** Kick: la Plataforma que Nació de un Casino
-- **Texto en pantalla:** Kick: la Plataforma que Nació de un Casino
-- **Descripción:** Fragmento relacionado con Emergente: Señal Rota. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=RLx969BlcFs
-
 ## Noticias y contexto
 
 - **[Creadores] Preocupación por la salud de Yeferson Cossio: terminó en urgencias y anunció posible cirugía - Minuto30** — 02/11/2026 10:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDVxUUlWZHdWdlZCeW1FUmtYYXFLanBqLXoxWVRlZEprTHdOdUZzelFIY1BpSVM1Nk9MY2J2cDNWVVFOM0czbUFqQTFSVnBCVkFJbHZrUWFneHVwR0lzTHNkLWwyRXZaNnBiYnNQdkJNWE4yNldLYlJrRWNfNDJjVmxici1FMG5ka0hTZUhHYUJMOTJFTEdYbl8wcUxGT2NhNkVWNXhKZ3ZrUGdRWWlMXzJ3V0ZadHM1NWE1eDEtVG9qODA?oc=5)
@@ -266,9 +267,9 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-02
+- **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-03
   - https://www.youtube.com/watch?v=vGZAtR3R8QQ
-- **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-02
+- **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-03
   - https://www.youtube.com/watch?v=Z5rGUBl174E
   - https://www.youtube.com/watch?v=QkfLisodgiQ
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-30
