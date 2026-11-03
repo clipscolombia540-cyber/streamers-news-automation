@@ -1,21 +1,31 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 05:52 AM (hora de Colombia)
+Actualizado: 03/11/2026 07:53 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 11.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 03/11/2026 04:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 48.099
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
+
 ### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
-- Publicado: 01/11/2026 07:00 PM
+- Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 21.966
 - Puntaje heurístico de interés: 5
@@ -27,7 +37,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: CHISME URBANO TV
 - Publicado: 03/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.561
+- Vistas reportadas por YouTube: 9.094
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=iKkWHif4h0o
 
@@ -35,22 +45,21 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: The Burnt Peanut Fam Tv
-- Publicado: 01/11/2026 07:00 PM
+- Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.290
+- Vistas reportadas por YouTube: 4.315
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 02/11/2026 07:00 PM
+### REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: LLanerosGamerTM
+- Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.417
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=hc_eHyGrndY
+- Vistas reportadas por YouTube: 661
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=RVjTEZpRhMQ
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - Categoria: Cuenta de clips
@@ -58,8 +67,8 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.738
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 25.418
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
@@ -73,6 +82,17 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=h6-QGk5hsU8
 
+### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 217
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
+
 ### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
@@ -84,24 +104,13 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
-### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 01/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 217
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
-
 ### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Chimbonauta
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.361
+- Vistas reportadas por YouTube: 1.409
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
@@ -109,15 +118,25 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 5, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 01/11/2026 07:00 PM
+- Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.064
+- Vistas reportadas por YouTube: 1.080
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
 
 ### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -149,15 +168,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
+### REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
-- **Texto en pantalla:** WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲
+- **Título sugerido:** REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
+- **Texto en pantalla:** REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hc_eHyGrndY
+- **Fuente original:** https://www.youtube.com/watch?v=RVjTEZpRhMQ
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -179,16 +198,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Texto en pantalla:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
-
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -198,6 +207,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=o2wNcz5vAiY
+
+### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Texto en pantalla:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
 ### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
@@ -221,9 +240,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Preocupación por la salud de Yeferson Cossio: terminó en urgencias y anunció posible cirugía - Minuto30** — 02/11/2026 10:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDVxUUlWZHdWdlZCeW1FUmtYYXFLanBqLXoxWVRlZEprTHdOdUZzelFIY1BpSVM1Nk9MY2J2cDNWVVFOM0czbUFqQTFSVnBCVkFJbHZrUWFneHVwR0lzTHNkLWwyRXZaNnBiYnNQdkJNWE4yNldLYlJrRWNfNDJjVmxici1FMG5ka0hTZUhHYUJMOTJFTEdYbl8wcUxGT2NhNkVWNXhKZ3ZrUGdRWWlMXzJ3V0ZadHM1NWE1eDEtVG9qODA?oc=5)
+- **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 03/11/2026 07:28 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
+- **[Creadores] Yeferson Cossio terminó en urgencias por un fuerte dolor en el estomago: tendría que ser operado - Infobae** — 03/11/2026 07:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnpLclZDYmoycGhaZ2pMT3pZcHNLV09hMnZ6ZnNnRG1zVzdreEdPMktVV21FZzQ4YmFrNGNxaEdua1h4QTRKMmo1MmRISlF5TEl6R0UyOW9mbFhhRXAzeTQ2cVEzSDRTVy1ZVmQ3REx1dmhnT0g2N2FsZFNjSDktSHprS3BOaW5GaXVjNlBCTlpHSTQ4REw2ajQxdXQ3dFBhd0hkYzF4a1hIekRRVWFQZFJTMlg4SktIREMtcXF2eUtIMHBHQlRaeUw5eU1VS2pUQmZQZm81ONIB8gFBVV95cUxPWTNtR1JaS3Jac2cwLWRmazRkZ041bWFnUVNsbGd1VjltVkNwSGt6bklOTVRPeEY5NHRxMHctNE1aZmpSbmkyeDlweUpsR0JCa2N1VTkya1RUMkZIUGtEODVRU2xYc3dxVjZJNHRiTkpmZnJHd2pJZjdTM1ljc1h0Y3R0WFBMZHhQNC1fa0Jjbzc2M1hVUHJqamJhUWR3RlI3MnFpYkYwdjFHTEJQSDItMHlOR1RnaTNXSWstSWRMcC1aS3FJbXduc3NHSEIwN216QVhWaV8zeGtLd1h1RWlnMGp3cFRHZWNTVlBaNkJ1ZVRLUQ?oc=5)
 - **[Creadores] Westcol genera incertidumbre tras revelar una inesperada decisión: ¿Sabe algo que los demás desconocen? - oncenoticias.hn** — 02/11/2026 09:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWViUjZrU0JZbUJXOXI4bkVTX1J4dlkwSUdkOWpYLURtdWw3RS00SXprN1M2bXpLdHo1TmRBLWZPTGQzMkxmRzJHRzVtN2NrVTNuejIxM3B2RXNHUmNScm1qY0pTb3hCbE0zYUFlOWFBcVJxM29pTWxvOEhFU3dDalFwWGpMZ3RzRHd0Zm9IU2x5S2Y1Tjk1N0JFLTV5NFJzN0YwOXFEWkpXd3F5M19ycXViWlpNbzR4ekNXV2VaOVJRUWNVVjdJ?oc=5)
-- **[Creadores] Preocupación por salud de Yeferson Cossio: apareció en el hospital y anunció posible cirugía - Revista Semana** — 02/11/2026 09:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmtGS29pa1JLd0h1WDJPZU1YZGtNN19hWG12SE51Z0hGSGE3TWtib3otUjZSV3ZNV1BtZDBCSXROaXlRV0pfZUtFWlFyalNQTVJjbHV6VXU3S1NxT1hHOW0wRWg5SWExa1E0OW1rN3RSVGpCYlB2TUp6RkMzSGM0WV91ZFJlcEpYZE5aeVpUNHFobEw4eURFLTRYdjNWWnoxNTlzWDNlOUNvNmRkWTJ2dmROSG5aVkd3MDhyc0FkWXJFS2dfZEdQWUU5NnRGV1UwcU1RUTdXNELSAdgBQVVfeXFMTTZrRktvaWtSS3dIdVgyT2VNWGRrTTdfYVhtdkhOdWdIRkhhN01rYm96LVI2Uld2TVdQbWQwQkl0Tml5UVdKX2VLRVpRcmpTUE1SY2x1elV1N0tTcU9YRzltMEVoOUlhMWtRNDltazd0UlRqQmJQdk1KekZDM0hjNFlfdWRSZXBKWGROWnlaVDRxaGxMOHlERS00WHYzVlp6MTU5c1gzZTlDbzZkZFkydnZkTkhuWlZHdzA4cnNBZFlyRUtnX2RHUFlFOTZ0RldVMHFNUVE3VzRC?oc=5)
 - **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv0gHfAUFVX3lxTE9kQVQ3cmplZmRKZGdMTjFPdnA3YkMyLVZHM09mclNtV0RJN3pEZi1wWXZMelZZY0dZeEJLVE94UHpGdzVBOGg1Z2ozOHlkR3BFZ1BidzVqWXVoYVBKTTVMNENCdWpHMHM2bFh1Sm1MZm1iTmxIZEdaT2hhSGNfQ1ZUVjRkVS1RbFFzbXVBMkN2b2syMFJkdU12T2RwZGt3UXY3M25NZl9IRkdPeXBuX2VLMHczaVBka09jVFR0RGdYSjFpRTFyOE4yZVlXbk5IVWI4VmdtZWhtYktYcUFpQm8?oc=5)
 - **[Creadores] La Segura fue hospitalizada de urgencia: encontraron un objeto metálico en su columna - Eluniversal.com.co** — 02/11/2026 02:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTG9DWDBzaGpfVlBZU2dndVJPOWxXQ01ZOVhDVkUtYjNJM0kxSmN1RzcySHpORlE1OFpWckFfSzFWZ3Fna05laEFSbEtfR2R3MTlQdy1vMjRxRjBUUzJjbU13ZUpTWktsOGdsV1JaWDBJai01N21abWJIMGVBWGJxX2RXb2FhVnoyMDFQUDh3Unk4TERVeFZYZ1RadXU1djd6NkExMUp4c2ZQMHdDdmc2emNzSTU4U2NMemozUkIzUi1NZ2lyUEZEcm5jMGVEQi1zT01n?oc=5)
 - **[Creadores] Luisa Fernanda W aclaró si estaba triste en las fotos de su boda con Pipe Bueno: “Solamente ve tristeza...” - Infobae** — 02/11/2026 11:38 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU82RXoxRWFiZjBCRjhUODJtZWgxT3ItQkNGNTRGWTJTd3BSVE1aeU9YejZGbTBPaWZqZXNqU1dmS2FmLXBLSy1GcFYzNlpReDQ2RV9zcHB2bFFPVkRRelBxWVJpU3hsb1JXY29PQXgtMDR0YlRja0phc1A1cUNoUXRrR0pRZ2JnTml6ejZFME9KUzhpTC05TGZDTUVvc2RpZndNdk1GSGVxZnZyRjRtLVcweFhQelUwQUdkZkFvN3FuTFB4QklOUUgtNzV3NC13czJIeWM3VHowaWNDMEtwdVNodXdzNU1UZkprdUZhZUZSNjR3QnJF0gGSAkFVX3lxTFBhYm1SY29temNXaGd4NGZlT21EUWRtNWV0Z1JmQXoyVHJLcmNHMUQzMlpTSlN2Qml4V01wend2Q29iQWxQYk1FUlUzUWVzdVVzT0RPanpZMW9wNTJDNC1xM0dkZ2JUY0dneGhtNVNWcmh5U0VBMVB3OWJIMEtCZm52MnBWVVlhcm1lR0VmWUJHNlY2VVVFTmZiM21SVWk5eEpoUDROSnE0dTkwMzV4RmJ5cnRVcTFJMHpob095TlpRcktrOWhTUUh0MHFodnhCSTR0OE0tb2FvMmJid1dWWmJHM0xmUXFrMkhTY0tEdDhVSF91NHkzX3FsSng3TV9BZ3VQSHBlUHRUV2NrbHBsNXJsSFE?oc=5)
@@ -251,8 +270,8 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-03
   - https://www.youtube.com/watch?v=vGZAtR3R8QQ
 - **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-03
+  - https://www.youtube.com/watch?v=ZPrz85wfiQo
   - https://www.youtube.com/watch?v=Z5rGUBl174E
-  - https://www.youtube.com/watch?v=QkfLisodgiQ
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-30
   - https://www.youtube.com/watch?v=2sENM6P_JDE
   - https://www.youtube.com/watch?v=dZys_yd5Mlg
