@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 11:50 AM (hora de Colombia)
+Actualizado: 03/11/2026 01:44 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 12.
-Noticias recientes: 10.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 2.
+Noticias recientes: 11.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
-- Publicado: 03/11/2026 06:00 AM
+- Publicado: 03/11/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.548
+- Vistas reportadas por YouTube: 49.573
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: LLanerosGamerTM
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.508
+- Vistas reportadas por YouTube: 4.692
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=RVjTEZpRhMQ
 
@@ -47,7 +47,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: The Burnt Peanut Fam Tv
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.464
+- Vistas reportadas por YouTube: 4.578
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
@@ -55,7 +55,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Westc0lResubido
-- Publicado: 03/11/2026 11:40 AM
+- Publicado: 03/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 1
@@ -67,20 +67,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28.045
+- Vistas reportadas por YouTube: 31.346
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
-
-### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 01/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.735
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=3WgfWEdoLxY
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - Categoria: Cuenta de clips
@@ -100,7 +89,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 02/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 12
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
@@ -121,18 +110,28 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.451
+- Vistas reportadas por YouTube: 1.485
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 02/11/2026 07:00 PM
+- Publicado: 03/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.096
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 84
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
+
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 01/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.129
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Borradores de copy para clips (revisar antes de publicar)
@@ -199,16 +198,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
 
-### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
-- **Texto en pantalla:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3WgfWEdoLxY
-
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -249,24 +238,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
-- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Título sugerido:** DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- **Texto en pantalla:** DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
+
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ## Noticias y contexto
 
-- **[Creadores] ¿Se arrepintió? Andrea Valdiri no pelearía contra La Divaza y WestCol reveló lo que pasó - Colombia.com** — 03/11/2026 11:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjUwMmVRQTIzYlpHQ05DMnFFbGU0YnpqRXFBYWJZTDBLQlBtNWEtQkxVNVg0TjFkTDlfbkZCNUc0SGdHcUF0SlpTMmIyVEdzZjVnRkRJbGVhVlV2NmJTYnpYRFlZeUhtNE1SVkpQdmliUzQ0OFd1d0EyblE1YVk4a21aYlpKSGdhdGhrTGhWUjNFN2ZETi1nLXV1ZXZ3Ty1YT0FKMDBmSjdzdlJwUGw3VDdmX0t0X09ha3pmMHZtbUhINjU2?oc=5)
-- **[Creadores] Andrea Valdiri se habría arrepentido de pelear contra La Divza en ‘Stream Fighters 5′: esto fue lo que dijo Westcol - Infobae** — 03/11/2026 11:22 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU01ta0oxZHN5bWJrMS1sRkUwcEpSV19PaVpxSDZqRmpuZnpNeEpXbzJtTGlMSTIzVXlmZjJjRnBHRkFoQm0xalZvWjdNNHgxVnlEVDYxbjZxNGRNaUdqVUtjUjFYYlBUUG9pRjNkYlRRTGpCdTRFZ3FOZFhxRmE0SDY5alNra1YxUkZna0ZUNnY0eEpJOFZBRjQ4X2p6SGdNdlJHczNtQm9Hc3h4MjRqOVZfM0ltVzBQV0VUWFhudWNweWRuNGhzZ3lpQUc5ZHBOQnpkRTRndnVfVDJUel9ZUzJsNTZmSW52eDFSOEFB0gGIAkFVX3lxTFBIR1pjNXVkLWtQWUpucU54UXpRbnpmWlNzTWctWDJ6Y3FMMUtfUU1Cd2JFVUZUZi1ibGxCVU5iY2gzbllZQVg0eEZkZXlfVWhiTXUweDBjeVg4TVd1RUx0dk1mSFBOTnFZZjF0N0FTMVBha0t5UEg3RWRUd3lPbVNOM0ZNeThvNTVvbE9ZZ2ZFZ0NraFhtMkZDaUExRHc3YzRTM1R2VWEycGNrT1ZKajVDYjg4c0Rqb3M2MkJaOFh3WWswZnZ1d00wUEwxTGZ3djdBVmlSTGxDa2ViVnFqZGU3SlpaT3NaTzdsa0VOOVdIcDJfa0pTWVU1M1NwTi1yM0VmTUktbXZkeQ?oc=5)
+- **[Creadores] Westcol muestra su tarjeta de crédito en vivo y revela cuánto dinero le gastaron - Televicentro** — 03/11/2026 01:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2hfSTA2dmJvRGxMaU9KRlNVbVlwelE0NGJqWlU0WEl2Wm9iQjFSMXp3VXI2NmhNbnpzbTR1dGJkWUdEMmdEbDlrNTZ4emxKWS03TmFIM2YzYWdQVVJuRk8tZDZwY3J6YnNMRS05WkJBU0JZZGktcDVjbjdJY0E0WllnNXBiRi1zcUYwaFF3d3lIbEhKNzU1a1RWZHdYRmgtYlZtcjZaaW4zOG1QbmJRdmdNb2NZcURqUEhnVA?oc=5)
+- **[Creadores] Andrea Valdiri se habría arrepentido de pelear contra La Divza en ‘Stream Fighters 5′: esto fue lo que dijo Westcol - Infobae** — 03/11/2026 12:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU01ta0oxZHN5bWJrMS1sRkUwcEpSV19PaVpxSDZqRmpuZnpNeEpXbzJtTGlMSTIzVXlmZjJjRnBHRkFoQm0xalZvWjdNNHgxVnlEVDYxbjZxNGRNaUdqVUtjUjFYYlBUUG9pRjNkYlRRTGpCdTRFZ3FOZFhxRmE0SDY5alNra1YxUkZna0ZUNnY0eEpJOFZBRjQ4X2p6SGdNdlJHczNtQm9Hc3h4MjRqOVZfM0ltVzBQV0VUWFhudWNweWRuNGhzZ3lpQUc5ZHBOQnpkRTRndnVfVDJUel9ZUzJsNTZmSW52eDFSOEFB0gGIAkFVX3lxTFBIR1pjNXVkLWtQWUpucU54UXpRbnpmWlNzTWctWDJ6Y3FMMUtfUU1Cd2JFVUZUZi1ibGxCVU5iY2gzbllZQVg0eEZkZXlfVWhiTXUweDBjeVg4TVd1RUx0dk1mSFBOTnFZZjF0N0FTMVBha0t5UEg3RWRUd3lPbVNOM0ZNeThvNTVvbE9ZZ2ZFZ0NraFhtMkZDaUExRHc3YzRTM1R2VWEycGNrT1ZKajVDYjg4c0Rqb3M2MkJaOFh3WWswZnZ1d00wUEwxTGZ3djdBVmlSTGxDa2ViVnFqZGU3SlpaT3NaTzdsa0VOOVdIcDJfa0pTWVU1M1NwTi1yM0VmTUktbXZkeQ?oc=5)
 - **[Creadores] Lonche de Huevito anuncia sus planes para construir una plaza en Los Mochis | VIDEO - Luz Noticias** — 03/11/2026 10:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEFVMW1QNkN6dEU2UXhRcGxnUUxxU2dTMVUwOHVtSGZQY29kT2hHbHQxR3B2TnBWTC1jT2FIU0dIMUNDZVc3LU1uQ0xvb3pGV2JiT3ZaUi1MLUFfYTlzVE10ejVET0pGVW5DVXBsTUxTNUZZV0tZbFVkQVhoVHVLblR3S2h0eGdubEFzUHgwQUFJZHpvbk9fWTdISnhqbmJtZ1poNnJrT1oxTl9LUFZyZnl6YUJ4RXEzakdUTFRndTNtMWs0aDhWVzFROHlDS1kxSnJnSzlTUdIB3AFBVV95cUxQdTdSMHozSjZLbEVBdHhzWFdMMHZ6ZklNLXU4VnBTaHg5R0owLVpPc3I1OGxpU3U3Q2ZfcW5xdkdTVkpoby1Rcl9fZzZYMmVieFB5bHZFTDdFdG1EVFpJWTZ1Ml8xZmhIaU8xMEgzZVJUdVpQNzZoSjhURWhvXzZtVkgwX3FsZloyVy1oRlZYbDdxNjRvSC1rZVF4UE1nMXFMSXBjSmc5cmR0T2xoVVluTFEwT2RNdjduUVZnSWc5MWNYbEhuM2tBVEdlVF90TU51bFNQbml6TGw0TlNE?oc=5)
 - **[Creadores] Yeferson Cossio terminó en urgencias por fuerte dolor abdominal - Kienyke** — 03/11/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxOVmVmOWlVUHFWTWNDTUR5aUtmY1JGcUJ0ZV82MVQ1d25IZ2Z3dkxKYlNLR29YeEEtSjVwWkNCSTBOXzZwcFBjTlhMQl9XbHNGbGRPSzVuN2lZOXlVMFF0dG1yUjFjbUZQLWFfd2JBUnNLMERQdmxHZnFrZFJvU0dfdW12RjhPZ3ZZaTE2d3lwLTA4WWFpTmR6dU52cDFsdw?oc=5)
 - **[Creadores] El influencer Yeferson Cossio habría sido operado de emergencia, ¿qué le pasó? - Eluniversal.com.co** — 03/11/2026 10:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLU1vN1VOamtBQkFYbVRqbDYySXNqamV6ZTkwdjhsWVRUdHZhTFZIU3MtVUF0ZHhRQUw5anY0SmpUVjNWa0NuQTlUZ2ZuUzdEU3JuYVlnSzNHVjBKS25leDZRTmk5b21PNnJ6TTF6SVVEdnlDc2FkckZrcGhrVlRRbW1JNTREZklKWE42TW9pbW94ME94dU5qUmNyM05Va0ZaSVdHR0JPRW5mc21uNFVYT3UtY3dZZXU5a3dBRFJlWFJzR0RpekdB?oc=5)
 - **[Creadores] “Esto no es vida”: La Segura reapareció tras ser hospitalizada de urgencia e hizo conmovedora petición a sus seguidores - Revista Semana** — 03/11/2026 09:31 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ3prM2Fsb2JZYTFFanl0MEdRczM0bHpMNm1UdjhYQWV6VkROTmJkVUdzVjIyZjZFcXlBZjlyZXgzVGhFeDZYRUpiZmRUc0VoRVREQnUxSHQwMFR5dkRUckEwN3J2YjNhcVdmV1NLbnZlOHotQTBlX0NUbXFZaDhRcE1LcU1ESVVsQUgxRzJTUW12LWxlN1ZKRUY0WGhRcS1KX0VtWFRBenMwZHN4TDBnNGtMNmNtQUNRTXBsTEpBakVyVUZzczRHQU1EYjU5RTJWUVQ2ZTVmVjhXWUxxWkhDZDVhLXFiSUFNMld3b2lCY0x6Q0V0RjZTZlh30gH6AUFVX3lxTE5DemszYWxvYllhMUVqeXQwR1FzMzRsekw2bVR2OFhBZXpWRE5OYmRVR3NWMjJmNkVxeUFmOXJleDNUaEV4NlhFSmJmZFRzRWhFVERCdTFIdDAwVHl2RFRyQTA3cnZiM2FxV2ZXU0tudmU4ei1BMGVfQ1RtcVloOFFwTUtxTURJVWxBSDFHMlNRbXYtbGU3VkpFRjRYaFFxLUpfRW1YVEF6czBkc3hMMGc0a0w2Y21BQ1FNcGxMSkFqRXJVRnNzNEdBTURiNTlFMlZRVDZlNWZWOFdZTHFaSENkNWEtcWJJQU0yV3dvaUJjTHpDRXRGNlNmWHc?oc=5)
+- **[Creadores] Escro le dedicó romántico mensaje a Aida Victoria Merlano y reaviva comentarios sobre el pasado de la influenciadora: "Hoy, mañana y siempre" - Infobae** — 03/11/2026 08:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRGRiYmtFc3ZQY0tGRXV1aVBlcm5DemVoemg2NWdJM0xrYkthc2ZsTHQxdEhqWDZFcHU2dWRPY0dUSFhNeHR1NWFZSlFCYUxEeHVvaG16dzJjN0RuWVZpZmpUU3hEOW0tVTVnWklyVkZrREZCR0VXMlNlQUxxVWhfRGxEOWtaM2M2Ui1zcGVDR0tEVWV6bjM4TmMyclZzVTRnVVNJLXZfUUpMVVpSN0RzNGZ4UXhNaGV0Q0xCcUkzNC1VakRCYV8zN1NGYzlOb0Fia2JMOFg1dm53Z200VkNaMzMzR3JxanNPRTlHUnJWWnlEbS1mVXZRU2t1ZW5aVHM4UHdtTE9lNlA1bVRBU1hR0gGqAkFVX3lxTE0zLXhDYlFST2pzV1pSM3VULWVRMjByUVhLTHVaQ21JZjgya1Nwczh0T0RkbG5faFdhMlgwTUhGSDNCOWVVSEc2UjI0cFRKRjNFYlYzZEgwVTRmZWJqNWdOeXQzRXF2UTFtSUM1b3hHdkxrT0I4dS1HSVE1UkVuVXEyWWlJZmpjZzd6QzNkRThJVlFLTXFodXF0Vno5UFBBcWhkaE5raDNzazZ1M3ZEV05uZVZ1Q0I4aEhmMDRtZ3Bteml6ZWo2dnYzbkhyRkRWWG1WaWpYTVByTGtZSGNjLUJYZW9kUFpZWEJKc1hybmhtQ210MW81UDdOdjNDVmsxbFd5MjJmMzY4TXN6YlowanNkN0s5a1JTajJncFdacHhKaHY3NjlFS3UtT2c?oc=5)
 - **[Creadores] Escro le dedicó romántico mensaje a Aida Victoria Merlano y reaviva comentarios sobre el pasado de la influenciadora: "Hoy, mañana y siempre" - Infobae** — 03/11/2026 08:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMy14Q2JRUk9qc1daUjN1VC1lUTIwclFYS0x1WkNtSWY4MmtTcHM4dE9EZGxuX2hXYTJYME1IRkgzQjllVUhHNlIyNHBUSkYzRWJWM2RIMFU0ZmViajVnTnl0M0VxdlExbUlDNW94R3ZMa09COHUtR0lRNVJFblVxMllpSWZqY2c3ekMzZEU4SVZRS01xaHVxdFZ6OVBQQXFoZGhOa2gzc2s2dTN2RFdObmVWdUNCOGhIZjA0bWdwbXppemVqNnZ2M25IckZEVlhtVmlqWE1QckxrWUhjYy1CWGVvZFBaWVhCSnNYcm5obUNtdDFvNVA3TnYzQ1ZrMWxXeTIyZjM2OE1zemJaMGpzZDdLOWtSU2oyZ3BXWnB4Smh2NzY5RUt1LU9n0gGqAkFVX3lxTE0zLXhDYlFST2pzV1pSM3VULWVRMjByUVhLTHVaQ21JZjgya1Nwczh0T0RkbG5faFdhMlgwTUhGSDNCOWVVSEc2UjI0cFRKRjNFYlYzZEgwVTRmZWJqNWdOeXQzRXF2UTFtSUM1b3hHdkxrT0I4dS1HSVE1UkVuVXEyWWlJZmpjZzd6QzNkRThJVlFLTXFodXF0Vno5UFBBcWhkaE5raDNzazZ1M3ZEV05uZVZ1Q0I4aEhmMDRtZ3Bteml6ZWo2dnYzbkhyRkRWWG1WaWpYTVByTGtZSGNjLUJYZW9kUFpZWEJKc1hybmhtQ210MW81UDdOdjNDVmsxbFd5MjJmMzY4TXN6YlowanNkN0s5a1JTajJncFdacHhKaHY3NjlFS3UtT2c?oc=5)
 - **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv0gHfAUFVX3lxTE9kQVQ3cmplZmRKZGdMTjFPdnA3YkMyLVZHM09mclNtV0RJN3pEZi1wWXZMelZZY0dZeEJLVE94UHpGdzVBOGg1Z2ozOHlkR3BFZ1BidzVqWXVoYVBKTTVMNENCdWpHMHM2bFh1Sm1MZm1iTmxIZEdaT2hhSGNfQ1ZUVjRkVS1RbFFzbXVBMkN2b2syMFJkdU12T2RwZGt3UXY3M25NZl9IRkdPeXBuX2VLMHczaVBka09jVFR0RGdYSjFpRTFyOE4yZVlXbk5IVWI4VmdtZWhtYktYcUFpQm8?oc=5)
 - **[Creadores] La Segura fue hospitalizada de urgencia: encontraron un objeto metálico en su columna - Eluniversal.com.co** — 02/11/2026 02:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTG9DWDBzaGpfVlBZU2dndVJPOWxXQ01ZOVhDVkUtYjNJM0kxSmN1RzcySHpORlE1OFpWckFfSzFWZ3Fna05laEFSbEtfR2R3MTlQdy1vMjRxRjBUUzJjbU13ZUpTWktsOGdsV1JaWDBJai01N21abWJIMGVBWGJxX2RXb2FhVnoyMDFQUDh3Unk4TERVeFZYZ1RadXU1djd6NkExMUp4c2ZQMHdDdmc2emNzSTU4U2NMemozUkIzUi1NZ2lyUEZEcm5jMGVEQi1zT01n?oc=5)
