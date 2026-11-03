@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 02/11/2026 09:45 PM (hora de Colombia)
+Actualizado: 02/11/2026 11:48 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 11.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: Drice Gamerz
 - Publicado: 02/11/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.951
+- Vistas reportadas por YouTube: 21.959
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
 
@@ -25,9 +25,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: The Burnt Peanut Fam Tv
-- Publicado: 01/11/2026 11:00 PM
+- Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.733
+- Vistas reportadas por YouTube: 3.949
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
@@ -37,20 +37,39 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 02/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.005
+- Vistas reportadas por YouTube: 4.345
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=S8QytcNvYb4
 
-### WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
+### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: CHISME URBANO TV
+- Publicado: 02/11/2026 11:02 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 186
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=iKkWHif4h0o
+
+### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 02/11/2026 07:00 PM
+- Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.265
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=hc_eHyGrndY
+- Vistas reportadas por YouTube: 10.985
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
+
+### I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA W SOUND WITH HADES66 🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 02/11/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 13.559
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=8L8CP3xe3Qo
 
 ### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
 - Categoria: Cuenta de clips
@@ -63,17 +82,6 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
-### NOS PARAMOS MUY DURO MANOLO 😂!| MODO DIABLO ACTIVADO 😈|MRSTIVEN
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Stiven clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Stiven clips
-- Publicado: 02/11/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ettuSuZiS3g
-
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
@@ -81,29 +89,39 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 195
+- Vistas reportadas por YouTube: 197
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
-### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+### OCTUBRE EN KICK COLOMBIA 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Chimbonauta
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 597
-- Puntaje heurístico de interés: 3
+- Vistas reportadas por YouTube: 1.005
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 991
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 993
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
+
+### Kick: la Plataforma que Nació de un Casino
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Señal Rota
+- Canal que publico: Señal Rota
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=RLx969BlcFs
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -139,15 +157,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=S8QytcNvYb4
 
-### WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
+### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲🤩
-- **Texto en pantalla:** WESTCOL DA LAS ÚLTIMAS NOTICIAS SOBRE LAS PELEAS DE STREAM FIGHTERS 5😲
+- **Título sugerido:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
+- **Texto en pantalla:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hc_eHyGrndY
+- **Fuente original:** https://www.youtube.com/watch?v=iKkWHif4h0o
+
+### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+- **Texto en pantalla:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON S
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
+
+### I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA W SOUND WITH HADES66 🤯
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA W SOUND WITH HADES66 🤯
+- **Texto en pantalla:** I'M BACK - TALKING ABOUT THE FLORIDA PLANE CRASH AND THE SUCCESS OF LA
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=8L8CP3xe3Qo
 
 ### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -159,16 +197,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
-### NOS PARAMOS MUY DURO MANOLO 😂!| MODO DIABLO ACTIVADO 😈|MRSTIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** NOS PARAMOS MUY DURO MANOLO 😂!| MODO DIABLO ACTIVADO 😈|MRSTIVEN
-- **Texto en pantalla:** NOS PARAMOS MUY DURO MANOLO 😂!| MODO DIABLO ACTIVADO 😈|MRSTIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ettuSuZiS3g
-
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -179,33 +207,43 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=o2wNcz5vAiY
 
-### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+### OCTUBRE EN KICK COLOMBIA 2026
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
-- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
+- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
 - **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
-- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
+### Kick: la Plataforma que Nació de un Casino
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Señal Rota? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Señal Rota.
+- **Título sugerido:** Kick: la Plataforma que Nació de un Casino
+- **Texto en pantalla:** Kick: la Plataforma que Nació de un Casino
+- **Descripción:** Fragmento relacionado con Emergente: Señal Rota. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=RLx969BlcFs
+
 ## Noticias y contexto
 
+- **[Creadores] Preocupación por la salud de Yeferson Cossio: terminó en urgencias y anunció posible cirugía - Minuto30** — 02/11/2026 10:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDVxUUlWZHdWdlZCeW1FUmtYYXFLanBqLXoxWVRlZEprTHdOdUZzelFIY1BpSVM1Nk9MY2J2cDNWVVFOM0czbUFqQTFSVnBCVkFJbHZrUWFneHVwR0lzTHNkLWwyRXZaNnBiYnNQdkJNWE4yNldLYlJrRWNfNDJjVmxici1FMG5ka0hTZUhHYUJMOTJFTEdYbl8wcUxGT2NhNkVWNXhKZ3ZrUGdRWWlMXzJ3V0ZadHM1NWE1eDEtVG9qODA?oc=5)
 - **[Creadores] Westcol genera incertidumbre tras revelar una inesperada decisión: ¿Sabe algo que los demás desconocen? - oncenoticias.hn** — 02/11/2026 09:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWViUjZrU0JZbUJXOXI4bkVTX1J4dlkwSUdkOWpYLURtdWw3RS00SXprN1M2bXpLdHo1TmRBLWZPTGQzMkxmRzJHRzVtN2NrVTNuejIxM3B2RXNHUmNScm1qY0pTb3hCbE0zYUFlOWFBcVJxM29pTWxvOEhFU3dDalFwWGpMZ3RzRHd0Zm9IU2x5S2Y1Tjk1N0JFLTV5NFJzN0YwOXFEWkpXd3F5M19ycXViWlpNbzR4ekNXV2VaOVJRUWNVVjdJ?oc=5)
-- **[Creadores] Preocupación por salud de Yeferson Cossio: apareció en el hospital y anunció posible cirugía - Revista Semana** — 02/11/2026 09:32 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeERRdG96QlIzNXlrYm1yYnRQb2ZWelFxZjhpd3NVSEpRSWcxd3ptWFVmLVFWMmpsTFZwV21HNzcyTnJ1clBkUUt0aDdBbXNvZ3lLcnB0Tl96VTU4azZ3MG5vQ1d5bDBLYUZWcEJ5V2xJLVRTYnZpb1lOYnVKRk13b2VFaktJLW1TMW1vN0syTWxVcy00eHNNUE9Sclp0eEJEM0xwdFo5aGtaR1IyT3puOExObXFDdGNSV0tpcjNDRi1oTDB1QXd4LXluYWl4Z3JZa0Rv0gHYAUFVX3lxTE02a0ZLb2lrUkt3SHVYMk9lTVhka003X2FYbXZITnVnSEZIYTdNa2Jvei1SNlJXdk1XUG1kMEJJdE5peVFXSl9lS0VaUXJqU1BNUmNsdXpVdTdLU3FPWEc5bTBFaDlJYTFrUTQ5bWs3dFJUakJiUHZNSnpGQzNIYzRZX3VkUmVwSlhkTlp5WlQ0cWhsTDh5REUtNFh2M1ZaejE1OXNYM2U5Q282ZGRZMnZ2ZE5IblpWR3cwOHJzQWRZckVLZ19kR1BZRTk2dEZXVTBxTVFRN1c0Qg?oc=5)
-- **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTgwTXhVUTN2ZE5WYnJnY1Rfc2ktZy1uOGQtWlJ2MkJrYldhZlRtRU95Ul9SZndZQ0phRlJ0LUJiT3haTXdVdXZ3V3YzWjQwcHl2Y0JhY1oyNWtUZjM1QV9UeV9QTnhHTUp3d2dGdmhEUW5PNlZsVkRkdVNOR2FsUnYzbTFjVUlxajNWUm9HTkQ3bFJGbzJrSkJkazJ4RjNqYXU3S19sOEdqMVp1QTJ5UmlSRWoxOXNGbEhsaXhvTHdoQmg1VndvSU85Y9IB3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv?oc=5)
+- **[Creadores] Preocupación por salud de Yeferson Cossio: apareció en el hospital y anunció posible cirugía - Revista Semana** — 02/11/2026 09:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmtGS29pa1JLd0h1WDJPZU1YZGtNN19hWG12SE51Z0hGSGE3TWtib3otUjZSV3ZNV1BtZDBCSXROaXlRV0pfZUtFWlFyalNQTVJjbHV6VXU3S1NxT1hHOW0wRWg5SWExa1E0OW1rN3RSVGpCYlB2TUp6RkMzSGM0WV91ZFJlcEpYZE5aeVpUNHFobEw4eURFLTRYdjNWWnoxNTlzWDNlOUNvNmRkWTJ2dmROSG5aVkd3MDhyc0FkWXJFS2dfZEdQWUU5NnRGV1UwcU1RUTdXNELSAdgBQVVfeXFMTTZrRktvaWtSS3dIdVgyT2VNWGRrTTdfYVhtdkhOdWdIRkhhN01rYm96LVI2Uld2TVdQbWQwQkl0Tml5UVdKX2VLRVpRcmpTUE1SY2x1elV1N0tTcU9YRzltMEVoOUlhMWtRNDltazd0UlRqQmJQdk1KekZDM0hjNFlfdWRSZXBKWGROWnlaVDRxaGxMOHlERS00WHYzVlp6MTU5c1gzZTlDbzZkZFkydnZkTkhuWlZHdzA4cnNBZFlyRUtnX2RHUFlFOTZ0RldVMHFNUVE3VzRC?oc=5)
+- **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv0gHfAUFVX3lxTE9kQVQ3cmplZmRKZGdMTjFPdnA3YkMyLVZHM09mclNtV0RJN3pEZi1wWXZMelZZY0dZeEJLVE94UHpGdzVBOGg1Z2ozOHlkR3BFZ1BidzVqWXVoYVBKTTVMNENCdWpHMHM2bFh1Sm1MZm1iTmxIZEdaT2hhSGNfQ1ZUVjRkVS1RbFFzbXVBMkN2b2syMFJkdU12T2RwZGt3UXY3M25NZl9IRkdPeXBuX2VLMHczaVBka09jVFR0RGdYSjFpRTFyOE4yZVlXbk5IVWI4VmdtZWhtYktYcUFpQm8?oc=5)
 - **[Creadores] La Segura fue hospitalizada de urgencia: encontraron un objeto metálico en su columna - Eluniversal.com.co** — 02/11/2026 02:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTG9DWDBzaGpfVlBZU2dndVJPOWxXQ01ZOVhDVkUtYjNJM0kxSmN1RzcySHpORlE1OFpWckFfSzFWZ3Fna05laEFSbEtfR2R3MTlQdy1vMjRxRjBUUzJjbU13ZUpTWktsOGdsV1JaWDBJai01N21abWJIMGVBWGJxX2RXb2FhVnoyMDFQUDh3Unk4TERVeFZYZ1RadXU1djd6NkExMUp4c2ZQMHdDdmc2emNzSTU4U2NMemozUkIzUi1NZ2lyUEZEcm5jMGVEQi1zT01n?oc=5)
-- **[Creadores] Yéferson Cossio terminó en urgencias y reveló que tendrá que pasar por el quirófano - Noticias RCN** — 02/11/2026 01:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjhuZFBJMVN2eWpyc3JINGhoaWs4N0dlY2tsazNJVVhrUV9aV0RmWDk5bUxLdFRSX0ItZnc5WlVaVjZHNTU2QnNhazdLaUVaa1d4X2ZETnU0cXhHbHItWXM0Z2Q3T2gteW9DNXJFVXpEd1VFcDJIY3dIY2VjMXlMWkdhcXJIQi1MVmVWaGk2aDdxUnFoNUthOW9GVEN1M21aU3gyYzg4aDRqeHc5ZHdKVDFhQ1BsM2dzdGFwVXVoV0R0Z3VNcHptcVVR0gHKAUFVX3lxTFBFM3pISmNLbUpGajZmN0lLa1hjZmM1OVhuQ1FBVW1kOEQxSkk2NkthT2FFLVVISElNV05ULTdEMUNTNTJ6aUtlQ2NuTEZET3ZnVV9ic3V1cDcxLUhjMWQzbE1XQ0wxenRNQ09JT3ROYUtHZGN4RWZYNkgxdWE4d3l0ZF80aVpIUl91YWk0WkN3ZGJXRUFKN09jTk1DdVE1MTZfbFc0SFdNVXMzNEhjajQ0bG5sZUpNOFVhLUlteUJKS3ZuM1pQVDdpSnc?oc=5)
 - **[Creadores] Luisa Fernanda W aclaró si estaba triste en las fotos de su boda con Pipe Bueno: “Solamente ve tristeza...” - Infobae** — 02/11/2026 11:38 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU82RXoxRWFiZjBCRjhUODJtZWgxT3ItQkNGNTRGWTJTd3BSVE1aeU9YejZGbTBPaWZqZXNqU1dmS2FmLXBLSy1GcFYzNlpReDQ2RV9zcHB2bFFPVkRRelBxWVJpU3hsb1JXY29PQXgtMDR0YlRja0phc1A1cUNoUXRrR0pRZ2JnTml6ejZFME9KUzhpTC05TGZDTUVvc2RpZndNdk1GSGVxZnZyRjRtLVcweFhQelUwQUdkZkFvN3FuTFB4QklOUUgtNzV3NC13czJIeWM3VHowaWNDMEtwdVNodXdzNU1UZkprdUZhZUZSNjR3QnJF0gGSAkFVX3lxTFBhYm1SY29temNXaGd4NGZlT21EUWRtNWV0Z1JmQXoyVHJLcmNHMUQzMlpTSlN2Qml4V01wend2Q29iQWxQYk1FUlUzUWVzdVVzT0RPanpZMW9wNTJDNC1xM0dkZ2JUY0dneGhtNVNWcmh5U0VBMVB3OWJIMEtCZm52MnBWVVlhcm1lR0VmWUJHNlY2VVVFTmZiM21SVWk5eEpoUDROSnE0dTkwMzV4RmJ5cnRVcTFJMHpob095TlpRcktrOWhTUUh0MHFodnhCSTR0OE0tb2FvMmJid1dWWmJHM0xmUXFrMkhTY0tEdDhVSF91NHkzX3FsSng3TV9BZ3VQSHBlUHRUV2NrbHBsNXJsSFE?oc=5)
 
 ## Creadores principales vigilados
