@@ -1,55 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 07:53 AM (hora de Colombia)
+Actualizado: 03/11/2026 09:53 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 2.
+Clips incluidos: 10.
+Noticias recientes: 0.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 03/11/2026 04:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 48.099
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
-
-### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 02/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.966
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
-
-### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: CHISME URBANO TV
-- Publicado: 03/11/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.094
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=iKkWHif4h0o
-
-### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: The Burnt Peanut Fam Tv
-- Publicado: 02/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.315
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
 - Categoria: Clip de terceros
@@ -57,9 +17,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: LLanerosGamerTM
 - Publicado: 02/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 661
-- Puntaje heurístico de interés: 1
+- Vistas reportadas por YouTube: 1.662
+- Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=RVjTEZpRhMQ
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: The Burnt Peanut Fam Tv
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4.419
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - Categoria: Cuenta de clips
@@ -67,9 +37,31 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 02/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.418
+- Vistas reportadas por YouTube: 26.394
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
+
+### WESTCOL GIVES THE LATEST UPDATES ON THE STREAM FIGHTERS 5 FIGHTS😲🤩
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 13.498
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=hc_eHyGrndY
+
+### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 01/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.743
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=3WgfWEdoLxY
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - Categoria: Cuenta de clips
@@ -89,7 +81,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 217
+- Vistas reportadas por YouTube: 218
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=o2wNcz5vAiY
 
@@ -100,73 +92,33 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 02/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
-### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Chimbonauta
-- Canal que publico: Chimbonauta
-- Publicado: 02/11/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.409
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
-
-### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.080
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 1.087
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
+
+### OCTUBRE EN KICK COLOMBIA 2026
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Chimbonauta
+- Canal que publico: Chimbonauta
+- Publicado: 02/11/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.435
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
-
-### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
-
-### WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | GREFG habla de KOMANCHE
-- **Texto en pantalla:** WESTCOL ROMPE el SILENCIO sobre su FUNA | Accidente de JET en MIAMI | 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=iKkWHif4h0o
-
-### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- **Texto en pantalla:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut 
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -178,6 +130,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=RVjTEZpRhMQ
 
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- **Texto en pantalla:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut 
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
+
 ### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -187,6 +149,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
+
+### WESTCOL GIVES THE LATEST UPDATES ON THE STREAM FIGHTERS 5 FIGHTS😲🤩
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL GIVES THE LATEST UPDATES ON THE STREAM FIGHTERS 5 FIGHTS😲🤩
+- **Texto en pantalla:** WESTCOL GIVES THE LATEST UPDATES ON THE STREAM FIGHTERS 5 FIGHTS😲🤩
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=hc_eHyGrndY
+
+### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+- **Texto en pantalla:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3WgfWEdoLxY
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -218,34 +200,29 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
-### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
-- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
-
-### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+### CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
-- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Título sugerido:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
+- **Texto en pantalla:** CLIPS QUE NO VISTE DE LA GANGA 🤣👻 | OCTUBRE 2026
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
+### OCTUBRE EN KICK COLOMBIA 2026
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
+- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
+- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
+- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
+
 ## Noticias y contexto
 
-- **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 03/11/2026 07:28 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
-- **[Creadores] Yeferson Cossio terminó en urgencias por un fuerte dolor en el estomago: tendría que ser operado - Infobae** — 03/11/2026 07:14 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnpLclZDYmoycGhaZ2pMT3pZcHNLV09hMnZ6ZnNnRG1zVzdreEdPMktVV21FZzQ4YmFrNGNxaEdua1h4QTRKMmo1MmRISlF5TEl6R0UyOW9mbFhhRXAzeTQ2cVEzSDRTVy1ZVmQ3REx1dmhnT0g2N2FsZFNjSDktSHprS3BOaW5GaXVjNlBCTlpHSTQ4REw2ajQxdXQ3dFBhd0hkYzF4a1hIekRRVWFQZFJTMlg4SktIREMtcXF2eUtIMHBHQlRaeUw5eU1VS2pUQmZQZm81ONIB8gFBVV95cUxPWTNtR1JaS3Jac2cwLWRmazRkZ041bWFnUVNsbGd1VjltVkNwSGt6bklOTVRPeEY5NHRxMHctNE1aZmpSbmkyeDlweUpsR0JCa2N1VTkya1RUMkZIUGtEODVRU2xYc3dxVjZJNHRiTkpmZnJHd2pJZjdTM1ljc1h0Y3R0WFBMZHhQNC1fa0Jjbzc2M1hVUHJqamJhUWR3RlI3MnFpYkYwdjFHTEJQSDItMHlOR1RnaTNXSWstSWRMcC1aS3FJbXduc3NHSEIwN216QVhWaV8zeGtLd1h1RWlnMGp3cFRHZWNTVlBaNkJ1ZVRLUQ?oc=5)
-- **[Creadores] Westcol genera incertidumbre tras revelar una inesperada decisión: ¿Sabe algo que los demás desconocen? - oncenoticias.hn** — 02/11/2026 09:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWViUjZrU0JZbUJXOXI4bkVTX1J4dlkwSUdkOWpYLURtdWw3RS00SXprN1M2bXpLdHo1TmRBLWZPTGQzMkxmRzJHRzVtN2NrVTNuejIxM3B2RXNHUmNScm1qY0pTb3hCbE0zYUFlOWFBcVJxM29pTWxvOEhFU3dDalFwWGpMZ3RzRHd0Zm9IU2x5S2Y1Tjk1N0JFLTV5NFJzN0YwOXFEWkpXd3F5M19ycXViWlpNbzR4ekNXV2VaOVJRUWNVVjdJ?oc=5)
-- **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv0gHfAUFVX3lxTE9kQVQ3cmplZmRKZGdMTjFPdnA3YkMyLVZHM09mclNtV0RJN3pEZi1wWXZMelZZY0dZeEJLVE94UHpGdzVBOGg1Z2ozOHlkR3BFZ1BidzVqWXVoYVBKTTVMNENCdWpHMHM2bFh1Sm1MZm1iTmxIZEdaT2hhSGNfQ1ZUVjRkVS1RbFFzbXVBMkN2b2syMFJkdU12T2RwZGt3UXY3M25NZl9IRkdPeXBuX2VLMHczaVBka09jVFR0RGdYSjFpRTFyOE4yZVlXbk5IVWI4VmdtZWhtYktYcUFpQm8?oc=5)
-- **[Creadores] La Segura fue hospitalizada de urgencia: encontraron un objeto metálico en su columna - Eluniversal.com.co** — 02/11/2026 02:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTG9DWDBzaGpfVlBZU2dndVJPOWxXQ01ZOVhDVkUtYjNJM0kxSmN1RzcySHpORlE1OFpWckFfSzFWZ3Fna05laEFSbEtfR2R3MTlQdy1vMjRxRjBUUzJjbU13ZUpTWktsOGdsV1JaWDBJai01N21abWJIMGVBWGJxX2RXb2FhVnoyMDFQUDh3Unk4TERVeFZYZ1RadXU1djd6NkExMUp4c2ZQMHdDdmc2emNzSTU4U2NMemozUkIzUi1NZ2lyUEZEcm5jMGVEQi1zT01n?oc=5)
-- **[Creadores] Luisa Fernanda W aclaró si estaba triste en las fotos de su boda con Pipe Bueno: “Solamente ve tristeza...” - Infobae** — 02/11/2026 11:38 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU82RXoxRWFiZjBCRjhUODJtZWgxT3ItQkNGNTRGWTJTd3BSVE1aeU9YejZGbTBPaWZqZXNqU1dmS2FmLXBLSy1GcFYzNlpReDQ2RV9zcHB2bFFPVkRRelBxWVJpU3hsb1JXY29PQXgtMDR0YlRja0phc1A1cUNoUXRrR0pRZ2JnTml6ejZFME9KUzhpTC05TGZDTUVvc2RpZndNdk1GSGVxZnZyRjRtLVcweFhQelUwQUdkZkFvN3FuTFB4QklOUUgtNzV3NC13czJIeWM3VHowaWNDMEtwdVNodXdzNU1UZkprdUZhZUZSNjR3QnJF0gGSAkFVX3lxTFBhYm1SY29temNXaGd4NGZlT21EUWRtNWV0Z1JmQXoyVHJLcmNHMUQzMlpTSlN2Qml4V01wend2Q29iQWxQYk1FUlUzUWVzdVVzT0RPanpZMW9wNTJDNC1xM0dkZ2JUY0dneGhtNVNWcmh5U0VBMVB3OWJIMEtCZm52MnBWVVlhcm1lR0VmWUJHNlY2VVVFTmZiM21SVWk5eEpoUDROSnE0dTkwMzV4RmJ5cnRVcTFJMHpob095TlpRcktrOWhTUUh0MHFodnhCSTR0OE0tb2FvMmJid1dWWmJHM0xmUXFrMkhTY0tEdDhVSF91NHkzX3FsSng3TV9BZ3VQSHBlUHRUV2NrbHBsNXJsSFE?oc=5)
+No se encontraron noticias recientes en Google News RSS.
 
 ## Creadores principales vigilados
 
