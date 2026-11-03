@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 01:44 PM (hora de Colombia)
+Actualizado: 03/11/2026 03:42 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 12.
-Noticias recientes: 11.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 3.
+Clips incluidos: 14.
+Noticias recientes: 12.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente por verificar: 4, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -27,19 +27,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: Drice Gamerz
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.975
+- Vistas reportadas por YouTube: 21.976
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
-
-### REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: LLanerosGamerTM
-- Publicado: 02/11/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.692
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=RVjTEZpRhMQ
 
 ### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
 - Categoria: Clip de terceros
@@ -47,7 +37,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: The Burnt Peanut Fam Tv
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.578
+- Vistas reportadas por YouTube: 4.713
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
@@ -61,15 +51,27 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=YiF8Z0tGqNo
 
-### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+### BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
 - Canal que publico: WestcolClips
-- Publicado: 02/11/2026 06:00 PM
+- Publicado: 03/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31.346
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
+- Vistas reportadas por YouTube: 3.938
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=yuK1a4-IgVc
+
+### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 01/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.797
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=3WgfWEdoLxY
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - Categoria: Cuenta de clips
@@ -82,16 +84,16 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+### jongoti nueva york speed totofonsi el rey de la city
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Reydelacityclips
+- Creador/canal detectado: Cuenta de clips: Kick Chile Mejores Momentos
 - Creador relacionado en el título: Rey de la City
-- Canal que publico: Reydelacityclips
-- Publicado: 02/11/2026 05:00 PM
+- Canal que publico: Kick Chile Mejores Momentos
+- Publicado: 03/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
+- Vistas reportadas por YouTube: 34
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
+- Enlace directo: https://www.youtube.com/watch?v=8BRKTOCs1ps
 
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - Categoria: Cuenta de clips
@@ -120,7 +122,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: basuquito
 - Publicado: 03/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 84
+- Vistas reportadas por YouTube: 213
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
@@ -130,9 +132,29 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: basuquito
 - Publicado: 01/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.129
+- Vistas reportadas por YouTube: 1.141
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
+
+### Kick: la Plataforma que Nació de un Casino
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Señal Rota
+- Canal que publico: Señal Rota
+- Publicado: 02/11/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 13
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=RLx969BlcFs
+
+### 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a su gran boda
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Luisa Fernanda W
+- Canal que publico: la tata de Medellín Mor
+- Publicado: 03/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=_7kzt0GskLk
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -158,16 +180,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
 
-### REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
-- **Texto en pantalla:** REACCIONANDO A DIRECTOS… Y TERMINÓ MUY MAL | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=RVjTEZpRhMQ
-
 ### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -188,15 +200,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YiF8Z0tGqNo
 
-### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+### BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
-- **Texto en pantalla:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON S
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
+- **Texto en pantalla:** BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT T
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
+- **Fuente original:** https://www.youtube.com/watch?v=yuK1a4-IgVc
+
+### REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃😂
+- **Texto en pantalla:** REYDELACITY GOES ON OME TV IN A HALLOWEEN COSTUME… ABSOLUTELY CRAZY! 🎃
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3WgfWEdoLxY
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -208,15 +230,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+### jongoti nueva york speed totofonsi el rey de la city
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Texto en pantalla:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Título sugerido:** jongoti nueva york speed totofonsi el rey de la city
+- **Texto en pantalla:** jongoti nueva york speed totofonsi el rey de la city
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
+- **Fuente original:** https://www.youtube.com/watch?v=8BRKTOCs1ps
 
 ### THE COLOMBIAN JUSTIN BIEBERS | CHANTY AND LA PIQUIÑA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -258,18 +280,39 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
+### Kick: la Plataforma que Nació de un Casino
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Señal Rota? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Señal Rota.
+- **Título sugerido:** Kick: la Plataforma que Nació de un Casino
+- **Texto en pantalla:** Kick: la Plataforma que Nació de un Casino
+- **Descripción:** Fragmento relacionado con Emergente: Señal Rota. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=RLx969BlcFs
+
+### 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a su gran boda
+- **Gancho A:** ¿Ya habías visto este momento de Luisa Fernanda W? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Luisa Fernanda W.
+- **Título sugerido:** 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a su gran boda
+- **Texto en pantalla:** 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a 
+- **Descripción:** Fragmento relacionado con Luisa Fernanda W. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_7kzt0GskLk
+
 ## Noticias y contexto
 
+- **[Creadores] Westcol filtró su tarjeta en vivo: le gastaron más de $8 millones - noscogiolanoche.com** — 03/11/2026 03:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilwFBVV95cUxObi1YR0c0aVdNc19jcnpBdENsZHkzWGdXYTY1ODhvREttTEF3N2FJN2dyUTZiOVZxZmNNSlMwS2lRdmZUNXN4eFBCdnc0WXF5UUI2c3llU3hBS291amFoX3h3MTRHaXFmZXc5RVB5V05pbEhDSnNSVElCZFgtTldqTjVmQnVKdTZfUjJ4eEdheVotWEFIaDRr?oc=5)
+- **[Creadores] Mamá de La Segura pidió oraciones para su hija tras delicado momento de salud, ¿qué pasó? - La Kalle** — 03/11/2026 03:17 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3BBWFRKNVktX0hUdTZEZ3dtdUFRRjZhSVV1ajd5NzNfVUZ0ZHBObUFsNHFUZUdSWXpCbHRIQ25iR3R5cndxYW1wMlJwVk1UdU5NX0xSU3haS0hUc0R0Y054SS1jUldjU3hwdjVfSE5wZUxNZk5UcDVabVNXNEwxV1F0OWhodGVabU1idXRYejN6bER1U0lja3MtVjNvWWxHcUh0WmJYdVdxMmM1Q041TXFzam1BQkltM3Vybkd2X2JKa3I1SHpUemhkLUFSU3BjNmRPQ0E1Ulg5UmtxNHRV0gHsAUFVX3lxTFB3ai03UnhnUFBQNDBaVHJCa3U0eC1LMnROVFR0RjUwV0ZMeVN5RjgyaUhSUzk3blEySjBzUUdBQm82MUUya01uWXhySUR2Y1ZuaHA0RzlZaTZPUnpIVXlYV25HOEg3cnpuZXN5Tm1FUEFtQUNhRlpUUTE3QVZWWjRpcE1LSmt2SjVQTlhTdmpmQWhvbVkzUHQzajB4ckpKbm1FT3oyRXFYTFRiOWtUOERwOTl6RVFDcHJIbThoR0lUdHduZG9PNzBKRV8tTzQ5U244U2p1bmRob1VqdWFlOGwwaTFhV19CT0xIWWpQ?oc=5)
+- **[Creadores] El streamer "Lonche de Huevito" quiere construir un mall en Los Mochis🎦 - Tiempo La Noticia Digital** — 03/11/2026 03:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0c2bG80ZjJlZllfd2lRLVkwTEJza3dqZmZIMGxHMEFJTE9BMGYwTnM4NWFkWW9paWVoOU9WX3pKY2ZBME9McHViSHVpZm13b2RrYXF6cjFfWURrN1gtUk5BNUdLV2c4cmctLW9TSjRSZ2xjMERCazJuTjVObXd1R0g2LVR5VS1jRHdXeU1GLTY3VnJFeUtZdGlfaDRmYzZkbnB5akxqTVp2cGpUY0JJM2tDNjI?oc=5)
+- **[Creadores] Mamá de La Segura hizo contundente petición tras conocerse delicada situación de salud de su hija: “Se los agradezco con todo mi corazón” - Infobae** — 03/11/2026 02:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZkk2Y1lKNkstMjFUZXBIRnEycWZwbkw1TGwtUTdfQWhOcnVIWmt4YWFEendHbHR5MUQ0MU04NFk1YV81Q1lZWm5adkxjSEgyQVhiMDlFNFNDc05hLVVyQVVZU1pMNmhkb0E5UWpDdUVCNE9yOFN3a1lkRzd4WG5RZG5zWXZmMFQxYzR3NmNsbEJKYmgwZnh0MWFDYWpHRk1vS2VQRlJpZGZ3SFpUdVd4eDFoQ1pMLVdLSmZocDdROTFVUHl1ek1IV0lhTHVZQTV1X0ZGd2pGc091UFJqdm1xNk9nNE9GMkdJU0xoeDNFMzA5MWJTRG9Jamh5R2VOMVNDNm9BNGpxUDZWZUXSAaYCQVVfeXFMTVhhWEZYT3RyaUQ3YU9nYWlTeFAyU0JDVFB6TFRRSlJpN2JUZ3haMEx5S3NucGtzcmNULXVjTW16dk5fUUg3d3ZwVTJTX3FNQTJqOTJjbVRWS1RtR254OHIwVnVzenRRUnIxUEI3RDVoUkF4YTJla21XMVEwZ2syZlVmSmctaE9kWkRTVFZKR2hyVEd2OGw3SWdWS21vUlkxTGFEV1lFTDdFU2tERTZoOXJ1bjBMMzhibmRGUnRJeWphV25teXBDSTJaSXJpc2QzZThxbFg1QloyeF9XYUtPbEhyV21DaXFNck44VXJLODRQNW1veWhfUmt2VjY4UFJzd3V3Q2hjTEVPMy1RbHQ4U0V1eUltUjE5SXNnbVVnclJGUUstcE93?oc=5)
 - **[Creadores] Westcol muestra su tarjeta de crédito en vivo y revela cuánto dinero le gastaron - Televicentro** — 03/11/2026 01:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2hfSTA2dmJvRGxMaU9KRlNVbVlwelE0NGJqWlU0WEl2Wm9iQjFSMXp3VXI2NmhNbnpzbTR1dGJkWUdEMmdEbDlrNTZ4emxKWS03TmFIM2YzYWdQVVJuRk8tZDZwY3J6YnNMRS05WkJBU0JZZGktcDVjbjdJY0E0WllnNXBiRi1zcUYwaFF3d3lIbEhKNzU1a1RWZHdYRmgtYlZtcjZaaW4zOG1QbmJRdmdNb2NZcURqUEhnVA?oc=5)
-- **[Creadores] Andrea Valdiri se habría arrepentido de pelear contra La Divza en ‘Stream Fighters 5′: esto fue lo que dijo Westcol - Infobae** — 03/11/2026 12:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU01ta0oxZHN5bWJrMS1sRkUwcEpSV19PaVpxSDZqRmpuZnpNeEpXbzJtTGlMSTIzVXlmZjJjRnBHRkFoQm0xalZvWjdNNHgxVnlEVDYxbjZxNGRNaUdqVUtjUjFYYlBUUG9pRjNkYlRRTGpCdTRFZ3FOZFhxRmE0SDY5alNra1YxUkZna0ZUNnY0eEpJOFZBRjQ4X2p6SGdNdlJHczNtQm9Hc3h4MjRqOVZfM0ltVzBQV0VUWFhudWNweWRuNGhzZ3lpQUc5ZHBOQnpkRTRndnVfVDJUel9ZUzJsNTZmSW52eDFSOEFB0gGIAkFVX3lxTFBIR1pjNXVkLWtQWUpucU54UXpRbnpmWlNzTWctWDJ6Y3FMMUtfUU1Cd2JFVUZUZi1ibGxCVU5iY2gzbllZQVg0eEZkZXlfVWhiTXUweDBjeVg4TVd1RUx0dk1mSFBOTnFZZjF0N0FTMVBha0t5UEg3RWRUd3lPbVNOM0ZNeThvNTVvbE9ZZ2ZFZ0NraFhtMkZDaUExRHc3YzRTM1R2VWEycGNrT1ZKajVDYjg4c0Rqb3M2MkJaOFh3WWswZnZ1d00wUEwxTGZ3djdBVmlSTGxDa2ViVnFqZGU3SlpaT3NaTzdsa0VOOVdIcDJfa0pTWVU1M1NwTi1yM0VmTUktbXZkeQ?oc=5)
 - **[Creadores] Lonche de Huevito anuncia sus planes para construir una plaza en Los Mochis | VIDEO - Luz Noticias** — 03/11/2026 10:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEFVMW1QNkN6dEU2UXhRcGxnUUxxU2dTMVUwOHVtSGZQY29kT2hHbHQxR3B2TnBWTC1jT2FIU0dIMUNDZVc3LU1uQ0xvb3pGV2JiT3ZaUi1MLUFfYTlzVE10ejVET0pGVW5DVXBsTUxTNUZZV0tZbFVkQVhoVHVLblR3S2h0eGdubEFzUHgwQUFJZHpvbk9fWTdISnhqbmJtZ1poNnJrT1oxTl9LUFZyZnl6YUJ4RXEzakdUTFRndTNtMWs0aDhWVzFROHlDS1kxSnJnSzlTUdIB3AFBVV95cUxQdTdSMHozSjZLbEVBdHhzWFdMMHZ6ZklNLXU4VnBTaHg5R0owLVpPc3I1OGxpU3U3Q2ZfcW5xdkdTVkpoby1Rcl9fZzZYMmVieFB5bHZFTDdFdG1EVFpJWTZ1Ml8xZmhIaU8xMEgzZVJUdVpQNzZoSjhURWhvXzZtVkgwX3FsZloyVy1oRlZYbDdxNjRvSC1rZVF4UE1nMXFMSXBjSmc5cmR0T2xoVVluTFEwT2RNdjduUVZnSWc5MWNYbEhuM2tBVEdlVF90TU51bFNQbml6TGw0TlNE?oc=5)
 - **[Creadores] Yeferson Cossio terminó en urgencias por fuerte dolor abdominal - Kienyke** — 03/11/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxOVmVmOWlVUHFWTWNDTUR5aUtmY1JGcUJ0ZV82MVQ1d25IZ2Z3dkxKYlNLR29YeEEtSjVwWkNCSTBOXzZwcFBjTlhMQl9XbHNGbGRPSzVuN2lZOXlVMFF0dG1yUjFjbUZQLWFfd2JBUnNLMERQdmxHZnFrZFJvU0dfdW12RjhPZ3ZZaTE2d3lwLTA4WWFpTmR6dU52cDFsdw?oc=5)
 - **[Creadores] El influencer Yeferson Cossio habría sido operado de emergencia, ¿qué le pasó? - Eluniversal.com.co** — 03/11/2026 10:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLU1vN1VOamtBQkFYbVRqbDYySXNqamV6ZTkwdjhsWVRUdHZhTFZIU3MtVUF0ZHhRQUw5anY0SmpUVjNWa0NuQTlUZ2ZuUzdEU3JuYVlnSzNHVjBKS25leDZRTmk5b21PNnJ6TTF6SVVEdnlDc2FkckZrcGhrVlRRbW1JNTREZklKWE42TW9pbW94ME94dU5qUmNyM05Va0ZaSVdHR0JPRW5mc21uNFVYT3UtY3dZZXU5a3dBRFJlWFJzR0RpekdB?oc=5)
-- **[Creadores] “Esto no es vida”: La Segura reapareció tras ser hospitalizada de urgencia e hizo conmovedora petición a sus seguidores - Revista Semana** — 03/11/2026 09:31 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ3prM2Fsb2JZYTFFanl0MEdRczM0bHpMNm1UdjhYQWV6VkROTmJkVUdzVjIyZjZFcXlBZjlyZXgzVGhFeDZYRUpiZmRUc0VoRVREQnUxSHQwMFR5dkRUckEwN3J2YjNhcVdmV1NLbnZlOHotQTBlX0NUbXFZaDhRcE1LcU1ESVVsQUgxRzJTUW12LWxlN1ZKRUY0WGhRcS1KX0VtWFRBenMwZHN4TDBnNGtMNmNtQUNRTXBsTEpBakVyVUZzczRHQU1EYjU5RTJWUVQ2ZTVmVjhXWUxxWkhDZDVhLXFiSUFNMld3b2lCY0x6Q0V0RjZTZlh30gH6AUFVX3lxTE5DemszYWxvYllhMUVqeXQwR1FzMzRsekw2bVR2OFhBZXpWRE5OYmRVR3NWMjJmNkVxeUFmOXJleDNUaEV4NlhFSmJmZFRzRWhFVERCdTFIdDAwVHl2RFRyQTA3cnZiM2FxV2ZXU0tudmU4ei1BMGVfQ1RtcVloOFFwTUtxTURJVWxBSDFHMlNRbXYtbGU3VkpFRjRYaFFxLUpfRW1YVEF6czBkc3hMMGc0a0w2Y21BQ1FNcGxMSkFqRXJVRnNzNEdBTURiNTlFMlZRVDZlNWZWOFdZTHFaSENkNWEtcWJJQU0yV3dvaUJjTHpDRXRGNlNmWHc?oc=5)
 - **[Creadores] Escro le dedicó romántico mensaje a Aida Victoria Merlano y reaviva comentarios sobre el pasado de la influenciadora: "Hoy, mañana y siempre" - Infobae** — 03/11/2026 08:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRGRiYmtFc3ZQY0tGRXV1aVBlcm5DemVoemg2NWdJM0xrYkthc2ZsTHQxdEhqWDZFcHU2dWRPY0dUSFhNeHR1NWFZSlFCYUxEeHVvaG16dzJjN0RuWVZpZmpUU3hEOW0tVTVnWklyVkZrREZCR0VXMlNlQUxxVWhfRGxEOWtaM2M2Ui1zcGVDR0tEVWV6bjM4TmMyclZzVTRnVVNJLXZfUUpMVVpSN0RzNGZ4UXhNaGV0Q0xCcUkzNC1VakRCYV8zN1NGYzlOb0Fia2JMOFg1dm53Z200VkNaMzMzR3JxanNPRTlHUnJWWnlEbS1mVXZRU2t1ZW5aVHM4UHdtTE9lNlA1bVRBU1hR0gGqAkFVX3lxTE0zLXhDYlFST2pzV1pSM3VULWVRMjByUVhLTHVaQ21JZjgya1Nwczh0T0RkbG5faFdhMlgwTUhGSDNCOWVVSEc2UjI0cFRKRjNFYlYzZEgwVTRmZWJqNWdOeXQzRXF2UTFtSUM1b3hHdkxrT0I4dS1HSVE1UkVuVXEyWWlJZmpjZzd6QzNkRThJVlFLTXFodXF0Vno5UFBBcWhkaE5raDNzazZ1M3ZEV05uZVZ1Q0I4aEhmMDRtZ3Bteml6ZWo2dnYzbkhyRkRWWG1WaWpYTVByTGtZSGNjLUJYZW9kUFpZWEJKc1hybmhtQ210MW81UDdOdjNDVmsxbFd5MjJmMzY4TXN6YlowanNkN0s5a1JTajJncFdacHhKaHY3NjlFS3UtT2c?oc=5)
 - **[Creadores] Escro le dedicó romántico mensaje a Aida Victoria Merlano y reaviva comentarios sobre el pasado de la influenciadora: "Hoy, mañana y siempre" - Infobae** — 03/11/2026 08:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMy14Q2JRUk9qc1daUjN1VC1lUTIwclFYS0x1WkNtSWY4MmtTcHM4dE9EZGxuX2hXYTJYME1IRkgzQjllVUhHNlIyNHBUSkYzRWJWM2RIMFU0ZmViajVnTnl0M0VxdlExbUlDNW94R3ZMa09COHUtR0lRNVJFblVxMllpSWZqY2c3ekMzZEU4SVZRS01xaHVxdFZ6OVBQQXFoZGhOa2gzc2s2dTN2RFdObmVWdUNCOGhIZjA0bWdwbXppemVqNnZ2M25IckZEVlhtVmlqWE1QckxrWUhjYy1CWGVvZFBaWVhCSnNYcm5obUNtdDFvNVA3TnYzQ1ZrMWxXeTIyZjM2OE1zemJaMGpzZDdLOWtSU2oyZ3BXWnB4Smh2NzY5RUt1LU9n0gGqAkFVX3lxTE0zLXhDYlFST2pzV1pSM3VULWVRMjByUVhLTHVaQ21JZjgya1Nwczh0T0RkbG5faFdhMlgwTUhGSDNCOWVVSEc2UjI0cFRKRjNFYlYzZEgwVTRmZWJqNWdOeXQzRXF2UTFtSUM1b3hHdkxrT0I4dS1HSVE1UkVuVXEyWWlJZmpjZzd6QzNkRThJVlFLTXFodXF0Vno5UFBBcWhkaE5raDNzazZ1M3ZEV05uZVZ1Q0I4aEhmMDRtZ3Bteml6ZWo2dnYzbkhyRkRWWG1WaWpYTVByTGtZSGNjLUJYZW9kUFpZWEJKc1hybmhtQ210MW81UDdOdjNDVmsxbFd5MjJmMzY4TXN6YlowanNkN0s5a1JTajJncFdacHhKaHY3NjlFS3UtT2c?oc=5)
 - **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv0gHfAUFVX3lxTE9kQVQ3cmplZmRKZGdMTjFPdnA3YkMyLVZHM09mclNtV0RJN3pEZi1wWXZMelZZY0dZeEJLVE94UHpGdzVBOGg1Z2ozOHlkR3BFZ1BidzVqWXVoYVBKTTVMNENCdWpHMHM2bFh1Sm1MZm1iTmxIZEdaT2hhSGNfQ1ZUVjRkVS1RbFFzbXVBMkN2b2syMFJkdU12T2RwZGt3UXY3M25NZl9IRkdPeXBuX2VLMHczaVBka09jVFR0RGdYSjFpRTFyOE4yZVlXbk5IVWI4VmdtZWhtYktYcUFpQm8?oc=5)
-- **[Creadores] La Segura fue hospitalizada de urgencia: encontraron un objeto metálico en su columna - Eluniversal.com.co** — 02/11/2026 02:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTG9DWDBzaGpfVlBZU2dndVJPOWxXQ01ZOVhDVkUtYjNJM0kxSmN1RzcySHpORlE1OFpWckFfSzFWZ3Fna05laEFSbEtfR2R3MTlQdy1vMjRxRjBUUzJjbU13ZUpTWktsOGdsV1JaWDBJai01N21abWJIMGVBWGJxX2RXb2FhVnoyMDFQUDh3Unk4TERVeFZYZ1RadXU1djd6NkExMUp4c2ZQMHdDdmc2emNzSTU4U2NMemozUkIzUi1NZ2lyUEZEcm5jMGVEQi1zT01n?oc=5)
 - **[Creadores] Luisa Fernanda W aclaró si estaba triste en las fotos de su boda con Pipe Bueno: “Solamente ve tristeza...” - Infobae** — 02/11/2026 11:38 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU82RXoxRWFiZjBCRjhUODJtZWgxT3ItQkNGNTRGWTJTd3BSVE1aeU9YejZGbTBPaWZqZXNqU1dmS2FmLXBLSy1GcFYzNlpReDQ2RV9zcHB2bFFPVkRRelBxWVJpU3hsb1JXY29PQXgtMDR0YlRja0phc1A1cUNoUXRrR0pRZ2JnTml6ejZFME9KUzhpTC05TGZDTUVvc2RpZndNdk1GSGVxZnZyRjRtLVcweFhQelUwQUdkZkFvN3FuTFB4QklOUUgtNzV3NC13czJIeWM3VHowaWNDMEtwdVNodXdzNU1UZkprdUZhZUZSNjR3QnJF0gGSAkFVX3lxTFBhYm1SY29temNXaGd4NGZlT21EUWRtNWV0Z1JmQXoyVHJLcmNHMUQzMlpTSlN2Qml4V01wend2Q29iQWxQYk1FUlUzUWVzdVVzT0RPanpZMW9wNTJDNC1xM0dkZ2JUY0dneGhtNVNWcmh5U0VBMVB3OWJIMEtCZm52MnBWVVlhcm1lR0VmWUJHNlY2VVVFTmZiM21SVWk5eEpoUDROSnE0dTkwMzV4RmJ5cnRVcTFJMHpob095TlpRcktrOWhTUUh0MHFodnhCSTR0OE0tb2FvMmJid1dWWmJHM0xmUXFrMkhTY0tEdDhVSF91NHkzX3FsSng3TV9BZ3VQSHBlUHRUV2NrbHBsNXJsSFE?oc=5)
 
 ## Creadores principales vigilados
