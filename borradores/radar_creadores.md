@@ -1,25 +1,55 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 04/11/2026 06:04 AM (hora de Colombia)
+Actualizado: 04/11/2026 07:54 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 15.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente por verificar: 4, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 04/11/2026 05:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 26.963
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=DGfL6KYmORw
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 49.607
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
+
+### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 66.618
+- Vistas reportadas por YouTube: 69.400
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: The Burnt Peanut Fam Tv
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.231
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
 - Categoria: Clip de terceros
@@ -27,7 +57,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.629
+- Vistas reportadas por YouTube: 8.834
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
 
@@ -37,7 +67,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: INMORTAL FF
 - Publicado: 04/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.566
+- Vistas reportadas por YouTube: 1.927
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
@@ -47,7 +77,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 04/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.233
+- Vistas reportadas por YouTube: 7.762
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
 
@@ -56,9 +86,9 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
-- Publicado: 04/11/2026 12:00 AM
+- Publicado: 04/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
 
@@ -67,7 +97,7 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: clipstremmears
 - Creador relacionado en el título: Chanty
 - Canal que publico: clipstremmears
-- Publicado: 02/11/2026 07:00 PM
+- Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
@@ -78,31 +108,41 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Reydelacityclips
-- Publicado: 02/11/2026 07:00 PM
+- Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 130
+- Vistas reportadas por YouTube: 132
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
+
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Chimbonauta
+- Canal que publico: Chimbonauta
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.869
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
 ### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 03/11/2026 12:00 PM
+- Publicado: 03/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 657
+- Vistas reportadas por YouTube: 683
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
-### OCTUBRE EN KICK COLOMBIA 2026
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Chimbonauta
-- Canal que publico: Chimbonauta
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.837
+- Vistas reportadas por YouTube: 1.211
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
+- Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
 - Categoria: Emergente por verificar
@@ -114,19 +154,59 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
 
+### 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a su gran boda
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Luisa Fernanda W
+- Canal que publico: la tata de Medellín Mor
+- Publicado: 03/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=_7kzt0GskLk
+
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=DGfL6KYmORw
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
+
+### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- **Texto en pantalla:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Título sugerido:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
+- **Texto en pantalla:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- **Texto en pantalla:** TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut 
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -188,6 +268,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
+- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
+
 ### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -198,15 +288,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
-### OCTUBRE EN KICK COLOMBIA 2026
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
+### OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
-- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
-- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
-- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Texto en pantalla:** OCTUBRE con LA GANGA en KICK 2026 fue épico 👻
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
+- **Fuente original:** https://www.youtube.com/watch?v=lEb_mRfYCH4
 
 ### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
@@ -217,6 +307,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
+
+### 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a su gran boda
+- **Gancho A:** ¿Ya habías visto este momento de Luisa Fernanda W? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Luisa Fernanda W.
+- **Título sugerido:** 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a su gran boda
+- **Texto en pantalla:** 💍 Pipe Bueno y Luisa Fernanda W | Del romance que dio de qué hablar a 
+- **Descripción:** Fragmento relacionado con Luisa Fernanda W. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_7kzt0GskLk
 
 ## Noticias y contexto
 
@@ -254,9 +354,9 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
 - **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-04
+  - https://www.youtube.com/watch?v=DGfL6KYmORw
   - https://www.youtube.com/watch?v=ZPrz85wfiQo
-  - https://www.youtube.com/watch?v=Z5rGUBl174E
-- **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-03
+- **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-04
   - https://www.youtube.com/watch?v=vGZAtR3R8QQ
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-30
   - https://www.youtube.com/watch?v=2sENM6P_JDE

@@ -1,19 +1,19 @@
 {
-  "actualizado": "2026-11-04T06:04:29.158447-05:00",
+  "actualizado": "2026-11-04T07:54:03.459853-05:00",
   "series": [
     {
       "nombre": "PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
-      "ultima_deteccion": "2026-11-04T03:52:12.825523-05:00",
+      "ultima_deteccion": "2026-11-04T07:54:03.459853-05:00",
       "canal_muestra": "Drice Gamerz",
       "enlaces": [
+        "https://www.youtube.com/watch?v=DGfL6KYmORw",
         "https://www.youtube.com/watch?v=ZPrz85wfiQo",
         "https://www.youtube.com/watch?v=Z5rGUBl174E",
         "https://www.youtube.com/watch?v=QkfLisodgiQ",
-        "https://www.youtube.com/watch?v=IcFUqey_WoY",
-        "https://www.youtube.com/watch?v=DOdMKdwL7Qs"
+        "https://www.youtube.com/watch?v=IcFUqey_WoY"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-01T23:54:40.850094-05:00",
-      "ultima_deteccion": "2026-11-03T21:44:32.319940-05:00",
+      "ultima_deteccion": "2026-11-04T07:54:03.459853-05:00",
       "canal_muestra": "The Burnt Peanut Fam Tv",
       "enlaces": [
         "https://www.youtube.com/watch?v=vGZAtR3R8QQ"
