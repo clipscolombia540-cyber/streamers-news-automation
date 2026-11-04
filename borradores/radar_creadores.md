@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 11:51 PM (hora de Colombia)
+Actualizado: 04/11/2026 02:00 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Drice Gamerz
 - Publicado: 03/11/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.597
+- Vistas reportadas por YouTube: 49.602
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
+
+### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Aida Victoria Stream
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 43.946
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
 
 ### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -31,52 +41,53 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
 
-### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.084
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
-
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.031
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.255
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
 
-### 🤬PTO POLLO DE MRDA GENTE 😂 | Mrstiven Momentos Divertidos ✨#mrstiven #freefire #ff
+### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
-- Publicado: 03/11/2026 11:41 PM
+- Publicado: 04/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36
+- Vistas reportadas por YouTube: 491
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
-### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 02/11/2026 07:00 PM
+- Publicado: 04/11/2026 01:23 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.099
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
+- Vistas reportadas por YouTube: 349
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
+
+### CHANTY EN STREAM CON LA GANGA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 04/11/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: clipstremmears
 - Creador relacionado en el título: Chanty
 - Canal que publico: clipstremmears
-- Publicado: 03/11/2026 01:00 AM
+- Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
@@ -89,7 +100,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 111
+- Vistas reportadas por YouTube: 125
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
@@ -97,9 +108,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
-- Publicado: 03/11/2026 01:00 PM
+- Publicado: 03/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 539
+- Vistas reportadas por YouTube: 600
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
@@ -109,19 +120,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.765
+- Vistas reportadas por YouTube: 1.791
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
-
-### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: KenetGR Live
-- Canal que publico: KenetGR Live
-- Publicado: 03/11/2026 10:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -137,6 +138,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
 
+### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Texto en pantalla:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
+
 ### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -146,16 +157,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
-
-### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
-- **Texto en pantalla:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
 
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -167,25 +168,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=j0JLkyrIbgE
 
-### 🤬PTO POLLO DE MRDA GENTE 😂 | Mrstiven Momentos Divertidos ✨#mrstiven #freefire #ff
+### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🤬PTO POLLO DE MRDA GENTE 😂 | Mrstiven Momentos Divertidos ✨#mrstiven #freefire #ff
-- **Texto en pantalla:** 🤬PTO POLLO DE MRDA GENTE 😂 | Mrstiven Momentos Divertidos ✨#mrstiven #
+- **Título sugerido:** 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
+- **Texto en pantalla:** 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3FCaBw10JF8
 
-### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
-- **Texto en pantalla:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON S
+- **Título sugerido:** MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
+- **Texto en pantalla:** MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBI
 - **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
+- **Fuente original:** https://www.youtube.com/watch?v=AiBzbElWaow
+
+### CHANTY EN STREAM CON LA GANGA
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY EN STREAM CON LA GANGA
+- **Texto en pantalla:** CHANTY EN STREAM CON LA GANGA
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=A4yEkjJCs40
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -227,16 +238,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: KenetGR Live.
-- **Título sugerido:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Texto en pantalla:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
-
 ## Noticias y contexto
 
 - **[Creadores] Aida Victoria Merlano reapareció y no pudo contener las lágrimas en medio de un nuevo pleito legal con su exnovio ‘El Agropecuario’: esto dijo - Infobae** — 03/11/2026 09:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxNNFVhMmJqVUE4QVZwR2RBMU9jM3M5QWZ2dFdSQnJxNDdrUFY4N2NwMUNJNEhVZ19rbl9uYUx6ek9yTDZ1V3VvbDdacEdtYS1GSHZHNi01SG9hdTZxUzdIRTRmZ2tzN2U4R00zZG9uR0k2UjkwX25HZndORHVFLUdWdHVJd3RURTZiUVZNWXAzUnlUa01PVThSejdGdFJaSWQzelo2N0pBdUJBc1FsYS1pdjc5T2s2XzlkMnNTbGp2OXJULXBtYTVyM3Rab2ZmWnNOM1cyNFBLZG5Xb0ZOWDRLblpLRTN4N3RVWi1PUy02VE55NUVzTXZyTHR3cDI5U2M4aE9z0gGeAkFVX3lxTE5ub1JJNjA1dXM5VUFNQkxkOVR2cnVWelotNEdrYllUUFc0eEkxaUhfUFdfSUZ1dUxNY05sVnpLX3BjSGk3QzcxZDJWVFR6R25tTjM0cUhYX2J1T3VxN2NGaXZlRm5SQi1pYkZNdGpRSlhyZFItSzFiY0NMQ1JzQ05CcjcyXzFMOW5vUGQtOE53MEEyU2JrcklsMmxrTVpHVzlOQ2NyeFI5clNGTnEtTXVIZ01OZWFVV1FZLVo2NUFVemlYMFlRRVpTNngzeVNJa2dOWmllZGtiZ2tWa3Q0YVVkRVdOc05fUWg0dHZ1QXRqc0g2ZF9OV1hubVVHbGU2U0hUUVJYaEJLdkR5QnBLRDZtMkxBM0ltNThTN3ROQ1E?oc=5)
@@ -272,7 +273,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-03
+- **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-04
   - https://www.youtube.com/watch?v=ZPrz85wfiQo
   - https://www.youtube.com/watch?v=Z5rGUBl174E
 - **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-03
