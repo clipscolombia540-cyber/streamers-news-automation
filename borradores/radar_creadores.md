@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 04/11/2026 02:00 AM (hora de Colombia)
+Actualizado: 04/11/2026 03:52 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 10.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -21,13 +21,13 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43.946
+- Vistas reportadas por YouTube: 59.235
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
 
@@ -47,7 +47,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.255
+- Vistas reportadas por YouTube: 7.689
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
 
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: INMORTAL FF
 - Publicado: 04/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 491
+- Vistas reportadas por YouTube: 978
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
@@ -65,10 +65,10 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: WestcolClips
 - Canal que publico: WestcolClips
-- Publicado: 04/11/2026 01:23 AM
+- Publicado: 04/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 349
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.614
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
 
 ### CHANTY EN STREAM CON LA GANGA
@@ -78,7 +78,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 04/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
 
@@ -93,36 +93,25 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Reydelacityclips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Reydelacityclips
-- Publicado: 02/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 125
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
-
-### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 03/11/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 600
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
-
-### OCTUBRE EN KICK COLOMBIA 2026
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Chimbonauta
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.791
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 1.837
+- Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
+
+### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 03/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 657
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -138,12 +127,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- **Texto en pantalla:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Título sugerido:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
+- **Texto en pantalla:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
@@ -208,15 +197,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Texto en pantalla:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
+- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
 
 ### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -228,23 +217,13 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
-### OCTUBRE EN KICK COLOMBIA 2026
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
-- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
-- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
-- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
-
 ## Noticias y contexto
 
 - **[Creadores] Aida Victoria Merlano reapareció y no pudo contener las lágrimas en medio de un nuevo pleito legal con su exnovio ‘El Agropecuario’: esto dijo - Infobae** — 03/11/2026 09:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxNNFVhMmJqVUE4QVZwR2RBMU9jM3M5QWZ2dFdSQnJxNDdrUFY4N2NwMUNJNEhVZ19rbl9uYUx6ek9yTDZ1V3VvbDdacEdtYS1GSHZHNi01SG9hdTZxUzdIRTRmZ2tzN2U4R00zZG9uR0k2UjkwX25HZndORHVFLUdWdHVJd3RURTZiUVZNWXAzUnlUa01PVThSejdGdFJaSWQzelo2N0pBdUJBc1FsYS1pdjc5T2s2XzlkMnNTbGp2OXJULXBtYTVyM3Rab2ZmWnNOM1cyNFBLZG5Xb0ZOWDRLblpLRTN4N3RVWi1PUy02VE55NUVzTXZyTHR3cDI5U2M4aE9z0gGeAkFVX3lxTE5ub1JJNjA1dXM5VUFNQkxkOVR2cnVWelotNEdrYllUUFc0eEkxaUhfUFdfSUZ1dUxNY05sVnpLX3BjSGk3QzcxZDJWVFR6R25tTjM0cUhYX2J1T3VxN2NGaXZlRm5SQi1pYkZNdGpRSlhyZFItSzFiY0NMQ1JzQ05CcjcyXzFMOW5vUGQtOE53MEEyU2JrcklsMmxrTVpHVzlOQ2NyeFI5clNGTnEtTXVIZ01OZWFVV1FZLVo2NUFVemlYMFlRRVpTNngzeVNJa2dOWmllZGtiZ2tWa3Q0YVVkRVdOc05fUWg0dHZ1QXRqc0g2ZF9OV1hubVVHbGU2U0hUUVJYaEJLdkR5QnBLRDZtMkxBM0ltNThTN3ROQ1E?oc=5)
-- **[Creadores] Jessi Uribe explicó por qué no asistió con Paola Jara a la boda de Luisa Fernanda W y Pipe Bueno: “Qué pesar” - Infobae** — 03/11/2026 08:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXNyclUwTXM4V3hkWEp5VE1NVUdkZURSSUd2anBDbkMwanhVd3lzV2Y5VUNvVDI4bUpLNkNfNE1CMDFBLW0xLU1sSmY3eWpUVmFiUWY0WThvUHM0SlJ2eUVJM1hZWE9RejdicWtBSV9BRkdaczJCRUtXbTRta29iaGE2NUgyRW5wY2d1eHlDbVRBTk1qMjF6bk1CZU5NMkxBUDJnaFFmWmhGeDJGZ0VON3hTUWFEMnR4bVlfYWZLXzBfVUhTb29ZaWxxd291RldsaUowU2VDeHNpdFByLVVaVGJmY3otQdIBgAJBVV95cUxPU1lHeDAwd3J2T0dmRHZtNlhSaXJweTZvTEhsRDVldGVKbXZGU0xkTDNsTFFQTGdCcUY1TlJ0WDEyQkt1bkVCY3BXN2owZFUyOEswOE51c19nbTJtdmt5M0JYeGRuR190SEgzclc3ei0xWndzUjVlYzJIS3J2c09KaTR3QXpOeW1sUHRGQUd3TFlYUGxGdVlBSFFZWTg1N2RPVjlkc21ZWG85Q2NBTFBXbURuNGxuUTlUQnlGSW5vSV9IaTN5VXFIMHRrWFRpSlptTEdOVEtoVlo3OU5nNEtJNUNyck5ra1pPaXNWckpkZWU3Rm05eG5fSF9zY0piSGdS?oc=5)
+- **[Creadores] Jessi Uribe explicó por qué no asistió con Paola Jara a la boda de Luisa Fernanda W y Pipe Bueno: “¡Qué pesar!” - Infobae** — 03/11/2026 08:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXNyclUwTXM4V3hkWEp5VE1NVUdkZURSSUd2anBDbkMwanhVd3lzV2Y5VUNvVDI4bUpLNkNfNE1CMDFBLW0xLU1sSmY3eWpUVmFiUWY0WThvUHM0SlJ2eUVJM1hZWE9RejdicWtBSV9BRkdaczJCRUtXbTRta29iaGE2NUgyRW5wY2d1eHlDbVRBTk1qMjF6bk1CZU5NMkxBUDJnaFFmWmhGeDJGZ0VON3hTUWFEMnR4bVlfYWZLXzBfVUhTb29ZaWxxd291RldsaUowU2VDeHNpdFByLVVaVGJmY3otQdIBgAJBVV95cUxPU1lHeDAwd3J2T0dmRHZtNlhSaXJweTZvTEhsRDVldGVKbXZGU0xkTDNsTFFQTGdCcUY1TlJ0WDEyQkt1bkVCY3BXN2owZFUyOEswOE51c19nbTJtdmt5M0JYeGRuR190SEgzclc3ei0xWndzUjVlYzJIS3J2c09KaTR3QXpOeW1sUHRGQUd3TFlYUGxGdVlBSFFZWTg1N2RPVjlkc21ZWG85Q2NBTFBXbURuNGxuUTlUQnlGSW5vSV9IaTN5VXFIMHRrWFRpSlptTEdOVEtoVlo3OU5nNEtJNUNyck5ra1pPaXNWckpkZWU3Rm05eG5fSF9zY0piSGdS?oc=5)
 - **[Creadores] Jessi Uribe explicó por qué no asistió con Paola Jara a la boda de Luisa Fernanda W y Pipe Bueno: “Qué pesar” - Infobae** — 03/11/2026 08:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigAJBVV95cUxPU1lHeDAwd3J2T0dmRHZtNlhSaXJweTZvTEhsRDVldGVKbXZGU0xkTDNsTFFQTGdCcUY1TlJ0WDEyQkt1bkVCY3BXN2owZFUyOEswOE51c19nbTJtdmt5M0JYeGRuR190SEgzclc3ei0xWndzUjVlYzJIS3J2c09KaTR3QXpOeW1sUHRGQUd3TFlYUGxGdVlBSFFZWTg1N2RPVjlkc21ZWG85Q2NBTFBXbURuNGxuUTlUQnlGSW5vSV9IaTN5VXFIMHRrWFRpSlptTEdOVEtoVlo3OU5nNEtJNUNyck5ra1pPaXNWckpkZWU3Rm05eG5fSF9zY0piSGdS0gGAAkFVX3lxTE9TWUd4MDB3cnZPR2ZEdm02WFJpcnB5Nm9MSGxENWV0ZUptdkZTTGRMM2xMUVBMZ0JxRjVOUnRYMTJCS3VuRUJjcFc3ajBkVTI4SzA4TnVzX2dtMm12a3kzQlh4ZG5HX3RISDNyVzd6LTFad3NSNWVjMkhLcnZzT0ppNHdBek55bWxQdEZBR3dMWVhQbEZ1WUFIUVlZODU3ZE9WOWRzbVlYbzlDY0FMUFdtRG40bG5ROVRCeUZJbm9JX0hpM3lVcUgwdGtYVGlKWm1MR05US2hWWjc5Tmc0S0k1Q3JyTmtrWk9pc1ZySmRlZTdGbTl4bl9IX3NjSmJIZ1I?oc=5)
+- **[Creadores] Video | Westcol mostró por error los datos de su tarjeta de crédito y le robaron más de 8 millones: compraron hasta una nevera | El Colombiano - El Colombiano** — 03/11/2026 05:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVJyQmRzNVFiWnZqTEc3ZVNCNWw3Z3VIWU5VQjcyYUZ4M0M1YUkwSzRWUFBsel9iaWNzVEJScWNRUFVLeVVYdHVlN05jeTd4cHRvdUF6dGxJQkFGX2NWX2NZNFhSX2x5MnZFMnBiaVFTUWk1Vm5CaEhhUFhaTjJIX3hnenZNdlZHc2d4OEpnbG9vSkZxTS1rTVV6OW5GekNYeUl0UzBwanhmcEdfR1U3QmtndTh0RC02bXp6NkZ2aXp0UXRlZGVsX1VZR0HSAdIBQVVfeXFMT1FMMlZ6Z0JEdm9SSDBPOWppMEQtQVdmbWJ5WEZBRnh2d29rN0tXMklVQzNBYnhoQVVOYV96SGlDRjJOeWdCWXNhZjluX3VIRldGYW9PbmtPbjR2MXN3UFVsX2dSZjR4ODhwWVJvbEpnMmZZYkZXTkJXS09ETWJKaE5obVFpaGlQX0pNaFBmd3o3dEpoeGp0XzRteW00dFZfNmhUYV9YM3dnVWVZYzZraTgtVkxiei1wZUgwaXExUENCdjB2SExPbGtFREFrY2tjVjVn?oc=5)
 - **[Creadores] Westcol filtró su tarjeta de crédito por error durante un directo y las compras no autorizadas llegaron a ocho millones de pesos - Infobae** — 03/11/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxQdXA3S2NyR2l0dmU0V2FjNGZQZTgwUDdDNzRrdkJBeVpIN3psUkNHUjlJNkR5OU1NRUx3TzZhX01SZlFFSFFQSmpsSmZxZENEeU4zUXFDNGVaTXk0dVMzcW5yd3lTajlqTW5HeU85U3NfWWlwUlJXS3ZITTlqTGJGY0gxOFhTQzVvR2ZGdlozZmZZazI2ZFNxcU9IZGNSaGY1ZDlZOHJXY0hoRHJTaW9JenhxWE9tY0Z4b1h6Tm9TZmx6M3JiVThBZUlvZG5YQ0lUWnhQNUVldV9XWkVwZ0x6aDdiQ0lEcFRrdzAwNUFtRmFyOXlPRWpJd3E3SndRal9BMDJZ0gGeAkFVX3lxTE9zc0F0cndsLXhqUmN3c3VjMWdqbEZGWkFiMzZuSnlmbjVBcTNaS2p4VkQ3TndYb2JWWHdObEhURTFfeWlibHdhU0ZnMjJiVExIcGlPTnRkMHBsTEVYdnhSMEJ2Z1ZidlQzdlpzRGpZRUlORzZISU42TjQ3S1U1M2xTZkxQWHZvMzNQNmpfak1TbXhTaFNIOFJSc3hibHlHMVlQdGU1TkNQMk9HSlJoNnFodFpuT0tMVEtOeEQ3bzRleUJLSDlsTEI2SVZodmxJaHpvS2tVVlNEMG1EMTRubVNjeFNxaTlsT1kxRTJmbEtrUlBFdEpPREI2ZHJ4TmVlblhNZzBCNWFEUDBpOGxQZGZFV0JYYk1Ia3N6ckR2VlE?oc=5)
-- **[Creadores] Video | Westcol mostró por error los datos de su tarjeta de crédito y le robaron más de 8 millones: compraron hasta una nevera | El Colombiano - El Colombiano** — 03/11/2026 05:19 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVJyQmRzNVFiWnZqTEc3ZVNCNWw3Z3VIWU5VQjcyYUZ4M0M1YUkwSzRWUFBsel9iaWNzVEJScWNRUFVLeVVYdHVlN05jeTd4cHRvdUF6dGxJQkFGX2NWX2NZNFhSX2x5MnZFMnBiaVFTUWk1Vm5CaEhhUFhaTjJIX3hnenZNdlZHc2d4OEpnbG9vSkZxTS1rTVV6OW5GekNYeUl0UzBwanhmcEdfR1U3QmtndTh0RC02bXp6NkZ2aXp0UXRlZGVsX1VZR0HSAdIBQVVfeXFMT1FMMlZ6Z0JEdm9SSDBPOWppMEQtQVdmbWJ5WEZBRnh2d29rN0tXMklVQzNBYnhoQVVOYV96SGlDRjJOeWdCWXNhZjluX3VIRldGYW9PbmtPbjR2MXN3UFVsX2dSZjR4ODhwWVJvbEpnMmZZYkZXTkJXS09ETWJKaE5obVFpaGlQX0pNaFBmd3o3dEpoeGp0XzRteW00dFZfNmhUYV9YM3dnVWVZYzZraTgtVkxiei1wZUgwaXExUENCdjB2SExPbGtFREFrY2tjVjVn?oc=5)
 - **[Creadores] El streamer "Lonche de Huevito" quiere construir un mall en Los Mochis🎦 - Tiempo La Noticia Digital** — 03/11/2026 03:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0c2bG80ZjJlZllfd2lRLVkwTEJza3dqZmZIMGxHMEFJTE9BMGYwTnM4NWFkWW9paWVoOU9WX3pKY2ZBME9McHViSHVpZm13b2RrYXF6cjFfWURrN1gtUk5BNUdLV2c4cmctLW9TSjRSZ2xjMERCazJuTjVObXd1R0g2LVR5VS1jRHdXeU1GLTY3VnJFeUtZdGlfaDRmYzZkbnB5akxqTVp2cGpUY0JJM2tDNjI?oc=5)
 - **[Creadores] Aida Victoria es fuertemente criticada por mensaje de Escro: "terminará haciendo el oso" - La Kalle** — 03/11/2026 03:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxORG83SmZ3OGM1SUIwQXI3N1duc1VOaTFUWmlwWXlkeHNhZWF1amE4WGtTVFhZUTl6czM0RVU4NVhUZjA1YVBLNnVfVVdROXhLWTBpdGVDNE9sSUppd3JLRk1NdFFudG5mYnVtbnBLdU5yLU8zbUtxSHRzRG1PQzM1Y2RtVnpoYjdGZWFuel9YQVYwTmc3TnZLdlpGbXFEa2VkclM0alhCRmxFTVNCQW1DSHNnaFV0Vmt6NHZmRGxrbnJnTkN1bGMwWXlnQ0lSSk9sQVM3VmUzZ2JOcmJyc2FQVG9IeGk5SnZOUWZv0gHrAUFVX3lxTE5EbzdKZnc4YzVJQjBBcjc3V25zVU5pMVRaaXBZeWR4c2FlYXVqYThYa1NUWFlROXpzMzRFVTg1WFRmMDVhUEs2dV9VV1E5eEtZMGl0ZUM0T2xJSml3cktGTU10UW50bmZidW1ucEt1TnItTzNtS3FIdHNEbU9DMzVjZG1WemhiN0ZlYW56X1hBVjBOZzdOdkt2WkZtcURrZWRyUzRqWEJGbEVNU0JBbUNIc2doVXRWa3o0dmZEbGtucmdOQ3VsYzBZeWdDSVJKT2xBUzdWZTNnYk5yYnJzYVBUb0h4aTlKdk5RZm8?oc=5)
 - **[Creadores] Mamá de La Segura pidió oraciones para su hija tras delicado momento de salud, ¿qué pasó? - La Kalle** — 03/11/2026 03:17 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd2otN1J4Z1BQUDQwWlRyQmt1NHgtSzJ0TlRUdEY1MFdGTHlTeUY4MmlIUlM5N25RMkowc1FHQUJvNjFFMmtNbll4cklEdmNWbmhwNEc5WWk2T1J6SFV5WFduRzhIN3J6bmVzeU5tRVBBbUFDYUZaVFExN0FWVlo0aXBNS0prdko1UE5YU3ZqZkFob21ZM1B0M2oweHJKSm5tRU96MkVxWExUYjlrVDhEcDk5ekVRQ3BySG04aEdJVHR3bmRvTzcwSkVfLU80OVNuOFNqdW5kaG9VanVhZThsMGkxYVdfQk9MSFlqUNIB7AFBVV95cUxQd2otN1J4Z1BQUDQwWlRyQmt1NHgtSzJ0TlRUdEY1MFdGTHlTeUY4MmlIUlM5N25RMkowc1FHQUJvNjFFMmtNbll4cklEdmNWbmhwNEc5WWk2T1J6SFV5WFduRzhIN3J6bmVzeU5tRVBBbUFDYUZaVFExN0FWVlo0aXBNS0prdko1UE5YU3ZqZkFob21ZM1B0M2oweHJKSm5tRU96MkVxWExUYjlrVDhEcDk5ekVRQ3BySG04aEdJVHR3bmRvTzcwSkVfLU80OVNuOFNqdW5kaG9VanVhZThsMGkxYVdfQk9MSFlqUA?oc=5)
