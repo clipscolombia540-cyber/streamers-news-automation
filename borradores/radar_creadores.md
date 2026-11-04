@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 04/11/2026 09:53 AM (hora de Colombia)
+Actualizado: 04/11/2026 11:51 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 14.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente por verificar: 4.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -31,25 +31,25 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 73.912
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
-
 ### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: The Burnt Peanut Fam Tv
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.241
+- Vistas reportadas por YouTube: 6.532
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
+
+### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Aida Victoria Stream
+- Publicado: 03/11/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 9.951
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
 
 ### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - Categoria: Clip de terceros
@@ -57,19 +57,20 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente
 - Canal que publico: INMORTAL FF
 - Publicado: 04/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.449
+- Vistas reportadas por YouTube: 3.299
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
-### WESTCOL REACCIONA A STREAMERS PEQUEÑOS DE KICK 😂
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Westc0lResubido
-- Publicado: 03/11/2026 12:00 PM
+### BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestcolClips
+- Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=YiF8Z0tGqNo
+- Vistas reportadas por YouTube: 6.599
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=yuK1a4-IgVc
 
 ### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
 - Categoria: Cuenta de clips
@@ -77,7 +78,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 04/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.426
+- Vistas reportadas por YouTube: 17.046
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
 
@@ -130,7 +131,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente
 - Canal que publico: basuquito
 - Publicado: 03/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 708
+- Vistas reportadas por YouTube: 707
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
@@ -140,7 +141,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 4, Emergente
 - Canal que publico: basuquito
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.212
+- Vistas reportadas por YouTube: 1.214
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=lEb_mRfYCH4
 
@@ -178,16 +179,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- **Texto en pantalla:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
-
 ### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -197,6 +188,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
+
+### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Texto en pantalla:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=j0JLkyrIbgE
 
 ### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -208,15 +209,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3FCaBw10JF8
 
-### WESTCOL REACCIONA A STREAMERS PEQUEÑOS DE KICK 😂
+### BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL REACCIONA A STREAMERS PEQUEÑOS DE KICK 😂
-- **Texto en pantalla:** WESTCOL REACCIONA A STREAMERS PEQUEÑOS DE KICK 😂
+- **Título sugerido:** BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
+- **Texto en pantalla:** BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT T
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YiF8Z0tGqNo
+- **Fuente original:** https://www.youtube.com/watch?v=yuK1a4-IgVc
 
 ### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -300,18 +301,18 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Aída Victoria Merlano rompió en llanto al hablar sobre su hijo y su salud mental; destapó difícil proceso que atraviesa - Revista Semana** — 04/11/2026 09:45 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWGg4Vk9HNzJkR2pISDU0MVhRTE10V2VpUG5wVnVENVFwNmtnTmE1amdVdGxlX2s3RlJaVDQ2MEdzSFdtdnZyZlhLNjhlYkcxREdVVzZfTC12NkdncDNuN0ZzZWx1WmZEOWRTSEdyeWJKQWh3YnVCM3FadWxFZk1oT3JGUDFTb1J6V21rOUVxMmJvUnVuSXNtVHEzZ0lTVm1DYkNsaWNUTGw3RXByeWpxNklLNVM5b3dvTEVXSW1xM0tPVURhNGttdkpnSHVSNWdnelVjYVZOZWRFbHdiU1ZKVEI3eHNucFQ0QzB1d3JyQkh5U0pQNXNR0gH8AUFVX3lxTFBaWlhTb0t2VWt2YUhDbTNDYzE3SnVKOEZCX2RDdzJIMmtPWm94OXVuTm1sWDNSbVpxWktOLTQyOEdwUU1vU1V4dVN2cWhJQ2RWZHY1OWtXb3dYQnBnVldYSHVZcGQ4UlFyVVd0WE1hVHFrWFltaG1CeVRVejlORWtBRERLR05fUFB5V2QxanBEOGxlbVQ2XzFzc2xnUUZWYVdEZHNHaGJuekEtckJOcXJVdzFlVGZjcDlWbTVha3pkZk5ReFZUTjI0UEtxdm1YV3lvaVlZbW5pZUtySHlCM2pralhTc1U2cTM1UjBycUNldXViQ3hFUEZfd0EwSw?oc=5)
+- **[Creadores] Yeferson Cossio se pronunció tras aparecer en urgencias y reveló si tendrá que ser operado: “El dolor es muy fuerte” - Infobae** — 04/11/2026 11:32 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM24xVmRpSk9ranR3OHUxWk5HU1R0ZzM4LTJRYXZvb1p4OWhOOFpmWE96dEV1bldublN3Y2tLUk9qWXAwVHBFWjd6V3ZtUVFtSkRxU1g3VWJfNWEwaGpFaFFPSmV2V1dsVkdfbGV0ZEFYSk9GbnVVR3lZNUlTVEVrcFk3VUp1dmJGeTFnbTZKVTZkRXlGZlQ2N2YxUlFpUFNEdm1iRjdhM1Y0SVphVVhCbi1rXzhnRGNnQ1pWQUZOM0V2WnM2TWxTWVRTS3R1Ml84dEVsN1JFN1A5aFYxZ3l5aFdPZ2NOSzZZSUVFLS1XWdIBigJBVV95cUxNX1M3RnRjQjVZSHQ2R2o0QUdhTUdWbmVaMmVyWTV0dmlaby10bUQ1T1dMLUpNanczMkpJYmpZdkxUenlpY1FuMnhscDJkR1lhbTRlLWY2UlZsbGFfMUZjRW1ZeEg4WXdzVlpNUl96ZjJzRVBWYTdhX213ZUNhanRkcm1UdS1RbnFHMC00cHk5ZE12R3ktZk1sdlJoYWdpaDZsaElGMnpKc3hodWtBbXIxRlFGVTQ3UzNpSF9PZjJIcUVralJLMUs0SFoxSVhIMnoxVXJsM3FzbGJDZk5WMlJZSzBJazE5SmxhZlNRYklESXZRZ2drbWZFcGN0VzFwQ1I1cHI0R3dCX3VKdw?oc=5)
+- **[Creadores] Westcol dio "papaya" en live: usaron su tarjeta para hacer compras millonarias - Blu Radio** — 04/11/2026 10:48 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZTSldrbVpZaFFjcWp3UDVMZFEybnRpOWVOWEVoX0dpWS1TZXdyMXNPekJVcFYxdll2Rm1OMHBjQ0Y0UWpyWWpXbTBHVmtidVI0VndVR2VzYzZESzMtRVhHRDBnbTZGdkVaMGZPNkJYOVh5V3ppcVRNUVZBVW5oY0t5NEt1enoyMTZRX3dscHlZWXpNS0JNbmxZRjJOaWU1aEEyZGtCc3VudnVmV2FCV3pjenPSAcIBQVVfeXFMUEJUbEV2U0pKQThUWThFdlRYLTJ0d3NrclRfT0pLLUo5bkpQcTBDTXRZQUg1QlhOU0luSS1lRUxaMDdwN1l0a0R4d092VDh5RTJMbXVVVVZrbnpnRVJwdnJqejJKZGxETWpmNl9nVWVYNDZFVjNaejR5M2FLMjhZeUNnenRmLVRRcXQtZlJzM1pqc1BIMTlHS1M2SWQ3SUJOemZWLWFySTZzMlNiQUxyMDR0dDAyN19SbE9UaGlOUnNsYVE?oc=5)
+- **[Creadores] Aída Victoria Merlano rompió en llanto al hablar sobre su hijo y su salud mental; destapó difícil proceso que atraviesa - Revista Semana** — 04/11/2026 09:45 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWlpYU29LdlVrdmFIQ20zQ2MxN0p1SjhGQl9kQ3cySDJrT1pveDl1bk5tbFgzUm1acVpLTi00MjhHcFFNb1NVeHVTdnFoSUNkVmR2NTlrV293WEJwZ1ZXWEh1WXBkOFJRclVXdFhNYVRxa1hZbWhtQnlUVXo5TkVrQURES0dOX1BQeVdkMWpwRDhsZW1UNl8xc3NsZ1FGVmFXRGRzR2hibnpBLXJCTnFyVXcxZVRmY3A5Vm01YWt6ZGZOUXhWVE4yNFBLcXZtWFd5b2lZWW1uaWVLckh5QjNqa2pYU3NVNnEzNVIwcnFDZXV1YkN4RVBGX3dBMEvSAfwBQVVfeXFMUFpaWFNvS3ZVa3ZhSENtM0NjMTdKdUo4RkJfZEN3Mkgya09ab3g5dW5ObWxYM1JtWnFaS04tNDI4R3BRTW9TVXh1U3ZxaElDZFZkdjU5a1dvd1hCcGdWV1hIdVlwZDhSUXJVV3RYTWFUcWtYWW1obUJ5VFV6OU5Fa0FEREtHTl9QUHlXZDFqcEQ4bGVtVDZfMXNzbGdRRlZhV0Rkc0doYm56QS1yQk5xclV3MWVUZmNwOVZtNWFremRmTlF4VlROMjRQS3F2bVhXeW9pWVltbmllS3JIeUIzamtqWFNzVTZxMzVSMHJxQ2V1dWJDeEVQRl93QTBL?oc=5)
+- **[Creadores] PARCHANDO CON BLESSD, KRIS R Y REY DE LA CITY EN EL BARRIO ANTIOQUIA | WESTCOL Duncan Robinson (BxgTohM4cw) - Unisba Media** — 04/11/2026 04:57 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTJRLWpZb1I5NUZGUU01S04xNWxwallTTmhjb0h0bEl6eEJMVS1aeHI1SGN0alNDdWNfNkt3aW5ob3JmamQ2S2pTT1p3VFJJdkNXNW9Ya1FOQ2pDTHB1ZmN5cTdJdjFmU0Z6WldYMVFmRkFNZzZHWTV1cDVnejRzSXN3?oc=5)
 - **[Creadores] Aida Victoria Merlano reapareció y no pudo contener las lágrimas en medio de un nuevo pleito legal con su exnovio ‘El Agropecuario’: esto dijo - Infobae** — 03/11/2026 09:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxNNFVhMmJqVUE4QVZwR2RBMU9jM3M5QWZ2dFdSQnJxNDdrUFY4N2NwMUNJNEhVZ19rbl9uYUx6ek9yTDZ1V3VvbDdacEdtYS1GSHZHNi01SG9hdTZxUzdIRTRmZ2tzN2U4R00zZG9uR0k2UjkwX25HZndORHVFLUdWdHVJd3RURTZiUVZNWXAzUnlUa01PVThSejdGdFJaSWQzelo2N0pBdUJBc1FsYS1pdjc5T2s2XzlkMnNTbGp2OXJULXBtYTVyM3Rab2ZmWnNOM1cyNFBLZG5Xb0ZOWDRLblpLRTN4N3RVWi1PUy02VE55NUVzTXZyTHR3cDI5U2M4aE9z0gGeAkFVX3lxTE5ub1JJNjA1dXM5VUFNQkxkOVR2cnVWelotNEdrYllUUFc0eEkxaUhfUFdfSUZ1dUxNY05sVnpLX3BjSGk3QzcxZDJWVFR6R25tTjM0cUhYX2J1T3VxN2NGaXZlRm5SQi1pYkZNdGpRSlhyZFItSzFiY0NMQ1JzQ05CcjcyXzFMOW5vUGQtOE53MEEyU2JrcklsMmxrTVpHVzlOQ2NyeFI5clNGTnEtTXVIZ01OZWFVV1FZLVo2NUFVemlYMFlRRVpTNngzeVNJa2dOWmllZGtiZ2tWa3Q0YVVkRVdOc05fUWg0dHZ1QXRqc0g2ZF9OV1hubVVHbGU2U0hUUVJYaEJLdkR5QnBLRDZtMkxBM0ltNThTN3ROQ1E?oc=5)
 - **[Creadores] Jessi Uribe explicó por qué no asistió con Paola Jara a la boda de Luisa Fernanda W y Pipe Bueno: “¡Qué pesar!” - Infobae** — 03/11/2026 08:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXNyclUwTXM4V3hkWEp5VE1NVUdkZURSSUd2anBDbkMwanhVd3lzV2Y5VUNvVDI4bUpLNkNfNE1CMDFBLW0xLU1sSmY3eWpUVmFiUWY0WThvUHM0SlJ2eUVJM1hZWE9RejdicWtBSV9BRkdaczJCRUtXbTRta29iaGE2NUgyRW5wY2d1eHlDbVRBTk1qMjF6bk1CZU5NMkxBUDJnaFFmWmhGeDJGZ0VON3hTUWFEMnR4bVlfYWZLXzBfVUhTb29ZaWxxd291RldsaUowU2VDeHNpdFByLVVaVGJmY3otQdIBgAJBVV95cUxPU1lHeDAwd3J2T0dmRHZtNlhSaXJweTZvTEhsRDVldGVKbXZGU0xkTDNsTFFQTGdCcUY1TlJ0WDEyQkt1bkVCY3BXN2owZFUyOEswOE51c19nbTJtdmt5M0JYeGRuR190SEgzclc3ei0xWndzUjVlYzJIS3J2c09KaTR3QXpOeW1sUHRGQUd3TFlYUGxGdVlBSFFZWTg1N2RPVjlkc21ZWG85Q2NBTFBXbURuNGxuUTlUQnlGSW5vSV9IaTN5VXFIMHRrWFRpSlptTEdOVEtoVlo3OU5nNEtJNUNyck5ra1pPaXNWckpkZWU3Rm05eG5fSF9zY0piSGdS?oc=5)
 - **[Creadores] Jessi Uribe explicó por qué no asistió con Paola Jara a la boda de Luisa Fernanda W y Pipe Bueno: “Qué pesar” - Infobae** — 03/11/2026 08:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigAJBVV95cUxPU1lHeDAwd3J2T0dmRHZtNlhSaXJweTZvTEhsRDVldGVKbXZGU0xkTDNsTFFQTGdCcUY1TlJ0WDEyQkt1bkVCY3BXN2owZFUyOEswOE51c19nbTJtdmt5M0JYeGRuR190SEgzclc3ei0xWndzUjVlYzJIS3J2c09KaTR3QXpOeW1sUHRGQUd3TFlYUGxGdVlBSFFZWTg1N2RPVjlkc21ZWG85Q2NBTFBXbURuNGxuUTlUQnlGSW5vSV9IaTN5VXFIMHRrWFRpSlptTEdOVEtoVlo3OU5nNEtJNUNyck5ra1pPaXNWckpkZWU3Rm05eG5fSF9zY0piSGdS0gGAAkFVX3lxTE9TWUd4MDB3cnZPR2ZEdm02WFJpcnB5Nm9MSGxENWV0ZUptdkZTTGRMM2xMUVBMZ0JxRjVOUnRYMTJCS3VuRUJjcFc3ajBkVTI4SzA4TnVzX2dtMm12a3kzQlh4ZG5HX3RISDNyVzd6LTFad3NSNWVjMkhLcnZzT0ppNHdBek55bWxQdEZBR3dMWVhQbEZ1WUFIUVlZODU3ZE9WOWRzbVlYbzlDY0FMUFdtRG40bG5ROVRCeUZJbm9JX0hpM3lVcUgwdGtYVGlKWm1MR05US2hWWjc5Tmc0S0k1Q3JyTmtrWk9pc1ZySmRlZTdGbTl4bl9IX3NjSmJIZ1I?oc=5)
-- **[Creadores] Video | Westcol mostró por error los datos de su tarjeta de crédito y le robaron más de 8 millones: compraron hasta una nevera | El Colombiano - El Colombiano** — 03/11/2026 05:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVJyQmRzNVFiWnZqTEc3ZVNCNWw3Z3VIWU5VQjcyYUZ4M0M1YUkwSzRWUFBsel9iaWNzVEJScWNRUFVLeVVYdHVlN05jeTd4cHRvdUF6dGxJQkFGX2NWX2NZNFhSX2x5MnZFMnBiaVFTUWk1Vm5CaEhhUFhaTjJIX3hnenZNdlZHc2d4OEpnbG9vSkZxTS1rTVV6OW5GekNYeUl0UzBwanhmcEdfR1U3QmtndTh0RC02bXp6NkZ2aXp0UXRlZGVsX1VZR0HSAdIBQVVfeXFMT1FMMlZ6Z0JEdm9SSDBPOWppMEQtQVdmbWJ5WEZBRnh2d29rN0tXMklVQzNBYnhoQVVOYV96SGlDRjJOeWdCWXNhZjluX3VIRldGYW9PbmtPbjR2MXN3UFVsX2dSZjR4ODhwWVJvbEpnMmZZYkZXTkJXS09ETWJKaE5obVFpaGlQX0pNaFBmd3o3dEpoeGp0XzRteW00dFZfNmhUYV9YM3dnVWVZYzZraTgtVkxiei1wZUgwaXExUENCdjB2SExPbGtFREFrY2tjVjVn?oc=5)
-- **[Creadores] Westcol filtró su tarjeta de crédito por error durante un directo y las compras no autorizadas llegaron a ocho millones de pesos - Infobae** — 03/11/2026 05:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxQdXA3S2NyR2l0dmU0V2FjNGZQZTgwUDdDNzRrdkJBeVpIN3psUkNHUjlJNkR5OU1NRUx3TzZhX01SZlFFSFFQSmpsSmZxZENEeU4zUXFDNGVaTXk0dVMzcW5yd3lTajlqTW5HeU85U3NfWWlwUlJXS3ZITTlqTGJGY0gxOFhTQzVvR2ZGdlozZmZZazI2ZFNxcU9IZGNSaGY1ZDlZOHJXY0hoRHJTaW9JenhxWE9tY0Z4b1h6Tm9TZmx6M3JiVThBZUlvZG5YQ0lUWnhQNUVldV9XWkVwZ0x6aDdiQ0lEcFRrdzAwNUFtRmFyOXlPRWpJd3E3SndRal9BMDJZ0gGeAkFVX3lxTE9zc0F0cndsLXhqUmN3c3VjMWdqbEZGWkFiMzZuSnlmbjVBcTNaS2p4VkQ3TndYb2JWWHdObEhURTFfeWlibHdhU0ZnMjJiVExIcGlPTnRkMHBsTEVYdnhSMEJ2Z1ZidlQzdlpzRGpZRUlORzZISU42TjQ3S1U1M2xTZkxQWHZvMzNQNmpfak1TbXhTaFNIOFJSc3hibHlHMVlQdGU1TkNQMk9HSlJoNnFodFpuT0tMVEtOeEQ3bzRleUJLSDlsTEI2SVZodmxJaHpvS2tVVlNEMG1EMTRubVNjeFNxaTlsT1kxRTJmbEtrUlBFdEpPREI2ZHJ4TmVlblhNZzBCNWFEUDBpOGxQZGZFV0JYYk1Ia3N6ckR2VlE?oc=5)
 - **[Creadores] El streamer "Lonche de Huevito" quiere construir un mall en Los Mochis🎦 - Tiempo La Noticia Digital** — 03/11/2026 03:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0c2bG80ZjJlZllfd2lRLVkwTEJza3dqZmZIMGxHMEFJTE9BMGYwTnM4NWFkWW9paWVoOU9WX3pKY2ZBME9McHViSHVpZm13b2RrYXF6cjFfWURrN1gtUk5BNUdLV2c4cmctLW9TSjRSZ2xjMERCazJuTjVObXd1R0g2LVR5VS1jRHdXeU1GLTY3VnJFeUtZdGlfaDRmYzZkbnB5akxqTVp2cGpUY0JJM2tDNjI?oc=5)
 - **[Creadores] Mamá de La Segura pidió oraciones para su hija tras delicado momento de salud, ¿qué pasó? - La Kalle** — 03/11/2026 03:17 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd2otN1J4Z1BQUDQwWlRyQmt1NHgtSzJ0TlRUdEY1MFdGTHlTeUY4MmlIUlM5N25RMkowc1FHQUJvNjFFMmtNbll4cklEdmNWbmhwNEc5WWk2T1J6SFV5WFduRzhIN3J6bmVzeU5tRVBBbUFDYUZaVFExN0FWVlo0aXBNS0prdko1UE5YU3ZqZkFob21ZM1B0M2oweHJKSm5tRU96MkVxWExUYjlrVDhEcDk5ekVRQ3BySG04aEdJVHR3bmRvTzcwSkVfLU80OVNuOFNqdW5kaG9VanVhZThsMGkxYVdfQk9MSFlqUNIB7AFBVV95cUxQd2otN1J4Z1BQUDQwWlRyQmt1NHgtSzJ0TlRUdEY1MFdGTHlTeUY4MmlIUlM5N25RMkowc1FHQUJvNjFFMmtNbll4cklEdmNWbmhwNEc5WWk2T1J6SFV5WFduRzhIN3J6bmVzeU5tRVBBbUFDYUZaVFExN0FWVlo0aXBNS0prdko1UE5YU3ZqZkFob21ZM1B0M2oweHJKSm5tRU96MkVxWExUYjlrVDhEcDk5ekVRQ3BySG04aEdJVHR3bmRvTzcwSkVfLU80OVNuOFNqdW5kaG9VanVhZThsMGkxYVdfQk9MSFlqUA?oc=5)
 - **[Creadores] Mamá de La Segura hizo contundente petición tras conocerse delicada situación de salud de su hija: “Se los agradezco con todo mi corazón” - Infobae** — 03/11/2026 02:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZkk2Y1lKNkstMjFUZXBIRnEycWZwbkw1TGwtUTdfQWhOcnVIWmt4YWFEendHbHR5MUQ0MU04NFk1YV81Q1lZWm5adkxjSEgyQVhiMDlFNFNDc05hLVVyQVVZU1pMNmhkb0E5UWpDdUVCNE9yOFN3a1lkRzd4WG5RZG5zWXZmMFQxYzR3NmNsbEJKYmgwZnh0MWFDYWpHRk1vS2VQRlJpZGZ3SFpUdVd4eDFoQ1pMLVdLSmZocDdROTFVUHl1ek1IV0lhTHVZQTV1X0ZGd2pGc091UFJqdm1xNk9nNE9GMkdJU0xoeDNFMzA5MWJTRG9Jamh5R2VOMVNDNm9BNGpxUDZWZUXSAaYCQVVfeXFMTVhhWEZYT3RyaUQ3YU9nYWlTeFAyU0JDVFB6TFRRSlJpN2JUZ3haMEx5S3NucGtzcmNULXVjTW16dk5fUUg3d3ZwVTJTX3FNQTJqOTJjbVRWS1RtR254OHIwVnVzenRRUnIxUEI3RDVoUkF4YTJla21XMVEwZ2syZlVmSmctaE9kWkRTVFZKR2hyVEd2OGw3SWdWS21vUlkxTGFEV1lFTDdFU2tERTZoOXJ1bjBMMzhibmRGUnRJeWphV25teXBDSTJaSXJpc2QzZThxbFg1QloyeF9XYUtPbEhyV21DaXFNck44VXJLODRQNW1veWhfUmt2VjY4UFJzd3V3Q2hjTEVPMy1RbHQ4U0V1eUltUjE5SXNnbVVnclJGUUstcE93?oc=5)
 - **[Creadores] Lonche de Huevito anuncia sus planes para construir una plaza en Los Mochis | VIDEO - Luz Noticias** — 03/11/2026 10:47 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEFVMW1QNkN6dEU2UXhRcGxnUUxxU2dTMVUwOHVtSGZQY29kT2hHbHQxR3B2TnBWTC1jT2FIU0dIMUNDZVc3LU1uQ0xvb3pGV2JiT3ZaUi1MLUFfYTlzVE10ejVET0pGVW5DVXBsTUxTNUZZV0tZbFVkQVhoVHVLblR3S2h0eGdubEFzUHgwQUFJZHpvbk9fWTdISnhqbmJtZ1poNnJrT1oxTl9LUFZyZnl6YUJ4RXEzakdUTFRndTNtMWs0aDhWVzFROHlDS1kxSnJnSzlTUdIB3AFBVV95cUxQdTdSMHozSjZLbEVBdHhzWFdMMHZ6ZklNLXU4VnBTaHg5R0owLVpPc3I1OGxpU3U3Q2ZfcW5xdkdTVkpoby1Rcl9fZzZYMmVieFB5bHZFTDdFdG1EVFpJWTZ1Ml8xZmhIaU8xMEgzZVJUdVpQNzZoSjhURWhvXzZtVkgwX3FsZloyVy1oRlZYbDdxNjRvSC1rZVF4UE1nMXFMSXBjSmc5cmR0T2xoVVluTFEwT2RNdjduUVZnSWc5MWNYbEhuM2tBVEdlVF90TU51bFNQbml6TGw0TlNE?oc=5)
 - **[Creadores] Yeferson Cossio terminó en urgencias por fuerte dolor abdominal - Kienyke** — 03/11/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxOVmVmOWlVUHFWTWNDTUR5aUtmY1JGcUJ0ZV82MVQ1d25IZ2Z3dkxKYlNLR29YeEEtSjVwWkNCSTBOXzZwcFBjTlhMQl9XbHNGbGRPSzVuN2lZOXlVMFF0dG1yUjFjbUZQLWFfd2JBUnNLMERQdmxHZnFrZFJvU0dfdW12RjhPZ3ZZaTE2d3lwLTA4WWFpTmR6dU52cDFsdw?oc=5)
-- **[Creadores] El influencer Yeferson Cossio habría sido operado de emergencia, ¿qué le pasó? - Eluniversal.com.co** — 03/11/2026 10:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLU1vN1VOamtBQkFYbVRqbDYySXNqamV6ZTkwdjhsWVRUdHZhTFZIU3MtVUF0ZHhRQUw5anY0SmpUVjNWa0NuQTlUZ2ZuUzdEU3JuYVlnSzNHVjBKS25leDZRTmk5b21PNnJ6TTF6SVVEdnlDc2FkckZrcGhrVlRRbW1JNTREZklKWE42TW9pbW94ME94dU5qUmNyM05Va0ZaSVdHR0JPRW5mc21uNFVYT3UtY3dZZXU5a3dBRFJlWFJzR0RpekdB?oc=5)
 
 ## Creadores principales vigilados
 
