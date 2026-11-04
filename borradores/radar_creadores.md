@@ -1,45 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 04/11/2026 03:52 AM (hora de Colombia)
+Actualizado: 04/11/2026 06:04 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 03/11/2026 06:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.602
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
-
-### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
+### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 59.235
+- Vistas reportadas por YouTube: 66.618
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
-
-### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 02/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 21.944
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
 
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
 - Categoria: Clip de terceros
@@ -47,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.689
+- Vistas reportadas por YouTube: 8.629
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
 
@@ -57,8 +37,8 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: INMORTAL FF
 - Publicado: 04/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 978
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.566
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
 ### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
@@ -67,8 +47,8 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 04/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.614
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.233
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
 
 ### CHANTY EN STREAM CON LA GANGA
@@ -76,9 +56,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
-- Publicado: 04/11/2026 01:00 AM
+- Publicado: 04/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
 
@@ -93,59 +73,60 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Reydelacityclips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Reydelacityclips
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 130
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
+
+### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 03/11/2026 12:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 657
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
+
+### OCTUBRE EN KICK COLOMBIA 2026
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Chimbonauta
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 1.837
-- Puntaje heurístico de interés: 5
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
-### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 03/11/2026 01:00 PM
+- Creador/canal detectado: Emergente: KenetGR Live
+- Canal que publico: KenetGR Live
+- Publicado: 03/11/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 657
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
+- Vistas reportadas por YouTube: 9
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
-
-### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
+### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
-- **Texto en pantalla:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
+- **Título sugerido:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Texto en pantalla:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
-
-### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
 
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -197,15 +178,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=h6-QGk5hsU8
 
-### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
+### A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
-- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
-- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Texto en pantalla:** A REY DE LA CITY NO LE GUSTA EL NUEVO DISEÑO DEL PORSCHE DE LIL NAAY‼️
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
 ### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
@@ -216,6 +197,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
+
+### OCTUBRE EN KICK COLOMBIA 2026
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
+- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
+- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
+- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
+
+### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KenetGR Live.
+- **Título sugerido:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Texto en pantalla:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Noticias y contexto
 
