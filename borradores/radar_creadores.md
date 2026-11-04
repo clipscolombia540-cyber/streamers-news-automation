@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 03/11/2026 07:52 PM (hora de Colombia)
+Actualizado: 03/11/2026 09:44 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 11.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3, Emergente por verificar: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,11 +15,21 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
-- Publicado: 03/11/2026 06:00 AM
+- Publicado: 03/11/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 49.596
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
+
+### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: The Burnt Peanut Fam Tv
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 5.181
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
 ### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -31,24 +41,14 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=Z5rGUBl174E
 
-### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: The Burnt Peanut Fam Tv
-- Publicado: 02/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.963
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=vGZAtR3R8QQ
-
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.002
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.766
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
 
 ### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
@@ -57,9 +57,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 204
+- Vistas reportadas por YouTube: 646
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
+
+### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestcolClips
+- Canal que publico: WestcolClips
+- Publicado: 02/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 46.272
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=cDOU7QnHzu8
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - Categoria: Cuenta de clips
@@ -79,7 +89,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 90
+- Vistas reportadas por YouTube: 104
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=-hMZ0YHqWtE
 
@@ -89,7 +99,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: basuquito
 - Publicado: 03/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 405
+- Vistas reportadas por YouTube: 425
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
@@ -99,9 +109,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2, Emergente
 - Canal que publico: Chimbonauta
 - Publicado: 02/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.620
+- Vistas reportadas por YouTube: 1.683
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
+
+### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KenetGR Live
+- Canal que publico: KenetGR Live
+- Publicado: 03/11/2026 09:35 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -117,16 +137,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
 
-### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
-
 ### TheBurntPeanut Hosted a Minecraft Event for 20 Streamers | The Peanut Games Highlights
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -137,12 +147,22 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=vGZAtR3R8QQ
 
-### ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+### PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** PvP with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Z5rGUBl174E
+
+### COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
-- **Texto en pantalla:** ME FUI DE COMPRAS CON MI ROBOT | WESTCOL
+- **Título sugerido:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
+- **Texto en pantalla:** COMPRÁNDOLE ROPA A MI ROBOT 🤖| WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
@@ -156,6 +176,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=j0JLkyrIbgE
+
+### SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
+- **Título sugerido:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON STREAM 😨)
+- **Texto en pantalla:** SURPRISING SMALL STREAMERS ON KICK 😂 (AND I LEAKED MY CREDIT CARD ON S
+- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=cDOU7QnHzu8
 
 ### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -197,12 +227,23 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
 
+### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KenetGR Live.
+- **Título sugerido:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Texto en pantalla:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
+
 ## Noticias y contexto
 
-- **[Creadores] Video | Westcol mostró por error los datos de su tarjeta de crédito y le robaron más de 8 millones: compraron hasta una nevera | El Colombiano - El Colombiano** — 03/11/2026 05:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVJyQmRzNVFiWnZqTEc3ZVNCNWw3Z3VIWU5VQjcyYUZ4M0M1YUkwSzRWUFBsel9iaWNzVEJScWNRUFVLeVVYdHVlN05jeTd4cHRvdUF6dGxJQkFGX2NWX2NZNFhSX2x5MnZFMnBiaVFTUWk1Vm5CaEhhUFhaTjJIX3hnenZNdlZHc2d4OEpnbG9vSkZxTS1rTVV6OW5GekNYeUl0UzBwanhmcEdfR1U3QmtndTh0RC02bXp6NkZ2aXp0UXRlZGVsX1VZR0HSAdIBQVVfeXFMT1FMMlZ6Z0JEdm9SSDBPOWppMEQtQVdmbWJ5WEZBRnh2d29rN0tXMklVQzNBYnhoQVVOYV96SGlDRjJOeWdCWXNhZjluX3VIRldGYW9PbmtPbjR2MXN3UFVsX2dSZjR4ODhwWVJvbEpnMmZZYkZXTkJXS09ETWJKaE5obVFpaGlQX0pNaFBmd3o3dEpoeGp0XzRteW00dFZfNmhUYV9YM3dnVWVZYzZraTgtVkxiei1wZUgwaXExUENCdjB2SExPbGtFREFrY2tjVjVn?oc=5)
+- **[Creadores] Aida Victoria Merlano reapareció y no pudo contener las lágrimas en medio de un nuevo pleito legal con su exnovio ‘El Agropecuario’: esto dijo - Infobae** — 03/11/2026 09:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxNNFVhMmJqVUE4QVZwR2RBMU9jM3M5QWZ2dFdSQnJxNDdrUFY4N2NwMUNJNEhVZ19rbl9uYUx6ek9yTDZ1V3VvbDdacEdtYS1GSHZHNi01SG9hdTZxUzdIRTRmZ2tzN2U4R00zZG9uR0k2UjkwX25HZndORHVFLUdWdHVJd3RURTZiUVZNWXAzUnlUa01PVThSejdGdFJaSWQzelo2N0pBdUJBc1FsYS1pdjc5T2s2XzlkMnNTbGp2OXJULXBtYTVyM3Rab2ZmWnNOM1cyNFBLZG5Xb0ZOWDRLblpLRTN4N3RVWi1PUy02VE55NUVzTXZyTHR3cDI5U2M4aE9z0gGeAkFVX3lxTE5ub1JJNjA1dXM5VUFNQkxkOVR2cnVWelotNEdrYllUUFc0eEkxaUhfUFdfSUZ1dUxNY05sVnpLX3BjSGk3QzcxZDJWVFR6R25tTjM0cUhYX2J1T3VxN2NGaXZlRm5SQi1pYkZNdGpRSlhyZFItSzFiY0NMQ1JzQ05CcjcyXzFMOW5vUGQtOE53MEEyU2JrcklsMmxrTVpHVzlOQ2NyeFI5clNGTnEtTXVIZ01OZWFVV1FZLVo2NUFVemlYMFlRRVpTNngzeVNJa2dOWmllZGtiZ2tWa3Q0YVVkRVdOc05fUWg0dHZ1QXRqc0g2ZF9OV1hubVVHbGU2U0hUUVJYaEJLdkR5QnBLRDZtMkxBM0ltNThTN3ROQ1E?oc=5)
+- **[Creadores] Jessi Uribe explicó por qué no asistió con Paola Jara a la boda de Luisa Fernanda W y Pipe Bueno: “Qué pesar” - Infobae** — 03/11/2026 08:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXNyclUwTXM4V3hkWEp5VE1NVUdkZURSSUd2anBDbkMwanhVd3lzV2Y5VUNvVDI4bUpLNkNfNE1CMDFBLW0xLU1sSmY3eWpUVmFiUWY0WThvUHM0SlJ2eUVJM1hZWE9RejdicWtBSV9BRkdaczJCRUtXbTRta29iaGE2NUgyRW5wY2d1eHlDbVRBTk1qMjF6bk1CZU5NMkxBUDJnaFFmWmhGeDJGZ0VON3hTUWFEMnR4bVlfYWZLXzBfVUhTb29ZaWxxd291RldsaUowU2VDeHNpdFByLVVaVGJmY3otQdIBgAJBVV95cUxPU1lHeDAwd3J2T0dmRHZtNlhSaXJweTZvTEhsRDVldGVKbXZGU0xkTDNsTFFQTGdCcUY1TlJ0WDEyQkt1bkVCY3BXN2owZFUyOEswOE51c19nbTJtdmt5M0JYeGRuR190SEgzclc3ei0xWndzUjVlYzJIS3J2c09KaTR3QXpOeW1sUHRGQUd3TFlYUGxGdVlBSFFZWTg1N2RPVjlkc21ZWG85Q2NBTFBXbURuNGxuUTlUQnlGSW5vSV9IaTN5VXFIMHRrWFRpSlptTEdOVEtoVlo3OU5nNEtJNUNyck5ra1pPaXNWckpkZWU3Rm05eG5fSF9zY0piSGdS?oc=5)
+- **[Creadores] Video | Westcol mostró por error los datos de su tarjeta de crédito y le robaron más de 8 millones: compraron hasta una nevera - El Colombiano** — 03/11/2026 05:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVJyQmRzNVFiWnZqTEc3ZVNCNWw3Z3VIWU5VQjcyYUZ4M0M1YUkwSzRWUFBsel9iaWNzVEJScWNRUFVLeVVYdHVlN05jeTd4cHRvdUF6dGxJQkFGX2NWX2NZNFhSX2x5MnZFMnBiaVFTUWk1Vm5CaEhhUFhaTjJIX3hnenZNdlZHc2d4OEpnbG9vSkZxTS1rTVV6OW5GekNYeUl0UzBwanhmcEdfR1U3QmtndTh0RC02bXp6NkZ2aXp0UXRlZGVsX1VZR0E?oc=5)
 - **[Creadores] El streamer "Lonche de Huevito" quiere construir un mall en Los Mochis🎦 - Tiempo La Noticia Digital** — 03/11/2026 03:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0c2bG80ZjJlZllfd2lRLVkwTEJza3dqZmZIMGxHMEFJTE9BMGYwTnM4NWFkWW9paWVoOU9WX3pKY2ZBME9McHViSHVpZm13b2RrYXF6cjFfWURrN1gtUk5BNUdLV2c4cmctLW9TSjRSZ2xjMERCazJuTjVObXd1R0g2LVR5VS1jRHdXeU1GLTY3VnJFeUtZdGlfaDRmYzZkbnB5akxqTVp2cGpUY0JJM2tDNjI?oc=5)
 - **[Creadores] Aida Victoria es fuertemente criticada por mensaje de Escro: "terminará haciendo el oso" - La Kalle** — 03/11/2026 03:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxORG83SmZ3OGM1SUIwQXI3N1duc1VOaTFUWmlwWXlkeHNhZWF1amE4WGtTVFhZUTl6czM0RVU4NVhUZjA1YVBLNnVfVVdROXhLWTBpdGVDNE9sSUppd3JLRk1NdFFudG5mYnVtbnBLdU5yLU8zbUtxSHRzRG1PQzM1Y2RtVnpoYjdGZWFuel9YQVYwTmc3TnZLdlpGbXFEa2VkclM0alhCRmxFTVNCQW1DSHNnaFV0Vmt6NHZmRGxrbnJnTkN1bGMwWXlnQ0lSSk9sQVM3VmUzZ2JOcmJyc2FQVG9IeGk5SnZOUWZv0gHrAUFVX3lxTE5EbzdKZnc4YzVJQjBBcjc3V25zVU5pMVRaaXBZeWR4c2FlYXVqYThYa1NUWFlROXpzMzRFVTg1WFRmMDVhUEs2dV9VV1E5eEtZMGl0ZUM0T2xJSml3cktGTU10UW50bmZidW1ucEt1TnItTzNtS3FIdHNEbU9DMzVjZG1WemhiN0ZlYW56X1hBVjBOZzdOdkt2WkZtcURrZWRyUzRqWEJGbEVNU0JBbUNIc2doVXRWa3o0dmZEbGtucmdOQ3VsYzBZeWdDSVJKT2xBUzdWZTNnYk5yYnJzYVBUb0h4aTlKdk5RZm8?oc=5)
-- **[Creadores] Aida Victoria es fuertemente criticada por mensaje de Escro: "terminará haciendo el oso" - La Kalle** — 03/11/2026 03:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaTYyS2VrZlFRdGtHc1ZiX1NKTmhVaHlxV044TDREMVc5MUx4cWw0akFfMWlMQTJoQW9vc2lra2YwdHFFZExLNEdlbHNyOUFkdVVCWlFxMFdrMVFMN3F1aGVUNDRFa2JJTXU3NmZSa2FuUTJyVy0wRllpSnVaQmFTZEpJOVFVM0tGV1ZMeG9BcnpTUDJMbzVUV182b1B2NU1USTFta0tLY0ZVdTgzakpDRHlpMHpOUDY5azAyMTVfRV85U0QxaHF0ZjBTNkUtLXdSSFRaUUYwR2FTU0VJenfSAesBQVVfeXFMTkRvN0pmdzhjNUlCMEFyNzdXbnNVTmkxVFppcFl5ZHhzYWVhdWphOFhrU1RYWVE5enMzNEVVODVYVGYwNWFQSzZ1X1VXUTl4S1kwaXRlQzRPbElKaXdyS0ZNTXRRbnRuZmJ1bW5wS3VOci1PM21LcUh0c0RtT0MzNWNkbVZ6aGI3RmVhbnpfWEFWME5nN052S3ZaRm1xRGtlZHJTNGpYQkZsRU1TQkFtQ0hzZ2hVdFZrejR2ZkRsa25yZ05DdWxjMFl5Z0NJUkpPbEFTN1ZlM2diTnJicnNhUFRvSHhpOUp2TlFmbw?oc=5)
 - **[Creadores] Westcol filtró su tarjeta en vivo: le gastaron más de $8 millones - noscogiolanoche.com** — 03/11/2026 03:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMilwFBVV95cUxObi1YR0c0aVdNc19jcnpBdENsZHkzWGdXYTY1ODhvREttTEF3N2FJN2dyUTZiOVZxZmNNSlMwS2lRdmZUNXN4eFBCdnc0WXF5UUI2c3llU3hBS291amFoX3h3MTRHaXFmZXc5RVB5V05pbEhDSnNSVElCZFgtTldqTjVmQnVKdTZfUjJ4eEdheVotWEFIaDRr?oc=5)
 - **[Creadores] Mamá de La Segura pidió oraciones para su hija tras delicado momento de salud, ¿qué pasó? - La Kalle** — 03/11/2026 03:17 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd2otN1J4Z1BQUDQwWlRyQmt1NHgtSzJ0TlRUdEY1MFdGTHlTeUY4MmlIUlM5N25RMkowc1FHQUJvNjFFMmtNbll4cklEdmNWbmhwNEc5WWk2T1J6SFV5WFduRzhIN3J6bmVzeU5tRVBBbUFDYUZaVFExN0FWVlo0aXBNS0prdko1UE5YU3ZqZkFob21ZM1B0M2oweHJKSm5tRU96MkVxWExUYjlrVDhEcDk5ekVRQ3BySG04aEdJVHR3bmRvTzcwSkVfLU80OVNuOFNqdW5kaG9VanVhZThsMGkxYVdfQk9MSFlqUNIB7AFBVV95cUxQd2otN1J4Z1BQUDQwWlRyQmt1NHgtSzJ0TlRUdEY1MFdGTHlTeUY4MmlIUlM5N25RMkowc1FHQUJvNjFFMmtNbll4cklEdmNWbmhwNEc5WWk2T1J6SFV5WFduRzhIN3J6bmVzeU5tRVBBbUFDYUZaVFExN0FWVlo0aXBNS0prdko1UE5YU3ZqZkFob21ZM1B0M2oweHJKSm5tRU96MkVxWExUYjlrVDhEcDk5ekVRQ3BySG04aEdJVHR3bmRvTzcwSkVfLU80OVNuOFNqdW5kaG9VanVhZThsMGkxYVdfQk9MSFlqUA?oc=5)
 - **[Creadores] Mamá de La Segura hizo contundente petición tras conocerse delicada situación de salud de su hija: “Se los agradezco con todo mi corazón” - Infobae** — 03/11/2026 02:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZkk2Y1lKNkstMjFUZXBIRnEycWZwbkw1TGwtUTdfQWhOcnVIWmt4YWFEendHbHR5MUQ0MU04NFk1YV81Q1lZWm5adkxjSEgyQVhiMDlFNFNDc05hLVVyQVVZU1pMNmhkb0E5UWpDdUVCNE9yOFN3a1lkRzd4WG5RZG5zWXZmMFQxYzR3NmNsbEJKYmgwZnh0MWFDYWpHRk1vS2VQRlJpZGZ3SFpUdVd4eDFoQ1pMLVdLSmZocDdROTFVUHl1ek1IV0lhTHVZQTV1X0ZGd2pGc091UFJqdm1xNk9nNE9GMkdJU0xoeDNFMzA5MWJTRG9Jamh5R2VOMVNDNm9BNGpxUDZWZUXSAaYCQVVfeXFMTVhhWEZYT3RyaUQ3YU9nYWlTeFAyU0JDVFB6TFRRSlJpN2JUZ3haMEx5S3NucGtzcmNULXVjTW16dk5fUUg3d3ZwVTJTX3FNQTJqOTJjbVRWS1RtR254OHIwVnVzenRRUnIxUEI3RDVoUkF4YTJla21XMVEwZ2syZlVmSmctaE9kWkRTVFZKR2hyVEd2OGw3SWdWS21vUlkxTGFEV1lFTDdFU2tERTZoOXJ1bjBMMzhibmRGUnRJeWphV25teXBDSTJaSXJpc2QzZThxbFg1QloyeF9XYUtPbEhyV21DaXFNck44VXJLODRQNW1veWhfUmt2VjY4UFJzd3V3Q2hjTEVPMy1RbHQ4U0V1eUltUjE5SXNnbVVnclJGUUstcE93?oc=5)
@@ -210,7 +251,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Yeferson Cossio terminó en urgencias por fuerte dolor abdominal - Kienyke** — 03/11/2026 10:18 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxOVmVmOWlVUHFWTWNDTUR5aUtmY1JGcUJ0ZV82MVQ1d25IZ2Z3dkxKYlNLR29YeEEtSjVwWkNCSTBOXzZwcFBjTlhMQl9XbHNGbGRPSzVuN2lZOXlVMFF0dG1yUjFjbUZQLWFfd2JBUnNLMERQdmxHZnFrZFJvU0dfdW12RjhPZ3ZZaTE2d3lwLTA4WWFpTmR6dU52cDFsdw?oc=5)
 - **[Creadores] El influencer Yeferson Cossio habría sido operado de emergencia, ¿qué le pasó? - Eluniversal.com.co** — 03/11/2026 10:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLU1vN1VOamtBQkFYbVRqbDYySXNqamV6ZTkwdjhsWVRUdHZhTFZIU3MtVUF0ZHhRQUw5anY0SmpUVjNWa0NuQTlUZ2ZuUzdEU3JuYVlnSzNHVjBKS25leDZRTmk5b21PNnJ6TTF6SVVEdnlDc2FkckZrcGhrVlRRbW1JNTREZklKWE42TW9pbW94ME94dU5qUmNyM05Va0ZaSVdHR0JPRW5mc21uNFVYT3UtY3dZZXU5a3dBRFJlWFJzR0RpekdB?oc=5)
 - **[Creadores] El detalle que pocos notaron en la boda de Luisa Fernanda W y Pipe Bueno; los famosos sorprendieron - LOS40** — 02/11/2026 04:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTgwTXhVUTN2ZE5WYnJnY1Rfc2ktZy1uOGQtWlJ2MkJrYldhZlRtRU95Ul9SZndZQ0phRlJ0LUJiT3haTXdVdXZ3V3YzWjQwcHl2Y0JhY1oyNWtUZjM1QV9UeV9QTnhHTUp3d2dGdmhEUW5PNlZsVkRkdVNOR2FsUnYzbTFjVUlxajNWUm9HTkQ3bFJGbzJrSkJkazJ4RjNqYXU3S19sOEdqMVp1QTJ5UmlSRWoxOXNGbEhsaXhvTHdoQmg1VndvSU85Y9IB3wFBVV95cUxPZEFUN3JqZWZkSmRnTE4xT3ZwN2JDMi1WRzNPZnJTbVdESTd6RGYtcFl2THpWWWNHWXhCS1RPeFB6Rnc1QThoNWdqMzh5ZEdwRWdQYnc1all1aGFQSk01TDRDQnVqRzBzNmxYdUptTGZtYk5sSGRHWk9oYUhjX0NWVFY0ZFUtUWxRc211QTJDdm9rMjBSZHVNdk9kcGRrd1F2NzNuTWZfSEZHT3lwbl9lSzB3M2lQZGtPY1RUdERnWEoxaUUxcjhOMmVZV25OSFViOFZnbWVobWJLWHFBaUJv?oc=5)
-- **[Creadores] Luisa Fernanda W aclaró si estaba triste en las fotos de su boda con Pipe Bueno: “Solamente ve tristeza...” - Infobae** — 02/11/2026 11:38 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU82RXoxRWFiZjBCRjhUODJtZWgxT3ItQkNGNTRGWTJTd3BSVE1aeU9YejZGbTBPaWZqZXNqU1dmS2FmLXBLSy1GcFYzNlpReDQ2RV9zcHB2bFFPVkRRelBxWVJpU3hsb1JXY29PQXgtMDR0YlRja0phc1A1cUNoUXRrR0pRZ2JnTml6ejZFME9KUzhpTC05TGZDTUVvc2RpZndNdk1GSGVxZnZyRjRtLVcweFhQelUwQUdkZkFvN3FuTFB4QklOUUgtNzV3NC13czJIeWM3VHowaWNDMEtwdVNodXdzNU1UZkprdUZhZUZSNjR3QnJF0gGSAkFVX3lxTFBhYm1SY29temNXaGd4NGZlT21EUWRtNWV0Z1JmQXoyVHJLcmNHMUQzMlpTSlN2Qml4V01wend2Q29iQWxQYk1FUlUzUWVzdVVzT0RPanpZMW9wNTJDNC1xM0dkZ2JUY0dneGhtNVNWcmh5U0VBMVB3OWJIMEtCZm52MnBWVVlhcm1lR0VmWUJHNlY2VVVFTmZiM21SVWk5eEpoUDROSnE0dTkwMzV4RmJ5cnRVcTFJMHpob095TlpRcktrOWhTUUh0MHFodnhCSTR0OE0tb2FvMmJid1dWWmJHM0xmUXFrMkhTY0tEdDhVSF91NHkzX3FsSng3TV9BZ3VQSHBlUHRUV2NrbHBsNXJsSFE?oc=5)
 
 ## Creadores principales vigilados
 
@@ -234,7 +274,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 
 - **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-03
   - https://www.youtube.com/watch?v=vGZAtR3R8QQ
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-03
+- **PvP with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-03
   - https://www.youtube.com/watch?v=ZPrz85wfiQo
   - https://www.youtube.com/watch?v=Z5rGUBl174E
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-10-30
