@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 05/11/2026 02:05 AM (hora de Colombia)
+Actualizado: 05/11/2026 03:54 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 7.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,49 +17,19 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 171.682
+- Vistas reportadas por YouTube: 179.901
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 04/11/2026 07:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.609
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=DGfL6KYmORw
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49.552
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
-
-### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+### EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 03/11/2026 07:00 PM
+- Canal que publico: CHISME URBANO TV
+- Publicado: 05/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.942
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
-
-### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.776
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
+- Vistas reportadas por YouTube: 1.976
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=wiuk6sJ9hRc
 
 ### 😂❤️ ¡CHANTY SE VA DE COMPRAS CON SU MAMÁ Y PASA DE TODO! 🛍️🔥
 - Categoria: Clip de terceros
@@ -78,7 +48,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 04/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.770
+- Vistas reportadas por YouTube: 9.462
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
@@ -87,9 +57,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Reydelacityclips
-- Publicado: 04/11/2026 12:00 PM
+- Publicado: 04/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13
+- Vistas reportadas por YouTube: 15
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=RwLDD9ELlj8
 
@@ -110,19 +80,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente
 - Canal que publico: basuquito
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 874
+- Vistas reportadas por YouTube: 916
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
-
-### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: KenetGR Live
-- Canal que publico: KenetGR Live
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 40
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -138,45 +98,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=tCJwIypEfDs
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=DGfL6KYmORw
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
-
-### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+### EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
-- **Texto en pantalla:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Título sugerido:** EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
+- **Texto en pantalla:** EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=j0JLkyrIbgE
-
-### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
-- **Texto en pantalla:** 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3FCaBw10JF8
+- **Fuente original:** https://www.youtube.com/watch?v=wiuk6sJ9hRc
 
 ### 😂❤️ ¡CHANTY SE VA DE COMPRAS CON SU MAMÁ Y PASA DE TODO! 🛍️🔥
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -227,16 +157,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
-
-### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: KenetGR Live.
-- **Título sugerido:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Texto en pantalla:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Noticias y contexto
 
