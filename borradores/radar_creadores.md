@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 04/11/2026 11:53 PM (hora de Colombia)
+Actualizado: 05/11/2026 02:05 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 158.178
+- Vistas reportadas por YouTube: 171.682
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=tCJwIypEfDs
 
@@ -41,13 +41,23 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=ZPrz85wfiQo
 
+### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Aida Victoria Stream
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 17.942
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
+
 ### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10.755
+- Vistas reportadas por YouTube: 11.776
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
@@ -61,27 +71,6 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=jHGRbjxQUJw
 
-### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Canal que publico: WestcolClips
-- Publicado: 04/11/2026 02:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.662
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
-
-### BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.196
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=yuK1a4-IgVc
-
 ### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
@@ -89,8 +78,8 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 04/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.665
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 7.770
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
 ### REY DE LA CITY JUGANDO MICMIC PARTY CON LA GANGA...🤣🤣🤣
@@ -98,7 +87,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Reydelacityclips
-- Publicado: 04/11/2026 01:00 PM
+- Publicado: 04/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 13
 - Puntaje heurístico de interés: 0
@@ -109,9 +98,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
-- Publicado: 04/11/2026 01:00 AM
+- Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
 
@@ -121,9 +110,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5, Emergente
 - Canal que publico: basuquito
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 881
+- Vistas reportadas por YouTube: 874
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
+
+### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KenetGR Live
+- Canal que publico: KenetGR Live
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 40
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -159,6 +158,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZPrz85wfiQo
 
+### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Texto en pantalla:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=j0JLkyrIbgE
+
 ### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -178,26 +187,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=jHGRbjxQUJw
-
-### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: WestcolClips.
-- **Título sugerido:** MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
-- **Texto en pantalla:** MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBI
-- **Descripción:** Fragmento relacionado con Cuenta de clips: WestcolClips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=AiBzbElWaow
-
-### BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT THE END 🧀
-- **Texto en pantalla:** BEST WESTCOL MOMENTS/CLIPS IN SEPTEMBER AND OCTOBER 2026 😂 CHEESE AT T
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yuK1a4-IgVc
 
 ### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -239,6 +228,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
+### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KenetGR Live.
+- **Título sugerido:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Texto en pantalla:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
+- **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
+
 ## Noticias y contexto
 
 - **[Creadores] Luisa Castro cuestionó los ataques contra Westcol tras la muerte de Komanche - Noticias RCN** — 04/11/2026 09:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMk5Ia0lrUTB3NDhRQmpNS0xWa09CZVpPN0hUd1Y3cHppV2Y1aFdCNnlDTUpBOVItYUdtdF9SRXhybU1Vb1FaSzR6V2JhSFNjT3ZZX2oyRjc0SmVPLWRiRFQ4a3R4NmhDU012aFFSdHBwRkZfaHZmUE01MW01Y21BUmFZdmZRZFZzakJYRmRHUXRsYnJ4c29Pcmpn0gGaAUFVX3lxTE5NUkU3dzd1YjJEV0JJb1pfUm91UGt4SDlnclo0bkI1ai0yOThoM000ZXhRdVdfYktYQ0VXQzNHSkRaUm5UOGZXTGpLcnhwVGR4NHVSaVpEN2FkM1Q1U2tMeGtFZDdRajZ3cTZndzI0T1RhWUluSF8yYUJyUE9nWGJlX0ZsVlFfZUg5SkR0QnQ0eFRadjRSY0dKR1E?oc=5)
@@ -276,7 +275,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-04
+- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-05
   - https://www.youtube.com/watch?v=DGfL6KYmORw
   - https://www.youtube.com/watch?v=ZPrz85wfiQo
 - **TheBurntPeanut Hosted a Minecraft Event for 20 Streamers The Peanut Games** (candidata por revisar) — última detección: 2026-11-04
