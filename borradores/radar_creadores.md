@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 05/11/2026 03:44 PM (hora de Colombia)
+Actualizado: 05/11/2026 05:43 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 14.
+Clips incluidos: 13.
 Noticias recientes: 12.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -37,19 +37,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Canal que publico: CHISME URBANO TV
 - Publicado: 05/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 50.295
+- Vistas reportadas por YouTube: 55.276
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=wiuk6sJ9hRc
-
-### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 04/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 20.263
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=j0JLkyrIbgE
 
 ### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - Categoria: Clip de terceros
@@ -57,9 +47,19 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Canal que publico: INMORTAL FF
 - Publicado: 04/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.278
+- Vistas reportadas por YouTube: 16.079
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
+
+### WESTCOL FINALMENTE RECIBIDO SU MERECIDO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Ruisu
+- Publicado: 05/11/2026 05:30 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 541
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -67,7 +67,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Canal que publico: Mc x Akki
 - Publicado: 05/11/2026 05:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 201
+- Vistas reportadas por YouTube: 203
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
 
@@ -75,21 +75,11 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: KICK CL
-- Publicado: 05/11/2026 03:01 PM
+- Publicado: 05/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 60
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### 😂❤️ ¡CHANTY SE VA DE COMPRAS CON SU MAMÁ Y PASA DE TODO! 🛍️🔥
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: VIRALX
-- Publicado: 04/11/2026 09:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=jHGRbjxQUJw
 
 ### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
 - Categoria: Cuenta de clips
@@ -97,7 +87,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Canal que publico: WestcolClips
 - Publicado: 04/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42.181
+- Vistas reportadas por YouTube: 43.367
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=AiBzbElWaow
 
@@ -108,7 +98,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 04/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.669
+- Vistas reportadas por YouTube: 17.568
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
@@ -123,34 +113,36 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
 
+### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: clipstremmears
+- Creador relacionado en el título: Chanty
+- Canal que publico: clipstremmears
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=h6-QGk5hsU8
+
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Chimbonauta
+- Canal que publico: Chimbonauta
+- Publicado: 03/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.236
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
+
 ### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 03/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 959
+- Vistas reportadas por YouTube: 956
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
-
-### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: KenetGR Live
-- Canal que publico: KenetGR Live
-- Publicado: 04/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 44
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cCCRDmE2CWo
-
-### OCTUBRE EN KICK COLOMBIA 2026
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Canal no identificado
-- Canal que publico: Canal no identificado
-- Publicado: 03/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=_UNNufFWO1o
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -186,16 +178,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=wiuk6sJ9hRc
 
-### MI ULTIMO DIA EN LA GUARIDA | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
-- **Texto en pantalla:** MI ULTIMO DIA EN LA GUARIDA | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=j0JLkyrIbgE
-
 ### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -205,6 +187,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=3FCaBw10JF8
+
+### WESTCOL FINALMENTE RECIBIDO SU MERECIDO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL FINALMENTE RECIBIDO SU MERECIDO
+- **Texto en pantalla:** WESTCOL FINALMENTE RECIBIDO SU MERECIDO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -225,16 +217,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### 😂❤️ ¡CHANTY SE VA DE COMPRAS CON SU MAMÁ Y PASA DE TODO! 🛍️🔥
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** 😂❤️ ¡CHANTY SE VA DE COMPRAS CON SU MAMÁ Y PASA DE TODO! 🛍️🔥
-- **Texto en pantalla:** 😂❤️ ¡CHANTY SE VA DE COMPRAS CON SU MAMÁ Y PASA DE TODO! 🛍️🔥
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jHGRbjxQUJw
 
 ### MOSTRANDO MI NUEVO SETEO Y MI APARTAMENTO EN EL POBLADO 🤩 NUEVOS CAMBIOS - ¿COMPRARÉ EL LAMBO? 🤯
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: WestcolClips? 👀
@@ -266,6 +248,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=A4yEkjJCs40
 
+### PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- **Texto en pantalla:** PIQUIÑA SE LA DA A CHANTY #amigos #shorts
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=h6-QGk5hsU8
+
+### MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Chimbonauta? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Chimbonauta.
+- **Título sugerido:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Texto en pantalla:** MEJORES MOMENTOS DE KICK COLOMBIA | OCTUBRE 2026
+- **Descripción:** Fragmento relacionado con Emergente: Chimbonauta. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
+
 ### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -276,29 +278,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
-### Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: KenetGR Live? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: KenetGR Live.
-- **Título sugerido:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Texto en pantalla:** Tomamos el BANCO CENTRAL con el Director de Rehén (Parte 2) | GTA RP
-- **Descripción:** Fragmento relacionado con Emergente: KenetGR Live. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=cCCRDmE2CWo
-
-### OCTUBRE EN KICK COLOMBIA 2026
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
-- **Título sugerido:** OCTUBRE EN KICK COLOMBIA 2026
-- **Texto en pantalla:** OCTUBRE EN KICK COLOMBIA 2026
-- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=_UNNufFWO1o
-
 ## Noticias y contexto
 
-- **[Creadores] Luisa Fernanda W y Pipe Bueno revelaron el destino del dinero que recibieron en su boda - ELHERALDO.CO** — 05/11/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdW9HZDZXVTJjMWwwYVNYcDZ4LVV5YnBjNEdSaVBmdGVScmpBMjBfaVFRR0lSbURtNVU3WmpuRklSY3JfRVpIVVFGTXR1enFfNWR3VFpQWWFPRElVMzMzN0JMeUZ1aGNGWVgyZkRFUDV5NkctMXlDcUZVc1pvenlrWGxiTC1OTWJKLXhlTkh2YnZ1aXZTUTRPaXZSaFE5d2hMMVNHUGw4aGw3bVhuQTZUVVVOSFRjNFFfNG0wdmU4TndiQUJwbEJ4c2RHQUN5NUUyOHJZTk53RQ?oc=5)
+- **[Creadores] Luisa Fernanda W y Pipe Bueno revelaron el destino del dinero que recibieron en su boda - ELHERALDO.CO** — 05/11/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ2xkN2dVdTlhc19aNmZiUVlkbVU5cEw0ZGJQckFlc1MxUEdmcW1PVnNCSzU2Tkk3cFowY3JYVTNmRk9WczV3Vm95dWxJby0tb0lBSFpCQjN1RHFWdjlibHFDT3I4ajVQdzlYY242bWdubmQ2M2ZWUXJLVjJlVWM2WDJ3d01tWlZiVV9nZ1JyRl91RTB2V1NNcFFTaTJNc2NjUWpSdUV6d05fQWo2OGpVd2dHeG1MOG1RbUM0Q1RicVJxakZBVkhFMy1YRjNCNndpZW1DWnJkaXVWY3A2MTBfdFRNYVgyX1duUlJEVWdVTWg4Zw?oc=5)
 - **[Creadores] Luisa Castro defendió a Westcol de los señalamientos tras la muerte de Komanche: “Están atacando y señalando a mi novio” - Infobae** — 05/11/2026 01:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQczYxUGlCaGk0OG1FLUg0RlZJekdxWjRwbzRsOElaLUNWM0tQTVRicVhYLXZBNVdBd3k3UkYyVVc0Nk5MQXROTGx3M24yTmlyNVJHV3VteTJ4YWlicUlSOGI1eGk5MGRRR05aVldMVDBZOU9NS1VGZmk5R0kzcXRtOEVQMzJydGdFRWpydW5mU2tCV2lDcnpiaDNSZ2JFZEVteVpiZmFoTTRjTnJHOXNBaWd1aWFIZWlPZEQwel9NNl9rLXQ3ZVpucmFyazlpZU9UZ1NHa1JLUkdfZFlJbl9HQjYzQ0UtbEkzVzRWVGRNVjdLbmxU0gGPAkFVX3lxTE1mb1hteGo5ODFFdXA0anVrdzdnZlJzVTJGOWY2MUtNRElpdGhSTkphR2pRV2NCWXRFUFVvS184YWlSX1kzR2NxWmRJcG96SkE1S2pNUXZ6LUg3XzNpcy1iblZjTnJ0bno4eUw0dGkwVU5lTlhiV09JcF9IN3hrQ1pzd1ZBSmIzSHU5SHpyUHJjQ1Nwa3NaU2o5UTJnT2lua3hNa1pGN1VOQjVqYXF1UmhZdzdsakJsbllxZjRwT0JGVnVLU2F6THBrRjE5NkNrUWs5VkV5T2pkQUdJdmlwVHFxdHBBanlnU19XbUM4cVVOcElyd0VEcVQzMmRkdUstbk1fUGV1a2hmS3R1dzQ0QkU?oc=5)
 - **[Creadores] Jessi Uribe reveló qué les impidió a él y a Paola Jara asistir a la boda de Pipe Bueno y Luisa Fernanda W - Revista Semana** — 05/11/2026 12:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPejB0cDJyd244OVZET0dqUjUwX2pYb2V3U2d0MkhKZEttN2RxS29leldIbm5EVUNGdjJweDBLRXdrVGg4QUdLWThYbHJfNUljN3lmSENsTkluRmNINVJWeGt5UkJ6ZGF3eFV2RUo0VnFGWHdHUEJpM1VJdWFWRHR6SUloa1VsZ2FOdDRONmMyTVk3VG9hOVE5OGFkNFhzaEZGVDc3a2t3bGNSN05jSlF0cUd0VVAxVkhFUktSMzZIZ0p1SUtIZ3N0SV9RTVQ1WnJtMFJwemdEZHhiaWpDazFtSmNYM1F3QdIB6wFBVV95cUxQSXphLUo2QmVQTmloQXpVeTlkTEhzZ1haT0RGWTVLRnJwVVg0M0hoZjdNSV9fclZSU0Q4R2Ffd2VPNzRoT0hNSHEyaVFuZ2oyTy04WTdhQ0w1QW90eV9PNnR4M0FCWkhVUUhCSUpwUWhZWnRaRE4yUm9yWUROSHhHWkJSa1d6NW1pYjNtMVFqN01LblRjV2NaNGZtMUZNY3B3dGRsVFEtcE0zdUM1a0FYdlJtTURwNEhxSnppQUdpcVlZQk53N19hS1k4aXo2cVBCYkJHb0lmd3FXV0tXMzdtS2ZMUk1UcERyS1RN?oc=5)
 - **[Creadores] ¿Yeferson Cossio le fue infiel a Carolina Gómez? fotos desatan rumores de posible ruptura - LOS40** — 05/11/2026 12:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjlxb0xBcXhVVGFTV25selQ5T0hJcVNTN2wxLW9tOTltQkkwUUlIVk5FZ2FxLUMxOGp3SDBaelJvbkZYd0dpSzhOOE9hSng3RUdOWlRtSnp1VjJwNXN1V0E5LUJVRldQWlRCaTVqSFZzQ0VPTV9YMFU3UjhURkhyclFaT2ZXSWtIZ1BzZjJHbFBwV2tYWkZsSzJjU0Rac0lKNC1MdGlHZG5oM25lMXVGZFVwLXZSWDJ4STJJLdIB0AFBVV95cUxQQWFIeXVVUUl0SnFraldXR2ZoUVhMNXFUNmpkTGlLUDVndk84TVF2UXJLYnpzSnhKZlNGcFFEWXgzOXBQQUgtY3lENktYbmRoQnRFYldDd2lVNlR2bHlSenNlZ3NxZU5qSFN4RU1nVmxDMEN6cGZDUUVKTTA3cXZ4bzViQjRidndfOGtjVGtpbDZCMFl5cmpHUmd1OHZ4RjctUlhPeUExdnNlVEdpeE9XS2VfUklEZDNDLTlEVjRvakV2VUdXOUQyU2VhamlqQ1Rf?oc=5)
