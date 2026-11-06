@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 06/11/2026 05:56 AM (hora de Colombia)
+Actualizado: 06/11/2026 07:54 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 10.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: Ruisu
 - Publicado: 05/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 177.625
+- Vistas reportadas por YouTube: 183.251
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: Drice Gamerz
 - Publicado: 04/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.595
+- Vistas reportadas por YouTube: 29.596
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=DGfL6KYmORw
 
@@ -37,9 +37,19 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: Aida Victoria Stream
 - Publicado: 05/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 45.686
+- Vistas reportadas por YouTube: 47.287
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=WqA-BVwzz2Q
+
+### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 04/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 20.330
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=3FCaBw10JF8
 
 ### 😡CÓMO PUTS* SIGUEN USANDO LOS JUTSUS 🤬😂 | Mrstiven Momentos Divertidos ✨ #freefire #mrstiven #ff
 - Categoria: Clip de terceros
@@ -47,7 +57,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: INMORTAL FF
 - Publicado: 06/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 768
+- Vistas reportadas por YouTube: 847
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
@@ -67,7 +77,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: KICK CL
 - Publicado: 05/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 248
+- Vistas reportadas por YouTube: 283
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
 
@@ -76,11 +86,32 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: ElReyWithTheClips
-- Publicado: 04/11/2026 07:00 PM
+- Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24.356
+- Vistas reportadas por YouTube: 24.445
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
+
+### CHANTY EN STREAM CON LA GANGA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 04/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 10
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=A4yEkjJCs40
+
+### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 04/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.016
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -115,6 +146,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=WqA-BVwzz2Q
+
+### 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven #freefire #ff
+- **Texto en pantalla:** 🤬THIS PIECE OF SH*T CHICKEN GUYS 😂 | Mrstiven Funny Moments ✨#mrstiven
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3FCaBw10JF8
 
 ### 😡CÓMO PUTS* SIGUEN USANDO LOS JUTSUS 🤬😂 | Mrstiven Momentos Divertidos ✨ #freefire #mrstiven #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -155,6 +196,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=REEAuehfxnE
+
+### CHANTY EN STREAM CON LA GANGA
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY EN STREAM CON LA GANGA
+- **Texto en pantalla:** CHANTY EN STREAM CON LA GANGA
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=A4yEkjJCs40
+
+### DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- **Texto en pantalla:** DE COLOMBIA 🗣️| CLIPS DE LA GANGA pt.101
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=Tw1N8ISPsfI
 
 ## Noticias y contexto
 
