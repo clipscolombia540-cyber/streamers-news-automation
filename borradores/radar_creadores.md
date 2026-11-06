@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 06/11/2026 01:45 PM (hora de Colombia)
+Actualizado: 06/11/2026 03:42 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 1, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente
 - Canal que publico: Ruisu
 - Publicado: 05/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 226.998
+- Vistas reportadas por YouTube: 253.850
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente
 - Canal que publico: CHISME URBANO TV
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 107.836
+- Vistas reportadas por YouTube: 128.418
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=wiuk6sJ9hRc
 
@@ -35,9 +35,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
-- Publicado: 06/11/2026 05:00 AM
+- Publicado: 06/11/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.824
+- Vistas reportadas por YouTube: 29.875
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
@@ -47,9 +47,39 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente
 - Canal que publico: Drice Gamerz
 - Publicado: 04/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.603
+- Vistas reportadas por YouTube: 29.606
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=DGfL6KYmORw
+
+### SANTIAGO GIRALDO SAMULX
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: Santiago Giraldo
+- Publicado: 06/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3.176
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=BhIn55kyQHc
+
+### 😡CÓMO PUTS* SIGUEN USANDO LOS JUTSUS 🤬😂 | Mrstiven Momentos Divertidos ✨ #freefire #mrstiven #ff
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 06/11/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3.375
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
+
+### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: LLanerosGamerTM
+- Publicado: 06/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
 ### SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
 - Categoria: Clip de terceros
@@ -61,45 +91,15 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NUHIz_0cqlw
 
-### SANTIAGO GIRALDO SAMULX
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: Santiago Giraldo
-- Publicado: 06/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 972
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=BhIn55kyQHc
-
-### 😡CÓMO PUTS* SIGUEN USANDO LOS JUTSUS 🤬😂 | Mrstiven Momentos Divertidos ✨ #freefire #mrstiven #ff
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Canal no identificado
-- Publicado: 06/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
-
 ### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: KICK CL
-- Publicado: 05/11/2026 04:00 PM
+- Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 316
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 26.125
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
 ### CHANTY EN STREAM CON LA GANGA
 - Categoria: Cuenta de clips
@@ -118,7 +118,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2, Emergente
 - Canal que publico: basuquito
 - Publicado: 06/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 83
+- Vistas reportadas por YouTube: 178
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
 
@@ -166,16 +166,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=DGfL6KYmORw
 
-### SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- **Texto en pantalla:** SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NUHIz_0cqlw
-
 ### SANTIAGO GIRALDO SAMULX
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -196,6 +186,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=FrhScEHkG-A
 
+### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
+- **Texto en pantalla:** ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
+
+### SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
+- **Texto en pantalla:** SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=NUHIz_0cqlw
+
 ### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -205,16 +215,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Texto en pantalla:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=REEAuehfxnE
 
 ### CHANTY EN STREAM CON LA GANGA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -238,15 +238,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Bacheo de Lonche de Huevito recibe respaldo del alcalde de Ahome; destaca que responde a una demanda ciudadana - Luz Noticias** — 06/11/2026 12:23 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZGZaNVBpb05MVmVoUnpNWHJnWDJuTm9ORDdWaGZ0T3NiNkhMcEdIT2J3ZThad054NmdHMlpLWnFQYnZMYWg4eXVNdnBTaGVOUHJYRG42a1FPTzNKM3pfcXlWd2EtSGVyRUlubjlUbUVzVUtLVkFONzhhcG5jcVNhbHhGUjkwLXY2eDBQa05yUlN4NHdPTTI4Rmw0TnhzMnd6SWR1R2hRQkNMSUptaXgwWFFoMzBTVVhDMXBMNGJGRGd4dU11d1JJeG9fTkVaZ2pURFdUT0lHQ0dBdElRc3BJRXRUWF9oOTlpWDVfUVV0ZlF2UkFR0gH6AUFVX3lxTE5WQlRPZEF2VGxlSXF0Yk41MmN3MnluU1lTcG5DMmM0a1BnX1pld3p4aEVYelU4X2U5X1VnSTVKSERTVlIxd1NCRS04YV9rNHFvRDhxalN6bkZmYlJtdmFzZWFzZjllSU15RHgyYUFVNDdpek5sdzVnblhVX0RwWUtVSjJZMVRaalY3UWswSW9QSnh0dFpnQXkxTUpuNmxvd0dXSGRPNC1BeU95ZkFONXhUd1g1MlZLYlphM1BQYlJsc3BCeFZnbWUyeU1UTWVMeVFkd1NPQmkwQnZOeGQwR2YtWlpXWWFraDZFUVpFOG5SZHZ5VnVPV2VyMlE?oc=5)
-- **[Creadores] ¡Cumplió! Lonche de Huevito inició con el bacheo en Los Mochis 🎦 - Puente Libre** — 06/11/2026 11:20 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTk5N3Zka25VMFBseXlsWFdiX2ZTZ09zNTZ4b3VqanhqVHVJeUliNTc0SzFWQTZmcmVvZlVlTlA5amlCa2ZwcHh3cjZrRl9CeTRJLTFyMlBOUjdROHBRcWlIZ05jNlZMS3hJRS1kLUNUZUxySnBMOW45ODE2anE1dUF4YnhsZDBUdXJOQzlYRjU?oc=5)
+- **[Creadores] Filtran video de Yeferson Cossio siendo presuntamente infiel: el hombre se pronunció - Noticias RCN** — 06/11/2026 03:23 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGRBcTUyOXVlQ1VzTXpVa0pFeWFpdEUxbThDdnpMdnBaYk9KLXN6WG9VVDU2ekNISjlnSUZ6VUdnSmlDcG0xbWJzeUtGSDJGLS1GUVlyWUVNeFl5cGZnZWJGMERWVzR5NVpOemtoMlFrMHZybURfcDgyYmxSUk1hVk0tUmloYWFTYnpOSExMUlRoX3JBakY5V2NqdlRuY3N1WDV0cTNFRlg5YWphcjBIZmFkdnJmUGFNeTJrVEg4RdIBvwFBVV95cUxNX2xScnhfaDJZR2RZSzVhZVVlbkRaMDd6bEdBcVJndk8wRGJIMmhlTnhqaTlmaEY2QmRoZGpseVNILXN0cDNDMXBQUmZxT1dwWGljT2xidzg5REZBY1lRTEhhdTZiMWd4bU9oUVZIakRQeEpkZ0tnN0tyWTl5Ynp3WlFyUk53QVhCM1NUcVdIZXBZUXVLV1dNTk1NaTczYjdGNGM5aS15N09FV0dMYUhUWVRTUjVwNWdPX3hLRzZXYw?oc=5)
+- **[Creadores] Sin apoyo del Ayuntamiento, Lonche de Huevito arranca bacheo en Los Mochis - Debate** — 06/11/2026 02:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTM2R3B4ZEI1SnRGcERKTTdUSnk4VEt2UnhkVWxtYjRwVjFOSmREcTJqcXc4amp5dlplNnMwT0VUQWtlOTMyM2ptbW9ieEFtVzNXdjFtSGhjVEhMZ183SkhoeDhtRlVxUHNSNmx3d2lJSEQteU5uZkJHd3YzcEhJWFVoaFdibkxoZ2lxaW16M1I3T0swejNjZUNMdmdBdHYwX1V3SjlFZ2hvVHZTSTJEZ2llTTdqYWd6YWhOT1FWVWZ2Qk5hSEhPamRKeEh5bDhRZXc?oc=5)
+- **[Creadores] Yeferson Cossio negó haberle sido infiel a Carolina Gómez - El Frente** — 06/11/2026 02:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnNFYWVSZ1NGai0yRXhSQ3VoQURCS1R4b0tmck9odjdYbGtVY0VMa19NX3FnSENPSGx0R0plNVlvX0NBYVhMdWw2V2FGQWV6MTBJb2MyR2Nya2lrTEhrNlJHQmpqTkdwQlRXcTRQYmZ6YWVEd1JXcXR5d2ZwNjNtbkREVnJhMm1XYlE?oc=5)
+- **[Creadores] Yina Calderón cuestiona los éxitos recientes de Sech al revisar la cartelera musical que Westcol prepara para ‘Stream Fighters 5′ - Mi Diario** — 06/11/2026 02:50 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV1VJekU5dzUzZXROb1VPX2MxQWl2LVB6cmZ1SlpWOEJwVG1OSFVDV0ViX2k4ZnEzWDFYaXF4QXh2MzdVQmVtM19xUTllS1RuZHUtZGlfWTFQSWZSMnkyN3FoT0RxRWc3WWxhYkxoT1dPb3dfN2pzV2dNblF1YTE2M2FBOFdOREluQktoZHRjSlc0clNyYnBlQzdsQ0R6d3ZhZkNIMlNwcTR0djBKMEhseGI1bEF3X0RCZ1R4REFTR0lSeHlWa2x2cHlIMVhldjFWd2FrV3VTWkozOGEtTHVDc3B2cTZmSUZPVzVIOXhOVldzWHNEX1E?oc=5)
+- **[Creadores] ¿Qué significa F.E.S? Esto hay detrás de las letras que utiliza Lonche de Huevito - Luz Noticias** — 06/11/2026 02:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkRUUnBTN0dUUXdSYVRReHE1RDhXdFc4djhpZFNaQ0dRcmF5V2VZOVdrVmlKSV8xTURZTDVNTGlycWkwSnBkS3pnSldpbTlEMFpQWE0zUVIwSXNxcmtCVkcwVHlCNzRFMDUwSWpKbk90VWR2WWlLckJrYWJ4akNFRHlYZW5TQWQxSkx6cDFSeE9xeWhuZTIzM1pzUWw1X2U2OW9QN1FURVNlQ3RTNFMyUnBxTmoyb1ZxS1pmcWlNT2IwNDFsRlJtajlR0gHPAUFVX3lxTFBhZE8tNE5hZTZEZmE3ZzdydmRNSU5Gc28tSmEtNFFrOWgteHpXTnYtN2g5VEM3M01vbHl5Z2Z3MWduYUtPUlFIdm5QXzFnT3dTTGJxZGs4VGJMLUZmSS1jdlkxTGFiTFdCYUJfVmg2Y0tTN1A0Sm5DV2JSUGt3WmVNSjluUlZGOEUwcDFUd29pNmZSRE5Gc0ZyckdSem5aN1ZIY0l6NEJza0ZhanNISzJqRzllS0tMTkFtZ0w4M1U4eVlxblBSVXBnVFJBZ0E4WQ?oc=5)
 - **[Creadores] Yina Calderón prende las redes y dice que Sech no pega una canción hace rato - CRÍTICA** — 06/11/2026 09:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHBLdEx5SURSS3Q4S3N0TFkxUVZFVWpSR0w3cjNSdTc2emkxZXBUbkJacFlzMllKdWgwaEFwT0NsMFp6cVMwajJ1YUotTVFrSHBfT0NWbDNvYXFqSldXaU92WjlGa1BQcDQ5TFZQMFRBZ1lzNTVnQmxfcThpUTdvMlc1SUcxQzFNR0lDUmFtZWszUThfZFZqUXA2YjdEWmhzU1lmSmhpZjI5ZWttbzZINTJSLS1IZ9IBuwFBVV95cUxNM1VKM1BWMjRkOHhHU0pVeTFsOElGeUNnVWlqanMzLVI1b3REekNZY0FoMGVVSEp4dHg5RjNHMWg2MUVVUmZHRlV5RVl0VGJmMURpUS1zZmdNSHQ2UWtWS1RpU2NxdGNaSU1yMlRJcTQtbVRuS0F1VUsxWm1fRHZKdGNmcF80dVQxZjRkUE94LWRXM1ZKWGNJLVRWeTdCZ3ZsaXJYYjhXWFN2WldfYVRJbWZiUzVzS2ZyYUI0?oc=5)
-- **[Creadores] Yeferson Cossio explotó tras supuesta infidelidad a Carolina Gómez y lanzó: "le t*mb0 esos dientes" - LOS40** — 06/11/2026 08:00 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQajRGbVN2MkdMdDFrT3Z5T0hoLUpFVExYaDFTMjNBU0xNcEppb2F5ZkxSM1hMUEFPVnlzYXlhSnZieFNJeXNWSFBZYmtQVnB2QlNwNkhMdklZb2tKVjgzSTUycEQ5dy1wWWJFN3Bhd2lMc0k3dkxyT3habGp6YjBjcjNMV3hGSFpjam5kbHExbF9XbVNEZ3huMEJFNEtpQWU1LS1VaG5La0FmZTd4c3FqNTJud3hvcnFFVEhQZl8zTmhydUhKWXJ2NE1nWEIxTEhiVlJTU0ZTSTVJd0HSAdsBQVVfeXFMUGo0Rm1TdjJHTHQxa092eU9IaC1KRVRMWGgxUzIzQVNMTXBKaW9heWZMUjNYTFBBT1Z5c2F5YUp2YnhTSXlzVkhQWWJrUFZwdkJTcDZITHZJWW9rSlY4M0k1MnBEOXctcFliRTdwYXdpTHNJN3ZMck94WmxqemIwY3IzTFd4RkhaY2puZGxxMWxfV21TRGd4bjBCRTRLaUFlNS0tVWhuS2tBZmU3eHNxajUybnd4b3JxRVRIUGZfM05ocnVISllydjRNZ1hCMUxIYlZSU1NGU0k1SXdB?oc=5)
-- **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 06:08 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Stream Fighters 5 con Westcol y Blessd: Quiénes pelean, boletería y mucho más - AS Colombia** — 05/11/2026 07:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHhjdVNVTUF5a0xNVmRlNXUwUkkwemFZMnpJUFc4aDZ3Y1R2MUtzN2k5bDRRSzhoV2NZekExSGdnTjVoRTlVdkd6NjQ4blozLTFFa2lQdllVc3h6M0ZSNDlFc2syWVRmNURyekswelVjeVdCdm5CSmJiNjlNV0d1bFBST1pGMFY2MjNpOUVsTUROcWpYTGJuNjR1aWR0ekYtLW9TR0JLMERDRjF3TVpQT1JDVWJwRy1nSDJyWmUyTW1waEhtTjBjZ0JrUDJTbGRxZ3fSAdIBQVVfeXFMUER4Y3VTVU1BeWtMTVZkZTV1MFJJMHphWTJ6SVBXOGg2d2NUdjFLczdpOWw0UUs4aFdjWXpBMUhnZ041aEU5VXZHejY0OG5aMy0xRWtpUHZZVXN4ejNGUjQ5RXNrMllUZjVEcnpLMHpVY3lXQnZuQkpiYjY5TVdHdWxQUk9aRjBWNjIzaTlFbE1ETnFqWExibjY0dWlkdHpGLS1vU0dCSzBEQ0Yxd01aUE9SQ1VicEctZ0gyclplMk1tcGhIbU4wY2dCa1AyU2xkcWd3?oc=5)
 - **[Creadores] Aida Victoria Merlano preocupó a sus seguidores con inquietante mensaje: “Emocionalmente es muy desgastante” | El Colombiano - El Colombiano** — 05/11/2026 07:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVdCNFhQZDJaRnFsMWwxRlFhQm1JU2RfbnhrYmkxTHloY2dNMTFrRWZlc1RiWlp1Zy1acGl1bFN1ZkREZjVIVDhJRzFVczU3OG83WmF0QjJkS1c2TW5TLWJ0cGktRHZTOUI1WXZsWFV5T0RQSUtSdjhWWlRkNDU0V2UwOWRIQ3Y0b3Y4RkhOUGl4Z1RmZng3dUpSMTkyXzBmb19reWpydmNZZzAyV2NWN0VQcVZQNnBkR0dubtIBwgFBVV95cUxQMm8wcW0tcWNsNmVyeDdka2ZWR21rZkx3amhYa19MblJZUFR1eUlKQXM2Z0h5LXBUUzlTYXVpanA4N2w1YThOcGU4eFpfRWtWd0NMb0QyRWx5TE1EV2RoTEI5RFd4TGY2U2tkS09VdlVlTXg2aWNHZUxveXdNMzRob0c3bG5KZGtHQ0txVzB5RFdCcWlSZkFHVDREeTdRWUdrZUZ3elNoWFJnb0E0Y2k4cGNtS0dETWFKdGlndm1VbjhHQQ?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno revelaron el destino del dinero que recibieron en su boda - ELHERALDO.CO** — 05/11/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ2xkN2dVdTlhc19aNmZiUVlkbVU5cEw0ZGJQckFlc1MxUEdmcW1PVnNCSzU2Tkk3cFowY3JYVTNmRk9WczV3Vm95dWxJby0tb0lBSFpCQjN1RHFWdjlibHFDT3I4ajVQdzlYY242bWdubmQ2M2ZWUXJLVjJlVWM2WDJ3d01tWlZiVV9nZ1JyRl91RTB2V1NNcFFTaTJNc2NjUWpSdUV6d05fQWo2OGpVd2dHeG1MOG1RbUM0Q1RicVJxakZBVkhFMy1YRjNCNndpZW1DWnJkaXVWY3A2MTBfdFRNYVgyX1duUlJEVWdVTWg4Zw?oc=5)
-- **[Creadores] Luisa Castro defendió a Westcol de los señalamientos tras la muerte de Komanche: “Están atacando y señalando a mi novio” - Infobae** — 05/11/2026 01:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZm9YbXhqOTgxRXVwNGp1a3c3Z2ZSc1UyRjlmNjFLTURJaXRoUk5KYUdqUVdjQll0RVBVb0tfOGFpUl9ZM0djcVpkSXBvekpBNUtqTVF2ei1IN18zaXMtYm5WY05ydG56OHlMNHRpMFVOZU5YYldPSXBfSDd4a0Nac3dWQUpiM0h1OUh6clByY0NTcGtzWlNqOVEyZ09pbmt4TWtaRjdVTkI1amFxdVJoWXc3bGpCbG5ZcWY0cE9CRlZ1S1Nhekxwa0YxOTZDa1FrOVZFeU9qZEFHSXZpcFRxcXRwQWp5Z1NfV21DOHFVTnBJcndFRHFUMzJkZHVLLW5NX1BldWtoZkt0dXc0NEJF0gGPAkFVX3lxTE1mb1hteGo5ODFFdXA0anVrdzdnZlJzVTJGOWY2MUtNRElpdGhSTkphR2pRV2NCWXRFUFVvS184YWlSX1kzR2NxWmRJcG96SkE1S2pNUXZ6LUg3XzNpcy1iblZjTnJ0bno4eUw0dGkwVU5lTlhiV09JcF9IN3hrQ1pzd1ZBSmIzSHU5SHpyUHJjQ1Nwa3NaU2o5UTJnT2lua3hNa1pGN1VOQjVqYXF1UmhZdzdsakJsbllxZjRwT0JGVnVLU2F6THBrRjE5NkNrUWs5VkV5T2pkQUdJdmlwVHFxdHBBanlnU19XbUM4cVVOcElyd0VEcVQzMmRkdUstbk1fUGV1a2hmS3R1dzQ0QkU?oc=5)
 - **[Creadores] Jessi Uribe reveló qué les impidió a él y a Paola Jara asistir a la boda de Pipe Bueno y Luisa Fernanda W - Revista Semana** — 05/11/2026 12:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPejB0cDJyd244OVZET0dqUjUwX2pYb2V3U2d0MkhKZEttN2RxS29leldIbm5EVUNGdjJweDBLRXdrVGg4QUdLWThYbHJfNUljN3lmSENsTkluRmNINVJWeGt5UkJ6ZGF3eFV2RUo0VnFGWHdHUEJpM1VJdWFWRHR6SUloa1VsZ2FOdDRONmMyTVk3VG9hOVE5OGFkNFhzaEZGVDc3a2t3bGNSN05jSlF0cUd0VVAxVkhFUktSMzZIZ0p1SUtIZ3N0SV9RTVQ1WnJtMFJwemdEZHhiaWpDazFtSmNYM1F3QdIB6wFBVV95cUxQSXphLUo2QmVQTmloQXpVeTlkTEhzZ1haT0RGWTVLRnJwVVg0M0hoZjdNSV9fclZSU0Q4R2Ffd2VPNzRoT0hNSHEyaVFuZ2oyTy04WTdhQ0w1QW90eV9PNnR4M0FCWkhVUUhCSUpwUWhZWnRaRE4yUm9yWUROSHhHWkJSa1d6NW1pYjNtMVFqN01LblRjV2NaNGZtMUZNY3B3dGRsVFEtcE0zdUM1a0FYdlJtTURwNEhxSnppQUdpcVlZQk53N19hS1k4aXo2cVBCYkJHb0lmd3FXV0tXMzdtS2ZMUk1UcERyS1RN?oc=5)
 - **[Creadores] “La estoy pasando mal”: La Segura mostró, sin filtros, la afectación que sufre en su columna - Revista Semana** — 05/11/2026 11:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkV1RHFDOG5QejhyQzlrU1ZpZmsxeGpsYjNqazRhbFREbDRzdmNqRjZzd0h3Q0xvbThwQk1nOHBNc0xPNDNjYThuM25FLXN0dTE0dkdPRDdaek5DY2NuZzdzVkxtSExZSXhXbzhkbjVSN1JZWUpBalFsa1k0Ym9sZnNCbWZDMC05TGFuOHhiQkc2N3JmS01jMEhkV1BMOHVaV2tUNDd2ZHAzSjhITm5VOUhPeThqZnM3bXphQkNSTzJXYjQtVFJPM3JOM3RBcjJ3RUZ30gHTAUFVX3lxTE9ORXVEcUM4blB6OHJDOWtTVmlmazF4amxiM2prNGFsVERsNHN2Y2pGNnN3SHdDTG9tOHBCTWc4cE1zTE80M2NhOG4zbkUtc3R1MTR2R09EN1p6TkNjY25nN3NWTG1ITFlJeFdvOGRuNVI3UllZSkFqUWxrWTRib2xmc0JtZkMwLTlMYW44eGJCRzY3cmZLTWMwSGRXUEw4dVpXa1Q0N3ZkcDNKOEhOblU5SE95OGpmczdtemFCQ1JPMldiNC1UUk8zck4zdEFyMndFRnc?oc=5)
 - **[Creadores] Yina Calderón se despachó contra las actrices que atacaron a Isabella Ladera por hacerle una broma a su hija: “Eso sí es ejemplo” - Infobae** — 04/11/2026 08:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTlSN1RpQngzM0Y5VXJGVzA3TEp2REd4Q0l1ZzJ2WEtWYXJldDc3Zl9OYU9HNWpLUllrbU9PM1FIc1BwSDZYamZRTHJfbDFuVW9ZajBDcEcxLTRxNjEzRTJCY2I5UUszel8yR05EUDJCZWRaLU1fRGY0b2hSZTQxd0MzVVhLZHVlX1p1UWd1SVF3NFA0SFlrRzB6Qk9QUmJYb2ctYkt3TTdVa0lVVHRzdU00TlVCczFoQ3ZiNmdwT29lU212NUFlTVY4OE5hMGxpUkUzUTFSRXpsRGR3cXNXY2FPaFFPZzB1NWxxVjd1RGRsY3RDS2E5NkpMdnZTdkZr0gGbAkFVX3lxTE5sMFNIVEpSdV9zVnhlRC04VDd3RWM0d0dQMDdPYTFkd1dZZnVpdXV5RFZCLVF3Y3NEU2E1ajF1WVh1QVRMeV9IaTFQNmFkQXg1dDRuVjRxZFhDbTBacU1iSkZYaF8weWJNZnB3S2FhOHltbFd2MjFmRnlxenhkMGxOakpldy13ZWNrcC1TYkhOZkRIZHZ1UUFDQk5GRXp3NElscFRteV9OZVo5a3F1cHRTM1Y2ZHcyWGFGLVFPY2k0dlBaMGJrU1FyaDJXZjBvWmE3SWJSZElUNklPMEd5eUN2ZlpKdlNsNFBFLVdLeTQ3VmhtRFkwMEJDSElQbld2anFnaVFSZk4tUzM2SjF0Tl80TUxFUWtycThJY0E?oc=5)
