@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 06/11/2026 03:51 AM (hora de Colombia)
+Actualizado: 06/11/2026 05:56 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Ruisu
+- Publicado: 05/11/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 177.625
+- Puntaje heurístico de interés: 9
+- Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -21,15 +31,15 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=DGfL6KYmORw
 
-### EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
+### SAMUELX LLEGA POR FIN A MEDELLÍN 🔥 | WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: CHISME URBANO TV
-- Publicado: 04/11/2026 07:00 PM
+- Canal que publico: Aida Victoria Stream
+- Publicado: 05/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 72.676
+- Vistas reportadas por YouTube: 45.686
 - Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=wiuk6sJ9hRc
+- Enlace directo: https://www.youtube.com/watch?v=WqA-BVwzz2Q
 
 ### 😡CÓMO PUTS* SIGUEN USANDO LOS JUTSUS 🤬😂 | Mrstiven Momentos Divertidos ✨ #freefire #mrstiven #ff
 - Categoria: Clip de terceros
@@ -37,7 +47,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: INMORTAL FF
 - Publicado: 06/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 303
+- Vistas reportadas por YouTube: 768
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
@@ -47,7 +57,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: FAN PAGES
 - Publicado: 05/11/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=tdbqfhDHn7A
 
@@ -57,20 +67,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: KICK CL
 - Publicado: 05/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 223
+- Vistas reportadas por YouTube: 248
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### WESTCOL ANSWERS QUESTIONS FROM HIS COMMUNITY 😂
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestcolClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestcolClips
-- Publicado: 04/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.602
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=t_8NxIElLH0
 
 ### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
 - Categoria: Cuenta de clips
@@ -79,13 +78,23 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 04/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23.537
+- Vistas reportadas por YouTube: 24.356
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- **Texto en pantalla:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -97,15 +106,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=DGfL6KYmORw
 
-### EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
+### SAMUELX LLEGA POR FIN A MEDELLÍN 🔥 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
-- **Texto en pantalla:** EXPONEN CHATS de WESTCOL DESESPERADO por LIMPIARSE su IMAGEN
+- **Título sugerido:** SAMUELX LLEGA POR FIN A MEDELLÍN 🔥 | WESTCOL
+- **Texto en pantalla:** SAMUELX LLEGA POR FIN A MEDELLÍN 🔥 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=wiuk6sJ9hRc
+- **Fuente original:** https://www.youtube.com/watch?v=WqA-BVwzz2Q
 
 ### 😡CÓMO PUTS* SIGUEN USANDO LOS JUTSUS 🤬😂 | Mrstiven Momentos Divertidos ✨ #freefire #mrstiven #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -136,16 +145,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### WESTCOL ANSWERS QUESTIONS FROM HIS COMMUNITY 😂
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL ANSWERS QUESTIONS FROM HIS COMMUNITY 😂
-- **Texto en pantalla:** WESTCOL ANSWERS QUESTIONS FROM HIS COMMUNITY 😂
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=t_8NxIElLH0
 
 ### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
