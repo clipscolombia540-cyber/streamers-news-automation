@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 06/11/2026 09:43 PM (hora de Colombia)
+Actualizado: 06/11/2026 11:47 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 7.
 Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 7.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Ruisu
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 284.806
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -37,8 +27,8 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.348
-- Puntaje heurístico de interés: 5
+- Vistas reportadas por YouTube: 25.661
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
 ### PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
@@ -47,9 +37,29 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.401
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 5.935
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Mc x Akki
+- Publicado: 05/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 253
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
+
+### PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: FAN PAGES
+- Publicado: 06/11/2026 11:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=TdamuYBYH2k
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
@@ -71,61 +81,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=NUHIz_0cqlw
 
-### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: KICK CL
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 391
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### THE SQUAD REUNITED IN COLOMBIA | WESTOL AND SAMULX
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Samulx
-- Canal que publico: MILICA CLIPS
-- Publicado: 06/11/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 372
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=VVwnGjSt-5Q
-
-### Un gran video #yefersoncossio #cintiacossio #famila
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Famila Cossio Clips
-- Creador relacionado en el título: Yeferson Cossio
-- Canal que publico: Famila Cossio Clips
-- Publicado: 06/11/2026 10:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=KXb5UkwAu2U
-
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 06/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 359
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
-
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- **Texto en pantalla:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -157,6 +115,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=f4weInVu_bE
+
+### PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
+- **Texto en pantalla:** PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=TdamuYBYH2k
+
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -176,46 +154,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=NUHIz_0cqlw
-
-### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- **Texto en pantalla:** JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5C1LP6ieNyE
-
-### THE SQUAD REUNITED IN COLOMBIA | WESTOL AND SAMULX
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** THE SQUAD REUNITED IN COLOMBIA | WESTOL AND SAMULX
-- **Texto en pantalla:** THE SQUAD REUNITED IN COLOMBIA | WESTOL AND SAMULX
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VVwnGjSt-5Q
-
-### Un gran video #yefersoncossio #cintiacossio #famila
-- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
-- **Título sugerido:** Un gran video #yefersoncossio #cintiacossio #famila
-- **Texto en pantalla:** Un gran video #yefersoncossio #cintiacossio #famila
-- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=KXb5UkwAu2U
-
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Noticias y contexto
 
