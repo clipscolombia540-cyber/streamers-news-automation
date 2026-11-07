@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 01:36 PM (hora de Colombia)
+Actualizado: 07/11/2026 03:31 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 11.
 Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 71.434
+- Vistas reportadas por YouTube: 74.487
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -31,15 +31,35 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
-### PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
+### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 06/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.844
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
+
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: basuquito
+- Publicado: 07/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 50
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
+
+### EL MERECIDO FINAL DE WESTCOL...
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 06/11/2026 09:00 PM
+- Canal que publico: Tommy
+- Publicado: 07/11/2026 02:49 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 45.912
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
+- Vistas reportadas por YouTube: 1.246
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -57,7 +77,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: Steve
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 148
+- Vistas reportadas por YouTube: 324
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
 
@@ -65,7 +85,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: LLanerosGamerTM
-- Publicado: 06/11/2026 03:00 PM
+- Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
@@ -78,7 +98,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: ElReyWithTheClips
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.947
+- Vistas reportadas por YouTube: 36.886
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
@@ -89,7 +109,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.729
+- Vistas reportadas por YouTube: 3.929
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
@@ -100,7 +120,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: MILICA CLIPS
 - Publicado: 07/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22
+- Vistas reportadas por YouTube: 27
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
@@ -128,15 +148,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
-### PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
+### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
+- **Texto en pantalla:** 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ 
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=FrhScEHkG-A
+
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
+
+### EL MERECIDO FINAL DE WESTCOL...
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
-- **Texto en pantalla:** PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
+- **Título sugerido:** EL MERECIDO FINAL DE WESTCOL...
+- **Texto en pantalla:** EL MERECIDO FINAL DE WESTCOL...
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=CQ_us4GjZ9o
+- **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -200,19 +240,19 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
+- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infidelidad a Carolina Gómez - HSB Noticias** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3FKWTBSaloxY19qOEtGSF9DODl5R2gyUTdnZXVtWm1PbVZoQTVNNVVnYU1uM25PR3NwU21kM0dleDZSOVNrNmRsaVY1NkpjWjNEcWczc3pxRU9NeFgxZjRJXzJkNlp4bEZOamdSbHd1ZDFnT2VaRjNQWXU1RTJGdDZpVW1nYy1xSXFZaFB3b0pGTVdmZlhkQWtYalVwYjkyOWRyb3prSjl2YnR1TjNUTGl5SW1kQ3lN?oc=5)
 - **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
 - **[Creadores] Westcol se dio cuenta del valor de las compras que hicieron con su tarjeta - Infobae** — 06/11/2026 08:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmI5NlVuS1YzcTBHdjAtSHZiQXRoT0F2RXUwQTVFRHJiMFpLZWZGU1EtTlZoRFhQOWR3ODRzLXVvUEY0SVhUdFRrWERiX0V5aExnUHo5UEQ5TVNhZWthRkV6RjJhVDVidks4WlkzM2ZMUk9KYkhuRXdQSG5sYXJ5YW5lNFhvM2p6aE4yVGF1NjRfT3pWRHY5RHhmZ3NfaWJPbTlyRmYtV3BBd2J6M1E1dnJsRW5MOUlCM3RwS0ktVFBJU2d0MTdLelRR?oc=5)
 - **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
-- **[Creadores] Yeferson Cossio arremetió contra los rumores de infidelidad a su novia Carolina Gómez - La Kalle** — 06/11/2026 06:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWRncmRUMFFkbEFzM3dEVzhmNGNhRDFTeFZYOE1LOEY4X1hGQmhXV0Z5ZEp1OFRxWGlTY3o3UTJXX1IxV01rVEdORDVOWUNXeTNDUXdqaEh2bkNDa3IwQ0lMTUt5S040S043LUtzNHVyRHU0c0NlN1B4MHpNVGxaYjdUaWpuQmJhR2txSGdTdG9kMDlhZ1dUSGJPMVVmMlFNX2c1cXJxbWpqWHhRNHI4U2hzdkVlMkV0bVBYZnNCd2lXZnFCWWJlUl9zRVQ1cjczaWtvZmd2STVaeHhZVUHSAesBQVVfeXFMTkRXWTNxWTVQV2pZODVrRjRiUm90LVdFTVVKeUduNG4yMjk0UnhDb2hUNzhoNlk0SkVEOWR2NFlyYjBHcmFSN0FDTTRLR2tmU2VnNXQ0N3FRVkVwZnREV091TG93Q2J2dmRRUTZPZUw1N3hsNjZEVVJsWFYtX3VCMmUwdXp1dERqTzQ4WlBLeEJ5a2tnQUhNOEh6bWlaRlljVFBnZVM0R3dfTUdMakJnb25wRTFuZmlJNlJlaW8tQ2s4UUEwRkY5bkM3UWNoTTduYkUzLUk0LVlHQ1FsSGptTTVfbmRXY0VsTUFfcw?oc=5)
 - **[Creadores] ¿Aída Victoria Merlano espera otro bebé? El video que desató rumores entre sus seguidores - Colombia.com** — 06/11/2026 06:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbU9sSFdRYktIdXFwd1ZTVzRFQ3NfSi1uREVjclpoaHd1OFhjQ2hUUHc1Vm90emRmcG8tYkZsU01DZTJ3SUpGMjktenBycUpEREZ0bE9PNkVqbDRDMDltNU1SclJhQWV3UEhhRDRoR1BnOGF3aXRNWjMxMGZrZmU0NWJhVHlkYUJPUjFyNEdzQVZjdFVnZFRhMkF6NXhkQXItSkpxSFdDOWdxcDhHSlFWVVV5TVgzdVZiOERYaE5pQkExZzlQWE5OVWpR?oc=5)
 - **[Creadores] Sin apoyo del Ayuntamiento, Lonche de Huevito arranca bacheo en Los Mochis - Debate** — 06/11/2026 02:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTM2R3B4ZEI1SnRGcERKTTdUSnk4VEt2UnhkVWxtYjRwVjFOSmREcTJqcXc4amp5dlplNnMwT0VUQWtlOTMyM2ptbW9ieEFtVzNXdjFtSGhjVEhMZ183SkhoeDhtRlVxUHNSNmx3d2lJSEQteU5uZkJHd3YzcEhJWFVoaFdibkxoZ2lxaW16M1I3T0swejNjZUNMdmdBdHYwX1V3SjlFZ2hvVHZTSTJEZ2llTTdqYWd6YWhOT1FWVWZ2Qk5hSEhPamRKeEh5bDhRZXc?oc=5)
 - **[Creadores] Yina Calderón cuestiona los éxitos recientes de Sech al revisar la cartelera musical que Westcol prepara para ‘Stream Fighters 5′ - Mi Diario** — 06/11/2026 02:50 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV1VJekU5dzUzZXROb1VPX2MxQWl2LVB6cmZ1SlpWOEJwVG1OSFVDV0ViX2k4ZnEzWDFYaXF4QXh2MzdVQmVtM19xUTllS1RuZHUtZGlfWTFQSWZSMnkyN3FoT0RxRWc3WWxhYkxoT1dPb3dfN2pzV2dNblF1YTE2M2FBOFdOREluQktoZHRjSlc0clNyYnBlQzdsQ0R6d3ZhZkNIMlNwcTR0djBKMEhseGI1bEF3X0RCZ1R4REFTR0lSeHlWa2x2cHlIMVhldjFWd2FrV3VTWkozOGEtTHVDc3B2cTZmSUZPVzVIOXhOVldzWHNEX1E?oc=5)
 - **[Creadores] ¿Qué significa F.E.S? Esto hay detrás de las letras que utiliza Lonche de Huevito - Luz Noticias** — 06/11/2026 02:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkRUUnBTN0dUUXdSYVRReHE1RDhXdFc4djhpZFNaQ0dRcmF5V2VZOVdrVmlKSV8xTURZTDVNTGlycWkwSnBkS3pnSldpbTlEMFpQWE0zUVIwSXNxcmtCVkcwVHlCNzRFMDUwSWpKbk90VWR2WWlLckJrYWJ4akNFRHlYZW5TQWQxSkx6cDFSeE9xeWhuZTIzM1pzUWw1X2U2OW9QN1FURVNlQ3RTNFMyUnBxTmoyb1ZxS1pmcWlNT2IwNDFsRlJtajlR0gHPAUFVX3lxTFBhZE8tNE5hZTZEZmE3ZzdydmRNSU5Gc28tSmEtNFFrOWgteHpXTnYtN2g5VEM3M01vbHl5Z2Z3MWduYUtPUlFIdm5QXzFnT3dTTGJxZGs4VGJMLUZmSS1jdlkxTGFiTFdCYUJfVmg2Y0tTN1A0Sm5DV2JSUGt3WmVNSjluUlZGOEUwcDFUd29pNmZSRE5Gc0ZyckdSem5aN1ZIY0l6NEJza0ZhanNISzJqRzllS0tMTkFtZ0w4M1U4eVlxblBSVXBnVFJBZ0E4WQ?oc=5)
+- **[Creadores] ¿Nuevo amor? Laura Acuña fue vista con empresario en la boda de Pipe Bueno y Luisa Fernanda W - La Opinión Cúcuta** — 06/11/2026 12:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0d1b08tOVZaYkRqOXVDZ1VYSDJtMGlvY1hDTmRBSnVnVkRSOUdYdjNwRG5aY3lhaFpraXVUTDNqVHR0RE54UDJQYVF4WFVpSnB3Rll6WUJjVFpVNTVodG1tc2JTdmZScFloTDlYSjJCMmhxVVExSEJsaFg5cWhta3kwQmxEYUg5NjRvRjVkZkxyMEpfZDhCSnJMaEJaTl81aG1ENElPTVJiRzNJV3RXMTB5MUEzOVRf?oc=5)
 - **[Creadores] Yina Calderón habla de Sech y cuestiona la cartelera musical de Stream Fighters - Día a Día** — 06/11/2026 10:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2JkWXhzb2cybUVLb2c5Z1Vhc2FTWlotTWFqNWxYbklCQVpDWGF0NUgzZE91SXdqYlM0T0Q2S0ZWTHc3cFBGTjVBMExBXzdXQnhSdTdYU3dpckVGT1ZDb0hZbGYyUzZGYWZjclk2dlFnaHI5V0ZDblhlRERNTVA3Y1JUOTcyUi1lOGFIcUswZEMzQy02UUZMTTBlaXl5YVBENmU4Y0RXUEpwR1NISHFWXzYyX2pqbDZvLWfSAb4BQVVfeXFMTkdRX2RZWThUZHl5ZUF6REJBRW5hc1A4X2tOeUJZamF0c1lfTlF5YkEwcERZQ1hKVjlKQjNiNFEtN3pxY3JxeHBVOGxUR1A4MTB6Mk5udXg3eXdyODNISzBYQ3RTYl95ZkYzTGRSWERmX3JoOVZ2Tm43SExGQkpqNFNBbVVhektYTFE0NVJJNlhqaVRkVnFQRWhLT2cyS0lpSVl6WDM5T1VHWHBLTWl1LWRSNFdlcUpnczdGakNDUQ?oc=5)
 - **[Creadores] Yina Calderón prende las redes y dice que Sech no pega una canción hace rato - CRÍTICA** — 06/11/2026 09:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHBLdEx5SURSS3Q4S3N0TFkxUVZFVWpSR0w3cjNSdTc2emkxZXBUbkJacFlzMllKdWgwaEFwT0NsMFp6cVMwajJ1YUotTVFrSHBfT0NWbDNvYXFqSldXaU92WjlGa1BQcDQ5TFZQMFRBZ1lzNTVnQmxfcThpUTdvMlc1SUcxQzFNR0lDUmFtZWszUThfZFZqUXA2YjdEWmhzU1lmSmhpZjI5ZWttbzZINTJSLS1IZ9IBuwFBVV95cUxNM1VKM1BWMjRkOHhHU0pVeTFsOElGeUNnVWlqanMzLVI1b3REekNZY0FoMGVVSEp4dHg5RjNHMWg2MUVVUmZHRlV5RVl0VGJmMURpUS1zZmdNSHQ2UWtWS1RpU2NxdGNaSU1yMlRJcTQtbVRuS0F1VUsxWm1fRHZKdGNmcF80dVQxZjRkUE94LWRXM1ZKWGNJLVRWeTdCZ3ZsaXJYYjhXWFN2WldfYVRJbWZiUzVzS2ZyYUI0?oc=5)
-- **[Creadores] Aida Victoria Merlano preocupó a sus seguidores con inquietante mensaje: “Emocionalmente es muy desgastante” | El Colombiano - El Colombiano** — 05/11/2026 07:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVdCNFhQZDJaRnFsMWwxRlFhQm1JU2RfbnhrYmkxTHloY2dNMTFrRWZlc1RiWlp1Zy1acGl1bFN1ZkREZjVIVDhJRzFVczU3OG83WmF0QjJkS1c2TW5TLWJ0cGktRHZTOUI1WXZsWFV5T0RQSUtSdjhWWlRkNDU0V2UwOWRIQ3Y0b3Y4RkhOUGl4Z1RmZng3dUpSMTkyXzBmb19reWpydmNZZzAyV2NWN0VQcVZQNnBkR0dubtIBwgFBVV95cUxQMm8wcW0tcWNsNmVyeDdka2ZWR21rZkx3amhYa19MblJZUFR1eUlKQXM2Z0h5LXBUUzlTYXVpanA4N2w1YThOcGU4eFpfRWtWd0NMb0QyRWx5TE1EV2RoTEI5RFd4TGY2U2tkS09VdlVlTXg2aWNHZUxveXdNMzRob0c3bG5KZGtHQ0txVzB5RFdCcWlSZkFHVDREeTdRWUdrZUZ3elNoWFJnb0E0Y2k4cGNtS0dETWFKdGlndm1VbjhHQQ?oc=5)
-- **[Creadores] Luisa Fernanda W y Pipe Bueno revelaron el destino del dinero que recibieron en su boda - ELHERALDO.CO** — 05/11/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ2xkN2dVdTlhc19aNmZiUVlkbVU5cEw0ZGJQckFlc1MxUEdmcW1PVnNCSzU2Tkk3cFowY3JYVTNmRk9WczV3Vm95dWxJby0tb0lBSFpCQjN1RHFWdjlibHFDT3I4ajVQdzlYY242bWdubmQ2M2ZWUXJLVjJlVWM2WDJ3d01tWlZiVV9nZ1JyRl91RTB2V1NNcFFTaTJNc2NjUWpSdUV6d05fQWo2OGpVd2dHeG1MOG1RbUM0Q1RicVJxakZBVkhFMy1YRjNCNndpZW1DWnJkaXVWY3A2MTBfdFRNYVgyX1duUlJEVWdVTWg4Zw?oc=5)
 
 ## Creadores principales vigilados
 
