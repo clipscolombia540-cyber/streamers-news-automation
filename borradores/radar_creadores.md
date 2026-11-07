@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 09:37 AM (hora de Colombia)
+Actualizado: 07/11/2026 11:33 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 8.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 58.325
+- Vistas reportadas por YouTube: 64.691
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 37.513
+- Vistas reportadas por YouTube: 41.409
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
@@ -51,6 +51,26 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
 
+### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Steve
+- Publicado: 07/11/2026 11:01 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 23
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
+
+### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: KICK CL
+- Publicado: 06/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 416
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
+
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
@@ -61,48 +81,16 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 2026
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: The Church of Jesus Christ in the Philippines
-- Publicado: 05/11/2026 07:00 PM
+### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 07/11/2026 11:01 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 557
+- Vistas reportadas por YouTube: 241
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1hc7JecxOWY
-
-### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.451
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
-
-### WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Keeny_Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: Keeny_Clips
-- Publicado: 07/11/2026 06:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.089
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=ohtOs5aOttg
-
-### CHANTY IRL SALIENDO POR MEDELLIN
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 07/11/2026 02:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
+- Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -148,6 +136,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=f4weInVu_bE
 
+### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- **Texto en pantalla:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ovWgaXhahLM
+
+### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** JONGOTTI AND REYDELACITY MET UP IN NEW YORK
+- **Texto en pantalla:** JONGOTTI AND REYDELACITY MET UP IN NEW YORK
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=5C1LP6ieNyE
+
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -158,45 +166,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 2026
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 2026
-- **Texto en pantalla:** Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 202
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
+- **Texto en pantalla:** 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1hc7JecxOWY
-
-### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Texto en pantalla:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=REEAuehfxnE
-
-### WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
-- **Texto en pantalla:** WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ohtOs5aOttg
-
-### CHANTY IRL SALIENDO POR MEDELLIN
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
+- **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
 
 ## Noticias y contexto
 
