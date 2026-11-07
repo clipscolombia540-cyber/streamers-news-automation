@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 07:41 AM (hora de Colombia)
+Actualizado: 07/11/2026 09:37 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 9.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 53.972
+- Vistas reportadas por YouTube: 58.325
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Drice Gamerz
+- Publicado: 06/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 29.878
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
 ### PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
 - Categoria: Clip de terceros
@@ -27,9 +37,19 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.480
+- Vistas reportadas por YouTube: 37.513
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: Mc x Akki
+- Publicado: 05/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 253
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
@@ -47,7 +67,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: The Church of Jesus Christ in the Philippines
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 546
+- Vistas reportadas por YouTube: 557
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=1hc7JecxOWY
 
@@ -58,7 +78,7 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: ElReyWithTheClips
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 34.417
+- Vistas reportadas por YouTube: 34.451
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
 
@@ -69,8 +89,8 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Keeny_Clips
 - Publicado: 07/11/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.089
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=ohtOs5aOttg
 
 ### CHANTY IRL SALIENDO POR MEDELLIN
@@ -80,30 +100,9 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 07/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
-
-### MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 07/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=zYKkmbmJKqM
-
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 06/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 560
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -119,6 +118,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=gugMvywMbBk
 
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
+
 ### PARCHANDO CON SAMULX EN MI MANSIÓN | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -128,6 +137,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CQ_us4GjZ9o
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=f4weInVu_bE
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -178,26 +197,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
-
-### MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
-- **Texto en pantalla:** MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zYKkmbmJKqM
-
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Noticias y contexto
 
