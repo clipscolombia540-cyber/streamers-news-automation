@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 06/11/2026 11:47 PM (hora de Colombia)
+Actualizado: 07/11/2026 01:48 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
-Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 7.
+Clips incluidos: 8.
+Noticias recientes: 14.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Ruisu
+- Publicado: 05/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 298.223
+- Puntaje heurístico de interés: 9
+- Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -25,9 +35,9 @@ Distribución por categoría: Clip de terceros: 7.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: mcc-clips
-- Publicado: 06/11/2026 02:00 AM
+- Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.661
+- Vistas reportadas por YouTube: 35.057
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -37,7 +47,7 @@ Distribución por categoría: Clip de terceros: 7.
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.935
+- Vistas reportadas por YouTube: 13.653
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
@@ -51,16 +61,6 @@ Distribución por categoría: Clip de terceros: 7.
 - Puntaje heurístico de interés: 1
 - Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
 
-### PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: FAN PAGES
-- Publicado: 06/11/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=TdamuYBYH2k
-
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
@@ -71,19 +71,40 @@ Distribución por categoría: Clip de terceros: 7.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: WestCol Zone
+### CHANTY IRL SALIENDO POR MEDELLIN
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 07/11/2026 12:52 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
+
+### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
 - Publicado: 06/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=NUHIz_0cqlw
+- Vistas reportadas por YouTube: 508
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- **Texto en pantalla:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=D8dNmGByj1Y
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -125,16 +146,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=f4weInVu_bE
 
-### PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
-- **Texto en pantalla:** PROBANDO LOS MEJORES GRANIZADOS DE MEDELLÍN CON LA GANGA | SAMULX |
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=TdamuYBYH2k
-
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -145,18 +156,29 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+### CHANTY IRL SALIENDO POR MEDELLIN
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- **Texto en pantalla:** SAMULX VUELVE A COLOMBIA TRAS 10 AÑOS PARA STREAM FIGHTERS 🇨🇴🥊
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=NUHIz_0cqlw
+- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
+
+### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Noticias y contexto
 
+- **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
 - **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
 - **[Creadores] Yeferson Cossio arremetió contra los rumores de infidelidad a su novia Carolina Gómez - La Kalle** — 06/11/2026 06:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWRncmRUMFFkbEFzM3dEVzhmNGNhRDFTeFZYOE1LOEY4X1hGQmhXV0Z5ZEp1OFRxWGlTY3o3UTJXX1IxV01rVEdORDVOWUNXeTNDUXdqaEh2bkNDa3IwQ0lMTUt5S040S043LUtzNHVyRHU0c0NlN1B4MHpNVGxaYjdUaWpuQmJhR2txSGdTdG9kMDlhZ1dUSGJPMVVmMlFNX2c1cXJxbWpqWHhRNHI4U2hzdkVlMkV0bVBYZnNCd2lXZnFCWWJlUl9zRVQ1cjczaWtvZmd2STVaeHhZVUHSAesBQVVfeXFMTkRXWTNxWTVQV2pZODVrRjRiUm90LVdFTVVKeUduNG4yMjk0UnhDb2hUNzhoNlk0SkVEOWR2NFlyYjBHcmFSN0FDTTRLR2tmU2VnNXQ0N3FRVkVwZnREV091TG93Q2J2dmRRUTZPZUw1N3hsNjZEVVJsWFYtX3VCMmUwdXp1dERqTzQ4WlBLeEJ5a2tnQUhNOEh6bWlaRlljVFBnZVM0R3dfTUdMakJnb25wRTFuZmlJNlJlaW8tQ2s4UUEwRkY5bkM3UWNoTTduYkUzLUk0LVlHQ1FsSGptTTVfbmRXY0VsTUFfcw?oc=5)
@@ -191,10 +213,10 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-06
+- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-07
   - https://www.youtube.com/watch?v=Yh4xdMGCNEI
   - https://www.youtube.com/watch?v=f4weInVu_bE
-- **Grian votes for the Streamer Awards** (candidata por revisar) — última detección: 2026-11-06
+- **Grian votes for the Streamer Awards** (candidata por revisar) — última detección: 2026-11-07
   - https://www.youtube.com/watch?v=gugMvywMbBk
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-11-06
   - https://www.youtube.com/watch?v=IvoLyxkvmnI
