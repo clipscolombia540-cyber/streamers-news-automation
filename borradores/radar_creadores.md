@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 03:45 AM (hora de Colombia)
+Actualizado: 07/11/2026 05:37 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: Ruisu
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 301.752
+- Vistas reportadas por YouTube: 304.930
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: mcc-clips
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.196
+- Vistas reportadas por YouTube: 48.168
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -47,19 +47,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.527
+- Vistas reportadas por YouTube: 32.627
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Mc x Akki
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 253
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
@@ -78,9 +68,20 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 - Canal que publico: MILICA CLIPS
 - Publicado: 07/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
+
+### MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MRSTIVEN TC CLIPSS
+- Publicado: 07/11/2026 01:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=zYKkmbmJKqM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -126,16 +127,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=f4weInVu_bE
-
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -155,6 +146,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
+
+### MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
+- **Texto en pantalla:** MR STIVEN AND MARIA JULISSA FISHING IN MEXICO
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=zYKkmbmJKqM
 
 ## Noticias y contexto
 
