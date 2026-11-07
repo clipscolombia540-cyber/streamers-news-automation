@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 01:48 AM (hora de Colombia)
+Actualizado: 07/11/2026 03:45 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 7.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1, Emergente
 - Canal que publico: Ruisu
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 298.223
+- Vistas reportadas por YouTube: 301.752
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1, Emergente
 - Canal que publico: mcc-clips
 - Publicado: 05/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 35.057
+- Vistas reportadas por YouTube: 41.196
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -47,8 +47,8 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 13.653
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 25.527
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
@@ -76,21 +76,11 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 1, Emergente
 - Creador/canal detectado: Cuenta de clips: MILICA CLIPS
 - Creador relacionado en el título: Chanty
 - Canal que publico: MILICA CLIPS
-- Publicado: 07/11/2026 12:52 AM
+- Publicado: 07/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
-
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 06/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 508
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -166,19 +156,10 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
 
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=KiJms2-SYds
-
 ## Noticias y contexto
 
 - **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
+- **[Creadores] Westcol se dio cuenta del valor de las compras que hicieron con su tarjeta - Infobae** — 06/11/2026 08:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmI5NlVuS1YzcTBHdjAtSHZiQXRoT0F2RXUwQTVFRHJiMFpLZWZGU1EtTlZoRFhQOWR3ODRzLXVvUEY0SVhUdFRrWERiX0V5aExnUHo5UEQ5TVNhZWthRkV6RjJhVDVidks4WlkzM2ZMUk9KYkhuRXdQSG5sYXJ5YW5lNFhvM2p6aE4yVGF1NjRfT3pWRHY5RHhmZ3NfaWJPbTlyRmYtV3BBd2J6M1E1dnJsRW5MOUlCM3RwS0ktVFBJU2d0MTdLelRR?oc=5)
 - **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
 - **[Creadores] Yeferson Cossio arremetió contra los rumores de infidelidad a su novia Carolina Gómez - La Kalle** — 06/11/2026 06:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWRncmRUMFFkbEFzM3dEVzhmNGNhRDFTeFZYOE1LOEY4X1hGQmhXV0Z5ZEp1OFRxWGlTY3o3UTJXX1IxV01rVEdORDVOWUNXeTNDUXdqaEh2bkNDa3IwQ0lMTUt5S040S043LUtzNHVyRHU0c0NlN1B4MHpNVGxaYjdUaWpuQmJhR2txSGdTdG9kMDlhZ1dUSGJPMVVmMlFNX2c1cXJxbWpqWHhRNHI4U2hzdkVlMkV0bVBYZnNCd2lXZnFCWWJlUl9zRVQ1cjczaWtvZmd2STVaeHhZVUHSAesBQVVfeXFMTkRXWTNxWTVQV2pZODVrRjRiUm90LVdFTVVKeUduNG4yMjk0UnhDb2hUNzhoNlk0SkVEOWR2NFlyYjBHcmFSN0FDTTRLR2tmU2VnNXQ0N3FRVkVwZnREV091TG93Q2J2dmRRUTZPZUw1N3hsNjZEVVJsWFYtX3VCMmUwdXp1dERqTzQ4WlBLeEJ5a2tnQUhNOEh6bWlaRlljVFBnZVM0R3dfTUdMakJnb25wRTFuZmlJNlJlaW8tQ2s4UUEwRkY5bkM3UWNoTTduYkUzLUk0LVlHQ1FsSGptTTVfbmRXY0VsTUFfcw?oc=5)
@@ -188,7 +169,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] ¿Qué significa F.E.S? Esto hay detrás de las letras que utiliza Lonche de Huevito - Luz Noticias** — 06/11/2026 02:37 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkRUUnBTN0dUUXdSYVRReHE1RDhXdFc4djhpZFNaQ0dRcmF5V2VZOVdrVmlKSV8xTURZTDVNTGlycWkwSnBkS3pnSldpbTlEMFpQWE0zUVIwSXNxcmtCVkcwVHlCNzRFMDUwSWpKbk90VWR2WWlLckJrYWJ4akNFRHlYZW5TQWQxSkx6cDFSeE9xeWhuZTIzM1pzUWw1X2U2OW9QN1FURVNlQ3RTNFMyUnBxTmoyb1ZxS1pmcWlNT2IwNDFsRlJtajlR0gHPAUFVX3lxTFBhZE8tNE5hZTZEZmE3ZzdydmRNSU5Gc28tSmEtNFFrOWgteHpXTnYtN2g5VEM3M01vbHl5Z2Z3MWduYUtPUlFIdm5QXzFnT3dTTGJxZGs4VGJMLUZmSS1jdlkxTGFiTFdCYUJfVmg2Y0tTN1A0Sm5DV2JSUGt3WmVNSjluUlZGOEUwcDFUd29pNmZSRE5Gc0ZyckdSem5aN1ZIY0l6NEJza0ZhanNISzJqRzllS0tMTkFtZ0w4M1U4eVlxblBSVXBnVFJBZ0E4WQ?oc=5)
 - **[Creadores] Yina Calderón habla de Sech y cuestiona la cartelera musical de Stream Fighters - Día a Día** — 06/11/2026 10:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2JkWXhzb2cybUVLb2c5Z1Vhc2FTWlotTWFqNWxYbklCQVpDWGF0NUgzZE91SXdqYlM0T0Q2S0ZWTHc3cFBGTjVBMExBXzdXQnhSdTdYU3dpckVGT1ZDb0hZbGYyUzZGYWZjclk2dlFnaHI5V0ZDblhlRERNTVA3Y1JUOTcyUi1lOGFIcUswZEMzQy02UUZMTTBlaXl5YVBENmU4Y0RXUEpwR1NISHFWXzYyX2pqbDZvLWfSAb4BQVVfeXFMTkdRX2RZWThUZHl5ZUF6REJBRW5hc1A4X2tOeUJZamF0c1lfTlF5YkEwcERZQ1hKVjlKQjNiNFEtN3pxY3JxeHBVOGxUR1A4MTB6Mk5udXg3eXdyODNISzBYQ3RTYl95ZkYzTGRSWERmX3JoOVZ2Tm43SExGQkpqNFNBbVVhektYTFE0NVJJNlhqaVRkVnFQRWhLT2cyS0lpSVl6WDM5T1VHWHBLTWl1LWRSNFdlcUpnczdGakNDUQ?oc=5)
 - **[Creadores] Yina Calderón prende las redes y dice que Sech no pega una canción hace rato - CRÍTICA** — 06/11/2026 09:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHBLdEx5SURSS3Q4S3N0TFkxUVZFVWpSR0w3cjNSdTc2emkxZXBUbkJacFlzMllKdWgwaEFwT0NsMFp6cVMwajJ1YUotTVFrSHBfT0NWbDNvYXFqSldXaU92WjlGa1BQcDQ5TFZQMFRBZ1lzNTVnQmxfcThpUTdvMlc1SUcxQzFNR0lDUmFtZWszUThfZFZqUXA2YjdEWmhzU1lmSmhpZjI5ZWttbzZINTJSLS1IZ9IBuwFBVV95cUxNM1VKM1BWMjRkOHhHU0pVeTFsOElGeUNnVWlqanMzLVI1b3REekNZY0FoMGVVSEp4dHg5RjNHMWg2MUVVUmZHRlV5RVl0VGJmMURpUS1zZmdNSHQ2UWtWS1RpU2NxdGNaSU1yMlRJcTQtbVRuS0F1VUsxWm1fRHZKdGNmcF80dVQxZjRkUE94LWRXM1ZKWGNJLVRWeTdCZ3ZsaXJYYjhXWFN2WldfYVRJbWZiUzVzS2ZyYUI0?oc=5)
-- **[Creadores] Stream Fighters 5 con Westcol y Blessd: Quiénes pelean, boletería y mucho más - AS Colombia** — 05/11/2026 07:31 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHhjdVNVTUF5a0xNVmRlNXUwUkkwemFZMnpJUFc4aDZ3Y1R2MUtzN2k5bDRRSzhoV2NZekExSGdnTjVoRTlVdkd6NjQ4blozLTFFa2lQdllVc3h6M0ZSNDlFc2syWVRmNURyekswelVjeVdCdm5CSmJiNjlNV0d1bFBST1pGMFY2MjNpOUVsTUROcWpYTGJuNjR1aWR0ekYtLW9TR0JLMERDRjF3TVpQT1JDVWJwRy1nSDJyWmUyTW1waEhtTjBjZ0JrUDJTbGRxZ3fSAdIBQVVfeXFMUER4Y3VTVU1BeWtMTVZkZTV1MFJJMHphWTJ6SVBXOGg2d2NUdjFLczdpOWw0UUs4aFdjWXpBMUhnZ041aEU5VXZHejY0OG5aMy0xRWtpUHZZVXN4ejNGUjQ5RXNrMllUZjVEcnpLMHpVY3lXQnZuQkpiYjY5TVdHdWxQUk9aRjBWNjIzaTlFbE1ETnFqWExibjY0dWlkdHpGLS1vU0dCSzBEQ0Yxd01aUE9SQ1VicEctZ0gyclplMk1tcGhIbU4wY2dCa1AyU2xkcWd3?oc=5)
 - **[Creadores] Aida Victoria Merlano preocupó a sus seguidores con inquietante mensaje: “Emocionalmente es muy desgastante” | El Colombiano - El Colombiano** — 05/11/2026 07:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVdCNFhQZDJaRnFsMWwxRlFhQm1JU2RfbnhrYmkxTHloY2dNMTFrRWZlc1RiWlp1Zy1acGl1bFN1ZkREZjVIVDhJRzFVczU3OG83WmF0QjJkS1c2TW5TLWJ0cGktRHZTOUI1WXZsWFV5T0RQSUtSdjhWWlRkNDU0V2UwOWRIQ3Y0b3Y4RkhOUGl4Z1RmZng3dUpSMTkyXzBmb19reWpydmNZZzAyV2NWN0VQcVZQNnBkR0dubtIBwgFBVV95cUxQMm8wcW0tcWNsNmVyeDdka2ZWR21rZkx3amhYa19MblJZUFR1eUlKQXM2Z0h5LXBUUzlTYXVpanA4N2w1YThOcGU4eFpfRWtWd0NMb0QyRWx5TE1EV2RoTEI5RFd4TGY2U2tkS09VdlVlTXg2aWNHZUxveXdNMzRob0c3bG5KZGtHQ0txVzB5RFdCcWlSZkFHVDREeTdRWUdrZUZ3elNoWFJnb0E0Y2k4cGNtS0dETWFKdGlndm1VbjhHQQ?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno revelaron el destino del dinero que recibieron en su boda - ELHERALDO.CO** — 05/11/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ2xkN2dVdTlhc19aNmZiUVlkbVU5cEw0ZGJQckFlc1MxUEdmcW1PVnNCSzU2Tkk3cFowY3JYVTNmRk9WczV3Vm95dWxJby0tb0lBSFpCQjN1RHFWdjlibHFDT3I4ajVQdzlYY242bWdubmQ2M2ZWUXJLVjJlVWM2WDJ3d01tWlZiVV9nZ1JyRl91RTB2V1NNcFFTaTJNc2NjUWpSdUV6d05fQWo2OGpVd2dHeG1MOG1RbUM0Q1RicVJxakZBVkhFMy1YRjNCNndpZW1DWnJkaXVWY3A2MTBfdFRNYVgyX1duUlJEVWdVTWg4Zw?oc=5)
 - **[Creadores] “La estoy pasando mal”: La Segura mostró, sin filtros, la afectación que sufre en su columna - Revista Semana** — 05/11/2026 11:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkV1RHFDOG5QejhyQzlrU1ZpZmsxeGpsYjNqazRhbFREbDRzdmNqRjZzd0h3Q0xvbThwQk1nOHBNc0xPNDNjYThuM25FLXN0dTE0dkdPRDdaek5DY2NuZzdzVkxtSExZSXhXbzhkbjVSN1JZWUpBalFsa1k0Ym9sZnNCbWZDMC05TGFuOHhiQkc2N3JmS01jMEhkV1BMOHVaV2tUNDd2ZHAzSjhITm5VOUhPeThqZnM3bXphQkNSTzJXYjQtVFJPM3JOM3RBcjJ3RUZ30gHTAUFVX3lxTE9ORXVEcUM4blB6OHJDOWtTVmlmazF4amxiM2prNGFsVERsNHN2Y2pGNnN3SHdDTG9tOHBCTWc4cE1zTE80M2NhOG4zbkUtc3R1MTR2R09EN1p6TkNjY25nN3NWTG1ITFlJeFdvOGRuNVI3UllZSkFqUWxrWTRib2xmc0JtZkMwLTlMYW44eGJCRzY3cmZLTWMwSGRXUEw4dVpXa1Q0N3ZkcDNKOEhOblU5SE95OGpmczdtemFCQ1JPMldiNC1UUk8zck4zdEFyMndFRnc?oc=5)
