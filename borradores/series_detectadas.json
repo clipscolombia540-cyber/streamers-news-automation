@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-11-07T05:37:45.193166-05:00",
+  "actualizado": "2026-11-07T07:41:40.703637-05:00",
   "series": [
+    {
+      "nombre": "Grian votes for the Streamer Awards",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-06T19:51:22.159791-05:00",
+      "ultima_deteccion": "2026-11-07T07:41:40.703637-05:00",
+      "canal_muestra": "mcc-clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=gugMvywMbBk"
+      ]
+    },
     {
       "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
@@ -14,17 +25,6 @@
         "https://www.youtube.com/watch?v=DGfL6KYmORw",
         "https://www.youtube.com/watch?v=ZPrz85wfiQo",
         "https://www.youtube.com/watch?v=Z5rGUBl174E"
-      ]
-    },
-    {
-      "nombre": "Grian votes for the Streamer Awards",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-06T19:51:22.159791-05:00",
-      "ultima_deteccion": "2026-11-07T05:37:45.193166-05:00",
-      "canal_muestra": "mcc-clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=gugMvywMbBk"
       ]
     },
     {

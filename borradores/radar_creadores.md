@@ -1,43 +1,23 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 05:37 AM (hora de Colombia)
+Actualizado: 07/11/2026 07:41 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 7.
+Clips incluidos: 9.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Ruisu
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 304.930
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=D8dNmGByj1Y
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 06/11/2026 07:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 29.878
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
-
 ### Grian votes for the Streamer Awards
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: mcc-clips
-- Publicado: 05/11/2026 07:00 PM
+- Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 48.168
+- Vistas reportadas por YouTube: 53.972
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -47,7 +27,7 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 32.627
+- Vistas reportadas por YouTube: 35.480
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
@@ -60,6 +40,38 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
+
+### Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 2026
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: The Church of Jesus Christ in the Philippines
+- Publicado: 05/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 546
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=1hc7JecxOWY
+
+### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 05/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 34.417
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
+
+### WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Keeny_Clips
+- Creador relacionado en el título: Westcol
+- Canal que publico: Keeny_Clips
+- Publicado: 07/11/2026 06:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=ohtOs5aOttg
 
 ### CHANTY IRL SALIENDO POR MEDELLIN
 - Categoria: Cuenta de clips
@@ -79,33 +91,23 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 2.
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 07/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 10
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=zYKkmbmJKqM
+
+### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: basuquito
+- Canal que publico: basuquito
+- Publicado: 06/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 560
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- **Texto en pantalla:** WESTCOL FINALMENTE RECIBIÓ SU MERECIDO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=D8dNmGByj1Y
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
 ### Grian votes for the Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -137,6 +139,36 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
+### Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 2026
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 2026
+- **Texto en pantalla:** Síguenos | Video musical oficial con Chanty Videla | Álbum juvenil 202
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=1hc7JecxOWY
+
+### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- **Texto en pantalla:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=REEAuehfxnE
+
+### WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
+- **Texto en pantalla:** WESTCOL Y LA GANGA PARCHANDO EN SU CUMPLEAÑOS DE SAMULX 🎂😅
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=ohtOs5aOttg
+
 ### CHANTY IRL SALIENDO POR MEDELLIN
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -156,6 +188,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=zYKkmbmJKqM
+
+### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Noticias y contexto
 
@@ -194,11 +236,11 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
+- **Grian votes for the Streamer Awards** (candidata por revisar) — última detección: 2026-11-07
+  - https://www.youtube.com/watch?v=gugMvywMbBk
 - **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-07
   - https://www.youtube.com/watch?v=Yh4xdMGCNEI
   - https://www.youtube.com/watch?v=f4weInVu_bE
-- **Grian votes for the Streamer Awards** (candidata por revisar) — última detección: 2026-11-07
-  - https://www.youtube.com/watch?v=gugMvywMbBk
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-11-06
   - https://www.youtube.com/watch?v=IvoLyxkvmnI
   - https://www.youtube.com/watch?v=2sENM6P_JDE
