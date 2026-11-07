@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 11:33 AM (hora de Colombia)
+Actualizado: 07/11/2026 01:36 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
-Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
+Clips incluidos: 9.
+Noticias recientes: 13.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 64.691
+- Vistas reportadas por YouTube: 71.434
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -37,7 +37,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 - Canal que publico: Aida Victoria Stream
 - Publicado: 06/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41.409
+- Vistas reportadas por YouTube: 45.912
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=CQ_us4GjZ9o
 
@@ -55,21 +55,11 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Steve
-- Publicado: 07/11/2026 11:01 AM
+- Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
+- Vistas reportadas por YouTube: 148
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
-
-### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: KICK CL
-- Publicado: 06/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 416
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=5C1LP6ieNyE
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
@@ -81,16 +71,38 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
+### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: ElReyWithTheClips
+- Publicado: 05/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 35.947
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
+
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MR Moroclips
-- Publicado: 07/11/2026 11:01 AM
+- Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 241
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 1.729
+- Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### CHANTY IRL SALIENDO POR MEDELLIN
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 07/11/2026 02:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 22
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -146,16 +158,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ovWgaXhahLM
 
-### JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- **Texto en pantalla:** JONGOTTI AND REYDELACITY MET UP IN NEW YORK
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5C1LP6ieNyE
-
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -166,6 +168,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
+### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- **Texto en pantalla:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=REEAuehfxnE
+
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -175,6 +187,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### CHANTY IRL SALIENDO POR MEDELLIN
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Noticias y contexto
 
@@ -191,7 +213,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Yina Calderón prende las redes y dice que Sech no pega una canción hace rato - CRÍTICA** — 06/11/2026 09:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHBLdEx5SURSS3Q4S3N0TFkxUVZFVWpSR0w3cjNSdTc2emkxZXBUbkJacFlzMllKdWgwaEFwT0NsMFp6cVMwajJ1YUotTVFrSHBfT0NWbDNvYXFqSldXaU92WjlGa1BQcDQ5TFZQMFRBZ1lzNTVnQmxfcThpUTdvMlc1SUcxQzFNR0lDUmFtZWszUThfZFZqUXA2YjdEWmhzU1lmSmhpZjI5ZWttbzZINTJSLS1IZ9IBuwFBVV95cUxNM1VKM1BWMjRkOHhHU0pVeTFsOElGeUNnVWlqanMzLVI1b3REekNZY0FoMGVVSEp4dHg5RjNHMWg2MUVVUmZHRlV5RVl0VGJmMURpUS1zZmdNSHQ2UWtWS1RpU2NxdGNaSU1yMlRJcTQtbVRuS0F1VUsxWm1fRHZKdGNmcF80dVQxZjRkUE94LWRXM1ZKWGNJLVRWeTdCZ3ZsaXJYYjhXWFN2WldfYVRJbWZiUzVzS2ZyYUI0?oc=5)
 - **[Creadores] Aida Victoria Merlano preocupó a sus seguidores con inquietante mensaje: “Emocionalmente es muy desgastante” | El Colombiano - El Colombiano** — 05/11/2026 07:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVdCNFhQZDJaRnFsMWwxRlFhQm1JU2RfbnhrYmkxTHloY2dNMTFrRWZlc1RiWlp1Zy1acGl1bFN1ZkREZjVIVDhJRzFVczU3OG83WmF0QjJkS1c2TW5TLWJ0cGktRHZTOUI1WXZsWFV5T0RQSUtSdjhWWlRkNDU0V2UwOWRIQ3Y0b3Y4RkhOUGl4Z1RmZng3dUpSMTkyXzBmb19reWpydmNZZzAyV2NWN0VQcVZQNnBkR0dubtIBwgFBVV95cUxQMm8wcW0tcWNsNmVyeDdka2ZWR21rZkx3amhYa19MblJZUFR1eUlKQXM2Z0h5LXBUUzlTYXVpanA4N2w1YThOcGU4eFpfRWtWd0NMb0QyRWx5TE1EV2RoTEI5RFd4TGY2U2tkS09VdlVlTXg2aWNHZUxveXdNMzRob0c3bG5KZGtHQ0txVzB5RFdCcWlSZkFHVDREeTdRWUdrZUZ3elNoWFJnb0E0Y2k4cGNtS0dETWFKdGlndm1VbjhHQQ?oc=5)
 - **[Creadores] Luisa Fernanda W y Pipe Bueno revelaron el destino del dinero que recibieron en su boda - ELHERALDO.CO** — 05/11/2026 03:14 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ2xkN2dVdTlhc19aNmZiUVlkbVU5cEw0ZGJQckFlc1MxUEdmcW1PVnNCSzU2Tkk3cFowY3JYVTNmRk9WczV3Vm95dWxJby0tb0lBSFpCQjN1RHFWdjlibHFDT3I4ajVQdzlYY242bWdubmQ2M2ZWUXJLVjJlVWM2WDJ3d01tWlZiVV9nZ1JyRl91RTB2V1NNcFFTaTJNc2NjUWpSdUV6d05fQWo2OGpVd2dHeG1MOG1RbUM0Q1RicVJxakZBVkhFMy1YRjNCNndpZW1DWnJkaXVWY3A2MTBfdFRNYVgyX1duUlJEVWdVTWg4Zw?oc=5)
-- **[Creadores] “La estoy pasando mal”: La Segura mostró, sin filtros, la afectación que sufre en su columna - Revista Semana** — 05/11/2026 11:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkV1RHFDOG5QejhyQzlrU1ZpZmsxeGpsYjNqazRhbFREbDRzdmNqRjZzd0h3Q0xvbThwQk1nOHBNc0xPNDNjYThuM25FLXN0dTE0dkdPRDdaek5DY2NuZzdzVkxtSExZSXhXbzhkbjVSN1JZWUpBalFsa1k0Ym9sZnNCbWZDMC05TGFuOHhiQkc2N3JmS01jMEhkV1BMOHVaV2tUNDd2ZHAzSjhITm5VOUhPeThqZnM3bXphQkNSTzJXYjQtVFJPM3JOM3RBcjJ3RUZ30gHTAUFVX3lxTE9ORXVEcUM4blB6OHJDOWtTVmlmazF4amxiM2prNGFsVERsNHN2Y2pGNnN3SHdDTG9tOHBCTWc4cE1zTE80M2NhOG4zbkUtc3R1MTR2R09EN1p6TkNjY25nN3NWTG1ITFlJeFdvOGRuNVI3UllZSkFqUWxrWTRib2xmc0JtZkMwLTlMYW44eGJCRzY3cmZLTWMwSGRXUEw4dVpXa1Q0N3ZkcDNKOEhOblU5SE95OGpmczdtemFCQ1JPMldiNC1UUk8zck4zdEFyMndFRnc?oc=5)
 
 ## Creadores principales vigilados
 
