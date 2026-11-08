@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 07:51 PM (hora de Colombia)
+Actualizado: 07/11/2026 09:45 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 9.
 Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Tommy
-- Publicado: 07/11/2026 03:00 PM
+- Publicado: 07/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.584
+- Vistas reportadas por YouTube: 63.530
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 80.024
+- Vistas reportadas por YouTube: 81.749
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -47,7 +47,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: INMORTAL FF
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.044
+- Vistas reportadas por YouTube: 7.111
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
@@ -57,48 +57,29 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: basuquito
 - Publicado: 07/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 254
+- Vistas reportadas por YouTube: 342
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### PARCHE EN MEDELLIN | SAMI |WESTCOL
+### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
+- Categoria: Clip de terceros
+- Creador/canal detectado: Lonche de Huevito
+- Canal que publico: OCTOPUS INC
+- Publicado: 07/11/2026 09:24 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
+
+### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: La Zona del Stream
-- Publicado: 07/11/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=9XmWHV0mjjE
-
-### ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS COSTOSOS | Samulx
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: Canal no identificado
+- Canal que publico: Steve
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 874
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=VAVoLVsI5aI
-
-### FULLY Explaining The CHANTY BELUGA Situation
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: Whatwise
-- Publicado: 07/11/2026 10:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 60
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
-
-### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: LLanerosGamerTM
-- Publicado: 06/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
+- Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
 
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - Categoria: Cuenta de clips
@@ -107,20 +88,20 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.052
+- Vistas reportadas por YouTube: 10.907
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
-### FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO y MUJERES | WILLITO LONCHE
+### CHANTY IRL SALIENDO POR MEDELLIN
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips de Willito
-- Creador relacionado en el título: Lonche de Huevito
-- Canal que publico: Clips de Willito
-- Publicado: 07/11/2026 11:00 AM
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 07/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 897
+- Vistas reportadas por YouTube: 48
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1vV4VCHdAk4
+- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -176,45 +157,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### PARCHE EN MEDELLIN | SAMI |WESTCOL
+### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
+- **Texto en pantalla:** LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=CrMQ0_KWZHo
+
+### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** PARCHE EN MEDELLIN | SAMI |WESTCOL
-- **Texto en pantalla:** PARCHE EN MEDELLIN | SAMI |WESTCOL
+- **Título sugerido:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- **Texto en pantalla:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=9XmWHV0mjjE
-
-### ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS COSTOSOS | Samulx
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS COSTOSOS | Samulx
-- **Texto en pantalla:** ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS CO
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=VAVoLVsI5aI
-
-### FULLY Explaining The CHANTY BELUGA Situation
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** FULLY Explaining The CHANTY BELUGA Situation
-- **Texto en pantalla:** FULLY Explaining The CHANTY BELUGA Situation
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
-
-### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
-- **Texto en pantalla:** ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
+- **Fuente original:** https://www.youtube.com/watch?v=ovWgaXhahLM
 
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -226,25 +187,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
 
-### FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO y MUJERES | WILLITO LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+### CHANTY IRL SALIENDO POR MEDELLIN
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO y MUJERES | WILLITO LONCHE
-- **Texto en pantalla:** FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1vV4VCHdAk4
+- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Noticias y contexto
 
+- **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MNIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
+- **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjh5cHdIZ0tPb3poZjBiNDJZMG9YMkJNbnRNbXNfRkZORjhHbnBPWklaTF9DRUN1RHlCZFd3Z2V3Y3V4emxHVmREX3kzSThWSzcwQzA2RTVUalhvWDlTMkQzUlBCYkJlTDFhcVBkQVNMUXZPSF9tOU5oQmN1UWNZeFduSS1FcFZPNlYxSTk4X1BOUU5DbUNWT3gtNHFwNlM2NDVMX19uSHBlaXZJWWlvQjd4WFJER3IzY3Zqc1BQQW8wSVBIemYzYWZWb01HY3E0Y3hLONIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
 - **[Creadores] Lonche de Huevito bachea por segundo día consecutivo calles de Los Mochis - Debate** — 07/11/2026 05:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2l0S2xkbE41N2JPc1dVOHdJclRxN1pMQ2lRNDl4aldjVkhJbXdyLVNhaXE5c0JpSm5jZFEwVEtTT0Y5SWVNaDBCaWVTeU50RWxVdUw0bnlTSDlLd1Z0OGlCSXBnX1h2YlEwanNJd2phLXZNUHdjSGx0dFF6NGpYRWlmbllYek9FR2Vac2kwM21PSzQyQV9zWWNjaS0wNTBQbklkd195NHRVQ0o3MWJndlZNV1h4TVB4TG96ZE9BSnE4YVF0SWwtajhVUDFoc1BTMEE?oc=5)
-- **[Creadores] “No soy el profesor ni el papá de nadie”: WestCOL y su postura sobre la responsabilidad de los streamers con la audiencia - Infobae** — 07/11/2026 03:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmZwTVpaV0hJVnk0NnlyelIxT3hHQWVTQ21pR3J5aEU1bEVkQWhRRnhPWGtxWTRGcTFNZXM2VnRVWnlUN2lCSmd1aHZyT2ZEdmxtTFhITjUtRGxQZ1M4N18ySlRKUGsyRmNsdEdPQkc1bDJyQUtPVWU0NHJSelpBeGpRVVZCZFFDUDRJejZRaTVHOS1DQVBIdU5MVlo3OWFkSVBLemlIcGFJT0tZa2xneHBieTNZSEZxN3c4RlJnaGlEREs3REdPOVZ4bkNTNGdzaVVmQlg4Y1o4R2RfMG50SE96SWUtWXQ4VWRja21GblVLUdIBjAJBVV95cUxQUkl5NVNBdnpyQU95YnVwQ3pZU0RqbWFPazhRVXJzazg5empUQnloREFIemRhZ214TGhmRTlTLTFGTDlzOGlycUZ2VTRuMGNRYjZNYVROM01zUzBOVTYzbzk3NjJPcDJsWDVUTHFDZm8xaWtMN0NXYlA0Z0tEakRyYkNNakZjc1hFNHA2clRfUndfOGVSR0d4YndwdVlCVUdqeWFkM0FvVENkeGF1Z1QtSjBraDBMV0JmVno1Wm85MmlNUHQyNndtOTllZXpQTFN0QzVNUkZUYnpXLUJuV3VvOWpGS3VBTExDUVZXUlZNNmFubGRad1lMdFRVRG01VEZoZWp6NlhOQ1pyWVQw?oc=5)
 - **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
 - **[Creadores] Lonche de Huevito, ¿Cuántas calles ha bacheado en Los Mochis y cuáles son? - Luz Noticias** — 07/11/2026 03:20 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXNyblJwYjZhQXFtbE9CcWxuUEFlOW9tSS1mUDdKeU9Qc0RDQm9QNFNOMmw1TzY3R25DZlVVNHBTSjhhX0JweWpxVDVqTkpIWDc1RTdRck9PeVpSSFF3R2ZkSFBrQ0JFcHJwSWNvX2YtYkM2OGJVd0M1SHFoNjN5Z3QxcE0wVU9oQUJQTHBsWFFnYWNDal9LcXRuTWpMMkFEZURiWV9WNVdsWmd5YnotUzJtWXFVdC0tdVRlajF1Wm9KQdIBxwFBVV95cUxQYnA0bnR5a2xKdEZOa0Z1clFiRzhNcFVIaGlxUmFGOHhvNzliU0xIZVFpRlVrYTBJR3VXSThVMnB5QXRLdUVzTTRtMUNYRlVpVXR4RUFPWnNueWZ0YkJuUHBGRV85N1ZwM2RfeFRCdEY3T3VWQjNhWkNxZ2xFdEdDTHZkRmpmemkyRWM4Y1JLS1VDU3lKczNWZzR5TkZmT19RYm00aFRwUVRqRFJaQzFXS1d2Y0laYW5MTVIwTjdMLWkzT28yczFV?oc=5)
-- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infidelidad a Carolina Gómez - HSB Noticias** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3FKWTBSaloxY19qOEtGSF9DODl5R2gyUTdnZXVtWm1PbVZoQTVNNVVnYU1uM25PR3NwU21kM0dleDZSOVNrNmRsaVY1NkpjWjNEcWczc3pxRU9NeFgxZjRJXzJkNlp4bEZOamdSbHd1ZDFnT2VaRjNQWXU1RTJGdDZpVW1nYy1xSXFZaFB3b0pGTVdmZlhkQWtYalVwYjkyOWRyb3prSjl2YnR1TjNUTGl5SW1kQ3lN?oc=5)
+- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Sur** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTRqNDQxNy10cWJ2TElqTDJjNEZ0Rnp1cjZJbGtkemhQSUJaaDRJRnM2QUhHMGtOb1MxcVJXTVdsMFdZRFN6VXBqV0R2OHM3clBreVRQRlJTM3lyU1NJeVBuMUxUOGhlQzlsY2Q1NG5FWkwtejhJQ19oS2hjNlJzWVFhcGhsMjMwdWRnUkhjR1VSQUtrTmtDVkoyY3lWZ0FqMVE5V1dTMHpPLURScjJCRHBacTZyYlB4ZGFzSA?oc=5)
 - **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
-- **[Creadores] Westcol se dio cuenta del valor de las compras que hicieron con su tarjeta - Infobae** — 06/11/2026 08:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmI5NlVuS1YzcTBHdjAtSHZiQXRoT0F2RXUwQTVFRHJiMFpLZWZGU1EtTlZoRFhQOWR3ODRzLXVvUEY0SVhUdFRrWERiX0V5aExnUHo5UEQ5TVNhZWthRkV6RjJhVDVidks4WlkzM2ZMUk9KYkhuRXdQSG5sYXJ5YW5lNFhvM2p6aE4yVGF1NjRfT3pWRHY5RHhmZ3NfaWJPbTlyRmYtV3BBd2J6M1E1dnJsRW5MOUlCM3RwS0ktVFBJU2d0MTdLelRR?oc=5)
 - **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
 - **[Creadores] ¿Aída Victoria Merlano espera otro bebé? El video que desató rumores entre sus seguidores - Colombia.com** — 06/11/2026 06:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbU9sSFdRYktIdXFwd1ZTVzRFQ3NfSi1uREVjclpoaHd1OFhjQ2hUUHc1Vm90emRmcG8tYkZsU01DZTJ3SUpGMjktenBycUpEREZ0bE9PNkVqbDRDMDltNU1SclJhQWV3UEhhRDRoR1BnOGF3aXRNWjMxMGZrZmU0NWJhVHlkYUJPUjFyNEdzQVZjdFVnZFRhMkF6NXhkQXItSkpxSFdDOWdxcDhHSlFWVVV5TVgzdVZiOERYaE5pQkExZzlQWE5OVWpR?oc=5)
