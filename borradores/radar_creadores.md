@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 08/11/2026 03:45 AM (hora de Colombia)
+Actualizado: 08/11/2026 05:37 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
+Clips incluidos: 9.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
+Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
 - Canal que publico: Tommy
 - Publicado: 07/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 141.076
+- Vistas reportadas por YouTube: 149.414
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
@@ -31,25 +31,35 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
-### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: basuquito
-- Publicado: 07/11/2026 03:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 490
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
-
 ### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Samulx
 - Publicado: 08/11/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.048
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 8.812
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
+
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: basuquito
+- Publicado: 07/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 500
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
+
+### ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
+- Categoria: Clip de terceros
+- Creador/canal detectado: Pelicanger
+- Canal que publico: Vacacow
+- Publicado: 07/11/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.711
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=WJSerrD11YI
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - Categoria: Clip de terceros
@@ -57,9 +67,19 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
 - Canal que publico: OCTOPUS INC
 - Publicado: 07/11/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
+
+### FULLY Explaining The CHANTY BELUGA Situation
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Whatwise
+- Publicado: 07/11/2026 10:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 82
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
@@ -78,20 +98,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.328
+- Vistas reportadas por YouTube: 15.708
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
-
-### CHANTY IRL SALIENDO POR MEDELLIN
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 06/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 77
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -117,16 +126,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
-### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
-
 ### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -137,6 +136,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=s0BJLb8qHnc
 
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
+
+### ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
+- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
+- **Título sugerido:** ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
+- **Texto en pantalla:** ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
+- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=WJSerrD11YI
+
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -146,6 +165,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CrMQ0_KWZHo
+
+### FULLY Explaining The CHANTY BELUGA Situation
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** FULLY Explaining The CHANTY BELUGA Situation
+- **Texto en pantalla:** FULLY Explaining The CHANTY BELUGA Situation
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -166,16 +195,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
-
-### CHANTY IRL SALIENDO POR MEDELLIN
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Noticias y contexto
 
