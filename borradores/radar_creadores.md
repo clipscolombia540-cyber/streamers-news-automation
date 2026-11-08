@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 07/11/2026 05:31 PM (hora de Colombia)
+Actualizado: 07/11/2026 07:51 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
 Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### EL MERECIDO FINAL DE WESTCOL...
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Tommy
+- Publicado: 07/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 33.584
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
 ### Grian votes for the Streamer Awards
 - Categoria: Clip de terceros
@@ -17,7 +27,7 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 77.486
+- Vistas reportadas por YouTube: 80.024
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -31,23 +41,13 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
-### EL MERECIDO FINAL DE WESTCOL...
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Tommy
-- Publicado: 07/11/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.270
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
-
 ### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.951
+- Vistas reportadas por YouTube: 7.044
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
@@ -57,29 +57,38 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
 - Canal que publico: basuquito
 - Publicado: 07/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 143
+- Vistas reportadas por YouTube: 254
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Mc x Akki
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 231
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=f4weInVu_bE
-
-### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+### PARCHE EN MEDELLIN | SAMI |WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Steve
+- Canal que publico: La Zona del Stream
+- Publicado: 07/11/2026 06:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=9XmWHV0mjjE
+
+### ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS COSTOSOS | Samulx
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: Canal no identificado
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 494
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
+- Enlace directo: https://www.youtube.com/watch?v=VAVoLVsI5aI
+
+### FULLY Explaining The CHANTY BELUGA Situation
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Whatwise
+- Publicado: 07/11/2026 10:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 60
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - Categoria: Clip de terceros
@@ -91,17 +100,6 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: ElReyWithTheClips
-- Publicado: 05/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 37.834
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=REEAuehfxnE
-
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MR Moroclips
@@ -109,24 +107,34 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.439
+- Vistas reportadas por YouTube: 9.052
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
-### CHANTY IRL SALIENDO POR MEDELLIN
+### FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO y MUJERES | WILLITO LONCHE
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 07/11/2026 02:00 AM
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
+- Publicado: 07/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36
+- Vistas reportadas por YouTube: 897
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
+- Enlace directo: https://www.youtube.com/watch?v=1vV4VCHdAk4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### EL MERECIDO FINAL DE WESTCOL...
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** EL MERECIDO FINAL DE WESTCOL...
+- **Texto en pantalla:** EL MERECIDO FINAL DE WESTCOL...
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
 
 ### Grian votes for the Streamer Awards
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -148,16 +156,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
-### EL MERECIDO FINAL DE WESTCOL...
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** EL MERECIDO FINAL DE WESTCOL...
-- **Texto en pantalla:** EL MERECIDO FINAL DE WESTCOL...
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
-
 ### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -178,25 +176,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=f4weInVu_bE
-
-### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+### PARCHE EN MEDELLIN | SAMI |WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
-- **Texto en pantalla:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- **Título sugerido:** PARCHE EN MEDELLIN | SAMI |WESTCOL
+- **Texto en pantalla:** PARCHE EN MEDELLIN | SAMI |WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ovWgaXhahLM
+- **Fuente original:** https://www.youtube.com/watch?v=9XmWHV0mjjE
+
+### ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS COSTOSOS | Samulx
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS COSTOSOS | Samulx
+- **Texto en pantalla:** ASI ME GANE UN IPHONE 18 PRO MAX 🤑 JUGANDO CON LA GANGA POR PREMIOS CO
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=VAVoLVsI5aI
+
+### FULLY Explaining The CHANTY BELUGA Situation
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** FULLY Explaining The CHANTY BELUGA Situation
+- **Texto en pantalla:** FULLY Explaining The CHANTY BELUGA Situation
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -208,16 +216,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Texto en pantalla:** REYDELACITY REACTS TO LAJA VS TYKING AI VIDEOS... ABSOLUTELY INSANE!😂🤯
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=REEAuehfxnE
-
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -228,15 +226,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
 
-### CHANTY IRL SALIENDO POR MEDELLIN
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO y MUJERES | WILLITO LONCHE
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO y MUJERES | WILLITO LONCHE
+- **Texto en pantalla:** FIESTA de BARBAS X MANSORY con OMAR CAMACHO, N3ON, GERARDO ORTIZ, YOLO
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
+- **Fuente original:** https://www.youtube.com/watch?v=1vV4VCHdAk4
 
 ## Noticias y contexto
 
