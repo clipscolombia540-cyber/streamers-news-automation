@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 08/11/2026 09:35 AM (hora de Colombia)
+Actualizado: 08/11/2026 03:18 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
-Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
+Clips incluidos: 10.
+Noticias recientes: 11.
+Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Tommy
-- Publicado: 07/11/2026 04:00 PM
+- Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 160.985
+- Vistas reportadas por YouTube: 196.793
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
@@ -27,9 +27,19 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 99.329
-- Puntaje heurístico de interés: 7
+- Vistas reportadas por YouTube: 114.051
+- Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
+
+### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Samulx
+- Publicado: 08/11/2026 02:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 164.594
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -37,19 +47,9 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Drice Gamerz
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 27.999
+- Vistas reportadas por YouTube: 28.000
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=Yh4xdMGCNEI
-
-### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Samulx
-- Publicado: 08/11/2026 03:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30.466
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
 
 ### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
 - Categoria: Clip de terceros
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: INMORTAL FF
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.334
+- Vistas reportadas por YouTube: 7.472
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
@@ -65,9 +65,9 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: basuquito
-- Publicado: 07/11/2026 03:00 PM
+- Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 510
+- Vistas reportadas por YouTube: 602
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
 
@@ -85,41 +85,32 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: LLanerosGamerTM
-- Publicado: 07/11/2026 07:00 PM
+- Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Canal no identificado
-- Publicado: 07/11/2026 12:00 PM
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
+- Vistas reportadas por YouTube: 19.225
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
 ### IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Canal que publico: Reydelacityclips
-- Publicado: 08/11/2026 09:27 AM
+- Publicado: 08/11/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 5
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=2I-HStUsD7A
-
-### CHANTY IRL SALIENDO POR MEDELLIN
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 07/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 77
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -145,16 +136,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=gugMvywMbBk
 
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
-
 ### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -164,6 +145,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=s0BJLb8qHnc
+
+### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
+- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Yh4xdMGCNEI
 
 ### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -225,31 +216,19 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2I-HStUsD7A
 
-### CHANTY IRL SALIENDO POR MEDELLIN
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
-
 ## Noticias y contexto
 
 - **[Creadores] Burlas a La Liendra por video bailando y cantando tema de Rauw Alejandro - Alerta** — 08/11/2026 12:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUNIBvAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUA?oc=5)
 - **[Creadores] Reconoce COMUN calidad de bacheo que realiza Lonche de Huevito; buscarán coordinación - Noticiero Altavoz** — 07/11/2026 08:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFRXWkxfY1QwNFdsSnhscUxIczk3R040LVBTZ05nLVp6cE5qZzZKWU43OU8yVUs3S2Q1MEl3blR3b0lWSnpHRGR2QXFFOThRVEhMMWNmc1ZrWmltaVliR09xLU5aRVhOTU92WXc0Tmd1MWVja2VHTEh4a1Zhc1I5YjJuaTVEMFV3UmJpRV9rd19xS0RybVRQZXVmVW11MGo4SHNzckM3ODlUbFpISWRPV1J5Q0k?oc=5)
 - **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MNIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
-- **[Creadores] Lonche de Huevito bachea por segundo día consecutivo calles de Los Mochis - Debate** — 07/11/2026 05:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2l0S2xkbE41N2JPc1dVOHdJclRxN1pMQ2lRNDl4aldjVkhJbXdyLVNhaXE5c0JpSm5jZFEwVEtTT0Y5SWVNaDBCaWVTeU50RWxVdUw0bnlTSDlLd1Z0OGlCSXBnX1h2YlEwanNJd2phLXZNUHdjSGx0dFF6NGpYRWlmbllYek9FR2Vac2kwM21PSzQyQV9zWWNjaS0wNTBQbklkd195NHRVQ0o3MWJndlZNV1h4TVB4TG96ZE9BSnE4YVF0SWwtajhVUDFoc1BTMEE?oc=5)
-- **[Creadores] “No soy el profesor ni el papá de nadie”: WestCOL y su postura sobre la responsabilidad de los streamers con la audiencia - Infobae** — 07/11/2026 03:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmZwTVpaV0hJVnk0NnlyelIxT3hHQWVTQ21pR3J5aEU1bEVkQWhRRnhPWGtxWTRGcTFNZXM2VnRVWnlUN2lCSmd1aHZyT2ZEdmxtTFhITjUtRGxQZ1M4N18ySlRKUGsyRmNsdEdPQkc1bDJyQUtPVWU0NHJSelpBeGpRVVZCZFFDUDRJejZRaTVHOS1DQVBIdU5MVlo3OWFkSVBLemlIcGFJT0tZa2xneHBieTNZSEZxN3c4RlJnaGlEREs3REdPOVZ4bkNTNGdzaVVmQlg4Y1o4R2RfMG50SE96SWUtWXQ4VWRja21GblVLUdIBjAJBVV95cUxQUkl5NVNBdnpyQU95YnVwQ3pZU0RqbWFPazhRVXJzazg5empUQnloREFIemRhZ214TGhmRTlTLTFGTDlzOGlycUZ2VTRuMGNRYjZNYVROM01zUzBOVTYzbzk3NjJPcDJsWDVUTHFDZm8xaWtMN0NXYlA0Z0tEakRyYkNNakZjc1hFNHA2clRfUndfOGVSR0d4YndwdVlCVUdqeWFkM0FvVENkeGF1Z1QtSjBraDBMV0JmVno1Wm85MmlNUHQyNndtOTllZXpQTFN0QzVNUkZUYnpXLUJuV3VvOWpGS3VBTExDUVZXUlZNNmFubGRad1lMdFRVRG01VEZoZWp6NlhOQ1pyWVQw?oc=5)
+- **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjh5cHdIZ0tPb3poZjBiNDJZMG9YMkJNbnRNbXNfRkZORjhHbnBPWklaTF9DRUN1RHlCZFd3Z2V3Y3V4emxHVmREX3kzSThWSzcwQzA2RTVUalhvWDlTMkQzUlBCYkJlTDFhcVBkQVNMUXZPSF9tOU5oQmN1UWNZeFduSS1FcFZPNlYxSTk4X1BOUU5DbUNWT3gtNHFwNlM2NDVMX19uSHBlaXZJWWlvQjd4WFJER3IzY3Zqc1BQQW8wSVBIemYzYWZWb01HY3E0Y3hLONIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
+- **[Creadores] Antonio Menéndez respalda el bacheo de Lonche de Huevito en Los Mochis - Sinaloahoy** — 07/11/2026 06:33 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmo5WW0wNGNRNEpNS2VUbG9XQjlRVUNPa2FSZUE4RXlOUkhieUs5ZlBtMEhKVURHTnJqaXVRcHdmdEQtbWJLR3V6RlEtdUtTRUZiT2ZXbTRCS2xIQzRiUF9sQnViN0NWR3RIU2tFeG5HLUoxX2dlbXpOd0xhbTdRQnJVSGJnMEt6LVdNdTQ4UWpOYTNndm1IQTNxdkNadEtoZlJaUWEwaEZjMHda?oc=5)
 - **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
-- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Cauca** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwFBVV95cUxON1hNSjI5NHJnNFR3M0Z0Z25DdzJIcERTVndSbTlrdWZ4clVYUEtrdFljQkc3T0JZRWJsbWxKN2tqUUdyVURsM3VodHVraGNKWk5aZ2xoZDQySkVSYkVaU1UxbzlEODcxeVJsS0tzS0p0TzE0aElIdG1qZWhrcXI5TmV6NTMzUjJKZm1sOWV0dTN6cC1ydmoxNFowS3h3Z0M4Tnl4eGFlMVRGc2M4WXRuYXlTNTBGTGRrcDdZWmZ6WQ?oc=5)
+- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Cauca** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixgFBVV95cUxNajdYZEVMbWJrVVNpX05nUkpKaWtMRWRoQU1zTGVGVDhfVzBDeXlzZWlTLVZRNDFfd2RXdU9yRWFMYmRXVV9hYmtYQ1lMTDl1SGlTRGR5WUZNalEydjd3dFBHNmNmQUNPT1pvTmp4R08wYW9WT3lCaDN0S0pTVmdFSkpuN0l2WjBCbHozOTh5UjZRUGM0LVRUbDdvbVMtQ0ZWRS1selFfdmx5OHI2Vjd6VF9TQzVCYk9udVE0UUIta1NLNXFzS2c?oc=5)
 - **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
-- **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
+- **[Creadores] Yeferson Cossio arremetió contra los rumores de infidelidad a su novia Carolina Gómez - La Kalle** — 06/11/2026 06:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWRncmRUMFFkbEFzM3dEVzhmNGNhRDFTeFZYOE1LOEY4X1hGQmhXV0Z5ZEp1OFRxWGlTY3o3UTJXX1IxV01rVEdORDVOWUNXeTNDUXdqaEh2bkNDa3IwQ0lMTUt5S040S043LUtzNHVyRHU0c0NlN1B4MHpNVGxaYjdUaWpuQmJhR2txSGdTdG9kMDlhZ1dUSGJPMVVmMlFNX2c1cXJxbWpqWHhRNHI4U2hzdkVlMkV0bVBYZnNCd2lXZnFCWWJlUl9zRVQ1cjczaWtvZmd2STVaeHhZVUHSAesBQVVfeXFMTkRXWTNxWTVQV2pZODVrRjRiUm90LVdFTVVKeUduNG4yMjk0UnhDb2hUNzhoNlk0SkVEOWR2NFlyYjBHcmFSN0FDTTRLR2tmU2VnNXQ0N3FRVkVwZnREV091TG93Q2J2dmRRUTZPZUw1N3hsNjZEVVJsWFYtX3VCMmUwdXp1dERqTzQ4WlBLeEJ5a2tnQUhNOEh6bWlaRlljVFBnZVM0R3dfTUdMakJnb25wRTFuZmlJNlJlaW8tQ2s4UUEwRkY5bkM3UWNoTTduYkUzLUk0LVlHQ1FsSGptTTVfbmRXY0VsTUFfcw?oc=5)
 - **[Creadores] ¿Aída Victoria Merlano espera otro bebé? El video que desató rumores entre sus seguidores - Colombia.com** — 06/11/2026 06:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbU9sSFdRYktIdXFwd1ZTVzRFQ3NfSi1uREVjclpoaHd1OFhjQ2hUUHc1Vm90emRmcG8tYkZsU01DZTJ3SUpGMjktenBycUpEREZ0bE9PNkVqbDRDMDltNU1SclJhQWV3UEhhRDRoR1BnOGF3aXRNWjMxMGZrZmU0NWJhVHlkYUJPUjFyNEdzQVZjdFVnZFRhMkF6NXhkQXItSkpxSFdDOWdxcDhHSlFWVVV5TVgzdVZiOERYaE5pQkExZzlQWE5OVWpR?oc=5)
-- **[Creadores] ¿Nuevo amor? Laura Acuña fue vista con empresario en la boda de Pipe Bueno y Luisa Fernanda W - La Opinión Cúcuta** — 06/11/2026 12:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0d1b08tOVZaYkRqOXVDZ1VYSDJtMGlvY1hDTmRBSnVnVkRSOUdYdjNwRG5aY3lhaFpraXVUTDNqVHR0RE54UDJQYVF4WFVpSnB3Rll6WUJjVFpVNTVodG1tc2JTdmZScFloTDlYSjJCMmhxVVExSEJsaFg5cWhta3kwQmxEYUg5NjRvRjVkZkxyMEpfZDhCSnJMaEJaTl81aG1ENElPTVJiRzNJV3RXMTB5MUEzOVRf?oc=5)
-- **[Creadores] Yina Calderón habla de Sech y cuestiona la cartelera musical de Stream Fighters - Día a Día** — 06/11/2026 10:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2JkWXhzb2cybUVLb2c5Z1Vhc2FTWlotTWFqNWxYbklCQVpDWGF0NUgzZE91SXdqYlM0T0Q2S0ZWTHc3cFBGTjVBMExBXzdXQnhSdTdYU3dpckVGT1ZDb0hZbGYyUzZGYWZjclk2dlFnaHI5V0ZDblhlRERNTVA3Y1JUOTcyUi1lOGFIcUswZEMzQy02UUZMTTBlaXl5YVBENmU4Y0RXUEpwR1NISHFWXzYyX2pqbDZvLWfSAb4BQVVfeXFMTkdRX2RZWThUZHl5ZUF6REJBRW5hc1A4X2tOeUJZamF0c1lfTlF5YkEwcERZQ1hKVjlKQjNiNFEtN3pxY3JxeHBVOGxUR1A4MTB6Mk5udXg3eXdyODNISzBYQ3RTYl95ZkYzTGRSWERmX3JoOVZ2Tm43SExGQkpqNFNBbVVhektYTFE0NVJJNlhqaVRkVnFQRWhLT2cyS0lpSVl6WDM5T1VHWHBLTWl1LWRSNFdlcUpnczdGakNDUQ?oc=5)
 
 ## Creadores principales vigilados
 
