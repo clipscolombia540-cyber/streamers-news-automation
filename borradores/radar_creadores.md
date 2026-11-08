@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 08/11/2026 05:37 AM (hora de Colombia)
+Actualizado: 08/11/2026 07:40 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 11.
 Noticias recientes: 14.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
+Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
 - Canal que publico: Tommy
 - Publicado: 07/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 149.414
+- Vistas reportadas por YouTube: 154.804
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
+
+### Grian votes for the Streamer Awards
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos de streamers
+- Canal que publico: mcc-clips
+- Publicado: 06/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 95.044
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - Categoria: Clip de terceros
@@ -37,9 +47,19 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
 - Canal que publico: Samulx
 - Publicado: 08/11/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.812
+- Vistas reportadas por YouTube: 18.965
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
+
+### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 06/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 7.311
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
 - Categoria: Clip de terceros
@@ -47,19 +67,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
 - Canal que publico: basuquito
 - Publicado: 07/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 500
+- Vistas reportadas por YouTube: 510
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
-
-### ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- Categoria: Clip de terceros
-- Creador/canal detectado: Pelicanger
-- Canal que publico: Vacacow
-- Publicado: 07/11/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.711
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=WJSerrD11YI
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - Categoria: Clip de terceros
@@ -71,25 +81,25 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
-### FULLY Explaining The CHANTY BELUGA Situation
+### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: LLanerosGamerTM
+- Publicado: 07/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
+
+### FULLY Analyzing The CHANTY BELUGA Situation
 - Categoria: Clip de terceros
 - Creador/canal detectado: Chanty
 - Canal que publico: Whatwise
 - Publicado: 07/11/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 82
+- Vistas reportadas por YouTube: 85
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
-
-### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: LLanerosGamerTM
-- Publicado: 06/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - Categoria: Cuenta de clips
@@ -98,9 +108,20 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 1.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.708
+- Vistas reportadas por YouTube: 15.951
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### CHANTY IRL SALIENDO POR MEDELLIN
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 07/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 77
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -115,6 +136,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
+
+### Grian votes for the Streamer Awards
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
+- **Título sugerido:** Grian votes for the Streamer Awards
+- **Texto en pantalla:** Grian votes for the Streamer Awards
+- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gugMvywMbBk
 
 ### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
@@ -136,6 +167,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=s0BJLb8qHnc
 
+### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
+- **Texto en pantalla:** 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ 
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=FrhScEHkG-A
+
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -145,16 +186,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
-
-### ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
-- **Título sugerido:** ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- **Texto en pantalla:** ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WJSerrD11YI
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -166,16 +197,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
-### FULLY Explaining The CHANTY BELUGA Situation
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** FULLY Explaining The CHANTY BELUGA Situation
-- **Texto en pantalla:** FULLY Explaining The CHANTY BELUGA Situation
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
-
 ### ESTO ES LO PRIMERO QUE HARE AL JUGAR GTA 6 | FT Rey de la city, Samuxl y Daren
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -186,6 +207,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
+### FULLY Analyzing The CHANTY BELUGA Situation
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** FULLY Analyzing The CHANTY BELUGA Situation
+- **Texto en pantalla:** FULLY Analyzing The CHANTY BELUGA Situation
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
+
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -195,6 +226,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### CHANTY IRL SALIENDO POR MEDELLIN
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Noticias y contexto
 
@@ -236,7 +277,7 @@ Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferi
 - **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-08
   - https://www.youtube.com/watch?v=Yh4xdMGCNEI
   - https://www.youtube.com/watch?v=f4weInVu_bE
-- **Grian votes for the Streamer Awards** (candidata por revisar) — última detección: 2026-11-07
+- **Grian votes for the Streamer Awards** (candidata por revisar) — última detección: 2026-11-08
   - https://www.youtube.com/watch?v=gugMvywMbBk
 - **DEDsafio Minecraft** (confirmada) — última detección: 2026-11-06
   - https://www.youtube.com/watch?v=IvoLyxkvmnI
