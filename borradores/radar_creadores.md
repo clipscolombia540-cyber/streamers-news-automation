@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 08/11/2026 01:50 AM (hora de Colombia)
+Actualizado: 08/11/2026 03:45 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 13.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente por verificar: 1.
+Clips incluidos: 8.
+Noticias recientes: 14.
+Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,9 +15,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Tommy
-- Publicado: 07/11/2026 03:00 PM
+- Publicado: 07/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 124.364
+- Vistas reportadas por YouTube: 141.076
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
@@ -37,19 +37,19 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: basuquito
 - Publicado: 07/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 458
+- Vistas reportadas por YouTube: 490
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Steve
-- Publicado: 07/11/2026 12:00 PM
+- Canal que publico: Samulx
+- Publicado: 08/11/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.228
+- Vistas reportadas por YouTube: 3.048
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
+- Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - Categoria: Clip de terceros
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: OCTOPUS INC
 - Publicado: 07/11/2026 10:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 6
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
@@ -78,7 +78,7 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.486
+- Vistas reportadas por YouTube: 15.328
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
@@ -89,19 +89,9 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Canal que publico: MILICA CLIPS
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 75
+- Vistas reportadas por YouTube: 77
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
-
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 06/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 631
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=KiJms2-SYds
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -137,15 +127,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
-- **Texto en pantalla:** Westcol wins TWO BILLION betting with Kevin Hart | Best moments
+- **Título sugerido:** TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
+- **Texto en pantalla:** TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELIC
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ovWgaXhahLM
+- **Fuente original:** https://www.youtube.com/watch?v=s0BJLb8qHnc
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -187,24 +177,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
 
-### CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.102 | Una Sensación Del Bloque 🤣
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=KiJms2-SYds
-
 ## Noticias y contexto
 
+- **[Creadores] Burlas a La Liendra por video bailando y cantando tema de Rauw Alejandro - Alerta** — 08/11/2026 12:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUNIBvAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUA?oc=5)
 - **[Creadores] Reconoce COMUN calidad de bacheo que realiza Lonche de Huevito; buscarán coordinación - Noticiero Altavoz** — 07/11/2026 08:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFRXWkxfY1QwNFdsSnhscUxIczk3R040LVBTZ05nLVp6cE5qZzZKWU43OU8yVUs3S2Q1MEl3blR3b0lWSnpHRGR2QXFFOThRVEhMMWNmc1ZrWmltaVliR09xLU5aRVhOTU92WXc0Tmd1MWVja2VHTEh4a1Zhc1I5YjJuaTVEMFV3UmJpRV9rd19xS0RybVRQZXVmVW11MGo4SHNzckM3ODlUbFpISWRPV1J5Q0k?oc=5)
 - **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MNIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
 - **[Creadores] Lonche de Huevito bachea por segundo día consecutivo calles de Los Mochis - Debate** — 07/11/2026 05:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2l0S2xkbE41N2JPc1dVOHdJclRxN1pMQ2lRNDl4aldjVkhJbXdyLVNhaXE5c0JpSm5jZFEwVEtTT0Y5SWVNaDBCaWVTeU50RWxVdUw0bnlTSDlLd1Z0OGlCSXBnX1h2YlEwanNJd2phLXZNUHdjSGx0dFF6NGpYRWlmbllYek9FR2Vac2kwM21PSzQyQV9zWWNjaS0wNTBQbklkd195NHRVQ0o3MWJndlZNV1h4TVB4TG96ZE9BSnE4YVF0SWwtajhVUDFoc1BTMEE?oc=5)
 - **[Creadores] “No soy el profesor ni el papá de nadie”: WestCOL y su postura sobre la responsabilidad de los streamers con la audiencia - Infobae** — 07/11/2026 03:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmZwTVpaV0hJVnk0NnlyelIxT3hHQWVTQ21pR3J5aEU1bEVkQWhRRnhPWGtxWTRGcTFNZXM2VnRVWnlUN2lCSmd1aHZyT2ZEdmxtTFhITjUtRGxQZ1M4N18ySlRKUGsyRmNsdEdPQkc1bDJyQUtPVWU0NHJSelpBeGpRVVZCZFFDUDRJejZRaTVHOS1DQVBIdU5MVlo3OWFkSVBLemlIcGFJT0tZa2xneHBieTNZSEZxN3c4RlJnaGlEREs3REdPOVZ4bkNTNGdzaVVmQlg4Y1o4R2RfMG50SE96SWUtWXQ4VWRja21GblVLUdIBjAJBVV95cUxQUkl5NVNBdnpyQU95YnVwQ3pZU0RqbWFPazhRVXJzazg5empUQnloREFIemRhZ214TGhmRTlTLTFGTDlzOGlycUZ2VTRuMGNRYjZNYVROM01zUzBOVTYzbzk3NjJPcDJsWDVUTHFDZm8xaWtMN0NXYlA0Z0tEakRyYkNNakZjc1hFNHA2clRfUndfOGVSR0d4YndwdVlCVUdqeWFkM0FvVENkeGF1Z1QtSjBraDBMV0JmVno1Wm85MmlNUHQyNndtOTllZXpQTFN0QzVNUkZUYnpXLUJuV3VvOWpGS3VBTExDUVZXUlZNNmFubGRad1lMdFRVRG01VEZoZWp6NlhOQ1pyWVQw?oc=5)
 - **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
-- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Sur** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTRqNDQxNy10cWJ2TElqTDJjNEZ0Rnp1cjZJbGtkemhQSUJaaDRJRnM2QUhHMGtOb1MxcVJXTVdsMFdZRFN6VXBqV0R2OHM3clBreVRQRlJTM3lyU1NJeVBuMUxUOGhlQzlsY2Q1NG5FWkwtejhJQ19oS2hjNlJzWVFhcGhsMjMwdWRnUkhjR1VSQUtrTmtDVkoyY3lWZ0FqMVE5V1dTMHpPLURScjJCRHBacTZyYlB4ZGFzSA?oc=5)
+- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infidelidad a Carolina Gómez - Diario del Sur** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTRqNDQxNy10cWJ2TElqTDJjNEZ0Rnp1cjZJbGtkemhQSUJaaDRJRnM2QUhHMGtOb1MxcVJXTVdsMFdZRFN6VXBqV0R2OHM3clBreVRQRlJTM3lyU1NJeVBuMUxUOGhlQzlsY2Q1NG5FWkwtejhJQ19oS2hjNlJzWVFhcGhsMjMwdWRnUkhjR1VSQUtrTmtDVkoyY3lWZ0FqMVE5V1dTMHpPLURScjJCRHBacTZyYlB4ZGFzSA?oc=5)
 - **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
 - **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
