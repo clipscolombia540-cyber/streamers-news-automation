@@ -1,6 +1,21 @@
 {
-  "actualizado": "2026-11-07T23:47:29.291530-05:00",
+  "actualizado": "2026-11-08T01:50:04.530220-05:00",
   "series": [
+    {
+      "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
+      "ultima_deteccion": "2026-11-08T01:50:04.530220-05:00",
+      "canal_muestra": "Drice Gamerz",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=Yh4xdMGCNEI",
+        "https://www.youtube.com/watch?v=f4weInVu_bE",
+        "https://www.youtube.com/watch?v=DGfL6KYmORw",
+        "https://www.youtube.com/watch?v=ZPrz85wfiQo",
+        "https://www.youtube.com/watch?v=Z5rGUBl174E"
+      ]
+    },
     {
       "nombre": "Grian votes for the Streamer Awards",
       "tipo": "serie_o_tema_candidato",
@@ -10,21 +25,6 @@
       "canal_muestra": "mcc-clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=gugMvywMbBk"
-      ]
-    },
-    {
-      "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
-      "ultima_deteccion": "2026-11-07T23:47:29.291530-05:00",
-      "canal_muestra": "Drice Gamerz",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=Yh4xdMGCNEI",
-        "https://www.youtube.com/watch?v=f4weInVu_bE",
-        "https://www.youtube.com/watch?v=DGfL6KYmORw",
-        "https://www.youtube.com/watch?v=ZPrz85wfiQo",
-        "https://www.youtube.com/watch?v=Z5rGUBl174E"
       ]
     },
     {
