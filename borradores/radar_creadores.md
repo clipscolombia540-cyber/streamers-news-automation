@@ -1,10 +1,10 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 08/11/2026 07:40 AM (hora de Colombia)
+Actualizado: 08/11/2026 09:35 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 11.
-Noticias recientes: 14.
+Noticias recientes: 13.
 Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Tommy
 - Publicado: 07/11/2026 04:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 154.804
+- Vistas reportadas por YouTube: 160.985
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
 
@@ -27,7 +27,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: mcc-clips
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 95.044
+- Vistas reportadas por YouTube: 99.329
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=gugMvywMbBk
 
@@ -47,8 +47,8 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: Samulx
 - Publicado: 08/11/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 18.965
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 30.466
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
 
 ### 😡GARENA THIS F*CKING GAME HAS ME STRESSED😂 | Mrstiven Funny Moments ✨ #freefire #mrstiven #ff
@@ -57,7 +57,7 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Canal que publico: INMORTAL FF
 - Publicado: 06/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.311
+- Vistas reportadas por YouTube: 7.334
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=FrhScEHkG-A
 
@@ -91,26 +91,24 @@ Distribución por categoría: Clip de terceros: 9, Cuenta de clips: 2.
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### FULLY Analyzing The CHANTY BELUGA Situation
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: Whatwise
-- Publicado: 07/11/2026 10:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 85
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
-
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Moroclips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Moroclips
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: Canal no identificado
 - Publicado: 07/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.951
-- Puntaje heurístico de interés: 4
+- Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Reydelacityclips
+- Canal que publico: Reydelacityclips
+- Publicado: 08/11/2026 09:27 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=2I-HStUsD7A
 
 ### CHANTY IRL SALIENDO POR MEDELLIN
 - Categoria: Cuenta de clips
@@ -207,16 +205,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=MUQYbcYpGA8
 
-### FULLY Analyzing The CHANTY BELUGA Situation
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** FULLY Analyzing The CHANTY BELUGA Situation
-- **Texto en pantalla:** FULLY Analyzing The CHANTY BELUGA Situation
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
-
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -226,6 +214,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Reydelacityclips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Reydelacityclips.
+- **Título sugerido:** IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
+- **Texto en pantalla:** IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Reydelacityclips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=2I-HStUsD7A
 
 ### CHANTY IRL SALIENDO POR MEDELLIN
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -245,14 +243,13 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Lonche de Huevito bachea por segundo día consecutivo calles de Los Mochis - Debate** — 07/11/2026 05:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2l0S2xkbE41N2JPc1dVOHdJclRxN1pMQ2lRNDl4aldjVkhJbXdyLVNhaXE5c0JpSm5jZFEwVEtTT0Y5SWVNaDBCaWVTeU50RWxVdUw0bnlTSDlLd1Z0OGlCSXBnX1h2YlEwanNJd2phLXZNUHdjSGx0dFF6NGpYRWlmbllYek9FR2Vac2kwM21PSzQyQV9zWWNjaS0wNTBQbklkd195NHRVQ0o3MWJndlZNV1h4TVB4TG96ZE9BSnE4YVF0SWwtajhVUDFoc1BTMEE?oc=5)
 - **[Creadores] “No soy el profesor ni el papá de nadie”: WestCOL y su postura sobre la responsabilidad de los streamers con la audiencia - Infobae** — 07/11/2026 03:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmZwTVpaV0hJVnk0NnlyelIxT3hHQWVTQ21pR3J5aEU1bEVkQWhRRnhPWGtxWTRGcTFNZXM2VnRVWnlUN2lCSmd1aHZyT2ZEdmxtTFhITjUtRGxQZ1M4N18ySlRKUGsyRmNsdEdPQkc1bDJyQUtPVWU0NHJSelpBeGpRVVZCZFFDUDRJejZRaTVHOS1DQVBIdU5MVlo3OWFkSVBLemlIcGFJT0tZa2xneHBieTNZSEZxN3c4RlJnaGlEREs3REdPOVZ4bkNTNGdzaVVmQlg4Y1o4R2RfMG50SE96SWUtWXQ4VWRja21GblVLUdIBjAJBVV95cUxQUkl5NVNBdnpyQU95YnVwQ3pZU0RqbWFPazhRVXJzazg5empUQnloREFIemRhZ214TGhmRTlTLTFGTDlzOGlycUZ2VTRuMGNRYjZNYVROM01zUzBOVTYzbzk3NjJPcDJsWDVUTHFDZm8xaWtMN0NXYlA0Z0tEakRyYkNNakZjc1hFNHA2clRfUndfOGVSR0d4YndwdVlCVUdqeWFkM0FvVENkeGF1Z1QtSjBraDBMV0JmVno1Wm85MmlNUHQyNndtOTllZXpQTFN0QzVNUkZUYnpXLUJuV3VvOWpGS3VBTExDUVZXUlZNNmFubGRad1lMdFRVRG01VEZoZWp6NlhOQ1pyWVQw?oc=5)
 - **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
-- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infidelidad a Carolina Gómez - Diario del Sur** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTRqNDQxNy10cWJ2TElqTDJjNEZ0Rnp1cjZJbGtkemhQSUJaaDRJRnM2QUhHMGtOb1MxcVJXTVdsMFdZRFN6VXBqV0R2OHM3clBreVRQRlJTM3lyU1NJeVBuMUxUOGhlQzlsY2Q1NG5FWkwtejhJQ19oS2hjNlJzWVFhcGhsMjMwdWRnUkhjR1VSQUtrTmtDVkoyY3lWZ0FqMVE5V1dTMHpPLURScjJCRHBacTZyYlB4ZGFzSA?oc=5)
+- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Cauca** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwFBVV95cUxON1hNSjI5NHJnNFR3M0Z0Z25DdzJIcERTVndSbTlrdWZ4clVYUEtrdFljQkc3T0JZRWJsbWxKN2tqUUdyVURsM3VodHVraGNKWk5aZ2xoZDQySkVSYkVaU1UxbzlEODcxeVJsS0tzS0p0TzE0aElIdG1qZWhrcXI5TmV6NTMzUjJKZm1sOWV0dTN6cC1ydmoxNFowS3h3Z0M4Tnl4eGFlMVRGc2M4WXRuYXlTNTBGTGRrcDdZWmZ6WQ?oc=5)
 - **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
 - **[Creadores] Yeferson Cossio apareció en urgencias por un fuerte dolor abdominal - Infobae** — 06/11/2026 07:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkUxMmp1ZENSMnZEcXpXdHRlaVpKQkhzOUo4UGpFNW1tLVBPWW8yT19rSzBmb3hOU3Vob2JMQ0dlc25Eaktuclo3SnBRaHJ3cDFVYjlobURpWEhUZkl5SDh6SzlHZEtET2d2ZXpjeVkxRVhuQzY4OW43RGI2RVBSZk4yaW0zdW02QXVTaEhYLXE0TTk5cG1Qek1DUndyN01uMG9wcmRMRHQ1bEkwcUE1M2tzNWs3X1g2VDhZLVpMa2E?oc=5)
 - **[Creadores] Luisa Fernanda W cambia de look antes de su luna de miel con Pipe Bueno - Revista Aló** — 06/11/2026 06:51 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQdIBwgFBVV95cUxNQXlvd3NmeTRLcERqT0QyX0YydlQ0NWVGbTZ6NVJjbV9VUG15SjRJZHI1N2VzLTlWRnN3VmdrTmx5S3Z4WGMyWHZmTFFsUjRZeC1HN05MajFQQ3hYVy1WTm1sTTMwQnJiZ1hvMWhta1Y0Mzhfb2VBYnc4V0JERFhaYlRtbHhoaGVVTmxuam1Eelc3VWJwRzVjdUIxVXNVdmE0T0IxZUpwM050X0FPNVFYZ0JZdlI3RmtZaTRoMUZMMjlTQQ?oc=5)
 - **[Creadores] ¿Aída Victoria Merlano espera otro bebé? El video que desató rumores entre sus seguidores - Colombia.com** — 06/11/2026 06:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbU9sSFdRYktIdXFwd1ZTVzRFQ3NfSi1uREVjclpoaHd1OFhjQ2hUUHc1Vm90emRmcG8tYkZsU01DZTJ3SUpGMjktenBycUpEREZ0bE9PNkVqbDRDMDltNU1SclJhQWV3UEhhRDRoR1BnOGF3aXRNWjMxMGZrZmU0NWJhVHlkYUJPUjFyNEdzQVZjdFVnZFRhMkF6NXhkQXItSkpxSFdDOWdxcDhHSlFWVVV5TVgzdVZiOERYaE5pQkExZzlQWE5OVWpR?oc=5)
 - **[Creadores] ¿Nuevo amor? Laura Acuña fue vista con empresario en la boda de Pipe Bueno y Luisa Fernanda W - La Opinión Cúcuta** — 06/11/2026 12:27 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0d1b08tOVZaYkRqOXVDZ1VYSDJtMGlvY1hDTmRBSnVnVkRSOUdYdjNwRG5aY3lhaFpraXVUTDNqVHR0RE54UDJQYVF4WFVpSnB3Rll6WUJjVFpVNTVodG1tc2JTdmZScFloTDlYSjJCMmhxVVExSEJsaFg5cWhta3kwQmxEYUg5NjRvRjVkZkxyMEpfZDhCSnJMaEJaTl81aG1ENElPTVJiRzNJV3RXMTB5MUEzOVRf?oc=5)
 - **[Creadores] Yina Calderón habla de Sech y cuestiona la cartelera musical de Stream Fighters - Día a Día** — 06/11/2026 10:51 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2JkWXhzb2cybUVLb2c5Z1Vhc2FTWlotTWFqNWxYbklCQVpDWGF0NUgzZE91SXdqYlM0T0Q2S0ZWTHc3cFBGTjVBMExBXzdXQnhSdTdYU3dpckVGT1ZDb0hZbGYyUzZGYWZjclk2dlFnaHI5V0ZDblhlRERNTVA3Y1JUOTcyUi1lOGFIcUswZEMzQy02UUZMTTBlaXl5YVBENmU4Y0RXUEpwR1NISHFWXzYyX2pqbDZvLWfSAb4BQVVfeXFMTkdRX2RZWThUZHl5ZUF6REJBRW5hc1A4X2tOeUJZamF0c1lfTlF5YkEwcERZQ1hKVjlKQjNiNFEtN3pxY3JxeHBVOGxUR1A4MTB6Mk5udXg3eXdyODNISzBYQ3RTYl95ZkYzTGRSWERmX3JoOVZ2Tm43SExGQkpqNFNBbVVhektYTFE0NVJJNlhqaVRkVnFQRWhLT2cyS0lpSVl6WDM5T1VHWHBLTWl1LWRSNFdlcUpnczdGakNDUQ?oc=5)
-- **[Creadores] Yina Calderón prende las redes y dice que Sech no pega una canción hace rato - CRÍTICA** — 06/11/2026 09:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHBLdEx5SURSS3Q4S3N0TFkxUVZFVWpSR0w3cjNSdTc2emkxZXBUbkJacFlzMllKdWgwaEFwT0NsMFp6cVMwajJ1YUotTVFrSHBfT0NWbDNvYXFqSldXaU92WjlGa1BQcDQ5TFZQMFRBZ1lzNTVnQmxfcThpUTdvMlc1SUcxQzFNR0lDUmFtZWszUThfZFZqUXA2YjdEWmhzU1lmSmhpZjI5ZWttbzZINTJSLS1IZ9IBuwFBVV95cUxNM1VKM1BWMjRkOHhHU0pVeTFsOElGeUNnVWlqanMzLVI1b3REekNZY0FoMGVVSEp4dHg5RjNHMWg2MUVVUmZHRlV5RVl0VGJmMURpUS1zZmdNSHQ2UWtWS1RpU2NxdGNaSU1yMlRJcTQtbVRuS0F1VUsxWm1fRHZKdGNmcF80dVQxZjRkUE94LWRXM1ZKWGNJLVRWeTdCZ3ZsaXJYYjhXWFN2WldfYVRJbWZiUzVzS2ZyYUI0?oc=5)
 
 ## Creadores principales vigilados
 
