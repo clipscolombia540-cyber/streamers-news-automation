@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 09/11/2026 04:27 AM (hora de Colombia)
+Actualizado: 09/11/2026 03:31 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
+Clips incluidos: 11.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,9 +17,19 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: Tommy
 - Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 226.148
+- Vistas reportadas por YouTube: 234.035
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
+
+### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 09/11/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.599
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=eXzwYG-bH78
 
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
 - Categoria: Clip de terceros
@@ -27,39 +37,49 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: basuquito
 - Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 798
+- Vistas reportadas por YouTube: 885
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
+### HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
 - Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 08/11/2026 11:00 PM
+- Creador/canal detectado: Samulx
+- Canal que publico: basuquito
+- Publicado: 09/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.755
+- Vistas reportadas por YouTube: 216
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=eXzwYG-bH78
+- Enlace directo: https://www.youtube.com/watch?v=Eq91hX8WjqM
 
-### Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+### WESTCOL WINS TWO BILLION betting with Kevin Hart | Best moments
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Steve
-- Publicado: 08/11/2026 11:00 AM
+- Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 583
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=_ZgCiReSXBQ
+- Vistas reportadas por YouTube: 3.226
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=ovWgaXhahLM
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - Categoria: Clip de terceros
 - Creador/canal detectado: Lonche de Huevito
 - Canal que publico: OCTOPUS INC
-- Publicado: 07/11/2026 07:00 PM
+- Publicado: 08/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
+
+### FULLY Explaining The CHANTY BELUGA Situation
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Whatwise
+- Publicado: 07/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 155
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - Categoria: Cuenta de clips
@@ -68,18 +88,29 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.574
+- Vistas reportadas por YouTube: 28.195
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### WILLITO HABLA DE ODETTE ORLENA EN LA MANSIÓN VIP 😱 + CHUPISTREAM CON LONCHE, JELTY Y SOYPAN 🤣
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Lonche de Huevito
+- Canal que publico: Clips de Willito
+- Publicado: 09/11/2026 02:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 356
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=TE7EqtEm0-A
 
 ### A DAY AS A LIFEGUARD ft CHANTY🛟
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Piquiña Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: Piquiña Clips
-- Publicado: 08/11/2026 06:00 PM
+- Publicado: 08/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8
+- Vistas reportadas por YouTube: 90
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5e6g1Y2Mqzs
 
@@ -87,9 +118,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Canal que publico: Reydelacityclips
-- Publicado: 08/11/2026 09:00 AM
+- Publicado: 08/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=2I-HStUsD7A
 
@@ -107,16 +138,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
 
-### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
-
 ### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -127,15 +148,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=eXzwYG-bH78
 
-### Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
+
+### HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
+- **Texto en pantalla:** HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Eq91hX8WjqM
+
+### WESTCOL WINS TWO BILLION betting with Kevin Hart | Best moments
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
-- **Texto en pantalla:** Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+- **Título sugerido:** WESTCOL WINS TWO BILLION betting with Kevin Hart | Best moments
+- **Texto en pantalla:** WESTCOL WINS TWO BILLION betting with Kevin Hart | Best moments
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_ZgCiReSXBQ
+- **Fuente original:** https://www.youtube.com/watch?v=ovWgaXhahLM
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -147,6 +188,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
+### FULLY Explaining The CHANTY BELUGA Situation
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** FULLY Explaining The CHANTY BELUGA Situation
+- **Texto en pantalla:** FULLY Explaining The CHANTY BELUGA Situation
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
+
 ### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -156,6 +207,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
+
+### WILLITO HABLA DE ODETTE ORLENA EN LA MANSIÓN VIP 😱 + CHUPISTREAM CON LONCHE, JELTY Y SOYPAN 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** WILLITO HABLA DE ODETTE ORLENA EN LA MANSIÓN VIP 😱 + CHUPISTREAM CON LONCHE, JELTY Y SOYPAN 🤣
+- **Texto en pantalla:** WILLITO HABLA DE ODETTE ORLENA EN LA MANSIÓN VIP 😱 + CHUPISTREAM CON L
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=TE7EqtEm0-A
 
 ### A DAY AS A LIFEGUARD ft CHANTY🛟
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -179,13 +240,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Luisa Fernanda W reveló, durante su luna de miel, curiosa actividad de Pipe Bueno en los inicios de su relación: “Se obsesionó” - Infobae** — 09/11/2026 11:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTZBakNzdXNzTkZFM2pOSEJVNC1uQXktd3I0LXJkWUdwUUlLdXFORllHRnhBR2N1Nk55Ti1Qb2VWMkVSazFlbDY4OU1VTVJXMDF2S2lZUFpDaFR3OFZVREotdTIxZmE4NzFveFAxTDhwcUpyeTgwRk9nUXpONGJvV05uRVZ2a2hkVWhVLXZ2bTY5Y1VFX0FfM0NWbjExY21XS1hKTGFLVDhGMUVXX25XMk1wZ0txM3lfNlVMV3VXWUphZElEcm02QUNPQW1zSzZjT0loSXJEbWtIcGRzR0NDd1piUm5mOW5hanQyXy1wQkhEajdlRW81NWhYcmJGVkVnVEx4LTFLS193dmhCLTdDc010TFBBZ9IBlgJBVV95cUxQaTZBakNzdXNzTkZFM2pOSEJVNC1uQXktd3I0LXJkWUdwUUlLdXFORllHRnhBR2N1Nk55Ti1Qb2VWMkVSazFlbDY4OU1VTVJXMDF2S2lZUFpDaFR3OFZVREotdTIxZmE4NzFveFAxTDhwcUpyeTgwRk9nUXpONGJvV05uRVZ2a2hkVWhVLXZ2bTY5Y1VFX0FfM0NWbjExY21XS1hKTGFLVDhGMUVXX25XMk1wZ0txM3lfNlVMV3VXWUphZElEcm02QUNPQW1zSzZjT0loSXJEbWtIcGRzR0NDd1piUm5mOW5hanQyXy1wQkhEajdlRW81NWhYcmJGVkVnVEx4LTFLS193dmhCLTdDc010TFBBZw?oc=5)
 - **[Creadores] VIDEO // ¿Qué sabe Westcol? Streamer invierte en provisiones por temor a ciberataque mundial - Grupo Marmor** — 08/11/2026 10:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnZzZklyUDNrUHA5amxXTzJ3bzAyQWwyNmpKZ3hKbE9zTFlWZnRSenQ5ZFAtZXFOeHRkYkJKTnhfbFk4elc1cTdUYVRBMWk4c1lNdVdaSGIwYkFwYmlCdVN0LXR2amk4NzFQRUc5WGZrZVpXQ2NBWFF6UC1yVlRPZlEyMmI2UHY5YWU5bWctbUFMTjlWMC1FUy1YNWVnRDdiNDZIdGEyM2tNT1JJcHNIRDFXbm95b2pYbV9scWIyU0Vwc1I4?oc=5)
 - **[Creadores] Burlas a La Liendra por video bailando y cantando tema de Rauw Alejandro - Alerta** — 08/11/2026 12:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUNIBvAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUA?oc=5)
 - **[Creadores] Reconoce COMUN calidad de bacheo que realiza Lonche de Huevito; buscarán coordinación - Noticiero Altavoz** — 07/11/2026 08:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFRXWkxfY1QwNFdsSnhscUxIczk3R040LVBTZ05nLVp6cE5qZzZKWU43OU8yVUs3S2Q1MEl3blR3b0lWSnpHRGR2QXFFOThRVEhMMWNmc1ZrWmltaVliR09xLU5aRVhOTU92WXc0Tmd1MWVja2VHTEh4a1Zhc1I5YjJuaTVEMFV3UmJpRV9rd19xS0RybVRQZXVmVW11MGo4SHNzckM3ODlUbFpISWRPV1J5Q0k?oc=5)
 - **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MNIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
 - **[Creadores] Lonche de Huevito bachea por segundo día consecutivo calles de Los Mochis - Debate** — 07/11/2026 05:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2l0S2xkbE41N2JPc1dVOHdJclRxN1pMQ2lRNDl4aldjVkhJbXdyLVNhaXE5c0JpSm5jZFEwVEtTT0Y5SWVNaDBCaWVTeU50RWxVdUw0bnlTSDlLd1Z0OGlCSXBnX1h2YlEwanNJd2phLXZNUHdjSGx0dFF6NGpYRWlmbllYek9FR2Vac2kwM21PSzQyQV9zWWNjaS0wNTBQbklkd195NHRVQ0o3MWJndlZNV1h4TVB4TG96ZE9BSnE4YVF0SWwtajhVUDFoc1BTMEE?oc=5)
-- **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
-- **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Cauca** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixgFBVV95cUxNajdYZEVMbWJrVVNpX05nUkpKaWtMRWRoQU1zTGVGVDhfVzBDeXlzZWlTLVZRNDFfd2RXdU9yRWFMYmRXVV9hYmtYQ1lMTDl1SGlTRGR5WUZNalEydjd3dFBHNmNmQUNPT1pvTmp4R08wYW9WT3lCaDN0S0pTVmdFSkpuN0l2WjBCbHozOTh5UjZRUGM0LVRUbDdvbVMtQ0ZWRS1selFfdmx5OHI2Vjd6VF9TQzVCYk9udVE0UUIta1NLNXFzS2c?oc=5)
 
 ## Creadores principales vigilados
 
