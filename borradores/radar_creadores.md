@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 08/11/2026 08:31 PM (hora de Colombia)
+Actualizado: 09/11/2026 04:27 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5.
+Clips incluidos: 8.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 3.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,19 +17,9 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5.
 - Canal que publico: Tommy
 - Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 214.751
+- Vistas reportadas por YouTube: 226.148
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
-
-### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Samulx
-- Publicado: 08/11/2026 03:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 275.584
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=s0BJLb8qHnc
 
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
 - Categoria: Clip de terceros
@@ -37,27 +27,37 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5.
 - Canal que publico: basuquito
 - Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 690
+- Vistas reportadas por YouTube: 798
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
+### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
 - Categoria: Clip de terceros
-- Creador/canal detectado: Pelicanger
-- Canal que publico: Vacacow
-- Publicado: 07/11/2026 07:00 PM
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 08/11/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.159
+- Vistas reportadas por YouTube: 1.755
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=WJSerrD11YI
+- Enlace directo: https://www.youtube.com/watch?v=eXzwYG-bH78
+
+### Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Steve
+- Publicado: 08/11/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 583
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=_ZgCiReSXBQ
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - Categoria: Clip de terceros
 - Creador/canal detectado: Lonche de Huevito
 - Canal que publico: OCTOPUS INC
-- Publicado: 07/11/2026 10:00 PM
+- Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7
+- Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
@@ -68,8 +68,8 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5.
 - Canal que publico: MR Moroclips
 - Publicado: 07/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 22.159
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 25.574
+- Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
 
 ### A DAY AS A LIFEGUARD ft CHANTY🛟
@@ -77,43 +77,21 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 5.
 - Creador/canal detectado: Cuenta de clips: Piquiña Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: Piquiña Clips
-- Publicado: 08/11/2026 07:00 PM
+- Publicado: 08/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 8
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=5e6g1Y2Mqzs
-
-### POR FIN ESTOY EN COLOMBIA 🙂🇨🇴 CONOCIENDO LA CASA DE WEST | Samulx
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: fabrizio clips
-- Creador relacionado en el título: Samulx
-- Canal que publico: fabrizio clips
-- Publicado: 08/11/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=hpitfv7ahPs
 
 ### IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Canal que publico: Reydelacityclips
-- Publicado: 08/11/2026 10:00 AM
+- Publicado: 08/11/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 7
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=2I-HStUsD7A
-
-### CHANTY IRL SALIENDO POR MEDELLIN
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 07/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 98
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=1UKID3pu0io
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -129,16 +107,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
 
-### TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELICIOUS | Samulx
-- **Texto en pantalla:** TRYING MEDELLIN STREET FOOD FOR THE FIRST TIME WITH WESTCOL 😯 SO DELIC
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=s0BJLb8qHnc
-
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -149,15 +117,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
 
-### ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
+### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
-- **Título sugerido:** ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- **Texto en pantalla:** ONLY UP BUT CHAINED TOGETHER☠️ | Chained Together with Pelicanger
-- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
+- **Texto en pantalla:** 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven 
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WJSerrD11YI
+- **Fuente original:** https://www.youtube.com/watch?v=eXzwYG-bH78
+
+### Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+- **Texto en pantalla:** Westcol SPENDS too much MONEY dressing up his ROBOT | Highlights
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=_ZgCiReSXBQ
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -189,16 +167,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=5e6g1Y2Mqzs
 
-### POR FIN ESTOY EN COLOMBIA 🙂🇨🇴 CONOCIENDO LA CASA DE WEST | Samulx
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** POR FIN ESTOY EN COLOMBIA 🙂🇨🇴 CONOCIENDO LA CASA DE WEST | Samulx
-- **Texto en pantalla:** POR FIN ESTOY EN COLOMBIA 🙂🇨🇴 CONOCIENDO LA CASA DE WEST | Samulx
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hpitfv7ahPs
-
 ### IMPROVISANDO CON LA GANGA ANTES DE LLEGAR A MIRANDA
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Reydelacityclips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -209,26 +177,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2I-HStUsD7A
 
-### CHANTY IRL SALIENDO POR MEDELLIN
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Texto en pantalla:** CHANTY IRL SALIENDO POR MEDELLIN
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=1UKID3pu0io
-
 ## Noticias y contexto
 
 - **[Creadores] VIDEO // ¿Qué sabe Westcol? Streamer invierte en provisiones por temor a ciberataque mundial - Grupo Marmor** — 08/11/2026 10:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnZzZklyUDNrUHA5amxXTzJ3bzAyQWwyNmpKZ3hKbE9zTFlWZnRSenQ5ZFAtZXFOeHRkYkJKTnhfbFk4elc1cTdUYVRBMWk4c1lNdVdaSGIwYkFwYmlCdVN0LXR2amk4NzFQRUc5WGZrZVpXQ2NBWFF6UC1yVlRPZlEyMmI2UHY5YWU5bWctbUFMTjlWMC1FUy1YNWVnRDdiNDZIdGEyM2tNT1JJcHNIRDFXbm95b2pYbV9scWIyU0Vwc1I4?oc=5)
 - **[Creadores] Burlas a La Liendra por video bailando y cantando tema de Rauw Alejandro - Alerta** — 08/11/2026 12:25 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUNIBvAFBVV95cUxOMUgtbWFSbHdqeEZsLTlnMEZWbnY2WEhxX1JEUEtUcW9qTldEUTE2YnZCd1lCMm5SOElBWE5JU3FHVkVRaFRpRFZXZTM2ajBrMEVaN0F3RVFvVy1GTWFDY2JueVl2T3ZHWURsQm0wU3hZOUZ1bkRQeG1uNUxkeGhxRUNkSWhmNEl3VTFyd1pqN0hUYkN4d2dkRUw2T0N4d1lycDhzMlZxNTAyelFVMEZnLUp3NzlWU2M3NzhnUA?oc=5)
 - **[Creadores] Reconoce COMUN calidad de bacheo que realiza Lonche de Huevito; buscarán coordinación - Noticiero Altavoz** — 07/11/2026 08:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFRXWkxfY1QwNFdsSnhscUxIczk3R040LVBTZ05nLVp6cE5qZzZKWU43OU8yVUs3S2Q1MEl3blR3b0lWSnpHRGR2QXFFOThRVEhMMWNmc1ZrWmltaVliR09xLU5aRVhOTU92WXc0Tmd1MWVja2VHTEh4a1Zhc1I5YjJuaTVEMFV3UmJpRV9rd19xS0RybVRQZXVmVW11MGo4SHNzckM3ODlUbFpISWRPV1J5Q0k?oc=5)
 - **[Creadores] Westcol salió en defensa de Aria Vega tras las críticas por su presencia en ‘Stream Fighters 5′ - Infobae** — 07/11/2026 07:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MNIB7wFBVV95cUxPWWxYeUpYTDRCaWtLMEhWRnEzcnF3TEhNOHJZMXlUQ3d4c1FPQWtpVEJwNTE0RWZrUWlfUlRUX0k0R0Nha2pSejJFWHltX2ZxMFY4TXdUNGNSMUt2cUFVTGxmVzhiOXM3T1Q3dzc2RlpzNVBsX0FEZU4zM1NTenBxZXluWVVZSEhaT0Rmb3BwMy1zZkZoOTBPeGQxRTM3TnlzQ2I3aTlOSWlLVXI3VWNDZWN3aWdmZ1BZRFB2eXh4XzFhbGZmSTcySTBCdHNqY0pDVDA5eWk5T2Fna0taRlEzUFNyZGJOZGNkZ2V3NHV3MA?oc=5)
-- **[Creadores] Antonio Menéndez respalda el bacheo de Lonche de Huevito en Los Mochis - Sinaloahoy** — 07/11/2026 06:33 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmo5WW0wNGNRNEpNS2VUbG9XQjlRVUNPa2FSZUE4RXlOUkhieUs5ZlBtMEhKVURHTnJqaXVRcHdmdEQtbWJLR3V6RlEtdUtTRUZiT2ZXbTRCS2xIQzRiUF9sQnViN0NWR3RIU2tFeG5HLUoxX2dlbXpOd0xhbTdRQnJVSGJnMEt6LVdNdTQ4UWpOYTNndm1IQTNxdkNadEtoZlJaUWEwaEZjMHda?oc=5)
+- **[Creadores] Lonche de Huevito bachea por segundo día consecutivo calles de Los Mochis - Debate** — 07/11/2026 05:24 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2l0S2xkbE41N2JPc1dVOHdJclRxN1pMQ2lRNDl4aldjVkhJbXdyLVNhaXE5c0JpSm5jZFEwVEtTT0Y5SWVNaDBCaWVTeU50RWxVdUw0bnlTSDlLd1Z0OGlCSXBnX1h2YlEwanNJd2phLXZNUHdjSGx0dFF6NGpYRWlmbllYek9FR2Vac2kwM21PSzQyQV9zWWNjaS0wNTBQbklkd195NHRVQ0o3MWJndlZNV1h4TVB4TG96ZE9BSnE4YVF0SWwtajhVUDFoc1BTMEE?oc=5)
 - **[Creadores] “Te va a tocar meterte a moza”: El comentario de Aida Victoria sobre denuncias contra Petro - Chica Noticias** — 07/11/2026 03:26 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q20yR1I4ZkgtWXJDRmlmNVEwdlBnSU5nRW9wUXNLRVp5VnBOVkk5UXI4OUxnVlhjQ3I0VE5RT0NJaUkwYkVUMG9HSlQ1ME5DRFBydE5JR0luUGh0OV9rVVZn?oc=5)
 - **[Creadores] Yeferson Cossio rompió el silencio sobre los rumores de infi - Diario del Cauca** — 07/11/2026 02:01 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixgFBVV95cUxNajdYZEVMbWJrVVNpX05nUkpKaWtMRWRoQU1zTGVGVDhfVzBDeXlzZWlTLVZRNDFfd2RXdU9yRWFMYmRXVV9hYmtYQ1lMTDl1SGlTRGR5WUZNalEydjd3dFBHNmNmQUNPT1pvTmp4R08wYW9WT3lCaDN0S0pTVmdFSkpuN0l2WjBCbHozOTh5UjZRUGM0LVRUbDdvbVMtQ0ZWRS1selFfdmx5OHI2Vjd6VF9TQzVCYk9udVE0UUIta1NLNXFzS2c?oc=5)
-- **[Creadores] Dani Duke cuenta detallitos de cómo se tragó de La Liendra - Alerta** — 06/11/2026 11:34 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Y9IBmwFBVV95cUxNNks5OXJjSFY1Wm0zc0xCRDk0cTd5Y2YxN3NhYzB3SUdGX1BuX1pkekZwVW9jMjM3NHNsN2k0clRRd2xoZngxTklObHEtYzBWZHo5MEJicWJ1V1UzblFKRUdLMGVIMlBVaW1USzVQR2dzT0YwWmdiY1FpR0ludUtIUlVPNUpYR3VvNGpKODNxcGcxY3NDU1Z6OU16Yw?oc=5)
 
 ## Creadores principales vigilados
 
