@@ -1,45 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 10/11/2026 07:29 AM (hora de Colombia)
+Actualizado: 10/11/2026 03:44 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 12.
-Noticias recientes: 3.
-Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Influencer de respaldo: 1.
+Clips incluidos: 7.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### EL MERECIDO FINAL DE WESTCOL...
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Tommy
-- Publicado: 08/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 269.471
-- Puntaje heurístico de interés: 9
-- Enlace directo: https://www.youtube.com/watch?v=LAqpmqylljU
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Drice Gamerz
-- Publicado: 09/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 36.550
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=JnyDCulmTVw
-
 ### TASTING EVERY BURGER FROM WESTCOL 🔥THE BEST? | Samulx
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Samulx
-- Publicado: 09/11/2026 10:00 PM
+- Publicado: 09/11/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 55.928
-- Puntaje heurístico de interés: 6
+- Vistas reportadas por YouTube: 136.303
+- Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=LkY43nX5guU
+
+### JUGANDO CUPHEAD CON WESTCOL EN EL MISMO SET UP 😂 NOS VOLVEMOS LOCOS* | Samulx
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Samulx
+- Publicado: 10/11/2026 02:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 7.466
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=Qyzqh4tJp0M
 
 ### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
 - Categoria: Clip de terceros
@@ -47,39 +37,9 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Influence
 - Canal que publico: INMORTAL FF
 - Publicado: 09/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14.666
+- Vistas reportadas por YouTube: 16.749
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=eXzwYG-bH78
-
-### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: basuquito
-- Publicado: 08/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 964
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=YVLkTnzW-p4
-
-### HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: basuquito
-- Publicado: 09/11/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 618
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Eq91hX8WjqM
-
-### FULLY Analyzing The CHANTY BELUGA Situation
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: Whatwise
-- Publicado: 08/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 168
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - Categoria: Clip de terceros
@@ -87,29 +47,18 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Influence
 - Canal que publico: OCTOPUS INC
 - Publicado: 08/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
+- Vistas reportadas por YouTube: 12
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
-### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Moroclips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Moroclips
-- Publicado: 08/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 33.048
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=JrNwh9F1pro
-
-### BUSCANDO la MEJOR COMIDA MEXICANA con JELTY en LOS MOCHIS | WILLITO Y LONCHE
+### SEARCHING for the BEST MEXICAN FOOD with JELTY in LOS MOCHIS | WILLITO AND LONCHE
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips de Willito
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: Clips de Willito
-- Publicado: 10/11/2026 03:00 AM
+- Publicado: 10/11/2026 02:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 203
+- Vistas reportadas por YouTube: 572
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=D2O80qjUSSA
 
@@ -117,45 +66,25 @@ Distribución por categoría: Clip de terceros: 8, Cuenta de clips: 3, Influence
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Canal que publico: Reydelacityclips
-- Publicado: 09/11/2026 07:00 PM
+- Publicado: 08/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 9
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=2I-HStUsD7A
 
-### Las Células Madre funcionan en REALIDAD? - Mi experiencia
+### Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: Pautips
 - Canal que publico: Pautips
 - Publicado: 09/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 11.465
+- Vistas reportadas por YouTube: 19.919
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=xAc7qkH2L_A
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### EL MERECIDO FINAL DE WESTCOL...
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** EL MERECIDO FINAL DE WESTCOL...
-- **Texto en pantalla:** EL MERECIDO FINAL DE WESTCOL...
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=LAqpmqylljU
-
-### Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsfeed #mcpe #minecraftsurvival
-- **Texto en pantalla:** Pvp with You live #minecraft #ytshorts #shorts #youtubeshorts #shortsf
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=JnyDCulmTVw
 
 ### TASTING EVERY BURGER FROM WESTCOL 🔥THE BEST? | Samulx
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -167,6 +96,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=LkY43nX5guU
 
+### JUGANDO CUPHEAD CON WESTCOL EN EL MISMO SET UP 😂 NOS VOLVEMOS LOCOS* | Samulx
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** JUGANDO CUPHEAD CON WESTCOL EN EL MISMO SET UP 😂 NOS VOLVEMOS LOCOS* | Samulx
+- **Texto en pantalla:** JUGANDO CUPHEAD CON WESTCOL EN EL MISMO SET UP 😂 NOS VOLVEMOS LOCOS* |
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Qyzqh4tJp0M
+
 ### 😡CAREHUEVO IS A PIECE OF SH*T BRO 😂 Cry Less, Play More 🤣 | Mr Stiven Funny Moments #ff #fyp
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -176,36 +115,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=eXzwYG-bH78
-
-### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #1 🤣
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YVLkTnzW-p4
-
-### HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
-- **Texto en pantalla:** HAPPY BIRTHDAY SAMULX 🗣️ | CLIPS DE LA GANGA pt.103
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Eq91hX8WjqM
-
-### FULLY Analyzing The CHANTY BELUGA Situation
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** FULLY Analyzing The CHANTY BELUGA Situation
-- **Texto en pantalla:** FULLY Analyzing The CHANTY BELUGA Situation
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xbqWYEbO_PA
 
 ### LONCHE DE HUEVITO ( ARRIBA LA FES ) BACHEANDO LOS MOCHIA ESTRENO 2026 CORRIDOS PERSONALIZADOS AURA22
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -217,22 +126,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=CrMQ0_KWZHo
 
-### 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
-- **Texto en pantalla:** 🥵DONDE ESTA MI PTA ESCUADRA GENTE😂|Mrstiven momentos divertidos🤯
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=JrNwh9F1pro
-
-### BUSCANDO la MEJOR COMIDA MEXICANA con JELTY en LOS MOCHIS | WILLITO Y LONCHE
+### SEARCHING for the BEST MEXICAN FOOD with JELTY in LOS MOCHIS | WILLITO AND LONCHE
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** BUSCANDO la MEJOR COMIDA MEXICANA con JELTY en LOS MOCHIS | WILLITO Y LONCHE
-- **Texto en pantalla:** BUSCANDO la MEJOR COMIDA MEXICANA con JELTY en LOS MOCHIS | WILLITO Y 
+- **Título sugerido:** SEARCHING for the BEST MEXICAN FOOD with JELTY in LOS MOCHIS | WILLITO AND LONCHE
+- **Texto en pantalla:** SEARCHING for the BEST MEXICAN FOOD with JELTY in LOS MOCHIS | WILLITO
 - **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=D2O80qjUSSA
@@ -247,21 +146,24 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2I-HStUsD7A
 
-### Las Células Madre funcionan en REALIDAD? - Mi experiencia
+### Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
 - **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Pautips.
-- **Título sugerido:** Las Células Madre funcionan en REALIDAD? - Mi experiencia
-- **Texto en pantalla:** Las Células Madre funcionan en REALIDAD? - Mi experiencia
+- **Título sugerido:** Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
+- **Texto en pantalla:** Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
 - **Descripción:** Fragmento relacionado con Pautips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
 - **Fuente original:** https://www.youtube.com/watch?v=xAc7qkH2L_A
 
 ## Noticias y contexto
 
-- **[Creadores] Emiro Navarro superó sus quebrantos de salud y regresó a los entrenamientos para su pelea en ‘Stream Fighters 5’ de Westcol: “Estoy sano” - Infobae** — 10/11/2026 07:06 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU2ZPMEFTS2QtX3JXLUx2c1ItZEJlVlduUlh0SkpvTHlYWHdZcHp4Xzhsa3VRTWVncG1Od1gzbGRCQV9Xck5JU21CTjV0b0NVTTVhd0U2V1Y0TnVpX3Z5YWlPMjlYMGJVUkRYR05NalBmVVFsakFjNXNaWWk2ZWdyWWdYMWFwVEw5UkRKdFZyVzRXajBsRVg5S0k1cG1LRVduRDdRTm00SUJfNjNfS1k1WXNfSUNyWVRhUFFHZ3Q4bFFybFdRVTlJdTNiWTZwcFljUWxIczlxMzM1VzRWbnZtM3VwazdLR1p6eDJrVkt1czNoNkJEWXJFaWQ0S19obUdqd0FPRHVRa2_SAaMCQVVfeXFMTmtVMFBsUjBIN1JXc2hQOGQ3WndQQjh6MHB4M3Z1VkxBVkhQdXRHZXIyYjB0RkNUQUZlVWhvLUFfalBLNkFDT0VrVWlyaGNqMGZvRDJadnlzRjZWaW1pTkMwdTJjcmJja0R6ZkJvMTRLWk5NNFR5elpMbURVbTVFN3lHTEUyVy1DSWdIdFI2VDdrRWQ3cmlWUkJKRGxGNVh3QUV4Y2ZvRmpGTWJuU1BpbHNfT1ZTNXYxTEwyQXZmU1YzS3dFVDlpd05YQ05Wa0RGMGVUdlhGaHRMT1VOQkFnWjJ5VEszTGVJYmJBQV9iVVlHWXgzelZ5SExRVGxUY0RrRFRJUHRBeXlXeXA0UElUM2lnX1RZNjhfWEhlTHQ5dW03Tmt3?oc=5)
+- **[Creadores] Willito se suma a Lonche de Huevito para tapar baches en Los Mochis - Luz Noticias** — 10/11/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWIzLTFxc1VwQWVQMUw2MmJfVjM4c2lObFp6dnlYN1pFZmdobVNUQkNyLVhEVmRMS3NGcklrWVJHa2RRRVhqS1VzZHhrY2VlWllCbHFqYWtISHFhUDMxVDhyT3c1cFFBZlROMUpDVzBZU1o0aVdPWkZjWHI2VTV3RWtyYWMxU3p0SkQwM1QxNDlZYm1oajR5UHVFTG90MUVwbmNkV1dlZFdkQWZ3RHg4VFFaelJZX3Ytak9IRndB0gHDAUFVX3lxTE9DUW83MXZnNXRHeFcxQVJDTkNvMHhBQWdUTkk4Qnh6LWRfN1RtWmM5YzllT3dXX3RRY0xuMU5rYlhNbWFkNzdwcDFMa0NRSHZkSFR6VVNtSkNsSFRSYVhGSVNFWThnZ3gwMTkya05tRUpiMzdLM3FIbGVkUWRmc1RXMGU3YVdycjNjZHJqZXc5YVMtUHVzeHJWNmh5Q0w5MTJXYnNiRUR3OFk0OUFELWxJdEpLNTVxWUpKWE5OY0ZxV0JsOA?oc=5)
+- **[Creadores] ¿Qué le pasó a Yeferson Cossio? Volvió a urgencias por fuertes dolores abdominales - Eluniversal.com.co** — 10/11/2026 02:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNW54NDVuTW5tcGRkaDRYd1dTdWJldVpnTXVoM2xWcGUybkhRWjAwQ0dIM1plend4M0xNTnlmSWRMTi15VndCV1FuYUstU0oydzVIVEtTQ2lDb3VQVjQyYnNEcHF3dGpGNDZrUGhDZVpDaU45ZDlZemsyS3M5bDY5dmFMRTlsTUFGV0lLME5INTF0REQtSFZRbFFQQ29UYzl5QmswcnRIMkhpUk5IRGhlT1JlczRJODdvbmEycDlwV3pKdGdUajFsYnpMdmthZw?oc=5)
+- **[Creadores] Yeferson Cossio volvió a urgencias por dolores abdominales pero aún no se revela qué es lo que tiene: “Otra vez pasando la noche aquí” - Infobae** — 10/11/2026 01:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihwJBVV95cUxQdXk2RUJGbC1sQjlFdmJKWWQ0S1pRTkpEMGlNX3h1eEI4dmxBWW03VUhsRGY0cllyWExyYW4wMEhVSURiWVF6WGwzYWd3VjlidVBoaXBkVE8xSDBweUxyQjdnQkFrbHRyQTVPOXBIdmN2LVdicHVnaVFibDhvR3FsSWVrNVhBMGlrRXhZMzU2WmR5dTVqS1BveVZEcWdiS3J6LXZjOE9jZzBjM2gxanhnOXlhdzJBUG02X2FSTXh0bkpHRWwwcnZCMXQ4QkFvaFhWSUNLOTJpMEE2VDNxbU5YclNvR1ZEemF1dnM3dlJNajE1YURxVmZBaURjaU1HYk1qT0l6V21ka9IBogJBVV95cUxQRzZ5SzE1YUtpVmtVUnlwaWdJZmZDUTl4RGxWUzlfVFpMQ2drSW0yUUUxTDVncTZBU3lJWjVkTnFvQ25WSFdBZ2Rlem5CNUpqQWJyQkdsUXBjWlZIOTNDM3ZKNzZicUc1RTVrVEtqNXZnMnpZSTFIam5lX3dsZGZ4TmZtckJxeGFhMWNpREVLcXJmR0RoMDBMd3dYdXkwUm1CcU1NTmlYSVZSTGhhakhIdkp1YXNkNzN2TlRYcHc5N0pQSEpTckE5U1NheU9Vekt6WVpidVNyQm13V3lIdzRvQmkxTHJuV3UxRXB0U1RNNTdyY290YllFSktOaDlzWkdHdHlSdi02MG03QWdfVDMtaHF3Q3RfVEJEaXA3ZnJwa3Zidw?oc=5)
+- **[Creadores] Emiro Navarro, después de sus quebrantos de salud, regresó a los entrenamientos para su pelea en ‘Stream Fighters 5’ de Westcol: “Estoy sano” - Infobae** — 10/11/2026 07:06 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU2ZPMEFTS2QtX3JXLUx2c1ItZEJlVlduUlh0SkpvTHlYWHdZcHp4Xzhsa3VRTWVncG1Od1gzbGRCQV9Xck5JU21CTjV0b0NVTTVhd0U2V1Y0TnVpX3Z5YWlPMjlYMGJVUkRYR05NalBmVVFsakFjNXNaWWk2ZWdyWWdYMWFwVEw5UkRKdFZyVzRXajBsRVg5S0k1cG1LRVduRDdRTm00SUJfNjNfS1k1WXNfSUNyWVRhUFFHZ3Q4bFFybFdRVTlJdTNiWTZwcFljUWxIczlxMzM1VzRWbnZtM3VwazdLR1p6eDJrVkt1czNoNkJEWXJFaWQ0S19obUdqd0FPRHVRa2_SAaMCQVVfeXFMTmtVMFBsUjBIN1JXc2hQOGQ3WndQQjh6MHB4M3Z1VkxBVkhQdXRHZXIyYjB0RkNUQUZlVWhvLUFfalBLNkFDT0VrVWlyaGNqMGZvRDJadnlzRjZWaW1pTkMwdTJjcmJja0R6ZkJvMTRLWk5NNFR5elpMbURVbTVFN3lHTEUyVy1DSWdIdFI2VDdrRWQ3cmlWUkJKRGxGNVh3QUV4Y2ZvRmpGTWJuU1BpbHNfT1ZTNXYxTEwyQXZmU1YzS3dFVDlpd05YQ05Wa0RGMGVUdlhGaHRMT1VOQkFnWjJ5VEszTGVJYmJBQV9iVVlHWXgzelZ5SExRVGxUY0RrRFRJUHRBeXlXeXA0UElUM2lnX1RZNjhfWEhlTHQ5dW03Tmt3?oc=5)
 - **[Creadores] Luisa Fernanda W reveló, durante su luna de miel, curiosa actividad de Pipe Bueno en los inicios de su relación: “Se obsesionó” - Infobae** — 09/11/2026 11:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTZBakNzdXNzTkZFM2pOSEJVNC1uQXktd3I0LXJkWUdwUUlLdXFORllHRnhBR2N1Nk55Ti1Qb2VWMkVSazFlbDY4OU1VTVJXMDF2S2lZUFpDaFR3OFZVREotdTIxZmE4NzFveFAxTDhwcUpyeTgwRk9nUXpONGJvV05uRVZ2a2hkVWhVLXZ2bTY5Y1VFX0FfM0NWbjExY21XS1hKTGFLVDhGMUVXX25XMk1wZ0txM3lfNlVMV3VXWUphZElEcm02QUNPQW1zSzZjT0loSXJEbWtIcGRzR0NDd1piUm5mOW5hanQyXy1wQkhEajdlRW81NWhYcmJGVkVnVEx4LTFLS193dmhCLTdDc010TFBBZ9IBlgJBVV95cUxQaTZBakNzdXNzTkZFM2pOSEJVNC1uQXktd3I0LXJkWUdwUUlLdXFORllHRnhBR2N1Nk55Ti1Qb2VWMkVSazFlbDY4OU1VTVJXMDF2S2lZUFpDaFR3OFZVREotdTIxZmE4NzFveFAxTDhwcUpyeTgwRk9nUXpONGJvV05uRVZ2a2hkVWhVLXZ2bTY5Y1VFX0FfM0NWbjExY21XS1hKTGFLVDhGMUVXX25XMk1wZ0txM3lfNlVMV3VXWUphZElEcm02QUNPQW1zSzZjT0loSXJEbWtIcGRzR0NDd1piUm5mOW5hanQyXy1wQkhEajdlRW81NWhYcmJGVkVnVEx4LTFLS193dmhCLTdDc010TFBBZw?oc=5)
-- **[Creadores] VIDEO // ¿Qué sabe Westcol? Streamer invierte en provisiones por temor a ciberataque mundial - Grupo Marmor** — 08/11/2026 10:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnZzZklyUDNrUHA5amxXTzJ3bzAyQWwyNmpKZ3hKbE9zTFlWZnRSenQ5ZFAtZXFOeHRkYkJKTnhfbFk4elc1cTdUYVRBMWk4c1lNdVdaSGIwYkFwYmlCdVN0LXR2amk4NzFQRUc5WGZrZVpXQ2NBWFF6UC1yVlRPZlEyMmI2UHY5YWU5bWctbUFMTjlWMC1FUy1YNWVnRDdiNDZIdGEyM2tNT1JJcHNIRDFXbm95b2pYbV9scWIyU0Vwc1I4?oc=5)
+- **[Creadores] La verdadera razón por la que Westcol terminó en la cárcel La Picota: video es viral - Noticias RCN** — 09/11/2026 07:05 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1ZJNUNvdFU5dmVaRFIzTFk2ejVZZDJBWS1lbGd4SEEtS1ZpSmtpUXBFMGZ6Ry1zazNBc0VSUUNRaVE0VTlCMFpVOVJKOGRaMGpfQmdjeFA5c1NLbmZvazBYVkJuX2poUlpVS0M2aTl1NDd2a29NR1RrbENLYTNRMDZxWWZjamYtd3AzaE9xZmlOV25TR09FdVl6b1JWZlBZY3VDUzkwNWZpUUZiSkd5OXctcUZxc3hRNHfSAboBQVVfeXFMUGN0WHVwTGtoUGhtMVNkWTBrYzV6TWg0NV9uTkZXQndqbjVtY29zLWcwMS0tenJhaEg5ZFdNN21BT3hUWC1UbWVnY1ZLcEY1cXNSM3RGaExRSWxoZUVPLVM1dWltWmwzbHFtU254WWVSYUFRZG5OalZnZWVxQVBoRGNoZ1lZQXlXXzIzTmplUVdCUXhqZU12anA2djBLRmo4WEFWTEZWWXpjQk0zNVlsSXQwMmdzYmo3OXZB?oc=5)
 
 ## Creadores principales vigilados
 
