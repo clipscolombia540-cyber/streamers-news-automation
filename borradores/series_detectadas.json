@@ -1,15 +1,26 @@
 {
-  "actualizado": "2026-11-11T04:03:40.075016-05:00",
+  "actualizado": "2026-11-11T12:47:58.316809-05:00",
   "series": [
     {
       "nombre": "KatieB VOTES For The FUNNIEST QSMP In The QSMP AWARDS! QSMP 2 Minecraft",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-11T04:03:40.075016-05:00",
-      "ultima_deteccion": "2026-11-11T04:03:40.075016-05:00",
+      "ultima_deteccion": "2026-11-11T12:47:58.316809-05:00",
       "canal_muestra": "QSMP 2 Unofficial",
       "enlaces": [
         "https://www.youtube.com/watch?v=EdG8FENpOqM"
+      ]
+    },
+    {
+      "nombre": "KatieB Reacts to BEST QSMP for Awards on QSMP 2 Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-11T12:47:58.316809-05:00",
+      "ultima_deteccion": "2026-11-11T12:47:58.316809-05:00",
+      "canal_muestra": "Jetermoh - QSMP",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=0cC6vvqpy04"
       ]
     },
     {
