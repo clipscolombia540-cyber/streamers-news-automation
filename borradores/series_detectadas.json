@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-11-10T15:44:47.025248-05:00",
+  "actualizado": "2026-11-10T20:46:14.707222-05:00",
   "series": [
+    {
+      "nombre": "KatieB VOTA por los MÁS DIVERTIDOS del QSMP en los QSMP AWARDS! QSMP 2 Minecraft",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-10T20:46:14.707222-05:00",
+      "ultima_deteccion": "2026-11-10T20:46:14.707222-05:00",
+      "canal_muestra": "QSMP 2 Unofficial",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=EdG8FENpOqM"
+      ]
+    },
     {
       "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
