@@ -1,70 +1,119 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 12/11/2026 04:32 AM (hora de Colombia)
+Actualizado: 12/11/2026 01:00 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 4.
-Noticias recientes: 9.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 1, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 5, Emergente por verificar: 1, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### QUE PASARIA SI LAS MUJERES DESAPARECEN? 🤔 TIRANDO TEORIAS CONSPIRATIVAS CON WESTCOL | Samulx
+### TASTING EVERY BURGER FROM WESTCOL 🔥THE BEST? | Samulx
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Samulx
-- Publicado: 11/11/2026 11:00 PM
+- Publicado: 10/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.419
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=zz8TupVN6g0
+- Vistas reportadas por YouTube: 316.550
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=LkY43nX5guU
+
+### Sobreviví a un Entrenamiento Militar con Westcol
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Ibai
+- Publicado: 10/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 3.097.726
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=627Fvn2fEjU
+
+### KatieB VOTES For The FUNNIEST QSMP CLIPS In The QSMP AWARDS! QSMP 2 Minecraft
+- Categoria: Clip de terceros
+- Creador/canal detectado: Series y eventos Minecraft
+- Canal que publico: QSMP 2 Unofficial
+- Publicado: 10/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 6.932
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=EdG8FENpOqM
 
 ### 🥵EL PTO MADERA CON PATAS GENTE😂|Mrstiven Momentos Divertidos🤬
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
-- Publicado: 10/11/2026 07:00 PM
+- Publicado: 11/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.565
+- Vistas reportadas por YouTube: 7.237
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=f4fFaUqLFbY
 
-### MEJORES CLIPS WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: clipswestcol
-- Creador relacionado en el título: Westcol
-- Canal que publico: clipswestcol
-- Publicado: 12/11/2026 03:00 AM
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #2 🤣
+- Categoria: Clip de terceros
+- Creador/canal detectado: Samulx
+- Canal que publico: basuquito
+- Publicado: 12/11/2026 12:19 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=7g-8ecDJ6PQ
+- Vistas reportadas por YouTube: 41
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=l7j3BPBLLg0
 
 ### HOW THE COLOMBIAN STREAMING MOVEMENT WAS BORN (interview with el ñe)
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: CEVI
 - Canal que publico: CEVI
-- Publicado: 10/11/2026 07:00 PM
+- Publicado: 11/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
+- Vistas reportadas por YouTube: 26
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=A-4GZRVeneo
+
+### Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Pautips
+- Canal que publico: Pautips
+- Publicado: 10/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 59.982
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=xAc7qkH2L_A
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### QUE PASARIA SI LAS MUJERES DESAPARECEN? 🤔 TIRANDO TEORIAS CONSPIRATIVAS CON WESTCOL | Samulx
+### TASTING EVERY BURGER FROM WESTCOL 🔥THE BEST? | Samulx
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** QUE PASARIA SI LAS MUJERES DESAPARECEN? 🤔 TIRANDO TEORIAS CONSPIRATIVAS CON WESTCOL | Samulx
-- **Texto en pantalla:** QUE PASARIA SI LAS MUJERES DESAPARECEN? 🤔 TIRANDO TEORIAS CONSPIRATIVA
+- **Título sugerido:** TASTING EVERY BURGER FROM WESTCOL 🔥THE BEST? | Samulx
+- **Texto en pantalla:** TASTING EVERY BURGER FROM WESTCOL 🔥THE BEST? | Samulx
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=zz8TupVN6g0
+- **Fuente original:** https://www.youtube.com/watch?v=LkY43nX5guU
+
+### Sobreviví a un Entrenamiento Militar con Westcol
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Sobreviví a un Entrenamiento Militar con Westcol
+- **Texto en pantalla:** Sobreviví a un Entrenamiento Militar con Westcol
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=627Fvn2fEjU
+
+### KatieB VOTES For The FUNNIEST QSMP CLIPS In The QSMP AWARDS! QSMP 2 Minecraft
+- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
+- **Título sugerido:** KatieB VOTES For The FUNNIEST QSMP CLIPS In The QSMP AWARDS! QSMP 2 Minecraft
+- **Texto en pantalla:** KatieB VOTES For The FUNNIEST QSMP CLIPS In The QSMP AWARDS! QSMP 2 Mi
+- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=EdG8FENpOqM
 
 ### 🥵EL PTO MADERA CON PATAS GENTE😂|Mrstiven Momentos Divertidos🤬
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -76,15 +125,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=f4fFaUqLFbY
 
-### MEJORES CLIPS WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #2 🤣
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** MEJORES CLIPS WESTCOL
-- **Texto en pantalla:** MEJORES CLIPS WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #2 🤣
+- **Texto en pantalla:** Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #2 🤣
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=7g-8ecDJ6PQ
+- **Fuente original:** https://www.youtube.com/watch?v=l7j3BPBLLg0
 
 ### HOW THE COLOMBIAN STREAMING MOVEMENT WAS BORN (interview with el ñe)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: CEVI? 👀
@@ -96,6 +145,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=A-4GZRVeneo
 
+### Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
+- **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Pautips.
+- **Título sugerido:** Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
+- **Texto en pantalla:** Me curaron las hernias de la columna con CELULAS MADRE y esto pasó
+- **Descripción:** Fragmento relacionado con Pautips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=xAc7qkH2L_A
+
 ## Noticias y contexto
 
 - **[Creadores] ¿Se arrepintió? Westcol habló sobre la pelea entre Aida Victoria y La Divaza en Stream Fighters - Noticias RCN** — 11/11/2026 04:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVThrTmpWZ3U5OGRlRzk2R1Vza2VMa2ZsWDgzQmxjWU15VVhhMWk0SXlOSmV0YWNZb2dqVEpZZVhIRmVEaWZ6dzZDRjUzdEdvY0U5ME5wd1dtbjZEYWZfRHNuSFUzaHhfLVBTaVQ3djcwZXNTeEtrLUctRThPbUkzeHc4cHpTMmFyVEcxNVVCczJvZ1BxczFGaGhXMGVfWjdmYS1oOUd1V2tFenfSAasBQVVfeXFMT1U4a05qVmd1OThkZUc5NkdVc2tlTGtmbFg4M0JsY1lNeVVYYTFpNEl5TkpldGFjWW9nalRKWWVYSEZlRGlmenc2Q0Y1M3RHb2NFOTBOcHdXbW42RGFmX0RzbkhVM2h4Xy1QU2lUN3Y3MGVzU3hLay1HLUU4T21JM3h3OHB6UzJhclRHMTVVQnMyb2dQcXMxRmhoVzBlX1o3ZmEtaDlHdVdrRXp3?oc=5)
@@ -105,8 +164,7 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Yeferson Cossio volvió a preocupar por su estado de salud: mostró difícil momento que atraviesa - Revista Semana** — 10/11/2026 08:18 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFhGUzgwVjFpYlhkS041Zk5HYnFvZzRmdUtGU3dRc3c4V3VNUWdNR2wyYTEyQWZXUzIzLWJnRF9qSHBEejF0OG5ibDYtY1Z5VnpVdVdoSklBekFac0k5MVlHeWxoZDlKMGduRXNBTUdpTzdOZkQ3NTZJYS1KM0xzQUR0NEIxZlNBdVo5djdaQ2dqOUFJcG1XcXpkWkdndXhfby1kVWpfSkZ0Q3dkNEdzSnVlbkR2M3AzOWRxT05Dd1MxdE1YeEhqWU1vbVRUbUs0SVJva3NjYXpuY00z0gHcAUFVX3lxTE94WEZTODBWMWliWGRLTjVmTkdicW9nNGZ1S0ZTd1FzdzhXdU1RZ01HbDJhMTJBZldTMjMtYmdEX2pIcER6MXQ4bmJsNi1jVnlWelV1V2hKSUF6QVpzSTkxWUd5bGhkOUowZ25Fc0FNR2lPN05mRDc1NklhLUozTHNBRHQ0QjFmU0F1Wjl2N1pDZ2o5QUlwbVdxemRaR2d1eF9vLWRVal9KRnRDd2Q0R3NKdWVuRHYzcDM5ZHFPTkN3UzF0TVh4SGpZTW9tVFRtSzRJUm9rc2Nhem5jTTM?oc=5)
 - **[Creadores] La Segura habló de la posibilidad de tener otro hijo: ¿busca un segundo embarazo? - Eluniversal.com.co** — 10/11/2026 05:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiywFBVV95cUxPcU9lZUVqNjhPQlBjVl9pdHpXRzdBb1pBcVh0Vk5MMThMbU9pVGxXN1Q2T0I4eTNjbDRobks4Rm1rTjBWaEFZRnpqcF9ZU0RhUVpHQlI3WWpZMlRYaW5TS3MzeW55dE5leG5SU1NrY0VrdTIwSi0zWjRhb3pUblRQenh3SVllMVJSa0JrLTM2SmpqcTVGTWdZZXR2bXpBQkU3UC1jVC05dWJvMnQyZjV1X3ROTGc2QkxrQWExUG5UQWYtOEdna3lsVW1IRQ?oc=5)
 - **[Creadores] “Lo hice de corazón”: Lonche de Huevito responde a críticas por bacheo - Debate** — 10/11/2026 04:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxPanJwTlduSFJJQzlWTS1IRGw4RlB1SlBJOUpjTmpyNzk1WUtnM2hpSjlzVG5HdGxkLXVoYVlweE41c0V0UHlRdE9KV2FQTkF4Mjd0c1pZVkpQa1pvSzFBUTJ2S2x6RndxT1YwcHZybUJfQWpuUW5SWWVqdzNqR3JjMlB5Y3IyUTdDV2ZadTNfUjZ6WlZ4d2NiVktfWVlURW9mT0hoLXI1MmwxZnB1UTZHM3VCN1MwQXoyNVo0bkQ5d2M2RklwaUtuMUpR?oc=5)
-- **[Creadores] Willito se suma a Lonche de Huevito para tapar baches en Los Mochis - Luz Noticias** — 10/11/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWIzLTFxc1VwQWVQMUw2MmJfVjM4c2lObFp6dnlYN1pFZmdobVNUQkNyLVhEVmRMS3NGcklrWVJHa2RRRVhqS1VzZHhrY2VlWllCbHFqYWtISHFhUDMxVDhyT3c1cFFBZlROMUpDVzBZU1o0aVdPWkZjWHI2VTV3RWtyYWMxU3p0SkQwM1QxNDlZYm1oajR5UHVFTG90MUVwbmNkV1dlZFdkQWZ3RHg4VFFaelJZX3Ytak9IRndB0gHDAUFVX3lxTE9DUW83MXZnNXRHeFcxQVJDTkNvMHhBQWdUTkk4Qnh6LWRfN1RtWmM5YzllT3dXX3RRY0xuMU5rYlhNbWFkNzdwcDFMa0NRSHZkSFR6VVNtSkNsSFRSYVhGSVNFWThnZ3gwMTkya05tRUpiMzdLM3FIbGVkUWRmc1RXMGU3YVdycjNjZHJqZXc5YVMtUHVzeHJWNmh5Q0w5MTJXYnNiRUR3OFk0OUFELWxJdEpLNTVxWUpKWE5OY0ZxV0JsOA?oc=5)
-- **[Creadores] ¿Quiere ser madre de nuevo? Aida Victoria Merlano reveló sus planes con Escro - Besame.fm** — 10/11/2026 08:28 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzhHOG9lVFFDZEZLekljdmJJWDJ2Skp2S3dZQ0NxMzlPWm15bnFpcV9qdExkclh6bU5jNTlmSlBuc1VSaXpXVEJIbGZQdU4yZExDWWtLektsd1gzbXQzX1ZNeVRHSXJYVFByRDhGMG9vdVp3OXB0bEtlREtFSGlQNGlwLU9LcmcxeFE1MGZFdXN2QkRJX2tPcXpmbkxUTjVVSWktcktYSHd0YWFIZ3pBY2pJM1TSAboBQVVfeXFMTXh4UGdiRkpWTWNqbjBRazhkeGJBTjFHSklRMFNiakRNZnRVWlB2aFNrY25waTdZOV83MmJObzBRWE5EcjBzc1UweWNIOThlVWF4NUhuMGRzWko1UWVoUHQ0RG9OXzRuRUp4SGRQaXlIb1IxYXV6WGtfY2tpUXpjaVU5RGIwNXJCUjQ5d1Q2ZTFrNnBiNmNBV1l5c25ycnpNc0l6YWc5N3JEZVJabVlpSUhzTzM1TDU4dmdB?oc=5)
+- **[Creadores] Willito se suma a Lonche de Huevito para tapar baches en Los Mochis - Luz Noticias** — 10/11/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1FvNzF2ZzV0R3hXMUFSQ05DbzB4QUFnVE5JOEJ4ei1kXzdUbVpjOWM5ZU93V190UWNMbjFOa2JYTW1hZDc3cHAxTGtDUUh2ZEhUelVTbUpDbEhUUmFYRklTRVk4Z2d4MDE5MmtObUVKYjM3SzNxSGxlZFFkZnNUVzBlN2FXcnIzY2RyamV3OWFTLVB1c3hyVjZoeUNMOTEyV2JzYkVEdzhZNDlBRC1sSXRKSzU1cVlKSlhOTmNGcVdCbDjSAcMBQVVfeXFMT0NRbzcxdmc1dEd4VzFBUkNOQ28weEFBZ1ROSThCeHotZF83VG1aYzljOWVPd1dfdFFjTG4xTmtiWE1tYWQ3N3BwMUxrQ1FIdmRIVHpVU21KQ2xIVFJhWEZJU0VZOGdneDAxOTJrTm1FSmIzN0szcUhsZWRRZGZzVFcwZTdhV3JyM2NkcmpldzlhUy1QdXN4clY2aHlDTDkxMldic2JFRHc4WTQ5QUQtbEl0Sks1NXFZSkpYTk5jRnFXQmw4?oc=5)
 
 ## Creadores principales vigilados
 
@@ -128,7 +186,7 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **KatieB VOTES For The FUNNIEST QSMP In The QSMP AWARDS! QSMP 2 Minecraft** (candidata por revisar) — última detección: 2026-11-11
+- **KatieB VOTES For The FUNNIEST QSMP In The QSMP AWARDS! QSMP 2 Minecraft** (candidata por revisar) — última detección: 2026-11-12
   - https://www.youtube.com/watch?v=EdG8FENpOqM
 - **KatieB Reacts to BEST QSMP for Awards on QSMP 2 Minecraft** (candidata por revisar) — última detección: 2026-11-11
   - https://www.youtube.com/watch?v=0cC6vvqpy04
