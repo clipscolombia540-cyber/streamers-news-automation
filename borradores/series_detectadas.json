@@ -1,6 +1,43 @@
 {
-  "actualizado": "2026-11-13T04:18:33.373943-05:00",
+  "actualizado": "2026-11-13T12:36:02.270316-05:00",
   "series": [
+    {
+      "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
+      "ultima_deteccion": "2026-11-13T12:36:02.270316-05:00",
+      "canal_muestra": "Drice Gamerz",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=_TbnVvnAnQ0",
+        "https://www.youtube.com/watch?v=JnyDCulmTVw",
+        "https://www.youtube.com/watch?v=Yh4xdMGCNEI",
+        "https://www.youtube.com/watch?v=f4weInVu_bE",
+        "https://www.youtube.com/watch?v=DGfL6KYmORw"
+      ]
+    },
+    {
+      "nombre": "Quackity recibe el Legacy Award en The Streamer Awards 2026",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-13T12:36:02.270316-05:00",
+      "ultima_deteccion": "2026-11-13T12:36:02.270316-05:00",
+      "canal_muestra": "QTCinderella Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=CVssZC80EG4"
+      ]
+    },
+    {
+      "nombre": "El secreto de los cliperos para sacar 20 en minutos",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-13T12:36:02.270316-05:00",
+      "ultima_deteccion": "2026-11-13T12:36:02.270316-05:00",
+      "canal_muestra": "Subi Clip",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=7n3zUxKpsXE"
+      ]
+    },
     {
       "nombre": "KatieB VOTES For The FUNNIEST QSMP In The QSMP AWARDS! QSMP 2 Minecraft",
       "tipo": "serie_o_tema_candidato",
@@ -32,21 +69,6 @@
       "canal_muestra": "QSMP 2 Unofficial",
       "enlaces": [
         "https://www.youtube.com/watch?v=EdG8FENpOqM"
-      ]
-    },
-    {
-      "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
-      "ultima_deteccion": "2026-11-10T07:29:27.263222-05:00",
-      "canal_muestra": "Drice Gamerz",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=JnyDCulmTVw",
-        "https://www.youtube.com/watch?v=Yh4xdMGCNEI",
-        "https://www.youtube.com/watch?v=f4weInVu_bE",
-        "https://www.youtube.com/watch?v=DGfL6KYmORw",
-        "https://www.youtube.com/watch?v=ZPrz85wfiQo"
       ]
     },
     {
