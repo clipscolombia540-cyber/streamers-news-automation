@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 13/11/2026 06:24 PM (hora de Colombia)
+Actualizado: 14/11/2026 12:44 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 10.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,31 +15,21 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos Minecraft
 - Canal que publico: Drice Gamerz
-- Publicado: 13/11/2026 06:00 AM
+- Publicado: 13/11/2026 07:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.960
+- Vistas reportadas por YouTube: 52.972
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=_TbnVvnAnQ0
 
-### WESTCOL Reacciona al NUEVO GAMEPLAY de GTA 6
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 12/11/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 56.623
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=LHysdyYiN9w
-
-### Quackity receives Legacy Award at The Streamer Awards 2026
+### The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker | Denims Reacts
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: QTCinderella Clips
-- Publicado: 13/11/2026 12:00 AM
+- Canal que publico: DenimsTV Clips
+- Publicado: 13/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.695
+- Vistas reportadas por YouTube: 5.979
 - Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=CVssZC80EG4
+- Enlace directo: https://www.youtube.com/watch?v=5EJJOlxCJ3M
 
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #2 🤣
 - Categoria: Clip de terceros
@@ -47,72 +37,83 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 3.
 - Canal que publico: basuquito
 - Publicado: 12/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.136
+- Vistas reportadas por YouTube: 1.180
 - Puntaje heurístico de interés: 5
 - Enlace directo: https://www.youtube.com/watch?v=l7j3BPBLLg0
 
-### El secreto de los cliperos para sacar 20 clips en minutos
+### Quackity recibe el Legacy Award en The Streamer Awards 2026
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Subi Clip
-- Publicado: 11/11/2026 07:00 PM
+- Canal que publico: QTCinderella Clips
+- Publicado: 12/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 110
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=7n3zUxKpsXE
+- Vistas reportadas por YouTube: 13.910
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=CVssZC80EG4
 
-### The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker | Denims Reacts
+### Lonche, Wilito vs chanty,samy pesaje
 - Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: DenimsTV Clips
-- Publicado: 13/11/2026 04:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 959
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=5EJJOlxCJ3M
-
-### REY DE LA CITY VS WEGOTKICKS | PESAJE OFICIAL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: 𝙤𝙜𝙫
-- Publicado: 13/11/2026 05:47 PM
+- Creador/canal detectado: Chanty
+- Canal que publico: Luis Angel
+- Publicado: 14/11/2026 12:14 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=tLzH4vC5JwQ
+- Enlace directo: https://www.youtube.com/watch?v=7O-OxuOKUXc
 
-### Mr Stiven reacciona - En mi cuadra (video oficial) -pirlo420❌- Jaime El king
+### REYDELACITY SE REENCUENTRA CARA A CARA CON WEGOTKICKS EN EVENTO DE WESTCOL… ¡SE VIENE LA PELEA! 🥊🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Mr clips TC 🔥🦅
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Mr clips TC 🔥🦅
-- Publicado: 13/11/2026 12:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 215
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=16K-7ExrE9c
-
-### ALTORANGO ME VENDE OTRO RICHARD MILLE - WESTCOL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La W clips
+- Creador/canal detectado: Cuenta de clips: ElReyWithTheClips
 - Creador relacionado en el título: Westcol
-- Canal que publico: La W clips
-- Publicado: 13/11/2026 12:00 PM
+- Canal que publico: ElReyWithTheClips
+- Publicado: 13/11/2026 06:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 10.770
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=nA0WcPMnKXY
+
+### 🥊😱 REY DE LA CITY vs WEGOTKICKS: ¿CON o SIN CASCO? 🔥 (Pesaje STREAM FIGHTERS 5) 💥
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: La Ganga Clips TV
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: La Ganga Clips TV
+- Publicado: 13/11/2026 08:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 36
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=LjbIvSWaXdw
+- Enlace directo: https://www.youtube.com/watch?v=-48e66yS4Z8
+
+### WESTCOL VS SAMULX BOXEANDO 😨🥊
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: PlanetaClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: PlanetaClips
+- Publicado: 13/11/2026 05:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 124
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=dkEh6hCnw9s
 
 ### ASÍ ES un DÍA en BOGOTÁ COLOMBIA con los COMPAS | LONCHE Y WILLITO
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Clips de Willito
 - Creador relacionado en el título: Lonche de Huevito
 - Canal que publico: Clips de Willito
-- Publicado: 12/11/2026 11:00 PM
+- Publicado: 12/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 608
+- Vistas reportadas por YouTube: 722
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=GKM08bur0hE
+
+### Stream Fighters 5 LIVE today, where to watch, Stream Fighters 2026 live, where to watch
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: YMX Supervivencia
+- Canal que publico: YMX Supervivencia
+- Publicado: 13/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 712
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=761y46jpOZ4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
@@ -128,25 +129,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_TbnVvnAnQ0
 
-### WESTCOL Reacciona al NUEVO GAMEPLAY de GTA 6
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Reacciona al NUEVO GAMEPLAY de GTA 6
-- **Texto en pantalla:** WESTCOL Reacciona al NUEVO GAMEPLAY de GTA 6
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=LHysdyYiN9w
-
-### Quackity receives Legacy Award at The Streamer Awards 2026
+### The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker | Denims Reacts
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** Quackity receives Legacy Award at The Streamer Awards 2026
-- **Texto en pantalla:** Quackity receives Legacy Award at The Streamer Awards 2026
+- **Título sugerido:** The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker | Denims Reacts
+- **Texto en pantalla:** The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan P
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=CVssZC80EG4
+- **Fuente original:** https://www.youtube.com/watch?v=5EJJOlxCJ3M
 
 ### Samulx por Medellin con LA GANGA | MEJORES MOMENTOS #2 🤣
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
@@ -158,55 +149,55 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=l7j3BPBLLg0
 
-### El secreto de los cliperos para sacar 20 clips en minutos
+### Quackity recibe el Legacy Award en The Streamer Awards 2026
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** El secreto de los cliperos para sacar 20 clips en minutos
-- **Texto en pantalla:** El secreto de los cliperos para sacar 20 clips en minutos
+- **Título sugerido:** Quackity recibe el Legacy Award en The Streamer Awards 2026
+- **Texto en pantalla:** Quackity recibe el Legacy Award en The Streamer Awards 2026
 - **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=7n3zUxKpsXE
+- **Fuente original:** https://www.youtube.com/watch?v=CVssZC80EG4
 
-### The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker | Denims Reacts
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
+### Lonche, Wilito vs chanty,samy pesaje
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker | Denims Reacts
-- **Texto en pantalla:** The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan P
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** Lonche, Wilito vs chanty,samy pesaje
+- **Texto en pantalla:** Lonche, Wilito vs chanty,samy pesaje
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=5EJJOlxCJ3M
+- **Fuente original:** https://www.youtube.com/watch?v=7O-OxuOKUXc
 
-### REY DE LA CITY VS WEGOTKICKS | PESAJE OFICIAL
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REY DE LA CITY VS WEGOTKICKS | PESAJE OFICIAL
-- **Texto en pantalla:** REY DE LA CITY VS WEGOTKICKS | PESAJE OFICIAL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=tLzH4vC5JwQ
-
-### Mr Stiven reacciona - En mi cuadra (video oficial) -pirlo420❌- Jaime El king
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Mr Stiven reacciona - En mi cuadra (video oficial) -pirlo420❌- Jaime El king
-- **Texto en pantalla:** Mr Stiven reacciona - En mi cuadra (video oficial) -pirlo420❌- Jaime E
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=16K-7ExrE9c
-
-### ALTORANGO ME VENDE OTRO RICHARD MILLE - WESTCOL
+### REYDELACITY SE REENCUENTRA CARA A CARA CON WEGOTKICKS EN EVENTO DE WESTCOL… ¡SE VIENE LA PELEA! 🥊🔥
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** ALTORANGO ME VENDE OTRO RICHARD MILLE - WESTCOL
-- **Texto en pantalla:** ALTORANGO ME VENDE OTRO RICHARD MILLE - WESTCOL
+- **Título sugerido:** REYDELACITY SE REENCUENTRA CARA A CARA CON WEGOTKICKS EN EVENTO DE WESTCOL… ¡SE VIENE LA PELEA! 🥊🔥
+- **Texto en pantalla:** REYDELACITY SE REENCUENTRA CARA A CARA CON WEGOTKICKS EN EVENTO DE WES
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=LjbIvSWaXdw
+- **Fuente original:** https://www.youtube.com/watch?v=nA0WcPMnKXY
+
+### 🥊😱 REY DE LA CITY vs WEGOTKICKS: ¿CON o SIN CASCO? 🔥 (Pesaje STREAM FIGHTERS 5) 💥
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** 🥊😱 REY DE LA CITY vs WEGOTKICKS: ¿CON o SIN CASCO? 🔥 (Pesaje STREAM FIGHTERS 5) 💥
+- **Texto en pantalla:** 🥊😱 REY DE LA CITY vs WEGOTKICKS: ¿CON o SIN CASCO? 🔥 (Pesaje STREAM FI
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=-48e66yS4Z8
+
+### WESTCOL VS SAMULX BOXEANDO 😨🥊
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL VS SAMULX BOXEANDO 😨🥊
+- **Texto en pantalla:** WESTCOL VS SAMULX BOXEANDO 😨🥊
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=dkEh6hCnw9s
 
 ### ASÍ ES un DÍA en BOGOTÁ COLOMBIA con los COMPAS | LONCHE Y WILLITO
 - **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
@@ -218,11 +209,21 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=GKM08bur0hE
 
+### Stream Fighters 5 LIVE today, where to watch, Stream Fighters 2026 live, where to watch
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: YMX Supervivencia? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: YMX Supervivencia.
+- **Título sugerido:** Stream Fighters 5 LIVE today, where to watch, Stream Fighters 2026 live, where to watch
+- **Texto en pantalla:** Stream Fighters 5 LIVE today, where to watch, Stream Fighters 2026 liv
+- **Descripción:** Fragmento relacionado con Emergente: YMX Supervivencia. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=761y46jpOZ4
+
 ## Noticias y contexto
 
-- **[Creadores] Luisa Castro cuestionó los ataques contra Westcol tras la muerte de Komanche - Noticias RCN** — 13/11/2026 06:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMk5Ia0lrUTB3NDhRQmpNS0xWa09CZVpPN0hUd1Y3cHppV2Y1aFdCNnlDTUpBOVItYUdtdF9SRXhybU1Vb1FaSzR6V2JhSFNjT3ZZX2oyRjc0SmVPLWRiRFQ4a3R4NmhDU012aFFSdHBwRkZfaHZmUE01MW01Y21BUmFZdmZRZFZzakJYRmRHUXRsYnJ4c29Pcmpn0gGaAUFVX3lxTE5NUkU3dzd1YjJEV0JJb1pfUm91UGt4SDlnclo0bkI1ai0yOThoM000ZXhRdVdfYktYQ0VXQzNHSkRaUm5UOGZXTGpLcnhwVGR4NHVSaVpEN2FkM1Q1U2tMeGtFZDdRajZ3cTZndzI0T1RhWUluSF8yYUJyUE9nWGJlX0ZsVlFfZUg5SkR0QnQ0eFRadjRSY0dKR1E?oc=5)
 - **[Creadores] 'La Liendra' sorprende a Dunia Santos con una confesión que pocos esperaban - Televicentro** — 13/11/2026 05:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUEtelJ1NTNyYWlmcXB1LWhHOF9KZWplSlJYVEZlRXlDcHNDd1l2TEpLS0ZjTVhMM3BhckVQNlpRd3pFS21TZnUtLVJwSWE0V3gwb0kybFFlUW0tN0hTXzJGd25mdTV1X001T3lMbUJfM0JEOWpNdHI4Z0tERnRqM1hSb1VfVFlZ?oc=5)
 - **[Creadores] Todo listo para la ‘Stream Fighters 5′: hora, fecha y dónde ver la velada de boxeo de Westcol - ELHERALDO.CO** — 13/11/2026 05:39 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLTIzemZXcjZxUm10MFNpcjFIRVlzMzNaWWQzWW5mbWN4MXFHakNxWkxMSGRkNUNXc1RMUkpXMzQxOXAySWZMcm8yaWV6RVc0bnNOTVBSNHBONEZXYnZaeEZZN012amtYYzIzRmVRaXJDNmdYdE9kcG9NRGI1aVpNUGJWbE9XS3JfV2JLa3dSMHpOenFfVnVDUG9PMkZCZFd5R0lhWVJDNE9SaHllSGFXQkZsRDlkR0FDbVMwRnBkZ1lwbENrSnN5UkcxTHBCS3k0MEFlTGlDdXF4QQ?oc=5)
+- **[Creadores] Todo listo para la ‘Stream Fighters 5′: hora, fecha y dónde ver la velada de boxeo de Westcol - ELHERALDO.CO** — 13/11/2026 05:39 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVlZjRkZWRExocGtaZ25QMnhxV0xLQjZEZlMwbUVOa3ZUX0dRWWQtTGlHNmRlQ2NXekVGbUVhT3RGOGl5T2FGNmxMbzVRbmpzVGVCbm51M1ZEMXdSVVRDdGdIX3NHQlBFVnJnNjVOamJjYThab0kxcmZUbXRWT2RZQmxzZENid0pmRDEtNWdXbk1oLWJfS2RRR1puMVIwZjRpYVhQVXFySVhFQWVZSEdCNGdKSUVvZEZ5UWk0U2ZXYmJWRjBOQ1NSb0tTbkoyX3ZFa0ZJZ2hCNF9LSVJ5Mk81NEhWWjNHUS1OYjdQLW83QjBfeDNR?oc=5)
 - **[Creadores] Stream Fighters 2026: La última edición del popular evento donde Willito y Lonche pelearán juntos - Solo Boxeo** — 13/11/2026 10:35 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMizwFBVV95cUxON1hGcE9EV2JGNWNxTFhFRnV0bzV0cVR5U1NUZURpTTNFXzFxbXRLU3JfN2c3eWVZc0RXN0pOdlZCNkJ3RlRObjh0RDF0M0RIanJoSEY1Zk5GdGItcDgtU2lSNnZ5ME5sb3REZVRoLWg0Q1hpRDdZUFBveTh4X2VONlA3UzhjNGxOX0JCdGpMaTRZQUhBRVZEdFVvUFZwOUNtNmE4ck1GMmYteFYyYXFZbTRzTG0zdm1hY0tjRGJ2ZkFjWXNTY1NURno4YjlqWDQ?oc=5)
 - **[Creadores] Latin Grammy 2026: Ami Rodríguez sorprende con un traje cubierto de notas amarillas y causa sensación - Emisoras Unidas** — 12/11/2026 07:35 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUs3SWxVUGZoVXNwVzBNZVY4bWlHd2hpY0o1cEVXb2o0RzRMSnZ5LUp3Q0xFTlRBSkY2dzd3YzJCYmFCYVJ5dVF5Q0FTMWQtT1pqTzFsVE5TMS16Y28tTTNqd3poRXpSaUpVNHJWWDRFbHJoVGdZLTd0OGcwVUpMa0ZyM0QwWUR2dVN0QmI2YjYwR2NHeU40R2dTSnpNYUNjOTNwR3BWLUF2XzRhU1pETUpVbkhZMml3YUNteW5qRFlvUQ?oc=5)
 - **[Creadores] ¿Quién ganó la pelea Reydelacity vs. Wegotkicks EN VIVO hoy por Stream Fighters 5? Resultado en directo - Depor** — 12/11/2026 06:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNndsbUh0a3Mtd201NEZSVXBjVGVUdnZuU3N5RFZEendhRnRlWi02Tnl6WHdtNkNobloxTmozRWZKeV84OWJxYXZZMzBXLVJIbzkyb1doaGY3dUFaTFE2bm85TlpNUVo2LVpJQlpJS3RTYy1IVHlSWlo2TWFUNGVmLVdpckpjTVowcUcwdDlKb09LTGJzbGVsdXIzU2dHMmtNZDJfY2ZzbUtIYXFCbWo1d3dLdWFscDVqaDF1V2dmdzE2cVhxTTc0QnoxZm9ESTRLV2Q2RGJMSzZia3A4MWZYdjZNTXp6d9IB-gFBVV95cUxQSzBTVU9TV3RlTmxMRnowZlc5MUpDeTlZSGhobzlaQldKU2tPMl9mM096ajRpbUI2NEtMemFBbXJFenRBYXBqZGVmNEs2X0ZMemlHeUw0dkdGbGVqSTRhaVJVeFFLbHJaTlI5ejR3cFNBaEVKZl9ETEJjRHliSk9rMEFVMDNSX0hmZmhraWVzMzVTR0t6N0JQcDZmNWdQd1VWNlYwV1ptLVRmTmIzY2hYY1V1bTBjaGRaTHFzenEtTHNuT0hGZC16UUFvV3RfUkw4aFFFSmFaNmxid0Z4UUNZWGlPZ1hwZE1zR0d3YV80VVEteFpHUzRzNi1R?oc=5)
@@ -249,17 +250,17 @@ DEDsafio Minecraft, series de Minecraft de streamers, eventos de Minecraft de cr
 
 Las pistas nuevas se guardan entre ejecuciones y se vuelven a buscar. Las inferidas por títulos son candidatas, no confirmaciones oficiales.
 
-- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-13
+- **Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival** (candidata por revisar) — última detección: 2026-11-14
   - https://www.youtube.com/watch?v=_TbnVvnAnQ0
   - https://www.youtube.com/watch?v=JnyDCulmTVw
+- **The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker Denims Reacts** (candidata por revisar) — última detección: 2026-11-14
+  - https://www.youtube.com/watch?v=5EJJOlxCJ3M
+- **Quackity receives Legacy Award at The Streamer Awards 2026** (candidata por revisar) — última detección: 2026-11-14
+  - https://www.youtube.com/watch?v=CVssZC80EG4
+- **Quackity recibe el Legacy Award en The Streamer Awards 2026** (candidata por revisar) — última detección: 2026-11-14
+  - https://www.youtube.com/watch?v=CVssZC80EG4
 - **El secreto de los cliperos para sacar 20 en minutos** (candidata por revisar) — última detección: 2026-11-13
   - https://www.youtube.com/watch?v=7n3zUxKpsXE
-- **The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker Denims Reacts** (candidata por revisar) — última detección: 2026-11-13
-  - https://www.youtube.com/watch?v=5EJJOlxCJ3M
-- **Quackity receives Legacy Award at The Streamer Awards 2026** (candidata por revisar) — última detección: 2026-11-13
-  - https://www.youtube.com/watch?v=CVssZC80EG4
-- **Quackity recibe el Legacy Award en The Streamer Awards 2026** (candidata por revisar) — última detección: 2026-11-13
-  - https://www.youtube.com/watch?v=CVssZC80EG4
 - **KatieB VOTES For The FUNNIEST QSMP In The QSMP AWARDS! QSMP 2 Minecraft** (candidata por revisar) — última detección: 2026-11-12
   - https://www.youtube.com/watch?v=EdG8FENpOqM
 - **KatieB Reacts to BEST QSMP for Awards on QSMP 2 Minecraft** (candidata por revisar) — última detección: 2026-11-11
