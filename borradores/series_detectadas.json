@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-11-14T08:15:30.192312-05:00",
+  "actualizado": "2026-11-14T13:58:59.684159-05:00",
   "series": [
     {
       "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-10-29T05:42:12.565778-05:00",
-      "ultima_deteccion": "2026-11-14T08:15:30.192312-05:00",
+      "ultima_deteccion": "2026-11-14T13:58:59.684159-05:00",
       "canal_muestra": "Drice Gamerz",
       "enlaces": [
         "https://www.youtube.com/watch?v=_TbnVvnAnQ0",
@@ -21,7 +21,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-13T18:24:55.161478-05:00",
-      "ultima_deteccion": "2026-11-14T08:15:30.192312-05:00",
+      "ultima_deteccion": "2026-11-14T13:58:59.684159-05:00",
       "canal_muestra": "DenimsTV Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=5EJJOlxCJ3M"
@@ -32,10 +32,21 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-13T18:24:55.161478-05:00",
-      "ultima_deteccion": "2026-11-14T08:15:30.192312-05:00",
+      "ultima_deteccion": "2026-11-14T13:58:59.684159-05:00",
       "canal_muestra": "QTCinderella Clips",
       "enlaces": [
         "https://www.youtube.com/watch?v=CVssZC80EG4"
+      ]
+    },
+    {
+      "nombre": "AGROPECUARIO VS DAREN 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-14T13:58:59.684159-05:00",
+      "ultima_deteccion": "2026-11-14T13:58:59.684159-05:00",
+      "canal_muestra": "elwerik reacciones",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=AaXwT7MKUqI"
       ]
     },
     {
