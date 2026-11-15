@@ -1,6 +1,50 @@
 {
-  "actualizado": "2026-11-15T00:44:25.771090-05:00",
+  "actualizado": "2026-11-15T08:43:36.464609-05:00",
   "series": [
+    {
+      "nombre": "The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker Denims Reacts",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-13T18:24:55.161478-05:00",
+      "ultima_deteccion": "2026-11-15T08:43:36.464609-05:00",
+      "canal_muestra": "DenimsTV Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=5EJJOlxCJ3M"
+      ]
+    },
+    {
+      "nombre": "AGROPECUARIO VS DAREN 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-14T13:58:59.684159-05:00",
+      "ultima_deteccion": "2026-11-15T08:43:36.464609-05:00",
+      "canal_muestra": "Canal no identificado",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=AaXwT7MKUqI"
+      ]
+    },
+    {
+      "nombre": "JH DE LA CRUZ VS HERRERA 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
+      "ultima_deteccion": "2026-11-15T08:43:36.464609-05:00",
+      "canal_muestra": "Canal no identificado",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=ZuWHmmTvou0"
+      ]
+    },
+    {
+      "nombre": "REY DE LA CITY VS WE GOT KICKS 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
+      "ultima_deteccion": "2026-11-15T08:43:36.464609-05:00",
+      "canal_muestra": "Canal no identificado",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=OlvA5vnvjVY"
+      ]
+    },
     {
       "nombre": "Pvp with You live #minecraft #ytshorts # #youtubeshorts #shortsfeed #mcpe #minecraftsurvival",
       "tipo": "serie_o_tema_candidato",
@@ -17,39 +61,6 @@
       ]
     },
     {
-      "nombre": "The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker Denims Reacts",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-13T18:24:55.161478-05:00",
-      "ultima_deteccion": "2026-11-15T00:44:25.771090-05:00",
-      "canal_muestra": "DenimsTV Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=5EJJOlxCJ3M"
-      ]
-    },
-    {
-      "nombre": "AGROPECUARIO VS DAREN 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-14T13:58:59.684159-05:00",
-      "ultima_deteccion": "2026-11-15T00:44:25.771090-05:00",
-      "canal_muestra": "elwerik reacciones",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=AaXwT7MKUqI"
-      ]
-    },
-    {
-      "nombre": "JH DE LA CRUZ VS HERRERA 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
-      "ultima_deteccion": "2026-11-15T00:44:25.771090-05:00",
-      "canal_muestra": "elwerik reacciones",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=ZuWHmmTvou0"
-      ]
-    },
-    {
       "nombre": "LA DIVAZA VS LA VALDIRI 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
@@ -58,17 +69,6 @@
       "canal_muestra": "elwerik reacciones",
       "enlaces": [
         "https://www.youtube.com/watch?v=KK-7H9UbRYY"
-      ]
-    },
-    {
-      "nombre": "REY DE LA CITY VS WE GOT KICKS 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
-      "ultima_deteccion": "2026-11-15T00:44:25.771090-05:00",
-      "canal_muestra": "elwerik reacciones",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=OlvA5vnvjVY"
       ]
     },
     {
