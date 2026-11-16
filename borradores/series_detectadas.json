@@ -1,23 +1,12 @@
 {
-  "actualizado": "2026-11-15T18:51:59.548016-05:00",
+  "actualizado": "2026-11-16T00:44:45.517833-05:00",
   "series": [
-    {
-      "nombre": "The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker Denims Reacts",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-13T18:24:55.161478-05:00",
-      "ultima_deteccion": "2026-11-15T18:51:59.548016-05:00",
-      "canal_muestra": "DenimsTV Clips",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=5EJJOlxCJ3M"
-      ]
-    },
     {
       "nombre": "AGROPECUARIO VS DAREN 🥊 ¡REACCIONAMOS AL PESAJE! STREAM FIGHTERS 5",
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-14T13:58:59.684159-05:00",
-      "ultima_deteccion": "2026-11-15T18:51:59.548016-05:00",
+      "ultima_deteccion": "2026-11-16T00:44:45.517833-05:00",
       "canal_muestra": "elwerik reacciones",
       "enlaces": [
         "https://www.youtube.com/watch?v=AaXwT7MKUqI"
@@ -28,7 +17,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
-      "ultima_deteccion": "2026-11-15T18:51:59.548016-05:00",
+      "ultima_deteccion": "2026-11-16T00:44:45.517833-05:00",
       "canal_muestra": "elwerik reacciones",
       "enlaces": [
         "https://www.youtube.com/watch?v=ZuWHmmTvou0"
@@ -39,7 +28,7 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
-      "ultima_deteccion": "2026-11-15T18:51:59.548016-05:00",
+      "ultima_deteccion": "2026-11-16T00:44:45.517833-05:00",
       "canal_muestra": "elwerik reacciones",
       "enlaces": [
         "https://www.youtube.com/watch?v=OlvA5vnvjVY"
@@ -50,10 +39,32 @@
       "tipo": "serie_o_tema_candidato",
       "confirmada": false,
       "primera_deteccion": "2026-11-14T18:45:48.768863-05:00",
-      "ultima_deteccion": "2026-11-15T18:51:59.548016-05:00",
+      "ultima_deteccion": "2026-11-16T00:44:45.517833-05:00",
       "canal_muestra": "elwerik reacciones",
       "enlaces": [
         "https://www.youtube.com/watch?v=KK-7H9UbRYY"
+      ]
+    },
+    {
+      "nombre": "Drdonut loses Minecraft streamer of the year (full )",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-15T00:44:25.771090-05:00",
+      "ultima_deteccion": "2026-11-16T00:44:45.517833-05:00",
+      "canal_muestra": "Breadloaf",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=xP9kFZFfDF4"
+      ]
+    },
+    {
+      "nombre": "The Streamer Awards and Austin Show Asked Strangers to Condemn Hasan Piker Denims Reacts",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-13T18:24:55.161478-05:00",
+      "ultima_deteccion": "2026-11-15T18:51:59.548016-05:00",
+      "canal_muestra": "DenimsTV Clips",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=5EJJOlxCJ3M"
       ]
     },
     {
@@ -69,17 +80,6 @@
         "https://www.youtube.com/watch?v=Yh4xdMGCNEI",
         "https://www.youtube.com/watch?v=f4weInVu_bE",
         "https://www.youtube.com/watch?v=DGfL6KYmORw"
-      ]
-    },
-    {
-      "nombre": "Drdonut loses Minecraft streamer of the year (full )",
-      "tipo": "serie_o_tema_candidato",
-      "confirmada": false,
-      "primera_deteccion": "2026-11-15T00:44:25.771090-05:00",
-      "ultima_deteccion": "2026-11-15T00:44:25.771090-05:00",
-      "canal_muestra": "Breadloaf",
-      "enlaces": [
-        "https://www.youtube.com/watch?v=xP9kFZFfDF4"
       ]
     },
     {
