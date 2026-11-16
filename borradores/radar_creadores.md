@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 16/11/2026 12:44 AM (hora de Colombia)
+Actualizado: 16/11/2026 10:19 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 16.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, Influencer de respaldo: 1.
+Clips incluidos: 17.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 7, Emergente por verificar: 8, Influencer de respaldo: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,29 +15,19 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Categoria: Clip de terceros
 - Creador/canal detectado: Samulx
 - Canal que publico: WReals
-- Publicado: 15/11/2026 09:00 AM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 112.403
+- Vistas reportadas por YouTube: 152.193
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=ZJ0F-Wt-_n8
-
-### STREAM FIGHTERS 5 (LIVE) FULL | WESTCOL VS BLESSD Official Influencer Fight
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: FULL MUSIC TV
-- Publicado: 14/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 248.127
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=z6yGtQZD5Ww
 
 ### Westcol vs. Blessd LIVE Full Robot Fight, Stream Fighters 5 today westcol vs blessd
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Mundo Para Todos
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 47.541
+- Vistas reportadas por YouTube: 48.408
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=ez90aKD10YI
 
@@ -47,7 +37,7 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Canal que publico: WagsonX
 - Publicado: 15/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 28
+- Vistas reportadas por YouTube: 43
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=LgoAQ_Dz0Ns
 
@@ -55,27 +45,17 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: Mis Corillos
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.647
+- Vistas reportadas por YouTube: 1.728
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=u6xZMHGjHh4
-
-### Drdonut loses Minecraft streamer of the year (full clip)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos Minecraft
-- Canal que publico: Breadloaf
-- Publicado: 14/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 146
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=xP9kFZFfDF4
 
 ### AGROPECUARIO VS DAREN 🥊 ¡REACCIONAMOS AL PESAJE! | STREAM FIGHTERS 5
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: elwerik reacciones
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 25
 - Puntaje heurístico de interés: 2
@@ -85,9 +65,9 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: elwerik reacciones
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17
+- Vistas reportadas por YouTube: 20
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=KK-7H9UbRYY
 
@@ -97,7 +77,7 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Canal que publico: LaW SHORTS
 - Publicado: 15/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 12
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Qa1yGuDC2_U
 
@@ -105,29 +85,19 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: YMX Supervivencia
 - Canal que publico: YMX Supervivencia
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 278.759
+- Vistas reportadas por YouTube: 278.883
 - Puntaje heurístico de interés: 9
 - Enlace directo: https://www.youtube.com/watch?v=DSqju3IlbJ8
-
-### JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: JHdelacruz777 (Jóvenes Hoy)
-- Canal que publico: JHdelacruz777 (Jóvenes Hoy)
-- Publicado: 14/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 833.780
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=2Fa3ZGQMCBg
 
 ### Where to watch Alexa Torrex and Karola Alcendra vs Beba and Yaya LIVE Stream Fighters 5 2026 figh...
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: YMX Supervivencia
 - Canal que publico: YMX Supervivencia
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 57.971
+- Vistas reportadas por YouTube: 58.601
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=l7MdKudWoiU
 
@@ -135,37 +105,74 @@ Distribución por categoría: Clip de terceros: 9, Emergente por verificar: 6, I
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: YMX Supervivencia
 - Canal que publico: YMX Supervivencia
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 52.538
+- Vistas reportadas por YouTube: 52.648
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=LnTs3g4XKZw
 
+### Where to watch Alexa Torres and Karola vs Beba and Yaya LIVE Stream Fighters 5 2026 full fight recap
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Jesus Campoz
+- Canal que publico: Jesus Campoz
+- Publicado: 15/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 66.423
+- Puntaje heurístico de interés: 7
+- Enlace directo: https://www.youtube.com/watch?v=jVx-uVaebTQ
+
+### Stream Fighters 5 LIVE Where to Watch and What Time | Fight Card and Matches La Divaza vs. Andrea...
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Mundo Para Todos
+- Canal que publico: Mundo Para Todos
+- Publicado: 14/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 22.492
+- Puntaje heurístico de interés: 5
+- Enlace directo: https://www.youtube.com/watch?v=h3nUjypb9UA
+
 ### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 15/11/2026 02:00 PM
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
+- Publicado: 15/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 755
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=h5gn6QjQzMo
 
 ### IRL ANTES DE STREAM FIGHTERS 5 COLOMBIA 🥊🇨🇴 l BykingCL
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: KICK CL
-- Canal que publico: KICK CL
-- Publicado: 14/11/2026 07:00 PM
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 259
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=9wjDCYWDLH0
+
+### JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
+- Publicado: 15/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=2Fa3ZGQMCBg
+
+### Cintia shoots my truck so I buy a new one | Yeferson Cossio
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Yeferson Cossio
+- Canal que publico: Yefito
+- Publicado: 14/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 161.390
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=WWR53mDsfQw
 
 ### La liendra prestando una corona 👑 que Nid el Essss 😭 😭 😭 😭 JAAJAAJAAdd #viral
 - Categoria: Influencer de respaldo
 - Creador/canal detectado: La Liendra
 - Canal que publico: Yurii Murillo
-- Publicado: 14/11/2026 07:00 PM
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 104
 - Puntaje heurístico de interés: 3
@@ -184,16 +191,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=ZJ0F-Wt-_n8
-
-### STREAM FIGHTERS 5 (LIVE) FULL | WESTCOL VS BLESSD Official Influencer Fight
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** STREAM FIGHTERS 5 (LIVE) FULL | WESTCOL VS BLESSD Official Influencer Fight
-- **Texto en pantalla:** STREAM FIGHTERS 5 (LIVE) FULL | WESTCOL VS BLESSD Official Influencer 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=z6yGtQZD5Ww
 
 ### Westcol vs. Blessd LIVE Full Robot Fight, Stream Fighters 5 today westcol vs blessd
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -224,16 +221,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=u6xZMHGjHh4
-
-### Drdonut loses Minecraft streamer of the year (full clip)
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos Minecraft? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos Minecraft.
-- **Título sugerido:** Drdonut loses Minecraft streamer of the year (full clip)
-- **Texto en pantalla:** Drdonut loses Minecraft streamer of the year (full clip)
-- **Descripción:** Fragmento relacionado con Series y eventos Minecraft. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xP9kFZFfDF4
 
 ### AGROPECUARIO VS DAREN 🥊 ¡REACCIONAMOS AL PESAJE! | STREAM FIGHTERS 5
 - **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
@@ -275,16 +262,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=DSqju3IlbJ8
 
-### JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: JHdelacruz777 (Jóvenes Hoy)? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: JHdelacruz777 (Jóvenes Hoy).
-- **Título sugerido:** JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
-- **Texto en pantalla:** JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
-- **Descripción:** Fragmento relacionado con Emergente: JHdelacruz777 (Jóvenes Hoy). Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=2Fa3ZGQMCBg
-
 ### Where to watch Alexa Torrex and Karola Alcendra vs Beba and Yaya LIVE Stream Fighters 5 2026 figh...
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: YMX Supervivencia? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -305,25 +282,65 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=LnTs3g4XKZw
 
-### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### Where to watch Alexa Torres and Karola vs Beba and Yaya LIVE Stream Fighters 5 2026 full fight recap
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Jesus Campoz? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Jesus Campoz.
+- **Título sugerido:** Where to watch Alexa Torres and Karola vs Beba and Yaya LIVE Stream Fighters 5 2026 full fight recap
+- **Texto en pantalla:** Where to watch Alexa Torres and Karola vs Beba and Yaya LIVE Stream Fi
+- **Descripción:** Fragmento relacionado con Emergente: Jesus Campoz. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=jVx-uVaebTQ
+
+### Stream Fighters 5 LIVE Where to Watch and What Time | Fight Card and Matches La Divaza vs. Andrea...
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Mundo Para Todos? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Mundo Para Todos.
+- **Título sugerido:** Stream Fighters 5 LIVE Where to Watch and What Time | Fight Card and Matches La Divaza vs. Andrea...
+- **Texto en pantalla:** Stream Fighters 5 LIVE Where to Watch and What Time | Fight Card and M
+- **Descripción:** Fragmento relacionado con Emergente: Mundo Para Todos. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=h3nUjypb9UA
+
+### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
 - **Título sugerido:** MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
 - **Texto en pantalla:** MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=h5gn6QjQzMo
 
 ### IRL ANTES DE STREAM FIGHTERS 5 COLOMBIA 🥊🇨🇴 l BykingCL
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: KICK CL? 👀
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: KICK CL.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
 - **Título sugerido:** IRL ANTES DE STREAM FIGHTERS 5 COLOMBIA 🥊🇨🇴 l BykingCL
 - **Texto en pantalla:** IRL ANTES DE STREAM FIGHTERS 5 COLOMBIA 🥊🇨🇴 l BykingCL
-- **Descripción:** Fragmento relacionado con Emergente: KICK CL. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=9wjDCYWDLH0
+
+### JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
+- **Título sugerido:** JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- **Texto en pantalla:** JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=2Fa3ZGQMCBg
+
+### Cintia shoots my truck so I buy a new one | Yeferson Cossio
+- **Gancho A:** ¿Ya habías visto este momento de Yeferson Cossio? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Yeferson Cossio.
+- **Título sugerido:** Cintia shoots my truck so I buy a new one | Yeferson Cossio
+- **Texto en pantalla:** Cintia shoots my truck so I buy a new one | Yeferson Cossio
+- **Descripción:** Fragmento relacionado con Yeferson Cossio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=WWR53mDsfQw
 
 ### La liendra prestando una corona 👑 que Nid el Essss 😭 😭 😭 😭 JAAJAAJAAdd #viral
 - **Gancho A:** ¿Ya habías visto este momento de La Liendra? 👀
@@ -337,14 +354,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
-- **[Creadores] Aida Victoria Merlano expuso chats con el Agropecuario y reveló que tuvo un escolta en su casa tras amenazas - Infobae** — 15/11/2026 11:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV3p5TEtyLWZIeWw4dzZoQWw5cnNWTnVWM2wzOWxVeGVDMnRLb0xxRGRVZnJGYjlQMlAzZWdjVnExNW90NC1ud28tYVAwamZZNThhVmlSby11cklCR2FKTFpZa2FKVXlxX3NLamZPcmJPb1l0YjhqcU5sSG9DREw3LWFRS0V3ZmhFZ2NncWhDTFV0cEtTVlp0ZFBYTjFDdkZLdF9NWGlSTUltd3lGMTFnTElOd2J4ZWtTZlp3UTkyNkVoSWc2dkRUdkZYWkZ4OUozRmxKcUtaSlpidml6MGFOQVBqWWk3UW9Y0gGDAkFVX3lxTE5xMUlGMHVFRHktanBBaEE5b2ZzY0lGeS1EWVpHbDgyUVlxUHNFU1NtMHJ5OXg0UXhGM2dXcEZwRHFyWVhXd1hyRVNTR3RPYXpQOG5wZmk3UmdiRmhYUjB0Q1dVY1J3OFJNXzhLV21nTmU2b0NNTU5MbHhLUXdLRDBURmQzMGY5UkZ3UXBqc3dKMlNqMHRNUE1lR3FPY0RPUEhISURnRUN4eE1ZNFhPeGpjZ1l0NW04U3ZUYjJ2QVFvQW1JMC1qYjF6TXl5bGZIVW9BejR0cE5pZkxZQl9fNE5OZXpvdlR0OVpFcEZJVzhzX0Z1RFEzVUZjNWZUaGxBRTlYNDQ?oc=5)
+- **[Creadores] Aida Victoria Merlano expuso chats con el Agropecuario y reveló que tuvo un escolta en su casa tras amenazas - Infobae** — 15/11/2026 11:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcTFJRjB1RUR5LWpwQWhBOW9mc2NJRnktRFlaR2w4MlFZcVBzRVNTbTByeTl4NFF4RjNnV3BGcERxcllYV3dYckVTU0d0T2F6UDhucGZpN1JnYkZoWFIwdENXVWNSdzhSTV84S1dtZ05lNm9DTU1OTGx4S1F3S0QwVEZkMzBmOVJGd1FwanN3SjJTajB0TVBNZUdxT2NET1BISElEZ0VDeHhNWTRYT3hqY2dZdDVtOFN2VGIydkFRb0FtSTAtamIxek15eWxmSFVvQXo0dHBOaWZMWUJfXzROTmV6b3ZUdDlaRXBGSVc4c19GdURRM1VGYzVmVGhsQUU5WDQ00gGDAkFVX3lxTE5xMUlGMHVFRHktanBBaEE5b2ZzY0lGeS1EWVpHbDgyUVlxUHNFU1NtMHJ5OXg0UXhGM2dXcEZwRHFyWVhXd1hyRVNTR3RPYXpQOG5wZmk3UmdiRmhYUjB0Q1dVY1J3OFJNXzhLV21nTmU2b0NNTU5MbHhLUXdLRDBURmQzMGY5UkZ3UXBqc3dKMlNqMHRNUE1lR3FPY0RPUEhISURnRUN4eE1ZNFhPeGpjZ1l0NW04U3ZUYjJ2QVFvQW1JMC1qYjF6TXl5bGZIVW9BejR0cE5pZkxZQl9fNE5OZXpvdlR0OVpFcEZJVzhzX0Z1RFEzVUZjNWZUaGxBRTlYNDQ?oc=5)
 - **[Creadores] Esta fue la polémica reacción de Aida Victoria Merlano tras la derrota de 'El Agropecuario' en Stream Fighters 5 - Noticias RCN** — 15/11/2026 05:36 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQUUzbHdUYXlYQl9UelNTR3Fzd2k3b3dzNG9fbUNhMDlLYVd1bG55bnFsU0pMX0MtWTRob2JQb1hCV2RHUFZwNTAtbUstSnk3WV9PeUVETWxYODJRUUNZTzlMQVNqR0hHMkZtNk9LWHNfUmlEMGlSVjllUi1MaGowNTJDc2otQUZqZEcyend0Zk4yS1UtT1hMQktxTkhYVlpCUmlDZUMzUEZnLW9wZU40QmhQS21Rb2JaUjZhRlZSYkRRbUJRbXI3Q2U3TEVrY0lodWNIOC1MR3dTZUhPWDEtaGt4anNpek5zdTFMdNIB7AFBVV95cUxPbTNwNDZNOVdVYmtrODBMcFhEVV9Da2ktcmFPVTl5S0IySEFVQ2NUNkhWTXJlQjFYbm02WXpmYmdPb2w5ZVdvSktiWjNsZER1d0pCVkpYUXpVdjgtQV9nSWYzMnoydmYwSTVrSzYwVEdCQ1Q2Y2lLa3QxSEllSDlDaUdOdzFYbXBMQTBwaVV5RWRTbl9IRGlRMGFCeFQyd2xvbUNWUG9JSWYxUzRvb3o5dTZLbEoyX20zeVZ0TmJVdHZMUlltQzVYZDFjZkxUNjdpaDNpY0FjYWsxMk9Ddi1SOENrQUhUQklaT0lrdg?oc=5)
 - **[Creadores] Los miles de millones que habría movido Westcol con su último Stream Fighters - Las2orillas** — 15/11/2026 03:47 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGo3V2hOMFhvMHd0QTdsXzNVczdINGs5LUk5WDNHeVpnVWdacDMtMlAzZk5QTjdOaDB1YlREMUkwWll1ZlBVVllpdFAtbnNObDhVa090SDlZQjJRekR4SjdJV2pOcnF1bUdxbWtBS1JYSEdxdy1aajZiSTFkYTlKeFlTc2NlZ0NkU0QxMFNsM0dieHhwVFBPSl9NQ2hEb1B6Nm9TVU4tVTI?oc=5)
-- **[Creadores] Yina Calderón se burló de ‘Stream Fighters’ al afirmar que su nombre fue el más mencionado del evento sin estar invitada - Infobae** — 15/11/2026 01:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUnRwcFBrSnJBVmU3Nzh4X3BxMV9VTTQwcGJBam1DWTVvSnZfcDVUOUc1MnNyS3FXZ0x0cllUcE9wSDJ1UkEwMEQycGVsOU5FMGR4eVZTNFNhQnZPaXR6T19YcVJlbTgzSU9ndFhlLVR4ZUhqamVWOUkzRGYxMFNtdGg3LUNzWm9QNWtYb2VjcUdhWE9SS3lsS0p4RmdzdnVfQ1FIclJ4Q3pJbEhyOFZBM2syVEFrSWFvVmh0d0h1ZC12WWFXY2RmVkxJTkVPeEdEVGtBb1ptMnUtOTdwZC1qQ3luM2ZqcFJ4Q3BHWHM1LXJmNktILWc?oc=5)
-- **[Creadores] Camilo Cifuentes se confesó ante Westcol y Blessd en pleno stream - Noticias RCN** — 15/11/2026 10:15 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMioAFBVV95cUxObGpaZTVqajRpRVpzb1lXbmo3dllkeFlCR2toVHV3V0FwX28xc2hoYkN1SElZRzk0d0Fya0JhVk1DSkgxOTNBUG83eW9tRkowcm15MnVYR3I0bXJOdEFsN0dURk9MWmw3b09yRkhXT1gyeDJaUUUwVWt1S1FmRldOQTgzQmdmSTNzUHIyV1FENThNNWJOZEYta0p3UVpUc0ho0gGgAUFVX3lxTE9PSDBDSUJHT1VIVEFvRzNmRThsTld4NzdlRHhQYVpxRTE5dFlkUnhodmJweVphYXU3VG82TllHTThIY1FoZG5tWjA0eUtiNGlzSkhuVnprTFpVb0ZyQXYyVnVUQXZHU1NVZmJ5eXFCSjlYVXBkNTUxNHk1dEF1cGQwTi1QUmtLVnQ0WDBpSHl3RlNQZmRSLVZsWmprSEd0RmQ?oc=5)
-- **[Creadores] Filtran video de Yeferson Cossio siendo presuntamente infiel: el hombre se pronunció - Noticias RCN** — 15/11/2026 02:01 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGRBcTUyOXVlQ1VzTXpVa0pFeWFpdEUxbThDdnpMdnBaYk9KLXN6WG9VVDU2ekNISjlnSUZ6VUdnSmlDcG0xbWJzeUtGSDJGLS1GUVlyWUVNeFl5cGZnZWJGMERWVzR5NVpOemtoMlFrMHZybURfcDgyYmxSUk1hVk0tUmloYWFTYnpOSExMUlRoX3JBakY5V2NqdlRuY3N1WDV0cTNFRlg5YWphcjBIZmFkdnJmUGFNeTJrVEg4RdIBvwFBVV95cUxNX2xScnhfaDJZR2RZSzVhZVVlbkRaMDd6bEdBcVJndk8wRGJIMmhlTnhqaTlmaEY2QmRoZGpseVNILXN0cDNDMXBQUmZxT1dwWGljT2xidzg5REZBY1lRTEhhdTZiMWd4bU9oUVZIakRQeEpkZ0tnN0tyWTl5Ynp3WlFyUk53QVhCM1NUcVdIZXBZUXVLV1dNTk1NaTczYjdGNGM5aS15N09FV0dMYUhUWVRTUjVwNWdPX3hLRzZXYw?oc=5)
+- **[Creadores] Yina Calderón se burló de ‘Stream Fighters’ al afirmar que su nombre fue el más mencionado del evento sin estar invitada - Infobae** — 15/11/2026 01:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUnRwcFBrSnJBVmU3Nzh4X3BxMV9VTTQwcGJBam1DWTVvSnZfcDVUOUc1MnNyS3FXZ0x0cllUcE9wSDJ1UkEwMEQycGVsOU5FMGR4eVZTNFNhQnZPaXR6T19YcVJlbTgzSU9ndFhlLVR4ZUhqamVWOUkzRGYxMFNtdGg3LUNzWm9QNWtYb2VjcUdhWE9SS3lsS0p4RmdzdnVfQ1FIclJ4Q3pJbEhyOFZBM2syVEFrSWFvVmh0d0h1ZC12WWFXY2RmVkxJTkVPeEdEVGtBb1ptMnUtOTdwZC1qQ3luM2ZqcFJ4Q3BHWHM1LXJmNktILWfSAZACQVVfeXFMTmZaVzcySlFBTlFDRUxZemM4Vk04Q0s4MnRaSGVmejl2WGt4S3FNRHgyRXhkdmZkTktmZHg2ZzBvVkNMSE92ZzZ5WDA2WERoSHBVTjBJQ0t1RFdSRFRGb3VleUluSm5lSXBCWUJsZ3J1UnItcXJhWml3UlBSM2FYbmtEZkNnOU5HbENJLW1pd19iOWtUcFY3TFFkT29iSGY4T21rWEp3Q04xU1MwTmlPTWJ6UHZEaWZoZVRTTjcta1ZLYWRPYjg4TW45R0MtNFVrbmVieTctUWk4a1lIb1FiYXpRMjlXdUxwTjlEQzFvZmZXZzl3NFFtSEtIYnc4YlJhTlFUV0dFNnhMdk5QQ201dmQ?oc=5)
+- **[Creadores] Final de ‘Stream Fighters 5’: Andrea Valdiri vence a La Divaza y el robot de Blessd se impone al de Westcol - ELHERALDO.CO** — 15/11/2026 08:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiigJBVV95cUxNYTdZVGFSc1hsZGt5Wm94SWV4SEpvQ3JGb21xd2J5U08tU29HTEhMakpGY2oxcVUxSmo1YUxETUdPbGdwSDVHVFFMOWpYMFN5X1h2ckx4SER2SUNGb1FTaDhJVzFWUjFHNkRMM2pTbEdxcTU1S2U1eDM3RWpBbzZxQ3VsTHN2Z3BRZGZ4Q3dOemR3Rmo0NVRCNVM1Mkw5NTY0Znp3a1VFN2NXemlKOGhDTEZFUHRfOUNmcC1sVHA1OHJIZ1I0bmFfTmE4WlVIUTVVTkY3Y0RyQXZfNG5CTWViMVlDdl9SaUlSOUZKWnZIM2RaVmdoRkF6Y1V0TzBPQUppTzNxRFN3MVl5UQ?oc=5)
 - **[Creadores] ¿Quién ganó la pelea Reydelacity vs. Wegotkicks por Stream Fighters 5? Resultado del combate - Depor** — 15/11/2026 12:04 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNndsbUh0a3Mtd201NEZSVXBjVGVUdnZuU3N5RFZEendhRnRlWi02Tnl6WHdtNkNobloxTmozRWZKeV84OWJxYXZZMzBXLVJIbzkyb1doaGY3dUFaTFE2bm85TlpNUVo2LVpJQlpJS3RTYy1IVHlSWlo2TWFUNGVmLVdpckpjTVowcUcwdDlKb09LTGJzbGVsdXIzU2dHMmtNZDJfY2ZzbUtIYXFCbWo1d3dLdWFscDVqaDF1V2dmdzE2cVhxTTc0QnoxZm9ESTRLV2Q2RGJMSzZia3A4MWZYdjZNTXp6d9IB-gFBVV95cUxQSzBTVU9TV3RlTmxMRnowZlc5MUpDeTlZSGhobzlaQldKU2tPMl9mM096ajRpbUI2NEtMemFBbXJFenRBYXBqZGVmNEs2X0ZMemlHeUw0dkdGbGVqSTRhaVJVeFFLbHJaTlI5ejR3cFNBaEVKZl9ETEJjRHliSk9rMEFVMDNSX0hmZmhraWVzMzVTR0t6N0JQcDZmNWdQd1VWNlYwV1ptLVRmTmIzY2hYY1V1bTBjaGRaTHFzenEtTHNuT0hGZC16UUFvV3RfUkw4aFFFSmFaNmxid0Z4UUNZWGlPZ1hwZE1zR0d3YV80VVEteFpHUzRzNi1R?oc=5)
-- **[Creadores] La historia de Los de Ñam: los creadores de contenido que hicieron de la cocina un fenómeno digital - Revista Semana** — 14/11/2026 01:26 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMlkyRTRUbDctY3dxRzFEVVU3d1NkSmNpVmlYMDYzQk9zZlVROUxwenFYSU0tTlJidWQwUGliUDY4a21EZlRYVkR4dFp6Xy00MmNLSnY2WUVhRkhHYUlXTTI5ZUE0QWwxMlBCUzFRck15R0pHdjZtQ3FSWldST3pjcWdEMFVPUTU0SW50cjJidEllWWdXNWhoQV9zMjJNNTVHS1FXV05MaGtyZnpmdlVrTTRhd0xQOW9iSGtpTGNvdF9tV1NIMVd5OG1MQm1VRk4wWlMyeFhad21TRUNx0gHiAUFVX3lxTFBxQi03ckpvaU5CaDZQNFhxelVxVGJFLXdfMS1VaElRck1WN0Rhazk1SWhaOUFLemVRbWwxMFllUkpHNWRVbkNRNDlfRUdQLWQ0U3ZqTXFjTUJUVnA3RVAyNDJfdS1JQ0NfdnR6LWdOTXg1eUVjMlNDdWgxWG5aWHBaaDBCbFNyYWZPM3V3RmNmclFHNTZJb0trYnQ0U0RJY0xzSlA1V1pvQ2F1d0JtbS1jOE9zLVhFRDk5R1JpaE1wVGVuWktKdXNuOTQ0UEZONExhMEE5bUtqT0NWT2pkVlVUUmc?oc=5)
 
 ## Creadores principales vigilados
 
