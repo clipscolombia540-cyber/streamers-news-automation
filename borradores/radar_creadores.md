@@ -1,81 +1,63 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/11/2026 05:25 AM (hora de Colombia)
+Actualizado: 17/11/2026 03:40 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 12.
 Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 5.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 🔥 ¡SE DESCONTROLÓ TODO! 😱 PELEAS, DRAMAS Y MOMENTOS MÁS VIRALES DEL EVENTO DE WESTCOL
+### VIENDO STREAM FITHERS 5 VOY A REY DE LA CITY & JH
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: El Rolooo
-- Publicado: 16/11/2026 11:00 PM
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Mis Corillos
+- Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=WDiqEU8f170
-
-### LES PRESENTO MI NUEVA CULLINAN MANZORY Y ODETTE EN LA MANSION VIP ASI REACCIONO WILLITO | LONCHE
-- Categoria: Clip de terceros
-- Creador/canal detectado: Lonche de Huevito
-- Canal que publico: La Lonchiza
-- Publicado: 16/11/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4.833
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=XldwJl9leXg
-
-### LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP 🥃💣
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: SoyPan Live
-- Publicado: 17/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.015
+- Vistas reportadas por YouTube: 1.853
 - Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=N_5HKYcfemk
-
-### 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Canal no identificado
-- Publicado: 16/11/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=_z8Wi8KTIdw
+- Enlace directo: https://www.youtube.com/watch?v=u6xZMHGjHh4
 
 ### Rey de la City: De Criticado a Campeón 🇩🇴
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: Chris |Arelius
-- Publicado: 15/11/2026 07:00 PM
+- Publicado: 16/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 24
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=_t4Ps3Zm8pQ
 
-### EL REY DE LA CITY VS WE GOT KICKS | STREAM FIGHTERS 5
+### El streamer Westcol llevó al presentador Jorge Barón a su evento, donde terminó abucheado po #Shorts
 - Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Westiercol
+- Creador/canal detectado: Westcol
+- Canal que publico: Sargento (r) Alexander Chala
 - Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 88
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=hkHXBxFHpec
+- Enlace directo: https://www.youtube.com/watch?v=VkyUdpGARpY
+
+### 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MR Moroclips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MR Moroclips
+- Publicado: 16/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 31.126
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=_z8Wi8KTIdw
 
 ### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MrStiven Clips
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MrStiven Clips
-- Publicado: 16/11/2026 01:00 PM
+- Publicado: 16/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 3
@@ -86,65 +68,84 @@ Distribución por categoría: Clip de terceros: 6, Cuenta de clips: 2, Emergente
 - Creador/canal detectado: Cuenta de clips: El Chanty Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: El Chanty Clips
-- Publicado: 16/11/2026 12:00 PM
+- Publicado: 16/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 26
+- Vistas reportadas por YouTube: 30
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=2IIvEjn9dao
 
+### Westcol reacciona a la pelea de Daren y habla de todo Stream Fighters 5 🥊
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Westclips.
+- Creador relacionado en el título: Westcol
+- Canal que publico: Westclips.
+- Publicado: 16/11/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 37
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=OK9tXBs1bFY
+
+### JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: JHdelacruz777 (Jóvenes Hoy)
+- Canal que publico: JHdelacruz777 (Jóvenes Hoy)
+- Publicado: 15/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1.250.089
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=2Fa3ZGQMCBg
+
 ### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
+- Publicado: 15/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=h5gn6QjQzMo
+
+### CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
+- Publicado: 16/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 841
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=63inU7mZBHA
+
+### STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS LO DIERON TODO | PARTE 1
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
 - Publicado: 15/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.670
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=h5gn6QjQzMo
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=ODs6jJ2bMZA
+
+### IRL COMPRAS EN BOGOTÁ ANTES DE SF5 🇨🇴🔥 | BykingCL, Lokolukas y MrLujo
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KICK CL
+- Canal que publico: KICK CL
+- Publicado: 15/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 316
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=9wjDCYWDLH0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### 🔥 ¡SE DESCONTROLÓ TODO! 😱 PELEAS, DRAMAS Y MOMENTOS MÁS VIRALES DEL EVENTO DE WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+### VIENDO STREAM FITHERS 5 VOY A REY DE LA CITY & JH
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 🔥 ¡SE DESCONTROLÓ TODO! 😱 PELEAS, DRAMAS Y MOMENTOS MÁS VIRALES DEL EVENTO DE WESTCOL
-- **Texto en pantalla:** 🔥 ¡SE DESCONTROLÓ TODO! 😱 PELEAS, DRAMAS Y MOMENTOS MÁS VIRALES DEL EV
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** VIENDO STREAM FITHERS 5 VOY A REY DE LA CITY & JH
+- **Texto en pantalla:** VIENDO STREAM FITHERS 5 VOY A REY DE LA CITY & JH
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=WDiqEU8f170
-
-### LES PRESENTO MI NUEVA CULLINAN MANZORY Y ODETTE EN LA MANSION VIP ASI REACCIONO WILLITO | LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** LES PRESENTO MI NUEVA CULLINAN MANZORY Y ODETTE EN LA MANSION VIP ASI REACCIONO WILLITO | LONCHE
-- **Texto en pantalla:** LES PRESENTO MI NUEVA CULLINAN MANZORY Y ODETTE EN LA MANSION VIP ASI 
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=XldwJl9leXg
-
-### LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP 🥃💣
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP 🥃💣
-- **Texto en pantalla:** LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=N_5HKYcfemk
-
-### 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
-- **Texto en pantalla:** 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos diverti
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_z8Wi8KTIdw
+- **Fuente original:** https://www.youtube.com/watch?v=u6xZMHGjHh4
 
 ### Rey de la City: De Criticado a Campeón 🇩🇴
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -156,15 +157,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=_t4Ps3Zm8pQ
 
-### EL REY DE LA CITY VS WE GOT KICKS | STREAM FIGHTERS 5
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### El streamer Westcol llevó al presentador Jorge Barón a su evento, donde terminó abucheado po #Shorts
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** EL REY DE LA CITY VS WE GOT KICKS | STREAM FIGHTERS 5
-- **Texto en pantalla:** EL REY DE LA CITY VS WE GOT KICKS | STREAM FIGHTERS 5
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** El streamer Westcol llevó al presentador Jorge Barón a su evento, donde terminó abucheado po #Shorts
+- **Texto en pantalla:** El streamer Westcol llevó al presentador Jorge Barón a su evento, dond
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=hkHXBxFHpec
+- **Fuente original:** https://www.youtube.com/watch?v=VkyUdpGARpY
+
+### 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
+- **Texto en pantalla:** 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos diverti
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=_z8Wi8KTIdw
 
 ### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -186,25 +197,75 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2IIvEjn9dao
 
-### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+### Westcol reacciona a la pelea de Daren y habla de todo Stream Fighters 5 🥊
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** Westcol reacciona a la pelea de Daren y habla de todo Stream Fighters 5 🥊
+- **Texto en pantalla:** Westcol reacciona a la pelea de Daren y habla de todo Stream Fighters 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=OK9tXBs1bFY
+
+### JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: JHdelacruz777 (Jóvenes Hoy)? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: JHdelacruz777 (Jóvenes Hoy).
+- **Título sugerido:** JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- **Texto en pantalla:** JHDELACRUZ vs HERRERA | STREAM FIGHTERS 5
+- **Descripción:** Fragmento relacionado con Emergente: JHdelacruz777 (Jóvenes Hoy). Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=2Fa3ZGQMCBg
+
+### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
 - **Título sugerido:** MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
 - **Texto en pantalla:** MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=h5gn6QjQzMo
 
+### CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Título sugerido:** CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
+- **Texto en pantalla:** CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
+- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=63inU7mZBHA
+
+### STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS LO DIERON TODO | PARTE 1
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
+- **Título sugerido:** STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS LO DIERON TODO | PARTE 1
+- **Texto en pantalla:** STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS 
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=ODs6jJ2bMZA
+
+### IRL COMPRAS EN BOGOTÁ ANTES DE SF5 🇨🇴🔥 | BykingCL, Lokolukas y MrLujo
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KICK CL? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KICK CL.
+- **Título sugerido:** IRL COMPRAS EN BOGOTÁ ANTES DE SF5 🇨🇴🔥 | BykingCL, Lokolukas y MrLujo
+- **Texto en pantalla:** IRL COMPRAS EN BOGOTÁ ANTES DE SF5 🇨🇴🔥 | BykingCL, Lokolukas y MrLujo
+- **Descripción:** Fragmento relacionado con Emergente: KICK CL. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=9wjDCYWDLH0
+
 ## Noticias y contexto
 
+- **[Creadores] Yina Calderón estalló tras la victoria de Andrea Valdiri sobre La Divaza en Stream Fighter - diariodelsur.com.co** — 17/11/2026 03:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmtMSGNfR0V4ZVJUM1hLc2ZSQTIyWUZ0V18zUGRCVFR2SEZXMklkZkF2OHpSZUJvaDRpNjNuc2EwamUxckppd1puSjFQaVVHeHA4Q3B3LWI2RFhINENUT0VMUjJ0TVVKTHR5Q0dQeDdDMHZ6TWtvM1liRmwxTGVBQXY5U2hyZHI4TVRZU0RnaHE2TFBaMGNQWWNaNDVTMUdrcE1XM1dLcUdyNVNSTUpvbHBkb3JBUUMzNWY1UVJtRlFDdkRT?oc=5)
+- **[Creadores] Carla Giraldo le pidió un lugar a Westcol en Stream Fighters tras el éxito de su quinta - Diario del Cauca** — 17/11/2026 02:33 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUNiTTRyOFItLXotcGlObzhjeHpZZ3JfbzhmMC1OelAzbnpPMWh5S0xwdndjUTFPd09TM1N3QnliV2hnRk9wMWU3V0UwNm9uR0Vsak1pZVh0YlQ3WUY2TEhiRG9rS1lDcU1URFZSUVRxWkxPVUkwRVlBdTZpWk9HQVRaTDFYdTJXVUlTaDQzaXNReVFnaVgzTzAzRWJlVk4wakxDeFlrYnlRRjhzNzdLcTZyTTFMbXliT3VRUGp0M3FqdGM?oc=5)
+- **[Creadores] Luisa Castro, pareja de Westcol, responde enérgicamente a las críticas tras la aparición d - Diario del Cauca** — 17/11/2026 11:36 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0xIYVZWNGVxeGxHdDM0VTRvY256bkIyZG1GUERWSllKWlBPMkYwbGRfR3pPdXdaRTUtREtjaXc0TUQ5R2pnNEpOQTltUXRxM2Ezd2tvODNyQ1lISGpPR2VaTmpnMVI4a1ZkMWViaEZhREdWV3BuZEE4QW1CM1N6Q1lydnQ4dzAwUmk1TVl1TUJ6Ym9hQlVKS0prSWJ4NnpSdXBTTHZiMEZadk9zUHM1VG9pTVdVT01QLVBHUjVqRHJHVXBh?oc=5)
+- **[Creadores] Yina Calderón le respondió a Valentino y reveló que lo recomendó para Stream Fighters - Infobae** — 17/11/2026 11:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOelFIWlZodl9HbDFTSnZZY1RJREpNTVJ3QXE1cDQ1UV95WWU5aG4xYS1zXzR2UWJuaDdvN1VqT1A4bHFPOGFyZUNYNnBHeXowRFlmdDI0Q19QekFoYU5WTTA1UFhwaWF1cXJYcXdENjgta1JGZ1EyNHYtVTlCVE9mOEE1SlphU2s0ZG9vRi1zQmhjQThZVEZGMzZfOGlBT2xsRUVtR3RqWnpleF91anU3VlFGYzR4ektHTThsUTJXWVlEd0JkLUFYWjVyYk5PM0FmUGN6SlZBTFM?oc=5)
 - **[Creadores] 'La visa de sus sueños': critican a La Liendra por Dunia Santos - Televicentro** — 16/11/2026 10:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkxRLU9JZjVpQzYyZ3Y1clpIaTZvWlZ2NTdDNld3aHJ6TUltZzdqZmxDeUZiRVJ5MGoyeWk3VlEzaDhjS1Z1VjNMcm9mUFFNOVltZGQwbHI0Tm1vNldCWmx1RWtXMHNIVExWYzh3RmF3WHhtdXNFQnpKclpYOWZkWGg2ajJDV19SczlnRDJudHI?oc=5)
-- **[Creadores] El llamado de Carla Giraldo a Westcol después de ‘Stream Fighters 5’ que causó sorpresa: “Al lado de quién tengo que estar” - Revista Semana** — 16/11/2026 05:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRllYbWpyd0t4RDItSXpYWTJ2elE3WXZNUjI0R1d6NU5vTXoweTV5dHBkenFXRkVudHAwZ1VaeThNeVpWa0RWN25lcHJvdWxsR0NyY1I4TDVoMm1hT2hnWDlQT2NzRVlLd0NJNjQwQXNFM0Y2VjFqREtmWmtUNnlhV2NROENoUUM3M2RMalV4VHdqS09Rc1VadUhTazBSWXZRRGdhWVk5d0tBOHl2VmdMTmlzNjRzRXZfVFVQSVl2THJTeWhDSlN2MUdKUVEzeVNsbHVhZ0hyYW1KbGQ3VlMySXFnRUREbHMzbmdFckF1a0plazJMZERZ0gH8AUFVX3lxTFBzZjVCWW4yajFCUDZMNUtIUWQ4RkZwVHhSVXJJMWV6V2g4dml3MWY3aE8wSkVvTGRjN21yd3BDRXBIR1ZhRGFqbmJMZ0ZCMHUzb2NwTVJxY2JuWFE3WWR2SEtwMy1EcDJWTmJpc3JNUGcyNUdMQ1RmZGk2T2FISDNpS0ZnanVLYml0Z2RPcWhoNjFRYXlOaDVsUlM0RnVVV0F1cVBCLXUtYzlGT3pFVzVRR2pGQXNvMlZ5cno5X293SmJEWUxkekR4MG9DYVFPeC0yNllIR1kzRVl4VGpMNnZxc21OaEtqRUczS3FHOHNWMWZPa3RoT3pWMXQxbQ?oc=5)
-- **[Creadores] Carla Giraldo le pidió un lugar a Westcol en ‘Stream Fighters’ tras el éxito de su edición número 5: “Estas peleas tan épicas” - Infobae** — 16/11/2026 03:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYXNETmYtS0VYT1BzSTBrRVQtS0ZqbUJNOGhKczhmdXFIemJRQVpKTXFsYzdJOFlQMURxMU1fZkhrcDVaU24wd1RGUVV5TEQ5c3VTcVZBRUZ2cGNzSDM2VklhSG9Hd0QzVFFIMVlRNUZlcXhkSDNQUG5JYThKNGo1U1UxbGRIMXozVXN3ekZLMmtqck90WVl2ZEdUNEpRZWl3T2ZlampFYWRRVXdPaW1TbnVfOF9yY2RJZ2FqbkRjb1NxRnhGdDVSSElRem5mSXM5Q2xMWlM2ak1nQ0VZZm40dGJhb19OdDhMaHFJWE85NnVVTzB60gH0AUFVX3lxTFBhc0ROZi1LRVhPUHNJMGtFVC1LRmptQk04aEpzOGZ1cUh6YlFBWkpNcWxjN0k4WVAxRHExTV9mSGtwNVpTbjB3VEZRVXlMRDlzdVNxVkFFRnZwY3NIMzZWSWFIb0d3RDNUUUgxWVE1RmVxeGRIM1BQbklhOEo0ajVTVTFsZEgxejNVc3d6Rksya2pyT3RZWXZkR1Q0SlFlaXdPZmVqakVhZFFVd09pbVNudV84X3JjZElnYWpuRGNvU3FGeEZ0NVJISVF6bmZJczlDbExaUzZqTWdDRVlmbjR0YmFvX050OExocUlYTzk2dVVPMHo?oc=5)
-- **[Creadores] Yina Calderón se enfureció por la victoria de Andrea Valdiri sobre La Divaza en ‘Stream Fighters 5’: “Que robo tan hij...” - Infobae** — 16/11/2026 01:25 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0VtbnhmRDRRcUpCVE1OZU5VSDljM0tiZk80TVRkMEkxdFcxWkZLY2RXb0REUWhWZ2NKeHNRZHVDNVE2Sk9Nd1NQTXYwOGdKMElJelFYbTNjeFBzaE9HTFBPeGRzS0ZlMW16SVF3TGJUUk9sZkd3bW1ESFhIdVU5OGxxemRncVJUOFFUeFUybGszWE1DeWVwX0FtRmkxMU1RLUhIbjIwY0FseWxCQ3BwaHNhQm85a3FCRE9SUzA1V2REWkJqSTRPYlhHSmlLMjc0eUc3UWFWZHdWWHFuVy1LUHdBRmltcXI5N0hKVnlCV3PSAYsCQVVfeXFMTThpSmZ4eWJXSWZJQ21MbjZDZVdTcHh1N1BjRnlrZXBXLVV0RUR4NFlrb1gydjRNUWV3MjNOOFQ2cFJJeGZCNGJWbG1jY08wcjAzWldKRVp6TXBJaHplYmNLeVVhaldMcE03WC1mMU94YjJHYjhNc0duRzJFQzhfLU5Qc1lqNHdDSWZyS1lGTUp4c0QxdlJ3MWxIMVNha2hqVVhLQ2tieGxGdGFXVHdpdUxfek9RNGZOdDFoVGNmV090X0dYTTFFUUtuYkliMUtYcXdvQlJGdFk4S2lDaHlyaWpyYk5JQWd1ZkZHaTJZc1N1LUg4MjhVWFN3NnJRT18xMkJUdUZoRUM1WkF3?oc=5)
 - **[Creadores] Aida Victoria Merlano expuso chats con el Agropecuario y reveló que tuvo un escolta en su casa tras amenazas - Infobae** — 15/11/2026 11:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV3p5TEtyLWZIeWw4dzZoQWw5cnNWTnVWM2wzOWxVeGVDMnRLb0xxRGRVZnJGYjlQMlAzZWdjVnExNW90NC1ud28tYVAwamZZNThhVmlSby11cklCR2FKTFpZa2FKVXlxX3NLamZPcmJPb1l0YjhqcU5sSG9DREw3LWFRS0V3ZmhFZ2NncWhDTFV0cEtTVlp0ZFBYTjFDdkZLdF9NWGlSTUltd3lGMTFnTElOd2J4ZWtTZlp3UTkyNkVoSWc2dkRUdkZYWkZ4OUozRmxKcUtaSlpidml6MGFOQVBqWWk3UW9Y0gGDAkFVX3lxTE5xMUlGMHVFRHktanBBaEE5b2ZzY0lGeS1EWVpHbDgyUVlxUHNFU1NtMHJ5OXg0UXhGM2dXcEZwRHFyWVhXd1hyRVNTR3RPYXpQOG5wZmk3UmdiRmhYUjB0Q1dVY1J3OFJNXzhLV21nTmU2b0NNTU5MbHhLUXdLRDBURmQzMGY5UkZ3UXBqc3dKMlNqMHRNUE1lR3FPY0RPUEhISURnRUN4eE1ZNFhPeGpjZ1l0NW04U3ZUYjJ2QVFvQW1JMC1qYjF6TXl5bGZIVW9BejR0cE5pZkxZQl9fNE5OZXpvdlR0OVpFcEZJVzhzX0Z1RFEzVUZjNWZUaGxBRTlYNDQ?oc=5)
 - **[Creadores] Esta fue la polémica reacción de Aida Victoria Merlano tras la derrota de 'El Agropecuario' en Stream Fighters 5 - Noticias RCN** — 15/11/2026 05:36 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQUUzbHdUYXlYQl9UelNTR3Fzd2k3b3dzNG9fbUNhMDlLYVd1bG55bnFsU0pMX0MtWTRob2JQb1hCV2RHUFZwNTAtbUstSnk3WV9PeUVETWxYODJRUUNZTzlMQVNqR0hHMkZtNk9LWHNfUmlEMGlSVjllUi1MaGowNTJDc2otQUZqZEcyend0Zk4yS1UtT1hMQktxTkhYVlpCUmlDZUMzUEZnLW9wZU40QmhQS21Rb2JaUjZhRlZSYkRRbUJRbXI3Q2U3TEVrY0lodWNIOC1MR3dTZUhPWDEtaGt4anNpek5zdTFMdNIB7AFBVV95cUxPbTNwNDZNOVdVYmtrODBMcFhEVV9Da2ktcmFPVTl5S0IySEFVQ2NUNkhWTXJlQjFYbm02WXpmYmdPb2w5ZVdvSktiWjNsZER1d0pCVkpYUXpVdjgtQV9nSWYzMnoydmYwSTVrSzYwVEdCQ1Q2Y2lLa3QxSEllSDlDaUdOdzFYbXBMQTBwaVV5RWRTbl9IRGlRMGFCeFQyd2xvbUNWUG9JSWYxUzRvb3o5dTZLbEoyX20zeVZ0TmJVdHZMUlltQzVYZDFjZkxUNjdpaDNpY0FjYWsxMk9Ddi1SOENrQUhUQklaT0lrdg?oc=5)
-- **[Creadores] Yina Calderón se burló de ‘Stream Fighters’ al afirmar que su nombre fue el más mencionado del evento sin estar invitada - Infobae** — 15/11/2026 01:02 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUnRwcFBrSnJBVmU3Nzh4X3BxMV9VTTQwcGJBam1DWTVvSnZfcDVUOUc1MnNyS3FXZ0x0cllUcE9wSDJ1UkEwMEQycGVsOU5FMGR4eVZTNFNhQnZPaXR6T19YcVJlbTgzSU9ndFhlLVR4ZUhqamVWOUkzRGYxMFNtdGg3LUNzWm9QNWtYb2VjcUdhWE9SS3lsS0p4RmdzdnVfQ1FIclJ4Q3pJbEhyOFZBM2syVEFrSWFvVmh0d0h1ZC12WWFXY2RmVkxJTkVPeEdEVGtBb1ptMnUtOTdwZC1qQ3luM2ZqcFJ4Q3BHWHM1LXJmNktILWc?oc=5)
 
 ## Creadores principales vigilados
 
