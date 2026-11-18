@@ -1,141 +1,117 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 17/11/2026 10:28 PM (hora de Colombia)
+Actualizado: 18/11/2026 07:49 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 8.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Emergente por verificar: 2.
+Clips incluidos: 9.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 7, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+### LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP 🥃💣
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Canal no identificado
-- Publicado: 17/11/2026 06:00 PM
+- Canal que publico: SoyPan Live
+- Publicado: 17/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=3kgAxWJQr9I
-
-### LA GANGA SIN FILTRO EN COLOMBIA… 😳 | LONCHE
-- Categoria: Clip de terceros
-- Creador/canal detectado: Lonche de Huevito
-- Canal que publico: Canal no identificado
-- Publicado: 17/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Q7QQoR18cGI
-
-### 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MR Moroclips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MR Moroclips
-- Publicado: 16/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 37.491
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=_z8Wi8KTIdw
-
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MrStiven Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MrStiven Clips
-- Publicado: 16/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=6bHneaw3ors
+- Vistas reportadas por YouTube: 5.847
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=N_5HKYcfemk
 
 ### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Chanty Clips
-- Creador relacionado en el título: Chanty
-- Canal que publico: El Chanty Clips
-- Publicado: 16/11/2026 07:00 PM
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Canal no identificado
+- Publicado: 17/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 31
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=2IIvEjn9dao
 
-### MIS PRIMERAS DECLARACIONES DESPUES DE SF5 Y RESPONDIENDO A LOS HATERS 🔥 | REY DE LA CITY 🐐
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Reydelacityclips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Reydelacityclips
+### 😡HPTS CAMPEROS, HABILIDADES RAT@S, JUEGO DE MRD 😂 | Momentos Divertidos de Mr Stiven #freefire #ff
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: INMORTAL FF
+- Publicado: 18/11/2026 12:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.228
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=QBO69QrK-8s
+
+### LONCHE starts rapping and THE SQUAD goes wild in WESTCOL's SETUP 🔥
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: SoyPan Live
+- Publicado: 17/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2.648
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=Nus2TkhvgCU
+
+### LE REGALO UN PORSCHE A MI VIEJA? | MR STIVEN TC
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: Canal no identificado
+- Publicado: 17/11/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=SCfJfkKfHSA
+
+### Rey de la City: De Criticado a Campeón 🇩🇴
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Chris |Arelius
 - Publicado: 16/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
+- Vistas reportadas por YouTube: 24
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xApKplqqAQY
+- Enlace directo: https://www.youtube.com/watch?v=_t4Ps3Zm8pQ
 
-### CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
+### Rey de la City: el combate completo | Stream Fighters 5
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: LaW SHORTS
+- Publicado: 16/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=Jjb_aKQqmPA
+
+### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: basuquito
 - Canal que publico: basuquito
 - Publicado: 16/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 914
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=63inU7mZBHA
+- Vistas reportadas por YouTube: 2.177
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=h5gn6QjQzMo
 
-### 🥳 20 YEARS! | A Journey Through My Best Moments | Stream Recap
+### STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS LO DIERON TODO | PARTE 1
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Red Shock Inc
-- Canal que publico: Red Shock Inc
-- Publicado: 17/11/2026 05:00 PM
+- Creador/canal detectado: Emergente: Soy Kalel106
+- Canal que publico: Soy Kalel106
+- Publicado: 16/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 672
+- Vistas reportadas por YouTube: 174
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Oq1hZNcv8Zk
+- Enlace directo: https://www.youtube.com/watch?v=ODs6jJ2bMZA
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+### LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP 🥃💣
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
-- **Texto en pantalla:** LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+- **Título sugerido:** LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP 🥃💣
+- **Texto en pantalla:** LA GANGA takes some SHOTS and starts dropping BOMBS on WESTCOL's SETUP
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3kgAxWJQr9I
-
-### LA GANGA SIN FILTRO EN COLOMBIA… 😳 | LONCHE
-- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
-- **Título sugerido:** LA GANGA SIN FILTRO EN COLOMBIA… 😳 | LONCHE
-- **Texto en pantalla:** LA GANGA SIN FILTRO EN COLOMBIA… 😳 | LONCHE
-- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Q7QQoR18cGI
-
-### 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos divertidos🥵
-- **Texto en pantalla:** 🥵PTOS CAMPEROS SIEMPRE POR LA ESPALDA GENTE😂|Mrstiven momentos diverti
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_z8Wi8KTIdw
-
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Texto en pantalla:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6bHneaw3ors
+- **Fuente original:** https://www.youtube.com/watch?v=N_5HKYcfemk
 
 ### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -147,35 +123,75 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=2IIvEjn9dao
 
-### MIS PRIMERAS DECLARACIONES DESPUES DE SF5 Y RESPONDIENDO A LOS HATERS 🔥 | REY DE LA CITY 🐐
+### 😡HPTS CAMPEROS, HABILIDADES RAT@S, JUEGO DE MRD 😂 | Momentos Divertidos de Mr Stiven #freefire #ff
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 😡HPTS CAMPEROS, HABILIDADES RAT@S, JUEGO DE MRD 😂 | Momentos Divertidos de Mr Stiven #freefire #ff
+- **Texto en pantalla:** 😡HPTS CAMPEROS, HABILIDADES RAT@S, JUEGO DE MRD 😂 | Momentos Divertido
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=QBO69QrK-8s
+
+### LONCHE starts rapping and THE SQUAD goes wild in WESTCOL's SETUP 🔥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** LONCHE starts rapping and THE SQUAD goes wild in WESTCOL's SETUP 🔥
+- **Texto en pantalla:** LONCHE starts rapping and THE SQUAD goes wild in WESTCOL's SETUP 🔥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Nus2TkhvgCU
+
+### LE REGALO UN PORSCHE A MI VIEJA? | MR STIVEN TC
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** LE REGALO UN PORSCHE A MI VIEJA? | MR STIVEN TC
+- **Texto en pantalla:** LE REGALO UN PORSCHE A MI VIEJA? | MR STIVEN TC
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=SCfJfkKfHSA
+
+### Rey de la City: De Criticado a Campeón 🇩🇴
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** MIS PRIMERAS DECLARACIONES DESPUES DE SF5 Y RESPONDIENDO A LOS HATERS 🔥 | REY DE LA CITY 🐐
-- **Texto en pantalla:** MIS PRIMERAS DECLARACIONES DESPUES DE SF5 Y RESPONDIENDO A LOS HATERS 
+- **Título sugerido:** Rey de la City: De Criticado a Campeón 🇩🇴
+- **Texto en pantalla:** Rey de la City: De Criticado a Campeón 🇩🇴
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xApKplqqAQY
+- **Fuente original:** https://www.youtube.com/watch?v=_t4Ps3Zm8pQ
 
-### CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
+### Rey de la City: el combate completo | Stream Fighters 5
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** Rey de la City: el combate completo | Stream Fighters 5
+- **Texto en pantalla:** Rey de la City: el combate completo | Stream Fighters 5
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=Jjb_aKQqmPA
+
+### MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
+- **Título sugerido:** MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
+- **Texto en pantalla:** MEJORES MOMENTOS DE CADA PELEA EN STREAM FIGHTERS 5 💀🥊
 - **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=63inU7mZBHA
+- **Fuente original:** https://www.youtube.com/watch?v=h5gn6QjQzMo
 
-### 🥳 20 YEARS! | A Journey Through My Best Moments | Stream Recap
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Red Shock Inc? 👀
+### STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS LO DIERON TODO | PARTE 1
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Soy Kalel106? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Red Shock Inc.
-- **Título sugerido:** 🥳 20 YEARS! | A Journey Through My Best Moments | Stream Recap
-- **Texto en pantalla:** 🥳 20 YEARS! | A Journey Through My Best Moments | Stream Recap
-- **Descripción:** Fragmento relacionado con Emergente: Red Shock Inc. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Soy Kalel106.
+- **Título sugerido:** STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS LO DIERON TODO | PARTE 1
+- **Texto en pantalla:** STREAM FIGHTERS 5: ¡AGROPECUARIO TERMINÓ EN SEGUNDOS! 😱🥊 Y LAS CHICAS 
+- **Descripción:** Fragmento relacionado con Emergente: Soy Kalel106. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=Oq1hZNcv8Zk
+- **Fuente original:** https://www.youtube.com/watch?v=ODs6jJ2bMZA
 
 ## Noticias y contexto
 
@@ -185,7 +201,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Yina Calderón estalló tras la victoria de Andrea Valdiri sobre La Divaza en Stream Fighter - diariodelsur.com.co** — 17/11/2026 03:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmtMSGNfR0V4ZVJUM1hLc2ZSQTIyWUZ0V18zUGRCVFR2SEZXMklkZkF2OHpSZUJvaDRpNjNuc2EwamUxckppd1puSjFQaVVHeHA4Q3B3LWI2RFhINENUT0VMUjJ0TVVKTHR5Q0dQeDdDMHZ6TWtvM1liRmwxTGVBQXY5U2hyZHI4TVRZU0RnaHE2TFBaMGNQWWNaNDVTMUdrcE1XM1dLcUdyNVNSTUpvbHBkb3JBUUMzNWY1UVJtRlFDdkRT?oc=5)
 - **[Creadores] Yina Calderón le respondió a Valentino y reveló que lo recomendó para Stream Fighters - Infobae** — 17/11/2026 11:30 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOelFIWlZodl9HbDFTSnZZY1RJREpNTVJ3QXE1cDQ1UV95WWU5aG4xYS1zXzR2UWJuaDdvN1VqT1A4bHFPOGFyZUNYNnBHeXowRFlmdDI0Q19QekFoYU5WTTA1UFhwaWF1cXJYcXdENjgta1JGZ1EyNHYtVTlCVE9mOEE1SlphU2s0ZG9vRi1zQmhjQThZVEZGMzZfOGlBT2xsRUVtR3RqWnpleF91anU3VlFGYzR4ektHTThsUTJXWVlEd0JkLUFYWjVyYk5PM0FmUGN6SlZBTFM?oc=5)
 - **[Creadores] 'La visa de sus sueños': critican a La Liendra por Dunia Santos - Televicentro** — 16/11/2026 10:41 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkxRLU9JZjVpQzYyZ3Y1clpIaTZvWlZ2NTdDNld3aHJ6TUltZzdqZmxDeUZiRVJ5MGoyeWk3VlEzaDhjS1Z1VjNMcm9mUFFNOVltZGQwbHI0Tm1vNldCWmx1RWtXMHNIVExWYzh3RmF3WHhtdXNFQnpKclpYOWZkWGg2ajJDV19SczlnRDJudHI?oc=5)
-- **[Creadores] Aida Victoria Merlano expuso chats con el Agropecuario y reveló que tuvo un escolta en su casa tras amenazas - Infobae** — 15/11/2026 11:53 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV3p5TEtyLWZIeWw4dzZoQWw5cnNWTnVWM2wzOWxVeGVDMnRLb0xxRGRVZnJGYjlQMlAzZWdjVnExNW90NC1ud28tYVAwamZZNThhVmlSby11cklCR2FKTFpZa2FKVXlxX3NLamZPcmJPb1l0YjhqcU5sSG9DREw3LWFRS0V3ZmhFZ2NncWhDTFV0cEtTVlp0ZFBYTjFDdkZLdF9NWGlSTUltd3lGMTFnTElOd2J4ZWtTZlp3UTkyNkVoSWc2dkRUdkZYWkZ4OUozRmxKcUtaSlpidml6MGFOQVBqWWk3UW9Y0gGDAkFVX3lxTE5xMUlGMHVFRHktanBBaEE5b2ZzY0lGeS1EWVpHbDgyUVlxUHNFU1NtMHJ5OXg0UXhGM2dXcEZwRHFyWVhXd1hyRVNTR3RPYXpQOG5wZmk3UmdiRmhYUjB0Q1dVY1J3OFJNXzhLV21nTmU2b0NNTU5MbHhLUXdLRDBURmQzMGY5UkZ3UXBqc3dKMlNqMHRNUE1lR3FPY0RPUEhISURnRUN4eE1ZNFhPeGpjZ1l0NW04U3ZUYjJ2QVFvQW1JMC1qYjF6TXl5bGZIVW9BejR0cE5pZkxZQl9fNE5OZXpvdlR0OVpFcEZJVzhzX0Z1RFEzVUZjNWZUaGxBRTlYNDQ?oc=5)
 
 ## Creadores principales vigilados
 
