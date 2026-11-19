@@ -1,56 +1,64 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 19/11/2026 07:40 AM (hora de Colombia)
+Actualizado: 19/11/2026 05:01 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 11.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente por verificar: 3.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 3, Emergente por verificar: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL Juega GTA 6 Por PRIMERA VEZ
+### WESTCOL vs HERRERA: How it ALL ENDED after STREAM FIGHTERS 5 ("I gave him a second chance")
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 19/11/2026 04:00 AM
+- Canal que publico: ColBeat
+- Publicado: 17/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5.869
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=P_DPsTjuDbs
+- Vistas reportadas por YouTube: 84.728
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=zrenxwv2BvA
 
-### GTA VI - Westcol Insulta a sus seguidores
+### 😂 El momento más loco de chanty en Kick
 - Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
+- Creador/canal detectado: Chanty
 - Canal que publico: Canal no identificado
-- Publicado: 19/11/2026 01:00 AM
+- Publicado: 19/11/2026 04:43 PM
 - Fuente: YouTube / yt-dlp
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=udpNTqu3mVo
+- Enlace directo: https://www.youtube.com/watch?v=jxXRv9C3iiU
 
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MrStiven Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MrStiven Clips
-- Publicado: 17/11/2026 07:00 PM
+### 😂 El momento más loco de chanty en Kick
+- Categoria: Clip de terceros
+- Creador/canal detectado: Chanty
+- Canal que publico: Canal no identificado
+- Publicado: 19/11/2026 04:36 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=6bHneaw3ors
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=TJJl7W3eT6I
 
-### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Chanty Clips
-- Creador relacionado en el título: Chanty
-- Canal que publico: El Chanty Clips
-- Publicado: 17/11/2026 07:00 PM
+### REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: WagsonX
+- Publicado: 18/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 43
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=2IIvEjn9dao
+- Vistas reportadas por YouTube: 153
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=cZ0zK_ffjpQ
+
+### LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 18/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 67.478
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=3kgAxWJQr9I
 
 ### REVELACION 😱 | MR STIVEN TC
 - Categoria: Cuenta de clips
@@ -59,7 +67,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Pelusa Clips
 - Publicado: 19/11/2026 03:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15
+- Vistas reportadas por YouTube: 176
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=iD_Dibi4q_s
 
@@ -70,30 +78,29 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 18/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 10
+- Vistas reportadas por YouTube: 16
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=pWxLdWXcFZM
-
-### IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Reydelacityclips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Reydelacityclips
-- Publicado: 18/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Vf3agnL-63M
 
 ### HOY Llega Grand Theft Auto VI - Empezamos la Mejor Época del Año (en Directo)
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: LAN
 - Canal que publico: LAN
-- Publicado: 18/11/2026 02:00 PM
+- Publicado: 18/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 139.794
+- Vistas reportadas por YouTube: 140.811
 - Puntaje heurístico de interés: 8
 - Enlace directo: https://www.youtube.com/watch?v=Sn_JmPJInC8
+
+### 🔴 GTA 6 ya está AQUÍ... ¡JUGAMOS en DIRECTO! - Gameplay en ESPAÑOL (PS5 Pro)
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Behind the Games
+- Canal que publico: Behind the Games
+- Publicado: 18/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 260.819
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=Q7P77Lyu0hA
 
 ### BYKING AT NICKY JAM'S MANSION IN MIAMI 😱
 - Categoria: Emergente por verificar
@@ -101,7 +108,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: KICK CL
 - Publicado: 19/11/2026 04:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6
+- Vistas reportadas por YouTube: 126
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=fteNcsFIh_k
 
@@ -111,7 +118,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 - Canal que publico: SoyPanExclusive
 - Publicado: 19/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 411
+- Vistas reportadas por YouTube: 609
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=WfeMsZu5bbA
 
@@ -119,45 +126,55 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 5, Emergente
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### WESTCOL Juega GTA 6 Por PRIMERA VEZ
+### WESTCOL vs HERRERA: How it ALL ENDED after STREAM FIGHTERS 5 ("I gave him a second chance")
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Juega GTA 6 Por PRIMERA VEZ
-- **Texto en pantalla:** WESTCOL Juega GTA 6 Por PRIMERA VEZ
+- **Título sugerido:** WESTCOL vs HERRERA: How it ALL ENDED after STREAM FIGHTERS 5 ("I gave him a second chance")
+- **Texto en pantalla:** WESTCOL vs HERRERA: How it ALL ENDED after STREAM FIGHTERS 5 ("I gave 
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=P_DPsTjuDbs
+- **Fuente original:** https://www.youtube.com/watch?v=zrenxwv2BvA
 
-### GTA VI - Westcol Insulta a sus seguidores
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** GTA VI - Westcol Insulta a sus seguidores
-- **Texto en pantalla:** GTA VI - Westcol Insulta a sus seguidores
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=udpNTqu3mVo
-
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Texto en pantalla:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6bHneaw3ors
-
-### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
+### 😂 El momento más loco de chanty en Kick
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Texto en pantalla:** Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
+- **Título sugerido:** 😂 El momento más loco de chanty en Kick
+- **Texto en pantalla:** 😂 El momento más loco de chanty en Kick
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2IIvEjn9dao
+- **Fuente original:** https://www.youtube.com/watch?v=jxXRv9C3iiU
+
+### 😂 El momento más loco de chanty en Kick
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** 😂 El momento más loco de chanty en Kick
+- **Texto en pantalla:** 😂 El momento más loco de chanty en Kick
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=TJJl7W3eT6I
+
+### REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
+- **Texto en pantalla:** REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=cZ0zK_ffjpQ
+
+### LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+- **Texto en pantalla:** LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3kgAxWJQr9I
 
 ### REVELACION 😱 | MR STIVEN TC
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -179,16 +196,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=pWxLdWXcFZM
 
-### IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
-- **Texto en pantalla:** IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Vf3agnL-63M
-
 ### HOY Llega Grand Theft Auto VI - Empezamos la Mejor Época del Año (en Directo)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: LAN? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -198,6 +205,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Emergente: LAN. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Sn_JmPJInC8
+
+### 🔴 GTA 6 ya está AQUÍ... ¡JUGAMOS en DIRECTO! - Gameplay en ESPAÑOL (PS5 Pro)
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Behind the Games? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Behind the Games.
+- **Título sugerido:** 🔴 GTA 6 ya está AQUÍ... ¡JUGAMOS en DIRECTO! - Gameplay en ESPAÑOL (PS5 Pro)
+- **Texto en pantalla:** 🔴 GTA 6 ya está AQUÍ... ¡JUGAMOS en DIRECTO! - Gameplay en ESPAÑOL (PS
+- **Descripción:** Fragmento relacionado con Emergente: Behind the Games. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=Q7P77Lyu0hA
 
 ### BYKING AT NICKY JAM'S MANSION IN MIAMI 😱
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: KICK CL? 👀
@@ -221,12 +238,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 ## Noticias y contexto
 
+- **[Creadores] Pautips mostró prueba de embarazo positiva y la reacción de su esposo desató críticas - La Kalle** — 19/11/2026 01:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1RPN2tNb2RISm9sRU9GaXhzdDVuVzRVYmg0MlZ4VVZHQ2lmcUxqWjUtdXFjOWdVZkZjajNua0RTZG1mX24zZlhSOEh3V1RJa1JBNzZBT1VlMGRqbTFPaUlSMzNVUjQ1ZGxOLTU4TGFrakxDdTJzNHVTN0dORlhESlFfWVNfUmlacFlkUzE0UWt3SmJERUNaNnB5ZFNDajNxS0hNSUZJaHF0cW5uSnlUUE9QelRpdWZuWEY5ME04UnRxMnBSTERfTDh4LUFoRl9vUzllbUF6ZUctWWhiUlE?oc=5)
 - **[Creadores] Filtran polémico video de Luisa Castro, actual novia de Westcol, besándose con su presunta exnovia: “Yo te creí los ‘te amo’” - Revista Semana** — 18/11/2026 09:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYTAyNzctdVhOdWR4UndETGJBOXR0ME1VWkNpaXY1YXIwMmVEX1FpQW1aUnpCckUybWR4RklGdWZwX0hDZWFOR2xPbk5ta3FfOE5FLWpKcXc5WVoxY1otS3BzY3lSb1Z5U0lvZ3lNYU5TdlBmNDYwcXZnTEhCMVg5MDZ2bjBoSDRPOTgtNDV6X181Rm90VS1leVZCZjJEUEFZd1dKLW9wOUptdGpJY3FFaGFObXRORnVBNGNoM0VqMjhoLWpZRmVLTFJmRVlUWUJpeXhET0V3NmlCa0pjOERSOTRybDRVN1ZNS2FOTldYMWN3TndnSEhnbGpFdjbSAfwBQVVfeXFMTWEwMjc3LXVYTnVkeFJ3RExiQTl0dDBNVVpDaWl2NWFyMDJlRF9RaUFtWlJ6QnJFMm1keEZJRnVmcF9IQ2VhTkdsT25ObWtxXzhORS1qSnF3OVlaMWNaLUtwc2N5Um9WeVNJb2d5TWFOU3ZQZjQ2MHF2Z0xIQjFYOTA2dm4waEg0Tzk4LTQ1el9fNUZvdFUtZXlWQmYyRFBBWXdXSi1vcDlKbXRqSWNxRWhhTm10TkZ1QTRjaDNFajI4aC1qWUZlS0xSZkVZVFlCaXl4RE9FdzZpQmtKYzhEUjk0cmw0VTdWTUthTk5XWDFjd053Z0hIZ2xqRXY2?oc=5)
 - **[Creadores] Melissa Gate lanzó fuertes indirectas a Yina Calderón - Eluniversal.com.co** — 18/11/2026 03:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlZ0QlZhXzlkLTVCR2owck9VY0czTFNBbkU5YjhWQnJ2ZXEtaEVNc2dZQWlVcFBQd2dzaUd6VVY3WjN5TDdyVDF5UVAtNWsyVnRXSXBjdWtfajZLeTZrdVpBa2hrWHZUMjRELVRlYy1BT0piRDJyeGdZTjR1WmZ5Q3d2TVpiRmJ5TXl2eGhVUEc3amVOQzNLX1dzbHQ4a0xqVTNvMWNRei04UQ?oc=5)
 - **[Creadores] FinFest 2026 en Cali: evento gratis con El Mindo y CEOs - Diario Occidente** — 18/11/2026 01:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2ktc1RqNTQ1TlBiUDVZU1FlRURSaGVTZTd1ZkFucVpibG9QRXJ4YUxhN0tMUWg0REloR1pQLWs3SThkbng5djM5VTdSVS1TUEdGSDZiamd3ZU5wa29FTS1GamwyLWpSeDBPazN6SUhvSlJla3pPQ1Y5U3dzU19YdmNwWlJaQVoxZzF1MGFaNzXSAZsBQVVfeXFMUDloVDJqQWo0UkZyRUs1RUwzakYtbnRfN1RGMjJpd05TVWhFOXc5dU05VFgxVFo2eTJXUjhjWVA3RzlZaE9mbEZFaGdFQ25QdnQ1ZnJ3X3JqNmpTOVhJb3EtS2oyQnhFbUhhb3I5LTZaRG9QUml5cW4xdVRDYnRiRldHSjRab3pYTlZIM3VWMndQWTMwdTE2OVlKQUE?oc=5)
-- **[Creadores] Westcol no fue capturado ni está vinculado con la muerte de un streamer - La Silla Vacía** — 18/11/2026 12:13 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXVVWjZPNldjZUFhSUFIVm1iZUsyZ25NTEJteUZsc25KZzI3NGtJYk11VjJqTTJlTzg2bFRheUdxVjlNMnRweWlILXpOZ3h5VTNhZFlhX3hmTmtfMk5rZjZ6TkRxZV9BV0cyUnpzVXdKM2FfakVXQkR1YVIxbE55em44eFNUX3A0cWJPel9valZZUWNFSzJscEJWN0NCQ2xvLTVMWDRPMzJ0YjZvZEduLTdHNWFQa1I3TVZWemN4OVRMeVl4dEdv?oc=5)
+- **[Creadores] Herrera reaccionó a anuncio de Westcol sobre acciones legales por abandonar su pelea en ‘Stream Fighters’ de manera inesperada - Revista Semana** — 18/11/2026 01:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXkwZU11aUVxaEtkbzJkSFdxbHM3NTk3X3BRYWt1cHdDVjE1ZmRLVjA2NXIyNlJfbFczX20tWVg5eEpOaTVaWmNNc1lld1BGcURSSnNYc3YycF9nZjJwZExGaGktN0FMdThKTXJ1TEtncGZMYkNsODVYQklqVXBqUXY2M2VBVVBqYlN3ZE9TdEJITzBIU215MHB0ZHVSWk1pV09sVGhLUGQ0VGVNS09UaEhxWkh0eFRXUmRQcXRvRk1SSnd3VUUwYThsLVZSUEs3b3Z5SXVhU3NBRHNGM2ZhMF9oTU5hakg0c2NBaVQxUDB2R0dmZ2pLWmVQM0JZRWV5cG9qddIBhAJBVV95cUxNaXkwZU11aUVxaEtkbzJkSFdxbHM3NTk3X3BRYWt1cHdDVjE1ZmRLVjA2NXIyNlJfbFczX20tWVg5eEpOaTVaWmNNc1lld1BGcURSSnNYc3YycF9nZjJwZExGaGktN0FMdThKTXJ1TEtncGZMYkNsODVYQklqVXBqUXY2M2VBVVBqYlN3ZE9TdEJITzBIU215MHB0ZHVSWk1pV09sVGhLUGQ0VGVNS09UaEhxWkh0eFRXUmRQcXRvRk1SSnd3VUUwYThsLVZSUEs3b3Z5SXVhU3NBRHNGM2ZhMF9oTU5hakg0c2NBaVQxUDB2R0dmZ2pLWmVQM0JZRWV5cG9qdQ?oc=5)
 - **[Creadores] La revelación de Aída Victoria sobre el Agropecuario: “Tuve un escolta durmiendo en mi sala” - Eluniversal.com.co** — 17/11/2026 07:23 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVzFfZWdsWFk1LS1id3J1SWhvS3NScUpGbmMtakJoZDhNUVY5cjB3d3U0MDc5cDNKZzM0QnVVb0Zza25TcDRGcl9mZi1meEotMkRwMEhnR1hobEUzYm9iZWJvejFyMVE4S3ZGTk9NcmwzcG5TdEN5ZkRSNnJwMjBxQkQxc2dHWkd6ZERHVTFjZGQxS0RXa0ZlY2dTM25wWW5XUkNvNGJKV21xSmp5Z2h4VC1wd2pXejFwY1k3TFRoVUh4NEdObUF5TkZJa2xQRkZvR2MwVlQzZWdpQQ?oc=5)
-- **[Creadores] Yina Calderón estalló tras la victoria de Andrea Valdiri sobre La Divaza en Stream Fighter - diariodelsur.com.co** — 17/11/2026 03:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmtMSGNfR0V4ZVJUM1hLc2ZSQTIyWUZ0V18zUGRCVFR2SEZXMklkZkF2OHpSZUJvaDRpNjNuc2EwamUxckppd1puSjFQaVVHeHA4Q3B3LWI2RFhINENUT0VMUjJ0TVVKTHR5Q0dQeDdDMHZ6TWtvM1liRmwxTGVBQXY5U2hyZHI4TVRZU0RnaHE2TFBaMGNQWWNaNDVTMUdrcE1XM1dLcUdyNVNSTUpvbHBkb3JBUUMzNWY1UVJtRlFDdkRT?oc=5)
 
 ## Creadores principales vigilados
 
