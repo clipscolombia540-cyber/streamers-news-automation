@@ -1,25 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 18/11/2026 04:44 PM (hora de Colombia)
+Actualizado: 18/11/2026 10:00 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 11.
+Clips incluidos: 7.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1, Emergente por verificar: 2, Influencer de respaldo: 1.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### PROBANDO LA MEJOR BANDEJA PAISA con WILLITO y WESTCOL | Lonche
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Lonche Chacas
-- Publicado: 18/11/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 17.724
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=eT95WmeJDAc
 
 ### 😡HPTS CAMPEROS, HABILIDADES RAT@S, JUEGO DE MRD 😂 | Momentos Divertidos de Mr Stiven #freefire #ff
 - Categoria: Clip de terceros
@@ -27,113 +17,77 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 1, Emergente
 - Canal que publico: INMORTAL FF
 - Publicado: 18/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.594
+- Vistas reportadas por YouTube: 9.142
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=QBO69QrK-8s
 
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Canal no identificado
-- Publicado: 16/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=6bHneaw3ors
-
-### NOVIA de WESTCOL ATACA a VALKA y a SU EX NOVIA NATH y es TOTALMENTE EXPUESTA!!🚨🚨
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Cayco
-- Publicado: 18/11/2026 03:50 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 88
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=oh61AOpYY8k
-
-### REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: WagsonX
-- Publicado: 18/11/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 68
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=cZ0zK_ffjpQ
-
-### Willito y Lonche vs Chanty y Samulx: combate completo
-- Categoria: Clip de terceros
-- Creador/canal detectado: Samulx
-- Canal que publico: LaW SHORTS
-- Publicado: 16/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 14
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Qa1yGuDC2_U
-
-### Rey de la City: De Criticado a Campeón 🇩🇴
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Chris |Arelius
-- Publicado: 16/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 24
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=_t4Ps3Zm8pQ
-
-### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
+### LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Chanty Clips
-- Creador relacionado en el título: Chanty
-- Canal que publico: El Chanty Clips
-- Publicado: 16/11/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 17/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 41
+- Vistas reportadas por YouTube: 65.892
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=3kgAxWJQr9I
+
+### Sami dando hombro #samulx #viral
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: clips wllivsa
+- Creador relacionado en el título: Samulx
+- Canal que publico: clips wllivsa
+- Publicado: 18/11/2026 09:40 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=2IIvEjn9dao
+- Enlace directo: https://www.youtube.com/watch?v=EORfk3gkxQ0
+
+### VIDA DE RANCHO CON WESTCOL Y LONCHE EN MEDELLIN COLOMBIA | WILLITO
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Westcol
+- Canal que publico: Clips de Willito
+- Publicado: 18/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 216
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=mapBZp5jy7Q
+
+### RECUPERANDO MI HOGAR *SALE MAL* | REY DE LA CITY🐐
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Reydelacityclips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Reydelacityclips
+- Publicado: 18/11/2026 03:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 10
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=pWxLdWXcFZM
+
+### IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Reydelacityclips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Reydelacityclips
+- Publicado: 18/11/2026 03:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 12
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=Vf3agnL-63M
 
 ### HOY Llega Grand Theft Auto VI - Empezamos la Mejor Época del Año (en Directo)
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: LAN
-- Canal que publico: LAN
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
 - Publicado: 18/11/2026 02:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 133.440
-- Puntaje heurístico de interés: 8
+- Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=Sn_JmPJInC8
-
-### CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 16/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 963
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=63inU7mZBHA
-
-### PAUTIPS NO PERDONA A EMIRO Y LO CRITICA EN MEDIO DEL RETO | MASTERCHEF CELEBRITY AVANCE CAPITULO 99
-- Categoria: Influencer de respaldo
-- Creador/canal detectado: Pautips
-- Canal que publico: ZONA REALITY
-- Publicado: 18/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.128
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=A5aPskAqabM
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### PROBANDO LA MEJOR BANDEJA PAISA con WILLITO y WESTCOL | Lonche
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** PROBANDO LA MEJOR BANDEJA PAISA con WILLITO y WESTCOL | Lonche
-- **Texto en pantalla:** PROBANDO LA MEJOR BANDEJA PAISA con WILLITO y WESTCOL | Lonche
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=eT95WmeJDAc
 
 ### 😡HPTS CAMPEROS, HABILIDADES RAT@S, JUEGO DE MRD 😂 | Momentos Divertidos de Mr Stiven #freefire #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -145,102 +99,72 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=QBO69QrK-8s
 
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Texto en pantalla:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=6bHneaw3ors
-
-### NOVIA de WESTCOL ATACA a VALKA y a SU EX NOVIA NATH y es TOTALMENTE EXPUESTA!!🚨🚨
+### LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** NOVIA de WESTCOL ATACA a VALKA y a SU EX NOVIA NATH y es TOTALMENTE EXPUESTA!!🚨🚨
-- **Texto en pantalla:** NOVIA de WESTCOL ATACA a VALKA y a SU EX NOVIA NATH y es TOTALMENTE EX
+- **Título sugerido:** LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
+- **Texto en pantalla:** LA DESPEDIDA DE LA GUARIDA CON TODA LA GANGA EN MEDELLIN 🥲 | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=oh61AOpYY8k
+- **Fuente original:** https://www.youtube.com/watch?v=3kgAxWJQr9I
 
-### REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
-- **Texto en pantalla:** REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=cZ0zK_ffjpQ
-
-### Willito y Lonche vs Chanty y Samulx: combate completo
+### Sami dando hombro #samulx #viral
 - **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** Willito y Lonche vs Chanty y Samulx: combate completo
-- **Texto en pantalla:** Willito y Lonche vs Chanty y Samulx: combate completo
+- **Título sugerido:** Sami dando hombro #samulx #viral
+- **Texto en pantalla:** Sami dando hombro #samulx #viral
 - **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Qa1yGuDC2_U
+- **Fuente original:** https://www.youtube.com/watch?v=EORfk3gkxQ0
 
-### Rey de la City: De Criticado a Campeón 🇩🇴
+### VIDA DE RANCHO CON WESTCOL Y LONCHE EN MEDELLIN COLOMBIA | WILLITO
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** VIDA DE RANCHO CON WESTCOL Y LONCHE EN MEDELLIN COLOMBIA | WILLITO
+- **Texto en pantalla:** VIDA DE RANCHO CON WESTCOL Y LONCHE EN MEDELLIN COLOMBIA | WILLITO
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=mapBZp5jy7Q
+
+### RECUPERANDO MI HOGAR *SALE MAL* | REY DE LA CITY🐐
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** Rey de la City: De Criticado a Campeón 🇩🇴
-- **Texto en pantalla:** Rey de la City: De Criticado a Campeón 🇩🇴
+- **Título sugerido:** RECUPERANDO MI HOGAR *SALE MAL* | REY DE LA CITY🐐
+- **Texto en pantalla:** RECUPERANDO MI HOGAR *SALE MAL* | REY DE LA CITY🐐
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=_t4Ps3Zm8pQ
+- **Fuente original:** https://www.youtube.com/watch?v=pWxLdWXcFZM
 
-### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Texto en pantalla:** Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #1 [Recopilación]
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
+- **Texto en pantalla:** IMPROVISANDO 🔥CON LA GANGA *BORRACHOS* REY DE LA CITY
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2IIvEjn9dao
+- **Fuente original:** https://www.youtube.com/watch?v=Vf3agnL-63M
 
 ### HOY Llega Grand Theft Auto VI - Empezamos la Mejor Época del Año (en Directo)
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: LAN? 👀
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: LAN.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
 - **Título sugerido:** HOY Llega Grand Theft Auto VI - Empezamos la Mejor Época del Año (en Directo)
 - **Texto en pantalla:** HOY Llega Grand Theft Auto VI - Empezamos la Mejor Época del Año (en D
-- **Descripción:** Fragmento relacionado con Emergente: LAN. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=Sn_JmPJInC8
 
-### CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.105 🤣 *la mejor vida*
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=63inU7mZBHA
-
-### PAUTIPS NO PERDONA A EMIRO Y LO CRITICA EN MEDIO DEL RETO | MASTERCHEF CELEBRITY AVANCE CAPITULO 99
-- **Gancho A:** ¿Ya habías visto este momento de Pautips? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Pautips.
-- **Título sugerido:** PAUTIPS NO PERDONA A EMIRO Y LO CRITICA EN MEDIO DEL RETO | MASTERCHEF CELEBRITY AVANCE CAPITULO 99
-- **Texto en pantalla:** PAUTIPS NO PERDONA A EMIRO Y LO CRITICA EN MEDIO DEL RETO | MASTERCHEF
-- **Descripción:** Fragmento relacionado con Pautips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
-- **Fuente original:** https://www.youtube.com/watch?v=A5aPskAqabM
-
 ## Noticias y contexto
 
+- **[Creadores] Filtran polémico video de Luisa Castro, actual novia de Westcol, besándose con su presunta exnovia: “Yo te creí los ‘te amo’” - Revista Semana** — 18/11/2026 09:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVk9RR2IwN2l0bDFNb21KclIySDdWOS1rTnlJRGh6NGF5SF9kT0pLSHdlb0FCY1JrYUNsdk1OcGtTMWFtN2lQMy16ZlBCVTZrMGQ1S0F0N2U5bGpycGctTm9hdm5yZE01ekVES0ZPdXpxaTZ3WkVhSzlZRGtFRUZZd0FKSHBBVFpuc0hkQWRWMGFMLUswcVFSNTdpZmVuQnFDUVRGVUpZdEhidldDUXR0SlJfeTZIUGdocXZIQ3g4VkZBbmZqV3ZwTnVrMGoyQktQRmg2aHJ1T00wTE5xRk9uWnpKOWFaVjZ1LVVGXzNNSzg4bnFiYm9J0gH8AUFVX3lxTE1hMDI3Ny11WE51ZHhSd0RMYkE5dHQwTVVaQ2lpdjVhcjAyZURfUWlBbVpSekJyRTJtZHhGSUZ1ZnBfSENlYU5HbE9uTm1rcV84TkUtakpxdzlZWjFjWi1LcHNjeVJvVnlTSW9neU1hTlN2UGY0NjBxdmdMSEIxWDkwNnZuMGhINE85OC00NXpfXzVGb3RVLWV5VkJmMkRQQVl3V0otb3A5Sm10akljcUVoYU5tdE5GdUE0Y2gzRWoyOGgtallGZUtMUmZFWVRZQml5eERPRXc2aUJrSmM4RFI5NHJsNFU3Vk1LYU5OV1gxY3dOd2dISGdsakV2Ng?oc=5)
 - **[Creadores] Melissa Gate lanzó fuertes indirectas a Yina Calderón - Eluniversal.com.co** — 18/11/2026 03:56 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlZ0QlZhXzlkLTVCR2owck9VY0czTFNBbkU5YjhWQnJ2ZXEtaEVNc2dZQWlVcFBQd2dzaUd6VVY3WjN5TDdyVDF5UVAtNWsyVnRXSXBjdWtfajZLeTZrdVpBa2hrWHZUMjRELVRlYy1BT0piRDJyeGdZTjR1WmZ5Q3d2TVpiRmJ5TXl2eGhVUEc3amVOQzNLX1dzbHQ4a0xqVTNvMWNRei04UQ?oc=5)
 - **[Creadores] FinFest 2026 en Cali: evento gratis con El Mindo y CEOs - Diario Occidente** — 18/11/2026 01:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2ktc1RqNTQ1TlBiUDVZU1FlRURSaGVTZTd1ZkFucVpibG9QRXJ4YUxhN0tMUWg0REloR1pQLWs3SThkbng5djM5VTdSVS1TUEdGSDZiamd3ZU5wa29FTS1GamwyLWpSeDBPazN6SUhvSlJla3pPQ1Y5U3dzU19YdmNwWlJaQVoxZzF1MGFaNzXSAZsBQVVfeXFMUDloVDJqQWo0UkZyRUs1RUwzakYtbnRfN1RGMjJpd05TVWhFOXc5dU05VFgxVFo2eTJXUjhjWVA3RzlZaE9mbEZFaGdFQ25QdnQ1ZnJ3X3JqNmpTOVhJb3EtS2oyQnhFbUhhb3I5LTZaRG9QUml5cW4xdVRDYnRiRldHSjRab3pYTlZIM3VWMndQWTMwdTE2OVlKQUE?oc=5)
 - **[Creadores] Westcol no fue capturado ni está vinculado con la muerte de un streamer - La Silla Vacía** — 18/11/2026 12:13 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXVVWjZPNldjZUFhSUFIVm1iZUsyZ25NTEJteUZsc25KZzI3NGtJYk11VjJqTTJlTzg2bFRheUdxVjlNMnRweWlILXpOZ3h5VTNhZFlhX3hmTmtfMk5rZjZ6TkRxZV9BV0cyUnpzVXdKM2FfakVXQkR1YVIxbE55em44eFNUX3A0cWJPel9valZZUWNFSzJscEJWN0NCQ2xvLTVMWDRPMzJ0YjZvZEduLTdHNWFQa1I3TVZWemN4OVRMeVl4dEdv?oc=5)
-- **[Creadores] Herrera respondió a Westcol tras el anuncio de acciones legales por no pelear en ‘Stream Fighters’: decisión del cantante habría esta relacionada con la muerte de Komanche - Infobae** — 18/11/2026 08:38 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWkNRV2pfcGhpX1h6eUwtYmRkZTlhcDhZV3A4SlJXTXRXaGZPWWdOdndHd3JWNDh4QXVScVp0RElvNXJrSFVHR0lyczNQOW9FbGtuVUN6VEZMTk1za2J1VW43YXdrWUk4ZkFFdTcydE5YRHFERDRwLTZUdkdxZl93Y3dmUWhhbnduaG9PQ2lEWW9LelR3YVNGVDNwZS1CRTIxLUFVTTV4bHdfUW0wSmROMHVDRkNOWDZzZmpiQWF2eVh2Q1hwNzlReHpZZkRCaWNBMlJXa2xmOWtrcHhlWV9WbHl6RUk5UG5RQmJyeS00NXhTNFo0Ul91V3FVRmlPYmNqNndyQURwYmtNcTBWNnNNTFdGQWZjQkFoZk1tbldYY1VQRWNvRzlsY2dtbTRoVFVCOFJvbUl3dU1NMk5aZGNtQmNoUHFBSkFaQ2VrS3FJTDdTdUHSAdMCQVVfeXFMUFpDUVdqX3BoaV9YenlMLWJkZGU5YXA4WVdwOEpSV010V2hmT1lnTnZ3R3dyVjQ4eEF1UnFadERJbzVya0hVR0dJcnMzUDlvRWxrblVDelRGTE5Nc2tidVVuN2F3a1lJOGZBRXU3MnROWERxREQ0cC02VHZHcWZfd2N3ZlFoYW53bmhvT0NpRFlvS3pUd2FTRlQzcGUtQkUyMS1BVU01eGx3X1FtMEpkTjB1Q0ZDTlg2c2ZqYkFhdnlYdkNYcDc5UXh6WWZEQmljQTJSV2tsZjlra3B4ZVlfVmx5ekVJOVBuUUJicnktNDV4UzRaNFJfdVdxVUZpT2JjajZ3ckFEcGJrTXEwVjZzTUxXRkFmY0JBaGZNbW5XWGNVUEVjb0c5bGNnbW00aFRVQjhSb21Jd3VNTTJOWmRjbUJjaFBxQUpBWkNla0txSUw3U3VB?oc=5)
 - **[Creadores] La Liendra viajará a Portugal y teme ser reconocido tras polémico video rompiendo su camiseta - Noticias RCN** — 18/11/2026 05:59 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGNzbWVGTUxXQnh5aWFzUHk1bWJmb3gzS3JiTjNhSDNGQTRUTzhmOTZSVHdNS1JXZjdTMERLaThfRnAzNU02N05SOHAzaVVQWU5qMGJhbk9XeVZPTFRXU1hvVk4wNWpPRjVweWRNTE5iUzFUVTd5SjF1aFNWWjE1N3dYaUMzMUpfdURCNElXMnp0U1dKMXNwbmRWcUlNc3ppVFh2aWxsLUVjTEpmQllQak5ZcnRMSngzU0JUcVB5Q0g0Z9IBwgFBVV95cUxQdHZoVTFwVW9WaVJ2TW9LZEh4ZFY4THZLeWhqbWJEWXFta2ZRT2ljNWhuRDdzNWR0elgwOXZXVnJ1ZlU3ZWEwc2JhaDBhb2lia3NZOHQyb3laNi0tSkFmQ3lhMGZGWDdmZGdNdE0wRkg3YTVsazJqMG1FVEk3c3drMzZxa2FNVGtLdlljRTZmb3FlckFfamlEM3RLQUV2cTh0cmtXQ0p0czFLbURVU1pHT2J0bEV0T3gwQkJyaGl0NEZaQQ?oc=5)
 - **[Creadores] La revelación de Aída Victoria sobre el Agropecuario: “Tuve un escolta durmiendo en mi sala” - Eluniversal.com.co** — 17/11/2026 07:23 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVzFfZWdsWFk1LS1id3J1SWhvS3NScUpGbmMtakJoZDhNUVY5cjB3d3U0MDc5cDNKZzM0QnVVb0Zza25TcDRGcl9mZi1meEotMkRwMEhnR1hobEUzYm9iZWJvejFyMVE4S3ZGTk9NcmwzcG5TdEN5ZkRSNnJwMjBxQkQxc2dHWkd6ZERHVTFjZGQxS0RXa0ZlY2dTM25wWW5XUkNvNGJKV21xSmp5Z2h4VC1wd2pXejFwY1k3TFRoVUh4NEdObUF5TkZJa2xQRkZvR2MwVlQzZWdpQQ?oc=5)
 - **[Creadores] Yina Calderón estalló tras la victoria de Andrea Valdiri sobre La Divaza en Stream Fighter - diariodelsur.com.co** — 17/11/2026 03:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmtMSGNfR0V4ZVJUM1hLc2ZSQTIyWUZ0V18zUGRCVFR2SEZXMklkZkF2OHpSZUJvaDRpNjNuc2EwamUxckppd1puSjFQaVVHeHA4Q3B3LWI2RFhINENUT0VMUjJ0TVVKTHR5Q0dQeDdDMHZ6TWtvM1liRmwxTGVBQXY5U2hyZHI4TVRZU0RnaHE2TFBaMGNQWWNaNDVTMUdrcE1XM1dLcUdyNVNSTUpvbHBkb3JBUUMzNWY1UVJtRlFDdkRT?oc=5)
