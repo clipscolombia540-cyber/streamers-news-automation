@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 20/11/2026 11:51 AM (hora de Colombia)
+Actualizado: 20/11/2026 06:50 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 8.
+Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 1, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -17,7 +17,7 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Canal que publico: Aida Victoria Stream
 - Publicado: 19/11/2026 11:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 25.372
+- Vistas reportadas por YouTube: 46.802
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=RU2zv3le2oA
 
@@ -35,9 +35,9 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: mundo.digital5440
-- Publicado: 19/11/2026 06:00 PM
+- Publicado: 19/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=6yyiAaVpqVs
 
@@ -49,26 +49,6 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Fuente: YouTube / yt-dlp
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=0OHuzWmOX6w
-
-### 🤬YA ESTOY ARTO DE ESTA PUT* ARAÑA PARCE😂 Kgó mi Partida😡| Momentos Divertidos de Mr Stiven #mrstiven
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 20/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3.468
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=Bwu6RUNg6k8
-
-### Mr stiven tc reacciona al gta 6
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Punto Reaccion
-- Publicado: 20/11/2026 11:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 1
-- Enlace directo: https://www.youtube.com/watch?v=vqFNO_9dm0M
 
 ### REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
 - Categoria: Clip de terceros
@@ -91,23 +71,13 @@ Distribución por categoría: Clip de terceros: 7, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=pFVS8ZLnvdg
 
-### 😂 El momento más loco de chanty en Kick
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: hankoclips
-- Creador relacionado en el título: Chanty
-- Canal que publico: hankoclips
-- Publicado: 19/11/2026 05:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=jxXRv9C3iiU
-
 ### 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Canal no identificado
-- Canal que publico: Canal no identificado
+- Creador/canal detectado: Emergente: SoyPanExclusive
+- Canal que publico: SoyPanExclusive
 - Publicado: 19/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 871
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=WfeMsZu5bbA
 
@@ -155,26 +125,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=0OHuzWmOX6w
 
-### 🤬YA ESTOY ARTO DE ESTA PUT* ARAÑA PARCE😂 Kgó mi Partida😡| Momentos Divertidos de Mr Stiven #mrstiven
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 🤬YA ESTOY ARTO DE ESTA PUT* ARAÑA PARCE😂 Kgó mi Partida😡| Momentos Divertidos de Mr Stiven #mrstiven
-- **Texto en pantalla:** 🤬YA ESTOY ARTO DE ESTA PUT* ARAÑA PARCE😂 Kgó mi Partida😡| Momentos Div
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Bwu6RUNg6k8
-
-### Mr stiven tc reacciona al gta 6
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** Mr stiven tc reacciona al gta 6
-- **Texto en pantalla:** Mr stiven tc reacciona al gta 6
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vqFNO_9dm0M
-
 ### REYDELACITY DESAYUNA CON TODA LA GANGA EN COLOMBIA 🇨🇴🍳 | IRL
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -195,35 +145,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=pFVS8ZLnvdg
 
-### 😂 El momento más loco de chanty en Kick
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** 😂 El momento más loco de chanty en Kick
-- **Texto en pantalla:** 😂 El momento más loco de chanty en Kick
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jxXRv9C3iiU
-
 ### 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: SoyPanExclusive? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: SoyPanExclusive.
 - **Título sugerido:** 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
 - **Texto en pantalla:** 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTR
-- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con Emergente: SoyPanExclusive. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=WfeMsZu5bbA
 
 ## Noticias y contexto
 
+- **[Creadores] Dunia Santos protagoniza polémica con 'La Liendra' tras estrellarle ramo de flores - Televicentro** — 20/11/2026 05:21 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxOclRfWVlJZ0Z0amxNMEUybThQM0ZVMzNtbnhwTHdKek1WSnpncXZQaDRXUE9aTUZfakJOVlpnc21jTDFaenZuU1FWbjFXdzNkOUV5TjhGVnZ5SV9GMEFZOVdYTDY1aHZqZTdyeW5kc2JYZzJzRFIwWXRHUGh4Szd6WmlhdDRCU1F6XzJ6dERDRUZvQlI1Rjl1bllaTQ?oc=5)
+- **[Creadores] Reykon habría enviado indirecta a su expareja Luisa Castro tras polémica por su relación con Westcol - El Frente** — 20/11/2026 04:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEdqRWhrY2tuX3NrS0lhOWd4eTFKUFFlcUJmX3ZZYUFuSDNmSjNzVWRoZ2xGYkF1RUQwa1p4TGRWSnNvWFYwWERIV2FJaFItTEUzN1hpUGFBRHVfejBRY3BnU2lmMUJqWENKazFXUWpuZExZekg1YklwMDllaWlFcGpLaU5IQm92U1NOUUV1U28wUm1TN2p6bFFnb2tuc2l0NzBCTGxDRWFJdlJzdWVUOTh0QzVDWC11Yk9yZDRDeE4yOE0?oc=5)
+- **[Creadores] Melissa Gate se va nuevamente contra Yina Calderón: ella le respondió - Revista Aló** — 20/11/2026 01:54 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1IxcC1zNVREalgxMnJqaDF1dUlDZ3hfLWRhRDJxUjA3N0ItanhTSjh6b3ZWdWVnal9CZzhxUWdfMnJjeHcwR0NnTHF3SUI4eVdGZ0RESkdsQ04zaFY3c0N4d29DSDJyVkhHazhzRWNYWWVYaE9aX3hqS2dMdllCdkhfYnVzY2hmOXJLemdZWEthSzgwdTRDVmY4bHVLMXp0VVF2RUkyWXJrQTBoSFZtWWEybk95RVlv0gG-AUFVX3lxTE9yXzQ5MG9NN1IwLXdPeTNUMExmcUlpdXVyd2dZZjdXWnRleHdHRkNocGZKdHhkel9DLUd5eXhTcEFaV2l3NjZzUGJHTkdpYS1JUTMxNUI5RlBucDBKUlY3ZlVfamZlUTdnY196NXZGSlhWaGJJVnU1SVBXR0M4MkxCM1BGeGJ3NC1oTnpnSTJrMXU2dUgwNjV1T3d5Y1dXb0ZIVnJBeVNBNkY4NXBfSUpvV0tkQ1BUYm51elpCemc?oc=5)
+- **[Creadores] “Ya están muy payasos, pero eso vende”: Llueven críticas a Pipe Bueno y Luisa Fernanda W por aparición juntos en el Megaland - Publimetro Colombia** — 20/11/2026 08:01 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMihAJBVV95cUxQb3k3MDMxTnlsMnJxWVoxQS1ZZHdJTXBKbExMak41cjY1Q1BNNmFLalNXSkM5dFJHSkVkWXdrdGtYdDZVX3BNOGZEYXpydVQwcVlGd0JZLWJidmJMOEczbF9Fakt1M2J5UDV3WGJ3cGJ0c0Q1Wm9zTnJCdzR5dS1EXy1oRk1MMDZRblNpdXRqR3NCOV9zNm1BWTFlVGlfc1VrQUx0d25laVB5dXNsWm5EWXZ0QkJtNVJadi11MUhqVU1vWkJrczJzeWhIWlRWRDhITFB0bkxkYmlJWGlkQ1NmNllXZ2o2V0l5Snk2bkk3elF1NWRJb0xKTUptNEZBb1d2Ml8yQw?oc=5)
 - **[Creadores] Reykon le habría lanzado pulla a su ex, Luisa Castro, ahora en una relación con Westcol: “El problema no era yo” - Infobae** — 20/11/2026 06:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTDF0NXFCUmpYUGxadWcxVHlxbUdueUUydS0yaEVScDJIQm5BOVQ1ZmJHWll1YXYydEk5VDRjZlpUc2FQbGZpY0NGeGxRUzNISnhSZWc5aHVEei1uRmxmQmtNNVZwS3dfd0hyQ09yTnpHbXh1M2NlQW80WXpjVVFzWU5CMkxwZ0RGNlFRc2U2SXg5S0V2cF9FbVR1UXhfMTVWdF96X3JMcmdnWkdHaWI2ZUJxOElyNldHaHhKYThjR01Sa3pVYS0xLXQzenNabFlUMmtfMl9TVVE3UVVQZXdZU1ItNFhxZm_SAYICQVVfeXFMTjZkRDFPclV4N1h5LTlZMTFyWTlIa2tJRk9qVG03SkgtanJzaW1OVWVGWGZWSnQ5M0lONkZXMFdZb291N3dGTG40SkZDdXoyMUpUaVFGc0x0aWIyNXJZenpGelB0Tzc2TWJlRlNDQjJSTG9HQ2dYMGZvVVFvSExnSWcwZWJzVlB4c0NFS3lBMG1WRndFSnVwbnJZY2I4WUNiQXZqZFVZR2dzdkRoX0pBSzczMWhicVU2WC0wTVhQOVZRMXh5dXB6MFFHbGpWb1ZvQm53WmJuZzIyNEZQUWlFUUZaME5LVkdYQTJHMVB0enNabl83Qk5TaHk5enAzSnRqS3l3?oc=5)
 - **[Creadores] La creadora de contenido contó que quería revelar la noticia entre el cuarto y el quinto mes, pero su hermana mayor, Yina Calderón, la hizo pública cuando llevaba apenas unas semanas de gestación - Facebook** — 19/11/2026 10:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdjNFZFIwS0tEQm5QUVIxRUpZblFjZnZsR2w5bzc2WkwtVzliQ1J3VEc5VjhXQnc5TzhJT0Z6WkxES0kxTWl5M2ttemJxV2Y0elp4TVdncTRlQThhaC13anowYlRrNjR2Z01tU2o2c1VCLU5mUUFuYkJ3dEctWjVGYklEQk9RSEg4dXlLZnI4WnZJeU1IcjV1YW0tTXFOMlVjX0RIb1JncTVzUFBOSFBNNFRlVVlvOXRpTk5ZT0ZPSWZhdy00RG9qN05fMnp1c3ZnSndZd2VlZjR1NkY5Tlp6bEpFaW5jUENpYVd3?oc=5)
 - **[Creadores] Video | Aida Victoria Merlano enterneció las redes sociales con el juego que hizo con su hijo Emiliano - Infobae** — 19/11/2026 06:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYUdKRlBxVmtsSnhrbVhjY2dFZnZFMFhLdWVZMThxdWNncFc0ck5MYzhOZWVsSkR1ejRrSkFtTV9tVUZYYkJvZGEyNDc4dGZmZnRfUWVZTmg1ekllTHZVenItSkZNdDBtNFlkZElQazJMWWptT3pZUVluazFsODVzeUNheFJCd3RVa2NRYko2Z3Jpc3g1YTJUY1ZEcGtPdXJ5QVVlRmZrYjlfYzE0aDg0aTJBaWUtQk9ZdTQ5RzVNRjV1aWRXZjcxcnR5RHd1OXFobTdVN2dDMi1tOEtnTEHSAfgBQVVfeXFMTmtUdDN6Wk43cUY2UEEzcUYyTFMwRWI3RmZPQ2lOWFNrUkNzcDVIX1VyS1gwZGRsUy1aQ3FqU2RUOXA1OWhQWG0zNldtTGJGOUIySk95NlkyemVZcnotSVRyX3htS3VycjhwVTVOYkpiODBzbTFySWVNZ29wV2RDNUpmc3Y4aHlPSC03ZXdqbFd4bW9qU2ZpdEUwR1YyeS0tM21EZlJnY2U3RFhzM3daMF9vNG1SZFRVMmhvejhtSHFiUlZrMDVJTmNMSW04Q0FOdDJHX29KZGlFR0V5WWVJX2V5QWxuTURiS0tQT0ZyWVR2UHU4czJxbmM?oc=5)
 - **[Creadores] Pautips mostró prueba de embarazo positiva y la reacción de su esposo desató críticas - La Kalle** — 19/11/2026 01:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1RPN2tNb2RISm9sRU9GaXhzdDVuVzRVYmg0MlZ4VVZHQ2lmcUxqWjUtdXFjOWdVZkZjajNua0RTZG1mX24zZlhSOEh3V1RJa1JBNzZBT1VlMGRqbTFPaUlSMzNVUjQ1ZGxOLTU4TGFrakxDdTJzNHVTN0dORlhESlFfWVNfUmlacFlkUzE0UWt3SmJERUNaNnB5ZFNDajNxS0hNSUZJaHF0cW5uSnlUUE9QelRpdWZuWEY5ME04UnRxMnBSTERfTDh4LUFoRl9vUzllbUF6ZUctWWhiUlE?oc=5)
-- **[Creadores] Melissa Gate volvió a arremeter contra Yina Calderón: ¿qué le dijo esta vez? - La Opinión Cúcuta** — 19/11/2026 01:11 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYncxSEcyS01oRnV6RFVWc3puSkpNSE9fdkVBdWdXTGZmdVJQb1VtZmhab0VvU25WMy1memVmQnA2TFRvTS10eW5yTVZQVGVGUmphbks3OVpxWmp1c2wta2dERThNUFR1VTZMdGpRdXZmUWFEd2Y3OEJtWjBoWEtucHlTckw1VHBFQlVLLWoxSFplVWUwTkE1U29TWHlTcTBYb0VvSnJ4S01uY1Bs?oc=5)
-- **[Creadores] Filtran polémico video de Luisa Castro, actual novia de Westcol, besándose con su presunta exnovia: “Yo te creí los ‘te amo’” - Revista Semana** — 18/11/2026 09:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYTAyNzctdVhOdWR4UndETGJBOXR0ME1VWkNpaXY1YXIwMmVEX1FpQW1aUnpCckUybWR4RklGdWZwX0hDZWFOR2xPbk5ta3FfOE5FLWpKcXc5WVoxY1otS3BzY3lSb1Z5U0lvZ3lNYU5TdlBmNDYwcXZnTEhCMVg5MDZ2bjBoSDRPOTgtNDV6X181Rm90VS1leVZCZjJEUEFZd1dKLW9wOUptdGpJY3FFaGFObXRORnVBNGNoM0VqMjhoLWpZRmVLTFJmRVlUWUJpeXhET0V3NmlCa0pjOERSOTRybDRVN1ZNS2FOTldYMWN3TndnSEhnbGpFdjbSAfwBQVVfeXFMTWEwMjc3LXVYTnVkeFJ3RExiQTl0dDBNVVpDaWl2NWFyMDJlRF9RaUFtWlJ6QnJFMm1keEZJRnVmcF9IQ2VhTkdsT25ObWtxXzhORS1qSnF3OVlaMWNaLUtwc2N5Um9WeVNJb2d5TWFOU3ZQZjQ2MHF2Z0xIQjFYOTA2dm4waEg0Tzk4LTQ1el9fNUZvdFUtZXlWQmYyRFBBWXdXSi1vcDlKbXRqSWNxRWhhTm10TkZ1QTRjaDNFajI4aC1qWUZlS0xSZkVZVFlCaXl4RE9FdzZpQmtKYzhEUjk0cmw0VTdWTUthTk5XWDFjd053Z0hIZ2xqRXY2?oc=5)
-- **[Creadores] FinFest 2026 en Cali: evento gratis con El Mindo y CEOs - Diario Occidente** — 18/11/2026 01:29 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2ktc1RqNTQ1TlBiUDVZU1FlRURSaGVTZTd1ZkFucVpibG9QRXJ4YUxhN0tMUWg0REloR1pQLWs3SThkbng5djM5VTdSVS1TUEdGSDZiamd3ZU5wa29FTS1GamwyLWpSeDBPazN6SUhvSlJla3pPQ1Y5U3dzU19YdmNwWlJaQVoxZzF1MGFaNzXSAZsBQVVfeXFMUDloVDJqQWo0UkZyRUs1RUwzakYtbnRfN1RGMjJpd05TVWhFOXc5dU05VFgxVFo2eTJXUjhjWVA3RzlZaE9mbEZFaGdFQ25QdnQ1ZnJ3X3JqNmpTOVhJb3EtS2oyQnhFbUhhb3I5LTZaRG9QUml5cW4xdVRDYnRiRldHSjRab3pYTlZIM3VWMndQWTMwdTE2OVlKQUE?oc=5)
 
 ## Creadores principales vigilados
 
