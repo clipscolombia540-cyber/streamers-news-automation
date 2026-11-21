@@ -1,15 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/11/2026 10:59 AM (hora de Colombia)
+Actualizado: 21/11/2026 04:36 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 8.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
+
+### AURON MEGAFUNADO por COMENTARIO a LUCIA😨XOKAS EXPLOTA por NO JUGAR GTA6😨WESTCOL EXPONE LLAMADA de...
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Cell™
+- Publicado: 21/11/2026 04:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 8.203
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=3H5Shydw4SI
 
 ### La pelea de el rey de la city vs we got kicks #sf5 #paratii #viralvideo #dalelike #reelsviralシfb
 - Categoria: Clip de terceros
@@ -31,24 +41,16 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=-giaCZzH53U
 
-### WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 ("eso no es un yate")
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: LagangaWSLCWLR
-- Publicado: 21/11/2026 10:00 AM
+### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Thereydelacity_clips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: Thereydelacity_clips
+- Publicado: 20/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 298
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=kRiCbngCeoo
-
-### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
-- Categoria: Clip de terceros
-- Creador/canal detectado: Rey de la City
-- Canal que publico: Canal no identificado
-- Publicado: 21/11/2026 09:00 AM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=4gSrkxvrYcU
+- Vistas reportadas por YouTube: 8.421
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=iRvj0FutVqQ
 
 ### CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
 - Categoria: Cuenta de clips
@@ -61,26 +63,16 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=pFVS8ZLnvdg
 
-### LASAPAAAAA sin control en GTA 6 😂 | Mejores momentos
+### LA GANGA WESCOL SAMULX
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga Clips
-- Creador relacionado en el título: La Sapa
-- Canal que publico: La Ganga Clips
-- Publicado: 20/11/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: Clips virales
+- Creador relacionado en el título: Samulx
+- Canal que publico: Clips virales
+- Publicado: 21/11/2026 01:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=0OHuzWmOX6w
-
-### 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: ElAbrahaham
-- Canal que publico: ElAbrahaham
-- Publicado: 19/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 874.577
-- Puntaje heurístico de interés: 8
-- Enlace directo: https://www.youtube.com/watch?v=rUMk2KsXNc8
+- Vistas reportadas por YouTube: 10
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=vq2EP3rV9w8
 
 ### 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
 - Categoria: Emergente por verificar
@@ -88,13 +80,33 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente
 - Canal que publico: SoyPanExclusive
 - Publicado: 19/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 883
+- Vistas reportadas por YouTube: 886
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=WfeMsZu5bbA
+
+### BYKING AT NICKY JAM'S MANSION IN MIAMI 😱
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: KICK CL
+- Canal que publico: KICK CL
+- Publicado: 19/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 237
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=fteNcsFIh_k
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### AURON MEGAFUNADO por COMENTARIO a LUCIA😨XOKAS EXPLOTA por NO JUGAR GTA6😨WESTCOL EXPONE LLAMADA de...
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** AURON MEGAFUNADO por COMENTARIO a LUCIA😨XOKAS EXPLOTA por NO JUGAR GTA6😨WESTCOL EXPONE LLAMADA de...
+- **Texto en pantalla:** AURON MEGAFUNADO por COMENTARIO a LUCIA😨XOKAS EXPLOTA por NO JUGAR GTA
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3H5Shydw4SI
 
 ### La pelea de el rey de la city vs we got kicks #sf5 #paratii #viralvideo #dalelike #reelsviralシfb
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -116,25 +128,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-giaCZzH53U
 
-### WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 ("eso no es un yate")
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 ("eso no es un yate")
-- **Texto en pantalla:** WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=kRiCbngCeoo
-
-### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
-- **Texto en pantalla:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Título sugerido:** ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
+- **Texto en pantalla:** ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA G
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=4gSrkxvrYcU
+- **Fuente original:** https://www.youtube.com/watch?v=iRvj0FutVqQ
 
 ### CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -146,25 +148,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=pFVS8ZLnvdg
 
-### LASAPAAAAA sin control en GTA 6 😂 | Mejores momentos
-- **Gancho A:** ¿Ya habías visto este momento de La Sapa? 👀
+### LA GANGA WESCOL SAMULX
+- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de La Sapa.
-- **Título sugerido:** LASAPAAAAA sin control en GTA 6 😂 | Mejores momentos
-- **Texto en pantalla:** LASAPAAAAA sin control en GTA 6 😂 | Mejores momentos
-- **Descripción:** Fragmento relacionado con La Sapa. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Samulx.
+- **Título sugerido:** LA GANGA WESCOL SAMULX
+- **Texto en pantalla:** LA GANGA WESCOL SAMULX
+- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=0OHuzWmOX6w
-
-### 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: ElAbrahaham? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: ElAbrahaham.
-- **Título sugerido:** 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
-- **Texto en pantalla:** 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
-- **Descripción:** Fragmento relacionado con Emergente: ElAbrahaham. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=rUMk2KsXNc8
+- **Fuente original:** https://www.youtube.com/watch?v=vq2EP3rV9w8
 
 ### 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: SoyPanExclusive? 👀
@@ -176,16 +168,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=WfeMsZu5bbA
 
+### BYKING AT NICKY JAM'S MANSION IN MIAMI 😱
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: KICK CL? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: KICK CL.
+- **Título sugerido:** BYKING AT NICKY JAM'S MANSION IN MIAMI 😱
+- **Texto en pantalla:** BYKING AT NICKY JAM'S MANSION IN MIAMI 😱
+- **Descripción:** Fragmento relacionado con Emergente: KICK CL. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=fteNcsFIh_k
+
 ## Noticias y contexto
 
+- **[Creadores] Ornella Sierra lloró al asegurar que Dios le habló en medio de sus miedos: “Este es el camino hacia tu milagro” - Infobae** — 21/11/2026 01:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdTYwY2p2ZDBNa3N5Q1hsY18tNktqMWlIT2xSblpPaS00VUw2T0lHVDRGeHZCcFdveWppc0pSS1ZuWUlJS1c5c0FOTTJQWHgyQVhTV0RObl9wTW50NzNOaFljcUFHdFBPR2lyc0RPR2lfUE9vbVlYamxSOElPSzA5bVpWbEFIaU1Sc2I5YllBZlR1dzJpYmNyQl96QWRkV0N5NEhNUmlXQ2xHWFZ2WTBaTXhiZmRlR2N6S24yNF8tUFBRTkRITURzdWVOSGpFMldGMURRd2FDYXJLM2NVMEM1TkFldUNHWnFE0gGDAkFVX3lxTE91Nzlrd1haU0NremtVNVlCSlFtVVBOUHVTRlFzSDhDMUN1VjRSalJpdmY3YVd1Yy05NndvN08zaUhBSXo5VWZ0R0ZzNVp0V2pPQ0Y5MnFsMmJicGtjZ1RMVUxxQ3BueG5aVWdCWW94Wm5RQlNaQmdXRnNYRU5EaFFnQkhxLVIxVmdKalk5c3BVRWR0V01COVE0aTJacVhCS3RCRnZaZEdMQ1RISWlfejhzc0Y3ZWNzT2piRXd2d3JaVU9PdENNMm16ajFOaGowRTNvRG9NQmxHbG9KZjdTNmkzd3U1b1M5MjM1WGxwSTVoVU9lWkRWakdUYXR2OWlMTURuUU0?oc=5)
 - **[Creadores] Yeferson Cossio de visita por el Huila - La Nación.com.co** — 20/11/2026 10:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMidkFVX3lxTE44enRvSllkV3RWY1E4QjBaY3VSRUhVc1BXUENIMVFIVWhVRHA3WWVGcW1IaTRRaDhBbE55VGZtbm5jRjdENTg4NXhJV3dYbzZuSVcxRXVNWW55Y1ZzZUlhaHcxUFJJTUdDVEJYVlRhMjFUeS1zNFE?oc=5)
 - **[Creadores] Dunia Santos protagoniza polémica con 'La Liendra' tras estrellarle ramo de flores - Televicentro** — 20/11/2026 06:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxOclRfWVlJZ0Z0amxNMEUybThQM0ZVMzNtbnhwTHdKek1WSnpncXZQaDRXUE9aTUZfakJOVlpnc21jTDFaenZuU1FWbjFXdzNkOUV5TjhGVnZ5SV9GMEFZOVdYTDY1aHZqZTdyeW5kc2JYZzJzRFIwWXRHUGh4Szd6WmlhdDRCU1F6XzJ6dERDRUZvQlI1Rjl1bllaTQ?oc=5)
 - **[Creadores] Reykon habría enviado indirecta a su expareja Luisa Castro tras polémica por su relación con Westcol - El Frente** — 20/11/2026 04:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEdqRWhrY2tuX3NrS0lhOWd4eTFKUFFlcUJmX3ZZYUFuSDNmSjNzVWRoZ2xGYkF1RUQwa1p4TGRWSnNvWFYwWERIV2FJaFItTEUzN1hpUGFBRHVfejBRY3BnU2lmMUJqWENKazFXUWpuZExZekg1YklwMDllaWlFcGpLaU5IQm92U1NOUUV1U28wUm1TN2p6bFFnb2tuc2l0NzBCTGxDRWFJdlJzdWVUOTh0QzVDWC11Yk9yZDRDeE4yOE0?oc=5)
 - **[Creadores] Melissa Gate se va nuevamente contra Yina Calderón: ella le respondió - Revista Aló** — 20/11/2026 01:54 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1IxcC1zNVREalgxMnJqaDF1dUlDZ3hfLWRhRDJxUjA3N0ItanhTSjh6b3ZWdWVnal9CZzhxUWdfMnJjeHcwR0NnTHF3SUI4eVdGZ0RESkdsQ04zaFY3c0N4d29DSDJyVkhHazhzRWNYWWVYaE9aX3hqS2dMdllCdkhfYnVzY2hmOXJLemdZWEthSzgwdTRDVmY4bHVLMXp0VVF2RUkyWXJrQTBoSFZtWWEybk95RVlv0gG-AUFVX3lxTE9yXzQ5MG9NN1IwLXdPeTNUMExmcUlpdXVyd2dZZjdXWnRleHdHRkNocGZKdHhkel9DLUd5eXhTcEFaV2l3NjZzUGJHTkdpYS1JUTMxNUI5RlBucDBKUlY3ZlVfamZlUTdnY196NXZGSlhWaGJJVnU1SVBXR0M4MkxCM1BGeGJ3NC1oTnpnSTJrMXU2dUgwNjV1T3d5Y1dXb0ZIVnJBeVNBNkY4NXBfSUpvV0tkQ1BUYm51elpCemc?oc=5)
 - **[Creadores] Reykon le habría lanzado pulla a su ex, Luisa Castro, ahora en una relación con Westcol: “El problema no era yo” - Infobae** — 20/11/2026 06:58 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTDF0NXFCUmpYUGxadWcxVHlxbUdueUUydS0yaEVScDJIQm5BOVQ1ZmJHWll1YXYydEk5VDRjZlpUc2FQbGZpY0NGeGxRUzNISnhSZWc5aHVEei1uRmxmQmtNNVZwS3dfd0hyQ09yTnpHbXh1M2NlQW80WXpjVVFzWU5CMkxwZ0RGNlFRc2U2SXg5S0V2cF9FbVR1UXhfMTVWdF96X3JMcmdnWkdHaWI2ZUJxOElyNldHaHhKYThjR01Sa3pVYS0xLXQzenNabFlUMmtfMl9TVVE3UVVQZXdZU1ItNFhxZm_SAYICQVVfeXFMTjZkRDFPclV4N1h5LTlZMTFyWTlIa2tJRk9qVG03SkgtanJzaW1OVWVGWGZWSnQ5M0lONkZXMFdZb291N3dGTG40SkZDdXoyMUpUaVFGc0x0aWIyNXJZenpGelB0Tzc2TWJlRlNDQjJSTG9HQ2dYMGZvVVFvSExnSWcwZWJzVlB4c0NFS3lBMG1WRndFSnVwbnJZY2I4WUNiQXZqZFVZR2dzdkRoX0pBSzczMWhicVU2WC0wTVhQOVZRMXh5dXB6MFFHbGpWb1ZvQm53WmJuZzIyNEZQUWlFUUZaME5LVkdYQTJHMVB0enNabl83Qk5TaHk5enAzSnRqS3l3?oc=5)
-- **[Creadores] La creadora de contenido contó que quería revelar la noticia entre el cuarto y el quinto mes, pero su hermana mayor, Yina Calderón, la hizo pública cuando llevaba apenas unas semanas de gestación - Facebook** — 19/11/2026 10:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdjNFZFIwS0tEQm5QUVIxRUpZblFjZnZsR2w5bzc2WkwtVzliQ1J3VEc5VjhXQnc5TzhJT0Z6WkxES0kxTWl5M2ttemJxV2Y0elp4TVdncTRlQThhaC13anowYlRrNjR2Z01tU2o2c1VCLU5mUUFuYkJ3dEctWjVGYklEQk9RSEg4dXlLZnI4WnZJeU1IcjV1YW0tTXFOMlVjX0RIb1JncTVzUFBOSFBNNFRlVVlvOXRpTk5ZT0ZPSWZhdy00RG9qN05fMnp1c3ZnSndZd2VlZjR1NkY5Tlp6bEpFaW5jUENpYVd3?oc=5)
+- **[Creadores] La creadora de contenido contó que quería revelar la noticia entre el cuarto y el quinto mes, pero su hermana mayor, Yina Calderón, la hizo pública cuando llevaba apenas unas semanas de gestación - Facebook** — 19/11/2026 10:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbENVc3EwczAyeWFsNEY3OGh3bEdTZ1RUVTBWTl9NeGs2azZPaFNCMm96eFdDU2pIZ1gxSnI0MUJsV21VTk10MFlYMGl5Wm9mUk9xTHFsUzBxbGY1bVZkVmItb3BwQ2ZiQ0JJZWFyOUVGR2llNlVtamczLUNuZnp2TTU5NTVfSlNlYWEyN3U2aUp2emZ0WDUzOVpwM0RFdzRBUzZRSVNRTzluRVVVNjE1R1Y3MF9SNlM5MjRTWmh0TEVNMWtZcEhmOC16RklzOVkyTXZhX19veTdDTUFWYmxIQWx3cWhwblUzbndwTA?oc=5)
 - **[Creadores] Video | Aida Victoria Merlano enterneció las redes sociales con el juego que hizo con su hijo Emiliano - Infobae** — 19/11/2026 06:43 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYUdKRlBxVmtsSnhrbVhjY2dFZnZFMFhLdWVZMThxdWNncFc0ck5MYzhOZWVsSkR1ejRrSkFtTV9tVUZYYkJvZGEyNDc4dGZmZnRfUWVZTmg1ekllTHZVenItSkZNdDBtNFlkZElQazJMWWptT3pZUVluazFsODVzeUNheFJCd3RVa2NRYko2Z3Jpc3g1YTJUY1ZEcGtPdXJ5QVVlRmZrYjlfYzE0aDg0aTJBaWUtQk9ZdTQ5RzVNRjV1aWRXZjcxcnR5RHd1OXFobTdVN2dDMi1tOEtnTEHSAfgBQVVfeXFMTmtUdDN6Wk43cUY2UEEzcUYyTFMwRWI3RmZPQ2lOWFNrUkNzcDVIX1VyS1gwZGRsUy1aQ3FqU2RUOXA1OWhQWG0zNldtTGJGOUIySk95NlkyemVZcnotSVRyX3htS3VycjhwVTVOYkpiODBzbTFySWVNZ29wV2RDNUpmc3Y4aHlPSC03ZXdqbFd4bW9qU2ZpdEUwR1YyeS0tM21EZlJnY2U3RFhzM3daMF9vNG1SZFRVMmhvejhtSHFiUlZrMDVJTmNMSW04Q0FOdDJHX29KZGlFR0V5WWVJX2V5QWxuTURiS0tQT0ZyWVR2UHU4czJxbmM?oc=5)
-- **[Creadores] Pautips mostró prueba de embarazo positiva y la reacción de su esposo desató críticas - La Kalle** — 19/11/2026 01:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1RPN2tNb2RISm9sRU9GaXhzdDVuVzRVYmg0MlZ4VVZHQ2lmcUxqWjUtdXFjOWdVZkZjajNua0RTZG1mX24zZlhSOEh3V1RJa1JBNzZBT1VlMGRqbTFPaUlSMzNVUjQ1ZGxOLTU4TGFrakxDdTJzNHVTN0dORlhESlFfWVNfUmlacFlkUzE0UWt3SmJERUNaNnB5ZFNDajNxS0hNSUZJaHF0cW5uSnlUUE9QelRpdWZuWEY5ME04UnRxMnBSTERfTDh4LUFoRl9vUzllbUF6ZUctWWhiUlE?oc=5)
 
 ## Creadores principales vigilados
 
