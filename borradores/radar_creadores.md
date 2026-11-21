@@ -1,32 +1,23 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/11/2026 01:28 AM (hora de Colombia)
+Actualizado: 21/11/2026 10:59 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 8.
 Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 2, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL KICKS MR STIVEN OFF KICK AND KOMANCHE'S FATHER SENDS HIM SUPPORT!!🚨
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Cayco
-- Publicado: 20/11/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.247
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=bFBiIZGbxjM
-
 ### La pelea de el rey de la city vs we got kicks #sf5 #paratii #viralvideo #dalelike #reelsviralシfb
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
-- Canal que publico: Canal no identificado
-- Publicado: 19/11/2026 07:00 PM
+- Canal que publico: mundo.digital5440
+- Publicado: 20/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=6yyiAaVpqVs
 
@@ -34,48 +25,37 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Categoria: Clip de terceros
 - Creador/canal detectado: Series y eventos de streamers
 - Canal que publico: Monasterios
-- Publicado: 19/11/2026 07:00 PM
+- Publicado: 20/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=-giaCZzH53U
 
-### POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨💔 #tiktok #directo
+### WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 ("eso no es un yate")
 - Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Reacción a RP
-- Publicado: 21/11/2026 12:00 AM
+- Creador/canal detectado: Westcol
+- Canal que publico: LagangaWSLCWLR
+- Publicado: 21/11/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 298
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xxOkiH0wfLo
+- Enlace directo: https://www.youtube.com/watch?v=kRiCbngCeoo
 
-### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
+### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
 - Categoria: Clip de terceros
 - Creador/canal detectado: Rey de la City
 - Canal que publico: Canal no identificado
-- Publicado: 20/11/2026 07:00 PM
+- Publicado: 21/11/2026 09:00 AM
 - Fuente: YouTube / yt-dlp
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=iRvj0FutVqQ
-
-### ¡NO CARGA! 😂 | MrStivenTC – Mejores momentos
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Axelverseclip
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Axelverseclip
-- Publicado: 20/11/2026 11:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=yzGY8YWRlCk
+- Enlace directo: https://www.youtube.com/watch?v=4gSrkxvrYcU
 
 ### CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: La Ganga Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: La Ganga Clips
-- Publicado: 19/11/2026 07:00 PM
+- Publicado: 20/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 3
@@ -86,36 +66,35 @@ Distribución por categoría: Clip de terceros: 5, Cuenta de clips: 4.
 - Creador/canal detectado: Cuenta de clips: La Ganga Clips
 - Creador relacionado en el título: La Sapa
 - Canal que publico: La Ganga Clips
-- Publicado: 19/11/2026 07:00 PM
+- Publicado: 20/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=0OHuzWmOX6w
 
-### 😂 El momento más loco de chanty en Kick
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: hankoclips
-- Creador relacionado en el título: Chanty
-- Canal que publico: hankoclips
+### 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: ElAbrahaham
+- Canal que publico: ElAbrahaham
 - Publicado: 19/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
+- Vistas reportadas por YouTube: 874.577
+- Puntaje heurístico de interés: 8
+- Enlace directo: https://www.youtube.com/watch?v=rUMk2KsXNc8
+
+### 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: SoyPanExclusive
+- Canal que publico: SoyPanExclusive
+- Publicado: 19/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 883
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=jxXRv9C3iiU
+- Enlace directo: https://www.youtube.com/watch?v=WfeMsZu5bbA
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### WESTCOL KICKS MR STIVEN OFF KICK AND KOMANCHE'S FATHER SENDS HIM SUPPORT!!🚨
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL KICKS MR STIVEN OFF KICK AND KOMANCHE'S FATHER SENDS HIM SUPPORT!!🚨
-- **Texto en pantalla:** WESTCOL KICKS MR STIVEN OFF KICK AND KOMANCHE'S FATHER SENDS HIM SUPPO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bFBiIZGbxjM
 
 ### La pelea de el rey de la city vs we got kicks #sf5 #paratii #viralvideo #dalelike #reelsviralシfb
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -137,35 +116,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=-giaCZzH53U
 
-### POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨💔 #tiktok #directo
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 ("eso no es un yate")
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨💔 #tiktok #directo
-- **Texto en pantalla:** POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 ("eso no es un yate")
+- **Texto en pantalla:** WESTCOL: ¡LLEGAMOS A LA FINCA EN GUATAPÉ! 🏡 ¿QUÉ PASÓ ANTIER? PARTE 8 
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xxOkiH0wfLo
+- **Fuente original:** https://www.youtube.com/watch?v=kRiCbngCeoo
 
-### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
+### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
-- **Texto en pantalla:** ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA G
+- **Título sugerido:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Texto en pantalla:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=iRvj0FutVqQ
-
-### ¡NO CARGA! 😂 | MrStivenTC – Mejores momentos
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ¡NO CARGA! 😂 | MrStivenTC – Mejores momentos
-- **Texto en pantalla:** ¡NO CARGA! 😂 | MrStivenTC – Mejores momentos
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=yzGY8YWRlCk
+- **Fuente original:** https://www.youtube.com/watch?v=4gSrkxvrYcU
 
 ### CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -187,15 +156,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=0OHuzWmOX6w
 
-### 😂 El momento más loco de chanty en Kick
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: ElAbrahaham? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** 😂 El momento más loco de chanty en Kick
-- **Texto en pantalla:** 😂 El momento más loco de chanty en Kick
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jxXRv9C3iiU
+- **Gancho C:** Un momento para revisar del contenido de Emergente: ElAbrahaham.
+- **Título sugerido:** 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
+- **Texto en pantalla:** 🚔GTA🚔VI🚔PRIMER🚔CAPITULO🚔#1🚔INCREIBLE🚔DIRECTO🚔
+- **Descripción:** Fragmento relacionado con Emergente: ElAbrahaham. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=rUMk2KsXNc8
+
+### 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: SoyPanExclusive? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: SoyPanExclusive.
+- **Título sugerido:** 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTROL) | SoyPan
+- **Texto en pantalla:** 24 HORAS CON LOS STREAMERS MÁS LOCOS DE COLOMBIA 🇨🇴 (SE SALIÓ DE CONTR
+- **Descripción:** Fragmento relacionado con Emergente: SoyPanExclusive. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=WfeMsZu5bbA
 
 ## Noticias y contexto
 
