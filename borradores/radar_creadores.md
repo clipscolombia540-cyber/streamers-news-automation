@@ -1,45 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 21/11/2026 08:59 PM (hora de Colombia)
+Actualizado: 22/11/2026 04:40 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 7.
-Noticias recientes: 8.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente por verificar: 1.
+Noticias recientes: 7.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 5, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Monasterios
-- Publicado: 20/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=-giaCZzH53U
-
-### WHY IS IT SO HARD TO HAVE A RELATIONSHIP AS A STREAMER? 😱 | Westcol and Katy Cardona
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Katy Cardona YT
-- Publicado: 21/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.727
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=IucYVpCMxWI
-
-### POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨💔 #tiktok #directo
+### 😡 THIS DAMN GAME STRESSES ME OUT INSTEAD OF BEING FUN 😂 | Funny Moments with Mr Stiven #freefire #ff
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
-- Canal que publico: Reacción a RP
-- Publicado: 21/11/2026 12:00 AM
+- Canal que publico: INMORTAL FF
+- Publicado: 22/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=xxOkiH0wfLo
+- Vistas reportadas por YouTube: 1.175
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=W1KldFQKw0o
 
 ### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
 - Categoria: Cuenta de clips
@@ -48,75 +28,76 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 3, Emergente
 - Canal que publico: Thereydelacity_clips
 - Publicado: 20/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9.444
+- Vistas reportadas por YouTube: 11.006
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=iRvj0FutVqQ
 
-### ¿QUÉ TRAJO CJ? 😱 | MrStivenTC – Mejores momentos
+### KATY CARDONA AND WESTCOL GET READY FOR A PARTY IN GUATAPÉ 🔥
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Axelverseclip
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: Axelverseclip
-- Publicado: 21/11/2026 12:00 AM
+- Creador/canal detectado: Cuenta de clips: showcliping
+- Creador relacionado en el título: Westcol
+- Canal que publico: showcliping
+- Publicado: 22/11/2026 01:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=UIutIunw90A
+- Vistas reportadas por YouTube: 2.129
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=2JJCIBDJx_g
 
-### LA GANGA WESCOL SAMULX
+### ​"ESTO VA A ROMPER" 🤯 Westcol reacciona a "TREMENDO DESASTRE" (Myke Towers & Rauw Alejandro)
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Clips virales
-- Creador relacionado en el título: Samulx
-- Canal que publico: Clips virales
-- Publicado: 21/11/2026 01:00 PM
+- Creador/canal detectado: Cuenta de clips: ​WestClips Shorts
+- Creador relacionado en el título: Westcol
+- Canal que publico: ​WestClips Shorts
+- Publicado: 20/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 23
+- Vistas reportadas por YouTube: 801
+- Puntaje heurístico de interés: 1
+- Enlace directo: https://www.youtube.com/watch?v=WUpMNjvEOQ8
+
+### DAVO REVEALS WHAT HE'LL DO IN COLOMBIA 🇨🇴😱 HE TELLS ALL!
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Andrea Clips
+- Canal que publico: Andrea Clips
+- Publicado: 21/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 21
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=vq2EP3rV9w8
+- Enlace directo: https://www.youtube.com/watch?v=SiOt0EcNf5E
+
+### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: TheReyClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: TheReyClips
+- Publicado: 21/11/2026 09:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 20
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=4gSrkxvrYcU
 
 ### Claude Code saca mis clips de GTA 6 solo (y te regalo el kit)
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Viegas Estudio
 - Canal que publico: Viegas Estudio
-- Publicado: 21/11/2026 08:00 PM
+- Publicado: 21/11/2026 09:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 228
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 1.252
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=K5ZlZcIMu-0
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- **Texto en pantalla:** WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-giaCZzH53U
-
-### WHY IS IT SO HARD TO HAVE A RELATIONSHIP AS A STREAMER? 😱 | Westcol and Katy Cardona
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WHY IS IT SO HARD TO HAVE A RELATIONSHIP AS A STREAMER? 😱 | Westcol and Katy Cardona
-- **Texto en pantalla:** WHY IS IT SO HARD TO HAVE A RELATIONSHIP AS A STREAMER? 😱 | Westcol an
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=IucYVpCMxWI
-
-### POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨💔 #tiktok #directo
+### 😡 THIS DAMN GAME STRESSES ME OUT INSTEAD OF BEING FUN 😂 | Funny Moments with Mr Stiven #freefire #ff
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨💔 #tiktok #directo
-- **Texto en pantalla:** POR QUÉ ODIA TIKTOK: TE ROBA EL 50% - MEJOR DEL DIRECTO DE MR STIVEN 😨
+- **Título sugerido:** 😡 THIS DAMN GAME STRESSES ME OUT INSTEAD OF BEING FUN 😂 | Funny Moments with Mr Stiven #freefire #ff
+- **Texto en pantalla:** 😡 THIS DAMN GAME STRESSES ME OUT INSTEAD OF BEING FUN 😂 | Funny Moment
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=xxOkiH0wfLo
+- **Fuente original:** https://www.youtube.com/watch?v=W1KldFQKw0o
 
 ### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -128,25 +109,45 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=iRvj0FutVqQ
 
-### ¿QUÉ TRAJO CJ? 😱 | MrStivenTC – Mejores momentos
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### KATY CARDONA AND WESTCOL GET READY FOR A PARTY IN GUATAPÉ 🔥
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** ¿QUÉ TRAJO CJ? 😱 | MrStivenTC – Mejores momentos
-- **Texto en pantalla:** ¿QUÉ TRAJO CJ? 😱 | MrStivenTC – Mejores momentos
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** KATY CARDONA AND WESTCOL GET READY FOR A PARTY IN GUATAPÉ 🔥
+- **Texto en pantalla:** KATY CARDONA AND WESTCOL GET READY FOR A PARTY IN GUATAPÉ 🔥
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=UIutIunw90A
+- **Fuente original:** https://www.youtube.com/watch?v=2JJCIBDJx_g
 
-### LA GANGA WESCOL SAMULX
-- **Gancho A:** ¿Ya habías visto este momento de Samulx? 👀
+### ​"ESTO VA A ROMPER" 🤯 Westcol reacciona a "TREMENDO DESASTRE" (Myke Towers & Rauw Alejandro)
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Samulx.
-- **Título sugerido:** LA GANGA WESCOL SAMULX
-- **Texto en pantalla:** LA GANGA WESCOL SAMULX
-- **Descripción:** Fragmento relacionado con Samulx. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ​"ESTO VA A ROMPER" 🤯 Westcol reacciona a "TREMENDO DESASTRE" (Myke Towers & Rauw Alejandro)
+- **Texto en pantalla:** ​"ESTO VA A ROMPER" 🤯 Westcol reacciona a "TREMENDO DESASTRE" (Myke To
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=vq2EP3rV9w8
+- **Fuente original:** https://www.youtube.com/watch?v=WUpMNjvEOQ8
+
+### DAVO REVEALS WHAT HE'LL DO IN COLOMBIA 🇨🇴😱 HE TELLS ALL!
+- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Andrea Clips? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: Andrea Clips.
+- **Título sugerido:** DAVO REVEALS WHAT HE'LL DO IN COLOMBIA 🇨🇴😱 HE TELLS ALL!
+- **Texto en pantalla:** DAVO REVEALS WHAT HE'LL DO IN COLOMBIA 🇨🇴😱 HE TELLS ALL!
+- **Descripción:** Fragmento relacionado con Cuenta de clips: Andrea Clips. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=SiOt0EcNf5E
+
+### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Texto en pantalla:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=4gSrkxvrYcU
 
 ### Claude Code saca mis clips de GTA 6 solo (y te regalo el kit)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Viegas Estudio? 👀
@@ -167,7 +168,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Dunia Santos protagoniza polémica con 'La Liendra' tras estrellarle ramo de flores - Televicentro** — 20/11/2026 06:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxOclRfWVlJZ0Z0amxNMEUybThQM0ZVMzNtbnhwTHdKek1WSnpncXZQaDRXUE9aTUZfakJOVlpnc21jTDFaenZuU1FWbjFXdzNkOUV5TjhGVnZ5SV9GMEFZOVdYTDY1aHZqZTdyeW5kc2JYZzJzRFIwWXRHUGh4Szd6WmlhdDRCU1F6XzJ6dERDRUZvQlI1Rjl1bllaTQ?oc=5)
 - **[Creadores] Reykon habría enviado indirecta a su expareja Luisa Castro tras polémica por su relación con Westcol - El Frente** — 20/11/2026 04:28 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEdqRWhrY2tuX3NrS0lhOWd4eTFKUFFlcUJmX3ZZYUFuSDNmSjNzVWRoZ2xGYkF1RUQwa1p4TGRWSnNvWFYwWERIV2FJaFItTEUzN1hpUGFBRHVfejBRY3BnU2lmMUJqWENKazFXUWpuZExZekg1YklwMDllaWlFcGpLaU5IQm92U1NOUUV1U28wUm1TN2p6bFFnb2tuc2l0NzBCTGxDRWFJdlJzdWVUOTh0QzVDWC11Yk9yZDRDeE4yOE0?oc=5)
 - **[Creadores] Melissa Gate se va nuevamente contra Yina Calderón: ella le respondió - Revista Aló** — 20/11/2026 01:54 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1IxcC1zNVREalgxMnJqaDF1dUlDZ3hfLWRhRDJxUjA3N0ItanhTSjh6b3ZWdWVnal9CZzhxUWdfMnJjeHcwR0NnTHF3SUI4eVdGZ0RESkdsQ04zaFY3c0N4d29DSDJyVkhHazhzRWNYWWVYaE9aX3hqS2dMdllCdkhfYnVzY2hmOXJLemdZWEthSzgwdTRDVmY4bHVLMXp0VVF2RUkyWXJrQTBoSFZtWWEybk95RVlv0gG-AUFVX3lxTE9yXzQ5MG9NN1IwLXdPeTNUMExmcUlpdXVyd2dZZjdXWnRleHdHRkNocGZKdHhkel9DLUd5eXhTcEFaV2l3NjZzUGJHTkdpYS1JUTMxNUI5RlBucDBKUlY3ZlVfamZlUTdnY196NXZGSlhWaGJJVnU1SVBXR0M4MkxCM1BGeGJ3NC1oTnpnSTJrMXU2dUgwNjV1T3d5Y1dXb0ZIVnJBeVNBNkY4NXBfSUpvV0tkQ1BUYm51elpCemc?oc=5)
-- **[Creadores] La creadora de contenido contó que quería revelar la noticia entre el cuarto y el quinto mes, pero su hermana mayor, Yina Calderón, la hizo pública cuando llevaba apenas unas semanas de gestación - Facebook** — 19/11/2026 10:40 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbENVc3EwczAyeWFsNEY3OGh3bEdTZ1RUVTBWTl9NeGs2azZPaFNCMm96eFdDU2pIZ1gxSnI0MUJsV21VTk10MFlYMGl5Wm9mUk9xTHFsUzBxbGY1bVZkVmItb3BwQ2ZiQ0JJZWFyOUVGR2llNlVtamczLUNuZnp2TTU5NTVfSlNlYWEyN3U2aUp2emZ0WDUzOVpwM0RFdzRBUzZRSVNRTzluRVVVNjE1R1Y3MF9SNlM5MjRTWmh0TEVNMWtZcEhmOC16RklzOVkyTXZhX19veTdDTUFWYmxIQWx3cWhwblUzbndwTA?oc=5)
 
 ## Creadores principales vigilados
 
