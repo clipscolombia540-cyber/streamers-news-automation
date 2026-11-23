@@ -1,11 +1,11 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 22/11/2026 06:27 PM (hora de Colombia)
+Actualizado: 23/11/2026 01:48 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 7.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente por verificar: 1.
+Clips incluidos: 8.
+Noticias recientes: 5.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
@@ -15,73 +15,62 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Categoria: Clip de terceros
 - Creador/canal detectado: MrStivenTC
 - Canal que publico: INMORTAL FF
-- Publicado: 22/11/2026 12:00 AM
+- Publicado: 21/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.719
+- Vistas reportadas por YouTube: 11.115
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=W1KldFQKw0o
 
-### WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Monasterios
-- Publicado: 20/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=-giaCZzH53U
-
-### ¡SE DIJERON DE TODO! WILITO Y CHANTY SE TIRAN BOMBAS EN VIVO SIN FILTRO 😱💣
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: KickColombiaCOL
-- Publicado: 22/11/2026 05:47 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=ANSEnuxQlvk
-
-### la policia le daña la fiesta a westcol naaa
+### LO MEJOR DE LAS 72 HORAS CON LA GANGA 🔥 WESTCOL, CHANTY, LEANDRO (todo el evento en 16 min)
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: Canal no identificado
-- Publicado: 22/11/2026 02:00 AM
+- Publicado: 22/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=tyD6v6UZdBE
+- Enlace directo: https://www.youtube.com/watch?v=296rq-md0vk
 
-### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Thereydelacity_clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Thereydelacity_clips
-- Publicado: 21/11/2026 07:00 PM
+### WE’RE HITTING THE ROAD IN COLOMBIA! LONCHE AND WILITO 🇨🇴
+- Categoria: Clip de terceros
+- Creador/canal detectado: Lonche de Huevito
+- Canal que publico: Canal no identificado
+- Publicado: 22/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 12.341
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=LH9A3ErdLrQ
+
+### THE BEST DANCE BY THE CREW 🤣 | WESTCOL
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: WestClips
+- Creador relacionado en el título: Westcol
+- Canal que publico: WestClips
+- Publicado: 22/11/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 24.825
 - Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=iRvj0FutVqQ
-
-### CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La Ganga Clips
-- Creador relacionado en el título: Chanty
-- Canal que publico: La Ganga Clips
-- Publicado: 20/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=pFVS8ZLnvdg
+- Enlace directo: https://www.youtube.com/watch?v=TelFdFRotGc
 
 ### Rey de la City juega Gta 6
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Rudy clips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Rudy clips
-- Publicado: 22/11/2026 10:00 AM
+- Publicado: 22/11/2026 11:00 AM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=i3q5H6hyg1k
+
+### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: TheReyClips
+- Creador relacionado en el título: Rey de la City
+- Canal que publico: TheReyClips
+- Publicado: 21/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 23
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=4gSrkxvrYcU
 
 ### DAVO REVEALS WHAT HE'LL DO IN COLOMBIA 🇨🇴😱 HE TELLS ALL!
 - Categoria: Cuenta de clips
@@ -89,18 +78,18 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 4, Emergente
 - Canal que publico: Andrea Clips
 - Publicado: 21/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 49
+- Vistas reportadas por YouTube: 60
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=SiOt0EcNf5E
 
-### Claude Code saca mis clips de GTA 6 solo (y te regalo el kit)
+### GTA 6: Claude Code hace tus clips virales solo (te regalo el kit)
 - Categoria: Emergente por verificar
 - Creador/canal detectado: Emergente: Viegas Estudio
 - Canal que publico: Viegas Estudio
-- Publicado: 21/11/2026 08:00 PM
+- Publicado: 21/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.618
-- Puntaje heurístico de interés: 4
+- Vistas reportadas por YouTube: 3.261
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=K5ZlZcIMu-0
 
 ## Borradores de copy para clips (revisar antes de publicar)
@@ -117,55 +106,35 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=W1KldFQKw0o
 
-### WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- **Texto en pantalla:** WESTCOL JUGANDO GTA 6 EN DIRECTO (MEJORES MOMENTOS😂)
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=-giaCZzH53U
-
-### ¡SE DIJERON DE TODO! WILITO Y CHANTY SE TIRAN BOMBAS EN VIVO SIN FILTRO 😱💣
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** ¡SE DIJERON DE TODO! WILITO Y CHANTY SE TIRAN BOMBAS EN VIVO SIN FILTRO 😱💣
-- **Texto en pantalla:** ¡SE DIJERON DE TODO! WILITO Y CHANTY SE TIRAN BOMBAS EN VIVO SIN FILTR
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=ANSEnuxQlvk
-
-### la policia le daña la fiesta a westcol naaa
+### LO MEJOR DE LAS 72 HORAS CON LA GANGA 🔥 WESTCOL, CHANTY, LEANDRO (todo el evento en 16 min)
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** la policia le daña la fiesta a westcol naaa
-- **Texto en pantalla:** la policia le daña la fiesta a westcol naaa
+- **Título sugerido:** LO MEJOR DE LAS 72 HORAS CON LA GANGA 🔥 WESTCOL, CHANTY, LEANDRO (todo el evento en 16 min)
+- **Texto en pantalla:** LO MEJOR DE LAS 72 HORAS CON LA GANGA 🔥 WESTCOL, CHANTY, LEANDRO (todo
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=tyD6v6UZdBE
+- **Fuente original:** https://www.youtube.com/watch?v=296rq-md0vk
 
-### ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### WE’RE HITTING THE ROAD IN COLOMBIA! LONCHE AND WILITO 🇨🇴
+- **Gancho A:** ¿Ya habías visto este momento de Lonche de Huevito? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA GANGA Y ALGUNAS CHICAS…SALE MAL
-- **Texto en pantalla:** ASHLYE SIGUE ENOJADA CON REYDELACITY POR EL 24 HORAS QUE HIZO CON LA G
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Lonche de Huevito.
+- **Título sugerido:** WE’RE HITTING THE ROAD IN COLOMBIA! LONCHE AND WILITO 🇨🇴
+- **Texto en pantalla:** WE’RE HITTING THE ROAD IN COLOMBIA! LONCHE AND WILITO 🇨🇴
+- **Descripción:** Fragmento relacionado con Lonche de Huevito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=iRvj0FutVqQ
+- **Fuente original:** https://www.youtube.com/watch?v=LH9A3ErdLrQ
 
-### CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### THE BEST DANCE BY THE CREW 🤣 | WESTCOL
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
-- **Texto en pantalla:** CHANTY desata el CAOS en GTA 6 😂 | Mejores momentos
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** THE BEST DANCE BY THE CREW 🤣 | WESTCOL
+- **Texto en pantalla:** THE BEST DANCE BY THE CREW 🤣 | WESTCOL
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=pFVS8ZLnvdg
+- **Fuente original:** https://www.youtube.com/watch?v=TelFdFRotGc
 
 ### Rey de la City juega Gta 6
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -177,6 +146,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=i3q5H6hyg1k
 
+### REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Texto en pantalla:** REYDELACITY SE INFILTRA EN EL 72 HORAS DE LA GANGA
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=4gSrkxvrYcU
+
 ### DAVO REVEALS WHAT HE'LL DO IN COLOMBIA 🇨🇴😱 HE TELLS ALL!
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: Andrea Clips? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -187,12 +166,12 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=SiOt0EcNf5E
 
-### Claude Code saca mis clips de GTA 6 solo (y te regalo el kit)
+### GTA 6: Claude Code hace tus clips virales solo (te regalo el kit)
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: Viegas Estudio? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Emergente: Viegas Estudio.
-- **Título sugerido:** Claude Code saca mis clips de GTA 6 solo (y te regalo el kit)
-- **Texto en pantalla:** Claude Code saca mis clips de GTA 6 solo (y te regalo el kit)
+- **Título sugerido:** GTA 6: Claude Code hace tus clips virales solo (te regalo el kit)
+- **Texto en pantalla:** GTA 6: Claude Code hace tus clips virales solo (te regalo el kit)
 - **Descripción:** Fragmento relacionado con Emergente: Viegas Estudio. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=K5ZlZcIMu-0
@@ -201,11 +180,9 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 
 - **[Creadores] Luisa Castro, novia de Westcol: “No soy lesbiana, no pude a pesar de quedar traumada con los hombres” - AS Colombia** — 22/11/2026 05:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeDZ2cU1aLTVSZ0wwWDdmY0luTkVpTHh3WHdhNThRc0U5ZC1IZHhXa3FKVWM3dl9idGZDTlJJczNVNDVuNHBwUWVKOERPTWJoS3BCOFlKc3UxNmNOQ3duRWhzSHZSVmFXZVNXQWpMV3pWVXFCUzZySmxMZGMzd2hRQ1lxdDUyYjNZVzV6R1VXSXliN0toVHZXd2duY0UzeEZKQ3pMRmhZdWxqRVgxWno2SXZFMnBKWUpJc3dubDVGdUJwQncwMGhtZFdvakJFUUthRm11NDdSZDLSAewBQVVfeXFMT0hPWXU0UWxmcWVZQWdUbDREa0NZYzJWdzZqa3NrZXJUUTR3N08yVWdnWHF5TlQzU2lXNUdjV2JnSWl1MUJaZDQ1NThURm85ZmlQdTFHQkxMZmlBdzNXU3VPWUpVN1JNZ1NXZ0RLSkF3TDhEOGlCcWR2YlNldi00cGtFemxYWEtvdVctUWRZZW8tSmhqTVhUUVBpRFN0cGc3dzJiLU00ZXVKbDRCUlZtclBIWXdUakZ5WnZySmQ2R01VWDhCalJrRmRiRHJGdXZNSnl0MGh6NWFoT3JQVWJDSTcxTVJmbjV2cTZCMHY?oc=5)
 - **[Creadores] VIDEO: Yina Calderón fue vista besando a misterioso hombre y muchos hablan de nuevo romance - LOS40** — 22/11/2026 04:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVpBQU9qY3VYczVINV9qU3RjV3h0Nm5rRkJteGtFejNxNGxUNmdjSW1LaDVxbEw1VFpuaGNXeVpYQ3h3VTlUcUlZTlJmYmM1ZGE2QjVNU0lvTlhXdEZBSUFNV3dHZWh4NzFsRGVzbEVLdlE1cXh6OVlSRUM5ZUhFMmlxT0p1a19ZU2xZemctZ2pNUjNsQWRiLVYzR2RvUGZyLUNpZ0FhVXpNS0NNSTRTbjVMaFY5RDBGZlZXVVZzYlTSAdQBQVVfeXFMT1NLUXJwXzdDTE5vemt1Q2dXVVowb3BKV3JJU1FMZ0ZJNHNrLWN6Qjh2MmljZ1lwUzdQYzU3blppT2ZjY3JQR0E2cU9hUTV3MDY3bWs0QTF4SWZwUFhKTDkwN1lqSnR4aE15SUthT2ZvNnJad0VzT3k3N1IyZE53WGFBbnlXd2hMcV9TWGlZcTktdFBhaGdxQk1GVm51a1FVQl9ET19CZDRxSGdGbFVLTFZmV2JqVlZkdVI3ZVJwelNNaXhXZVlKMk9MUVBqRG54MTRoMHI?oc=5)
-- **[Creadores] Uno de los connacionales que descubrió este rasgo particular y lo compartió en redes sociales fue ‘Westcol’ - Facebook** — 21/11/2026 05:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSUladmNoUncwdFlLQXB6MFdsREZCWXpJaEhtMHl3NFNJSUpGbWk5b2FiSWtZY1ZGanhiZnc3RTc3NENxT2hnT2s0cXdZT2FKYUVrbDVzMVJTOVVmUHVLMTh6N3J4a05ZUXRTU21JMlRRdjRQbTczWWhQQV9wV0lyMjVobl9YNEx0NWdzbnFHbU1Hd3ByLUFYQWRTMUFvcXR4YzhEcGNnMGVYOENyLWY1UlB1UWJmRGREdWtXbFYxVUdrLWVDbFNtZXlpNmd5QjN5RnhCdldiSWZ3MHNZMWVOdmJydVg4RjhHQ2I4UQ?oc=5)
-- **[Creadores] ¿En busca de la niña? Luisa Fernanda W y Pipe Bueno hicieron inesperada confesión durante su luna de miel - El Colombiano** — 21/11/2026 04:42 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMitAFBVV95cUxObmFRVlZEeHg5SEVqMW9vT2dXMXhjQ0pIWjNTVDVkSkhTN2xsUVJtdHdfcGVUNlZ5NkVGc3BVSUZNVFpaQ0pfS21HT2NmcHlRbnBPbnNzY2JxREkyWXRtaUozSmtmQlBSQ3piaGYyX1Y3dkZLUENpQnAxNWltcVYyVVh4N3owaU52b2pKOEprZnZXSV80YUFRM3NXc0k3VW5ZTXo0SWFBTnBudUhyVng0dVB3d2M?oc=5)
+- **[Creadores] Westcol habló de la limitación a su cuenta de Instagram - Infobae** — 22/11/2026 01:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFFoNEF4eGFrTkxNRmpOSzhpcktGNXhWYkZWZ3hnUVAzdTI3X0FBejZ2ekRQNXNrR2FzVEVrcWxPSmxYTUJYb0E2b3hXRERxWFR5cURfX19XVXNxZ1J2VnNzNFVvVS1INVREd0RuRzh0Y2wxSzN1dHVDRGJWc3lzQ1BnR3FublRSLTkxcjhockpuQVhyX1VqbXJEX0wzTkZFWFc3eWJhSjI1ZGlwUGVVRw?oc=5)
+- **[Creadores] ¿Van por la niña? Luisa Fernanda W y Pipe Bueno hicieron inesperada confesión en su luna de miel - La Opinión Cúcuta** — 22/11/2026 10:09 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnMtT1RkVVRzbzRMcTd2S0lBX3pCOENhQlpGa3RCZW9PRzVoSno4VTlndUdralRPZEN2c0FQQmZKRnlfajFFd3RHQ2pSZVV3OWkzd1diMHZDaU5rTldjcy01Vk4tVUVWT3E2Z3FsYkpRb1F1WVRac0ZjOEVWaUN4dGJFWlE3UGdMZkJadXFnOFJibkhlRmZVQ0QtbmJMQVlkNVI2dzVrRU9FY2RsX1hTTS1YWTFpTHBETWc?oc=5)
 - **[Creadores] Ornella Sierra lloró al asegurar que Dios le habló en medio de sus miedos: “Este es el camino hacia tu milagro” - Infobae** — 21/11/2026 01:38 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdTYwY2p2ZDBNa3N5Q1hsY18tNktqMWlIT2xSblpPaS00VUw2T0lHVDRGeHZCcFdveWppc0pSS1ZuWUlJS1c5c0FOTTJQWHgyQVhTV0RObl9wTW50NzNOaFljcUFHdFBPR2lyc0RPR2lfUE9vbVlYamxSOElPSzA5bVpWbEFIaU1Sc2I5YllBZlR1dzJpYmNyQl96QWRkV0N5NEhNUmlXQ2xHWFZ2WTBaTXhiZmRlR2N6S24yNF8tUFBRTkRITURzdWVOSGpFMldGMURRd2FDYXJLM2NVMEM1TkFldUNHWnFE0gGDAkFVX3lxTE91Nzlrd1haU0NremtVNVlCSlFtVVBOUHVTRlFzSDhDMUN1VjRSalJpdmY3YVd1Yy05NndvN08zaUhBSXo5VWZ0R0ZzNVp0V2pPQ0Y5MnFsMmJicGtjZ1RMVUxxQ3BueG5aVWdCWW94Wm5RQlNaQmdXRnNYRU5EaFFnQkhxLVIxVmdKalk5c3BVRWR0V01COVE0aTJacVhCS3RCRnZaZEdMQ1RISWlfejhzc0Y3ZWNzT2piRXd2d3JaVU9PdENNMm16ajFOaGowRTNvRG9NQmxHbG9KZjdTNmkzd3U1b1M5MjM1WGxwSTVoVU9lWkRWakdUYXR2OWlMTURuUU0?oc=5)
-- **[Creadores] Yeferson Cossio de visita por el Huila - La Nación.com.co** — 20/11/2026 10:48 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMidkFVX3lxTE44enRvSllkV3RWY1E4QjBaY3VSRUhVc1BXUENIMVFIVWhVRHA3WWVGcW1IaTRRaDhBbE55VGZtbm5jRjdENTg4NXhJV3dYbzZuSVcxRXVNWW55Y1ZzZUlhaHcxUFJJTUdDVEJYVlRhMjFUeS1zNFE?oc=5)
-- **[Creadores] Dunia Santos protagoniza polémica con 'La Liendra' tras estrellarle ramo de flores - Televicentro** — 20/11/2026 06:49 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxOclRfWVlJZ0Z0amxNMEUybThQM0ZVMzNtbnhwTHdKek1WSnpncXZQaDRXUE9aTUZfakJOVlpnc21jTDFaenZuU1FWbjFXdzNkOUV5TjhGVnZ5SV9GMEFZOVdYTDY1aHZqZTdyeW5kc2JYZzJzRFIwWXRHUGh4Szd6WmlhdDRCU1F6XzJ6dERDRUZvQlI1Rjl1bllaTQ?oc=5)
 
 ## Creadores principales vigilados
 
