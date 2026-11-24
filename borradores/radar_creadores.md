@@ -1,76 +1,81 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 23/11/2026 11:42 PM (hora de Colombia)
+Actualizado: 24/11/2026 12:18 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
 Clips incluidos: 9.
-Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente por verificar: 2.
+Noticias recientes: 5.
+Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### 72 horas de directo: los mejores momentos de Westcol
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: LaW SHORTS
-- Publicado: 23/11/2026 02:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 9
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=2f4BaRvWSwI
-
-### TENGO 5000 USD PARA UNA CUENTA YA MISMO | MR STIVEN
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Canal no identificado
-- Publicado: 23/11/2026 06:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=2NO6x7kajJU
-
 ### MR STIVEN AND MARIA JULISSA'S REVEAL
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: Canal no identificado
-- Publicado: 22/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=qXWFqbmbw8Q
-
-### THE BEST DANCE BY THE CREW 🤣 | WESTCOL
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: WestClips
-- Creador relacionado en el título: Westcol
-- Canal que publico: WestClips
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 22/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 61.780
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=TelFdFRotGc
+- Vistas reportadas por YouTube: 8.003
+- Puntaje heurístico de interés: 4
+- Enlace directo: https://www.youtube.com/watch?v=qXWFqbmbw8Q
 
 ### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: El Chanty Clips
 - Creador relacionado en el título: Chanty
 - Canal que publico: El Chanty Clips
-- Publicado: 23/11/2026 01:00 PM
+- Publicado: 23/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
 - Vistas reportadas por YouTube: 0
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=Zf9RUckKjaQ
+
+### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MrStiven Clips
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MrStiven Clips
+- Publicado: 23/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 0
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=3PYad3WDioo
 
 ### REYDELACITY FAMILY NIGHT... MY MOTHER SURPRISES ME ON MY STREAM... IT GOES WRONG
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: Thereydelacity_clips
 - Creador relacionado en el título: Rey de la City
 - Canal que publico: Thereydelacity_clips
-- Publicado: 22/11/2026 07:00 PM
+- Publicado: 23/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.818
+- Vistas reportadas por YouTube: 1.838
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=XrrpXQjP6So
+
+### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
+- Creador relacionado en el título: Chanty
+- Canal que publico: MILICA CLIPS
+- Publicado: 24/11/2026 02:00 AM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 4
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=gx7l7qnXTp8
+
+### ASÍ ES la MANSIÓN de OVY ON THE DRUMS en COLOMBIA | WILLITO x LONCHE x WESTCOL x KATY CARDONA
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: Clips de Willito
+- Creador relacionado en el título: Westcol
+- Canal que publico: Clips de Willito
+- Publicado: 23/11/2026 07:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 490
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=7cKJQleku0c
 
 ### Rey de la City juega Gta 6
 - Categoria: Cuenta de clips
@@ -83,49 +88,27 @@ Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 4, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=i3q5H6hyg1k
 
-### FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 23/11/2026 02:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.132
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=agvTdwV2B1c
-
 ### Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
 - Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 23/11/2026 09:00 PM
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
+- Publicado: 23/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 383
 - Puntaje heurístico de interés: 2
 - Enlace directo: https://www.youtube.com/watch?v=dLi9WO0HaT4
+
+### FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
+- Categoria: Emergente por verificar
+- Creador/canal detectado: Emergente: Canal no identificado
+- Canal que publico: Canal no identificado
+- Publicado: 23/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=agvTdwV2B1c
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### 72 horas de directo: los mejores momentos de Westcol
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** 72 horas de directo: los mejores momentos de Westcol
-- **Texto en pantalla:** 72 horas de directo: los mejores momentos de Westcol
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2f4BaRvWSwI
-
-### TENGO 5000 USD PARA UNA CUENTA YA MISMO | MR STIVEN
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** TENGO 5000 USD PARA UNA CUENTA YA MISMO | MR STIVEN
-- **Texto en pantalla:** TENGO 5000 USD PARA UNA CUENTA YA MISMO | MR STIVEN
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=2NO6x7kajJU
 
 ### MR STIVEN AND MARIA JULISSA'S REVEAL
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -137,16 +120,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=qXWFqbmbw8Q
 
-### THE BEST DANCE BY THE CREW 🤣 | WESTCOL
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** THE BEST DANCE BY THE CREW 🤣 | WESTCOL
-- **Texto en pantalla:** THE BEST DANCE BY THE CREW 🤣 | WESTCOL
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=TelFdFRotGc
-
 ### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -156,6 +129,16 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Zf9RUckKjaQ
+
+### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
+- **Texto en pantalla:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=3PYad3WDioo
 
 ### REYDELACITY FAMILY NIGHT... MY MOTHER SURPRISES ME ON MY STREAM... IT GOES WRONG
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -167,6 +150,26 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=XrrpXQjP6So
 
+### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
+- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Chanty.
+- **Título sugerido:** CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
+- **Texto en pantalla:** CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
+- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=gx7l7qnXTp8
+
+### ASÍ ES la MANSIÓN de OVY ON THE DRUMS en COLOMBIA | WILLITO x LONCHE x WESTCOL x KATY CARDONA
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** ASÍ ES la MANSIÓN de OVY ON THE DRUMS en COLOMBIA | WILLITO x LONCHE x WESTCOL x KATY CARDONA
+- **Texto en pantalla:** ASÍ ES la MANSIÓN de OVY ON THE DRUMS en COLOMBIA | WILLITO x LONCHE x
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=7cKJQleku0c
+
 ### Rey de la City juega Gta 6
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -177,25 +180,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=i3q5H6hyg1k
 
-### FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- **Texto en pantalla:** FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=agvTdwV2B1c
-
 ### Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
 - **Título sugerido:** Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
 - **Texto en pantalla:** Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
 - **Fuente original:** https://www.youtube.com/watch?v=dLi9WO0HaT4
+
+### FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
+- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
+- **Título sugerido:** FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
+- **Texto en pantalla:** FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
+- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
+- **Fuente original:** https://www.youtube.com/watch?v=agvTdwV2B1c
 
 ## Noticias y contexto
 
@@ -204,7 +207,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **[Creadores] Westcol es tendencia por su comportamiento en su más reciente stream: esto muestran los clips - Minuto30** — 23/11/2026 03:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHlQSWl2Y25OTl9pSFM1dXg1ejJzWFB2Wm5CZ09xT0puOWtnTVNGRFNyNEJrSWxfNzlvMVZfek1tSVRDeUZuRnljVWY0MnFQNEU3VDdQR1J3cFNrcGtqdzJYdEMzMW5SSTRUbDhKQnI4MDFaYW1ERDQxcHdvdUw5c3dRNkJCcUkwTmtxNnI3NDVjT2F3VTlTam1hZmQ1b3JnekJ4R3pza3FQV3RDV3JWS3lJcWM5aWNndU1US29Vam9PMXFM?oc=5)
 - **[Creadores] Él es Camilo Vega, el hombre que protagonizó apasionado beso con Yina Calderón en Knockout - Colombia.com** — 23/11/2026 10:17 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGN0NzVnMUI0SzVzekN1d1lSbUcwTjI2RGdGd1o4bEd4eTJhclBQYjYtWTRCWTBXM3RMVWVxTDZqMzlkdlljN3c5YlNSalMyaG1BUi1KNlhmMmNITWdydUJNUW5wU19nZy1fUjhNSlV6VGdoc2JBQV9pdW4zZUhxNGR0dmpMMlNKeTNVbWRuVjdJMFhNX3ZMSEVEQk5jRVBWalJHQ3dVWUlUYlZBeV9lSEdyb19fbXJfb3BrcnZrdFVrdm5W?oc=5)
 - **[Creadores] VIDEO: Yina Calderón fue vista besando a misterioso hombre y muchos hablan de nuevo romance - LOS40** — 22/11/2026 04:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVpBQU9qY3VYczVINV9qU3RjV3h0Nm5rRkJteGtFejNxNGxUNmdjSW1LaDVxbEw1VFpuaGNXeVpYQ3h3VTlUcUlZTlJmYmM1ZGE2QjVNU0lvTlhXdEZBSUFNV3dHZWh4NzFsRGVzbEVLdlE1cXh6OVlSRUM5ZUhFMmlxT0p1a19ZU2xZemctZ2pNUjNsQWRiLVYzR2RvUGZyLUNpZ0FhVXpNS0NNSTRTbjVMaFY5RDBGZlZXVVZzYlTSAdQBQVVfeXFMT1NLUXJwXzdDTE5vemt1Q2dXVVowb3BKV3JJU1FMZ0ZJNHNrLWN6Qjh2MmljZ1lwUzdQYzU3blppT2ZjY3JQR0E2cU9hUTV3MDY3bWs0QTF4SWZwUFhKTDkwN1lqSnR4aE15SUthT2ZvNnJad0VzT3k3N1IyZE53WGFBbnlXd2hMcV9TWGlZcTktdFBhaGdxQk1GVm51a1FVQl9ET19CZDRxSGdGbFVLTFZmV2JqVlZkdVI3ZVJwelNNaXhXZVlKMk9MUVBqRG54MTRoMHI?oc=5)
-- **[Creadores] ¿Van por la niña? Luisa Fernanda W y Pipe Bueno hicieron inesperada confesión en su luna de miel - La Opinión Cúcuta** — 22/11/2026 10:09 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnMtT1RkVVRzbzRMcTd2S0lBX3pCOENhQlpGa3RCZW9PRzVoSno4VTlndUdralRPZEN2c0FQQmZKRnlfajFFd3RHQ2pSZVV3OWkzd1diMHZDaU5rTldjcy01Vk4tVUVWT3E2Z3FsYkpRb1F1WVRac0ZjOEVWaUN4dGJFWlE3UGdMZkJadXFnOFJibkhlRmZVQ0QtbmJMQVlkNVI2dzVrRU9FY2RsX1hTTS1YWTFpTHBETWc?oc=5)
 
 ## Creadores principales vigilados
 
