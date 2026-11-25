@@ -1,26 +1,34 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 24/11/2026 12:18 PM (hora de Colombia)
+Actualizado: 24/11/2026 09:05 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
+Clips incluidos: 7.
 Noticias recientes: 5.
-Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4, Influencer de respaldo: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### MR STIVEN AND MARIA JULISSA'S REVEAL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 22/11/2026 07:00 PM
+### NOBODY REMEMBERS WHAT HAPPENED LAST NIGHT | WESTCOL and LA GANGA
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: APShow
+- Publicado: 24/11/2026 05:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.003
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=qXWFqbmbw8Q
+- Vistas reportadas por YouTube: 585
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=CuwwllKrCX0
+
+### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
+- Categoria: Clip de terceros
+- Creador/canal detectado: Rey de la City
+- Canal que publico: Canal no identificado
+- Publicado: 24/11/2026 03:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=YNXCeM_6Orw
 
 ### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
 - Categoria: Cuenta de clips
@@ -33,27 +41,16 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=Zf9RUckKjaQ
 
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
+### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MrStiven Clips
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MrStiven Clips
-- Publicado: 23/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=3PYad3WDioo
-
-### REYDELACITY FAMILY NIGHT... MY MOTHER SURPRISES ME ON MY STREAM... IT GOES WRONG
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Thereydelacity_clips
+- Creador/canal detectado: Cuenta de clips: Reydelacityclips
 - Creador relacionado en el título: Rey de la City
-- Canal que publico: Thereydelacity_clips
-- Publicado: 23/11/2026 07:00 PM
+- Canal que publico: Reydelacityclips
+- Publicado: 24/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.838
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=XrrpXQjP6So
+- Vistas reportadas por YouTube: 2
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=p8DEf6Vc4Z4
 
 ### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
 - Categoria: Cuenta de clips
@@ -73,52 +70,43 @@ Distribución por categoría: Cuenta de clips: 7, Emergente por verificar: 2.
 - Canal que publico: Clips de Willito
 - Publicado: 23/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 490
+- Vistas reportadas por YouTube: 541
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=7cKJQleku0c
 
-### Rey de la City juega Gta 6
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Rudy clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Rudy clips
-- Publicado: 22/11/2026 07:00 PM
+### ELPRIMER INFLUENCER de COLOMBIA: Tulio Recomienda | La Mesa de Trabajo 🇨🇴 | Chuncanos Reaccionan
+- Categoria: Influencer de respaldo
+- Creador/canal detectado: Tulio Recomienda
+- Canal que publico: Chuncanos
+- Publicado: 24/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=i3q5H6hyg1k
-
-### Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Canal no identificado
-- Canal que publico: Canal no identificado
-- Publicado: 23/11/2026 08:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=dLi9WO0HaT4
-
-### FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: Canal no identificado
-- Canal que publico: Canal no identificado
-- Publicado: 23/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 2
-- Enlace directo: https://www.youtube.com/watch?v=agvTdwV2B1c
+- Vistas reportadas por YouTube: 1.888
+- Puntaje heurístico de interés: 3
+- Enlace directo: https://www.youtube.com/watch?v=OjHL8lSmswc
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### MR STIVEN AND MARIA JULISSA'S REVEAL
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+### NOBODY REMEMBERS WHAT HAPPENED LAST NIGHT | WESTCOL and LA GANGA
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN AND MARIA JULISSA'S REVEAL
-- **Texto en pantalla:** MR STIVEN AND MARIA JULISSA'S REVEAL
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** NOBODY REMEMBERS WHAT HAPPENED LAST NIGHT | WESTCOL and LA GANGA
+- **Texto en pantalla:** NOBODY REMEMBERS WHAT HAPPENED LAST NIGHT | WESTCOL and LA GANGA
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=qXWFqbmbw8Q
+- **Fuente original:** https://www.youtube.com/watch?v=CuwwllKrCX0
+
+### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
+- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
+- **Título sugerido:** REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
+- **Texto en pantalla:** REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
+- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=YNXCeM_6Orw
 
 ### Chanty - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -130,25 +118,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=Zf9RUckKjaQ
 
-### MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
-- **Texto en pantalla:** MrStivenTC - ¡MEJORES MOMENTOS DE LA SEMANA #47! 😂🔥 #2 [Recopilación]
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=3PYad3WDioo
-
-### REYDELACITY FAMILY NIGHT... MY MOTHER SURPRISES ME ON MY STREAM... IT GOES WRONG
+### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY FAMILY NIGHT... MY MOTHER SURPRISES ME ON MY STREAM... IT GOES WRONG
-- **Texto en pantalla:** REYDELACITY FAMILY NIGHT... MY MOTHER SURPRISES ME ON MY STREAM... IT 
+- **Título sugerido:** GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
+- **Texto en pantalla:** GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO
 - **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=XrrpXQjP6So
+- **Fuente original:** https://www.youtube.com/watch?v=p8DEf6Vc4Z4
 
 ### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
 - **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
@@ -170,43 +148,23 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=7cKJQleku0c
 
-### Rey de la City juega Gta 6
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
+### ELPRIMER INFLUENCER de COLOMBIA: Tulio Recomienda | La Mesa de Trabajo 🇨🇴 | Chuncanos Reaccionan
+- **Gancho A:** ¿Ya habías visto este momento de Tulio Recomienda? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** Rey de la City juega Gta 6
-- **Texto en pantalla:** Rey de la City juega Gta 6
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=i3q5H6hyg1k
-
-### Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
-- **Título sugerido:** Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Texto en pantalla:** Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=dLi9WO0HaT4
-
-### FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: Canal no identificado? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: Canal no identificado.
-- **Título sugerido:** FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- **Texto en pantalla:** FARREANDO EN GUATAPÉ *mejores clips* | ¿Qué pasó Antier? #7
-- **Descripción:** Fragmento relacionado con Emergente: Canal no identificado. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=agvTdwV2B1c
+- **Gancho C:** Un momento para revisar del contenido de Tulio Recomienda.
+- **Título sugerido:** ELPRIMER INFLUENCER de COLOMBIA: Tulio Recomienda | La Mesa de Trabajo 🇨🇴 | Chuncanos Reaccionan
+- **Texto en pantalla:** ELPRIMER INFLUENCER de COLOMBIA: Tulio Recomienda | La Mesa de Trabajo
+- **Descripción:** Fragmento relacionado con Tulio Recomienda. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #InfluencersColombia #CreadoresColombianos #ClipsColombia
+- **Fuente original:** https://www.youtube.com/watch?v=OjHL8lSmswc
 
 ## Noticias y contexto
 
-- **[Creadores] Yeferson Cossio criticó la participación de Cintia en La Mansión VIP: "no estoy nada contento" - LOS40** — 23/11/2026 04:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3ZLUjlrZ3c2Sm9sMllNY1NfdmNDTXlPOVJJWGo0STl0aU1wd1VibmdvLWRNeG9aVWxCVGhxMjlkMXB0ejh6R2xyaUJDMjVzdHVQQUFJY090UzF1MGlKQXRpRkVBMXd2dTItMGsyb2laOENEN085cEJQd1JXMzBNTU9sSXQ3dkY3LV9sV1ZWWTE5d01XZ2ZHbnZqT3c1M3dnOVM4NWZwMVVMV3J2WllnV3R6QlFxV3IySkxDSHF3U0ZaQdIB1gFBVV95cUxPS0xBU0Y1YjJIYXJvUXp6UTRMa2RIMW92OGZEV001SmVvVmlNRU1Ya1FaZHhlSTJta0s1am5nUU9FZlFyYlNFUmhoSHNlbllJMWVub1RSOFlESjVsLVlGcDZzVkxGQ1dVWF9zak5ZOFJreDBSZWlnYzZzWnJpaV9XNURULUpPQ3JNNi1Qa3FQSl9rQ3dNbjNURjM0UXFZUnpMQWFCNDVWUlBVaGRoZWtYSkxDU21zTGU2NXotYWh3OUZoYWdkcmRzcmdvWWxFenJETzE4V1Vn?oc=5)
+- **[Creadores] Yeferson Cossio terminó su relación con Carolina Gómez tras cuatro años juntos, ¿por qué? - Minuto60** — 24/11/2026 07:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzhpS0htUWFIZDJ2NkRiMk5HLV9ERG1SWVdrRWV2VGd4T2c0dFpTbnUxRndNZG9IYWVjajE0QmR5b2hJSklVTGx5bWRfOW1xZVZ2VXNMUHRyYmxVVHhtQmZoRnVLMkJoc0dIWGJDTF9Da2tLNlU1SzB2RnFNTU9JOEdKV0VzbWFCZUtCMEE1ZHRaa0tlSU44X2g3UHBMREdNaWJUV1p2am9nMDJBUUFMSUNocw?oc=5)
+- **[Creadores] Se acabó el compromiso y ya no habrá boda: Yeferson Cossio confirmó que terminó con Carolina Gómez tras cuatro años juntos - NTN24** — 24/11/2026 06:59 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR3RoS2JjUlBvalJteDhWall1VjZvSzQ0cER1bWpBMVIwTGZ0WGxJZm80WXV0ZzNEMVYyMXFYQjNsM2pVTlQxME9BZXg5aEtDaThZX0VnSDl3aWVOYW4xb2V5aVdoaDZjVlV3WkdVQ092dkZxYVdfUmJBZ09oam1yOTF2dlpQcWNfdlUwTzlYYmlpb0d1cXBnaklacy16ekR3Njg4TFQ5aXNidC1kNWYyTUJLTFlKQ1h1U1JKeXFKU0FRbUxpemE0R1ZZV1g4ejFGazBrdUxETVNlSF9mQkVLckZpRWtYYkItamlmVjRYd0XSAfABQVVfeXFMUDJ5T1c1QVVKSHloc3BsWk9ka2NRTTFGWU5sbkF2Nmwwc0E2bWZQNTFGa29td0RaZnMtNUVxTTJRU09fWFd5aXRUc2tXWDdzNDFvUE11ZzdwRGVFSFFKNFhMcnVUellMM1I3MWd2Qm5TYjFkWWgwekVjanZXRWdDbE8wTGtxT0dWb01TUmRnWExqRGdSX1Rmd3BOcXc0LUk4OVpVaFpiUEpEaFpzOHFncmF0Ri1FUzNkZFJpTnpNN0N0LWszRlE4dWVwMUFzM3Y3RGNDWUxkWUVfbGFoQnV0V0FvYXZpMnpnSVJVOElqQ3lI?oc=5)
 - **[Creadores] Westcol genera preocupación por su comportamiento durante una transmisión - Eluniversal.com.co** — 23/11/2026 04:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUQyQWZ1Vkx3cFh3WGFCR2xhYzFxd1lwd2VEVkt5SzdzR2t5Tmo4ZldKMm1NdzNiRzdvTzRYOF9Ma2ZJbGo2NDdSNFVWcVBuNnB1YWExYkJGemlwMUE2Nzg4U25ZMnFaSlVnSnlSUmpwVWtGNEotbUc1WE5nMmgxejU0MTlnNDA1ODE3c0RMNTRmd1lkYndBRG53S2EzYVdxdWttZVRWVzRQQzd5ZmdWTUtCOXN2NlcxR0lJOUtzN2lnOXNH?oc=5)
 - **[Creadores] Westcol es tendencia por su comportamiento en su más reciente stream: esto muestran los clips - Minuto30** — 23/11/2026 03:44 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHlQSWl2Y25OTl9pSFM1dXg1ejJzWFB2Wm5CZ09xT0puOWtnTVNGRFNyNEJrSWxfNzlvMVZfek1tSVRDeUZuRnljVWY0MnFQNEU3VDdQR1J3cFNrcGtqdzJYdEMzMW5SSTRUbDhKQnI4MDFaYW1ERDQxcHdvdUw5c3dRNkJCcUkwTmtxNnI3NDVjT2F3VTlTam1hZmQ1b3JnekJ4R3pza3FQV3RDV3JWS3lJcWM5aWNndU1US29Vam9PMXFM?oc=5)
 - **[Creadores] Él es Camilo Vega, el hombre que protagonizó apasionado beso con Yina Calderón en Knockout - Colombia.com** — 23/11/2026 10:17 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGN0NzVnMUI0SzVzekN1d1lSbUcwTjI2RGdGd1o4bEd4eTJhclBQYjYtWTRCWTBXM3RMVWVxTDZqMzlkdlljN3c5YlNSalMyaG1BUi1KNlhmMmNITWdydUJNUW5wU19nZy1fUjhNSlV6VGdoc2JBQV9pdW4zZUhxNGR0dmpMMlNKeTNVbWRuVjdJMFhNX3ZMSEVEQk5jRVBWalJHQ3dVWUlUYlZBeV9lSEdyb19fbXJfb3BrcnZrdFVrdm5W?oc=5)
-- **[Creadores] VIDEO: Yina Calderón fue vista besando a misterioso hombre y muchos hablan de nuevo romance - LOS40** — 22/11/2026 04:06 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVpBQU9qY3VYczVINV9qU3RjV3h0Nm5rRkJteGtFejNxNGxUNmdjSW1LaDVxbEw1VFpuaGNXeVpYQ3h3VTlUcUlZTlJmYmM1ZGE2QjVNU0lvTlhXdEZBSUFNV3dHZWh4NzFsRGVzbEVLdlE1cXh6OVlSRUM5ZUhFMmlxT0p1a19ZU2xZemctZ2pNUjNsQWRiLVYzR2RvUGZyLUNpZ0FhVXpNS0NNSTRTbjVMaFY5RDBGZlZXVVZzYlTSAdQBQVVfeXFMT1NLUXJwXzdDTE5vemt1Q2dXVVowb3BKV3JJU1FMZ0ZJNHNrLWN6Qjh2MmljZ1lwUzdQYzU3blppT2ZjY3JQR0E2cU9hUTV3MDY3bWs0QTF4SWZwUFhKTDkwN1lqSnR4aE15SUthT2ZvNnJad0VzT3k3N1IyZE53WGFBbnlXd2hMcV9TWGlZcTktdFBhaGdxQk1GVm51a1FVQl9ET19CZDRxSGdGbFVLTFZmV2JqVlZkdVI3ZVJwelNNaXhXZVlKMk9MUVBqRG54MTRoMHI?oc=5)
 
 ## Creadores principales vigilados
 
