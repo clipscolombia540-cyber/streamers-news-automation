@@ -1,6 +1,17 @@
 {
-  "actualizado": "2026-11-26T05:39:08.091982-05:00",
+  "actualizado": "2026-11-26T16:12:49.094145-05:00",
   "series": [
+    {
+      "nombre": "¡GTA 6 incluye insultos colombianos! Reacción a los videos más virales El Gallo",
+      "tipo": "serie_o_tema_candidato",
+      "confirmada": false,
+      "primera_deteccion": "2026-11-26T16:12:49.094145-05:00",
+      "ultima_deteccion": "2026-11-26T16:12:49.094145-05:00",
+      "canal_muestra": "Canal no identificado",
+      "enlaces": [
+        "https://www.youtube.com/watch?v=o__-fOfc8fY"
+      ]
+    },
     {
       "nombre": "WESTCOL JUGANDO GTA 6 EN DIRECTO ( 😂)",
       "tipo": "serie_o_tema_candidato",
