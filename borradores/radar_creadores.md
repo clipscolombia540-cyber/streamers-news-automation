@@ -1,35 +1,25 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 25/11/2026 07:04 PM (hora de Colombia)
+Actualizado: 26/11/2026 05:39 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 9.
-Noticias recientes: 5.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente por verificar: 1.
+Clips incluidos: 7.
+Noticias recientes: 6.
+Distribución por categoría: Clip de terceros: 1, Cuenta de clips: 6.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### WESTCOL CONOCE EL CAPITOLIO NACIONAL
+### SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Aida Victoria Stream
-- Publicado: 25/11/2026 03:00 PM
+- Canal que publico: Monasterios
+- Publicado: 24/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.807
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=nVUSnavG1d8
-
-### 😡IT'S IMPOSSIBLE TO WIN A DAMN MATCH GUYS😂 | Mrstiven Funny Moments🤯 #freefire #mrstiven
-- Categoria: Clip de terceros
-- Creador/canal detectado: MrStivenTC
-- Canal que publico: INMORTAL FF
-- Publicado: 25/11/2026 12:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.103
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=BnZiQS2ikDg
+- Vistas reportadas por YouTube: 44
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=P2jPd6A938w
 
 ### MR STIVEN REACCIONANDO A LA FINCA DE JH
 - Categoria: Cuenta de clips
@@ -38,8 +28,8 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 25/11/2026 10:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.937
-- Puntaje heurístico de interés: 5
+- Vistas reportadas por YouTube: 25.537
+- Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=g4zLC8iTsS4
 
 ### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
@@ -49,7 +39,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: Thereydelacity_clips
 - Publicado: 24/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 6.294
+- Vistas reportadas por YouTube: 7.325
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=YNXCeM_6Orw
 
@@ -59,31 +49,31 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: El Clipero
 - Publicado: 25/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2
+- Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=o5xwAZxhPXk
 
-### WESTCOL SE SENTÓ EN LA SILLA DEL PRESIDENTE DEL SENADO 😱
+### MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH SPECIAL GUEST
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: La W Clips
-- Creador relacionado en el título: Westcol
-- Canal que publico: La W Clips
-- Publicado: 25/11/2026 06:00 PM
+- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
+- Creador relacionado en el título: MrStivenTC
+- Canal que publico: MRSTIVEN TC CLIPSS
+- Publicado: 26/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Y1PdFQsqkcY
+- Vistas reportadas por YouTube: 2.405
+- Puntaje heurístico de interés: 2
+- Enlace directo: https://www.youtube.com/watch?v=x86g2jRlji4
 
-### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
+### Westcol en el Capitolio Nacional: así fue su recorrido por la historia de Colombia
 - Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 24/11/2026 07:00 PM
+- Creador/canal detectado: Cuenta de clips: THEMCLIPS
+- Creador relacionado en el título: Westcol
+- Canal que publico: THEMCLIPS
+- Publicado: 25/11/2026 08:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
+- Vistas reportadas por YouTube: 3
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=gx7l7qnXTp8
+- Enlace directo: https://www.youtube.com/watch?v=fhC5TvowyPw
 
 ### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
 - Categoria: Cuenta de clips
@@ -92,43 +82,23 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 6, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 24/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 95
+- Vistas reportadas por YouTube: 133
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=p8DEf6Vc4Z4
-
-### Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 24/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 2.016
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=dLi9WO0HaT4
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### WESTCOL CONOCE EL CAPITOLIO NACIONAL
+### SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL CONOCE EL CAPITOLIO NACIONAL
-- **Texto en pantalla:** WESTCOL CONOCE EL CAPITOLIO NACIONAL
+- **Título sugerido:** SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
+- **Texto en pantalla:** SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=nVUSnavG1d8
-
-### 😡IT'S IMPOSSIBLE TO WIN A DAMN MATCH GUYS😂 | Mrstiven Funny Moments🤯 #freefire #mrstiven
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** 😡IT'S IMPOSSIBLE TO WIN A DAMN MATCH GUYS😂 | Mrstiven Funny Moments🤯 #freefire #mrstiven
-- **Texto en pantalla:** 😡IT'S IMPOSSIBLE TO WIN A DAMN MATCH GUYS😂 | Mrstiven Funny Moments🤯 #
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=BnZiQS2ikDg
+- **Fuente original:** https://www.youtube.com/watch?v=P2jPd6A938w
 
 ### MR STIVEN REACCIONANDO A LA FINCA DE JH
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -160,25 +130,25 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=o5xwAZxhPXk
 
-### WESTCOL SE SENTÓ EN LA SILLA DEL PRESIDENTE DEL SENADO 😱
+### MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH SPECIAL GUEST
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH SPECIAL GUEST
+- **Texto en pantalla:** MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=x86g2jRlji4
+
+### Westcol en el Capitolio Nacional: así fue su recorrido por la historia de Colombia
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL SE SENTÓ EN LA SILLA DEL PRESIDENTE DEL SENADO 😱
-- **Texto en pantalla:** WESTCOL SE SENTÓ EN LA SILLA DEL PRESIDENTE DEL SENADO 😱
+- **Título sugerido:** Westcol en el Capitolio Nacional: así fue su recorrido por la historia de Colombia
+- **Texto en pantalla:** Westcol en el Capitolio Nacional: así fue su recorrido por la historia
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Y1PdFQsqkcY
-
-### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- **Texto en pantalla:** CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gx7l7qnXTp8
+- **Fuente original:** https://www.youtube.com/watch?v=fhC5TvowyPw
 
 ### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
 - **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
@@ -190,20 +160,11 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=p8DEf6Vc4Z4
 
-### Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Texto en pantalla:** Amanecimos en Guatapé *mejores clips* | ¿Qué pasó Antier? #8
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=dLi9WO0HaT4
-
 ## Noticias y contexto
 
-- **[Creadores] ¿Qué hacía Westcol en el Congreso? Su invitación por los 100 años del Capitolio Nacional | El Colombiano - El Colombiano** — 25/11/2026 05:33 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUIzMVhTNlk0d3RFRWtMaklPc0lKS2EwdWFmNnc5c0dSRlcycVN3ZzIwSHdHekJzREduYzEydFYycWJ4S3NwZFFnX00wZjFkRWx2MFd5MThHdVlZbEJraHIxaF84dmhCdVMyVUFZcDdVa0tYcFNaY2otQS1DYzlMZW9BR1h3RXljNjk5X2pYVTZLelQyOHdfUzkzZ2x4bVZmZ2hrU0dWMFc4VUVRQXI4NC1iei1JOXYxWmJ4eUhsb3lObkXSAcgBQVVfeXFMTkFFRW81cDVZNVl5Ri1kTThhQnpWcUZNNklSdGwxS0szOUZhaEItS1pqMlJlX05QU0ZrQ0g2NDc0dldCMHBVM3puaEdWOGxwY3RoSnQxNUhOdFo5aVE4RFF3c3k0cXpHbEpsa2l6V2dvZmE1ZFIyTkpWcF8zWWhoOHRrTWF4a1Y2TlJTMmttbGhsc3ZSTll1UGdnZVRkWFhTRjNQcU9wbWxYNkhoMW1oSms0ODhtWlBtMmw1Wm1uQVRhQmdSbHJtYmY?oc=5)
-- **[Creadores] Westcol llamó a Uribe desde el Capitolio y el expresidente lo invitó a volver a su finca - Minuto30** — 25/11/2026 05:16 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmRDWG5CR05VUnBZbjFPTlc2dVctcVFnVExJNmduVUF1MXA0ZldrUG9weURQeDJaZ1N3UDhPcUtRRjEtR2VuVXBCRU5yRmlNNkIwTDlLR3VRMjloYWdMdlRVUU5pOGNQUVlaTy1lSE1tei1LY1VaQm5LS1piZ0U1NWVIdE9nWkxULW1reV9OeFJOSVVoeGtVeG5hTHA2dzFTa0lIclVtMWlGSEpGbXJaekhjX3lBSXhXNkl6cjU3QQ?oc=5)
+- **[Creadores] Polémica por la presencia de Westcol en los 100 años del Capitolio Nacional: recorrió el Congreso con el procurador y el presidente del Senado - El Tiempo** — 25/11/2026 10:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiogJBVV95cUxQdWI0U0tVTnFXZjk4SnNrQlhhamcyVVVrU1F1MFhrNmNTTVdRamRPZmpIblk4MDh2ZUdLSndhSi1xVG9wMHNXOGlUNThUd0wyRmFYZkJDaWJHUWxMN2hVZUlKQ1Q1X1FEcTluZUlXeDFKWHB0Tl9GUXdhaWNXcmhLNkpkVWVXVVYyeXdBOWROQWlOekdUU1BJV1lSRUZ5NGJNQlBPYXdnM0lUSmxGczEzenJSWk5xLUdHOVlDRlhUdlRkTXk1eWZjQ01qeTdNc0lZU3NhdmRGa1NJQW10MFl0T3d4V2NVbF9uV2ZON1k0UzZBUWt1b0pBSVR1U3VubVYydmRWYWc2d0dEQldRUW1WdVk2RFpvV3FaWEVzbE50N1BXUdIBogJBVV95cUxQdWI0U0tVTnFXZjk4SnNrQlhhamcyVVVrU1F1MFhrNmNTTVdRamRPZmpIblk4MDh2ZUdLSndhSi1xVG9wMHNXOGlUNThUd0wyRmFYZkJDaWJHUWxMN2hVZUlKQ1Q1X1FEcTluZUlXeDFKWHB0Tl9GUXdhaWNXcmhLNkpkVWVXVVYyeXdBOWROQWlOekdUU1BJV1lSRUZ5NGJNQlBPYXdnM0lUSmxGczEzenJSWk5xLUdHOVlDRlhUdlRkTXk1eWZjQ01qeTdNc0lZU3NhdmRGa1NJQW10MFl0T3d4V2NVbF9uV2ZON1k0UzZBUWt1b0pBSVR1U3VubVYydmRWYWc2d0dEQldRUW1WdVk2RFpvV3FaWEVzbE50N1BXUQ?oc=5)
+- **[Creadores] Críticas por la presencia de Westcol en los 100 años del Capitolio Nacional: recorrió el Congreso con el procurador y el presidente del Senado - El Tiempo** — 25/11/2026 10:58 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMinAJBVV95cUxNZElDZTVJSm9OZTVvNFNUM3BfbkFXZ0I2VV9nUjNMSEM4SS13dTRycmhKeS11T010d0N2NG1KeERYX21pejdaSHlEQm1aVDE4bUN4bHBGZ3lkRTlWbGpXRi04WGEyLWU2QUpjZTkzY3E3WE44WUdjQlhYUGk3SkpqSEI2UGM1bi0xM2J4X1RzTk9Lb0VwR1pRdGpwSXI3ZFljTzVtMmg1WkFSSnJrSTBOVjNUV2RvVmN2Y2hVY3gyVTN0QlItdy1wTWF4TTRBY01JWENqM2F2R2k5Y3NLMlozajktNl9KdW5sR251M3hNZ003TnVwS0gwS0R0eHZkYm13bTRUcWNSN0MyX1pvSTJ1U0Q1NXlaRlVRMjZSVdIBogJBVV95cUxQdWI0U0tVTnFXZjk4SnNrQlhhamcyVVVrU1F1MFhrNmNTTVdRamRPZmpIblk4MDh2ZUdLSndhSi1xVG9wMHNXOGlUNThUd0wyRmFYZkJDaWJHUWxMN2hVZUlKQ1Q1X1FEcTluZUlXeDFKWHB0Tl9GUXdhaWNXcmhLNkpkVWVXVVYyeXdBOWROQWlOekdUU1BJV1lSRUZ5NGJNQlBPYXdnM0lUSmxGczEzenJSWk5xLUdHOVlDRlhUdlRkTXk1eWZjQ01qeTdNc0lZU3NhdmRGa1NJQW10MFl0T3d4V2NVbF9uV2ZON1k0UzZBUWt1b0pBSVR1U3VubVYydmRWYWc2d0dEQldRUW1WdVk2RFpvV3FaWEVzbE50N1BXUQ?oc=5)
+- **[Creadores] Ignacio Baladán habló de su matrimonio con La Segura - La Revista Actual** — 25/11/2026 08:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNl8yZlY2YmZFTVhMYWY3RUw2czM0WkZJYmR2QzhVXzdtZ2RCYUlxWEJLTXNneElOa0Vja0g5LTQtSTVneVFfRkl5eVExNUtXQnE4OHYtcUNfQ2lOdlZhQThTQUR4Wi1yV3BtczdQOVgzS0o0QWNFdnN0LTVLUFZ2ZndJN0R0dWJTdS00Sk93?oc=5)
 - **[Creadores] Ignacio Baladán habló de su relación con La Segura en medio de sus problemas de salud - Diario del Cauca** — 25/11/2026 04:20 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQZHlpNTEtSWxYVkMtaUhudnJyaG9nSkd5SzdKSEFKSE9kZjdEb0pVWHRQaHY1V2NrMkJuN1JhSm1WSEI5US1EcmxPNWRoWGpKTVNKbGl1ZW5qYWJVcFE1SFAyOTV5OU4tM2NTb010dUp3ZHBIRTBKWVlfN2MwMjE2VzI4bkw1aEk1SEtVSEJ2Ym1DcV9FdmtUWXl5Wl9ER1JkNlVMS1pMV2YzTHpOWGsydzBfWEUxODV5VlZDaGVRSmt3bkstUW5ObHlWeWhlQ0lkbENWbEtabFFNTVB4OUtsalVtRUxwcmNnQkJRRXZkY3J5SGtpaDZxWnpoLWd0ZEZsNXRNb0xqRGJ0dlFHUjlubTlFV09VSlpMVEx2WDlZbjJGSkpaUVRBR2dGeDZYOU5paV9SOFY3WG56M2lvdG5tZHVIYw?oc=5)
 - **[Creadores] Yeferson Cossio confirmó su ruptura con Carolina Gómez tras cuatro años de relación - Diario del Cauca** — 25/11/2026 10:46 AM — [Abrir fuente](https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1RVV2hzdVdMb2JxN3JnYzhyRmVzM2R0UnZxOFFpQlhTRGZwbWVkUVRsZHp2OGg2azc0bEVhQ3BPY0lSc0E1a2JTVzQwa08waVFfQ2VjV1h1elZ4Q25KYWl4V0lEUnhMU1ZEWVdWSzdYbDBmdnh4bGIzV3B4OXFlN1NqcEpUWGhJdFp6REtNS1BDakJIMmQ1eHV3cTZHUVNONzJvSDZyQnJxTEh6N1d4dHV0NmRUdDlmQW8wOUdB?oc=5)
 - **[Creadores] Yeferson Cossio y Carolina Gómez anuncian su separación tras cuatro años de relación - HSB Noticias** — 24/11/2026 09:30 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUlvbGhZdE5KX3pCTzg3TS1DTjNibDJMcUpUTGNrbVQ1N1ctMlhzdlNMT1ZJVE01aXR1Z1FIcFBFanRQdi1YX3laWjJ6YkV6bERRWGFTUW85THg3TWJZM2N0OEwydE1mb0ZUcEs4TDd5NWxLRnN2ZjZ1VkZMSGdlR2V4NWxjeXJ5bDdCRkwxYXpOVjRyRHRvRlZ1bm85c0pRaVQyVlZxTVJwTDRYMlpDNlFVeUJzbXZS?oc=5)
