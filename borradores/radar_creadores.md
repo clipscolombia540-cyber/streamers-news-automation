@@ -1,34 +1,35 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 26/11/2026 04:12 PM (hora de Colombia)
+Actualizado: 26/11/2026 11:00 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 5.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 2, Emergente por verificar: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
-### ¡GTA 6 incluye insultos colombianos! Reacción a los videos más virales | El Gallo
-- Categoria: Clip de terceros
-- Creador/canal detectado: Series y eventos de streamers
-- Canal que publico: Canal no identificado
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Puntaje heurístico de interés: 5
-- Enlace directo: https://www.youtube.com/watch?v=o__-fOfc8fY
-
-### SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
+### Me MULTARON con $54 MILLONES por la MANSIÓN en GUATAPÉ | WESTCOL
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
-- Canal que publico: Monasterios
-- Publicado: 25/11/2026 07:00 PM
+- Canal que publico: Aida Victoria Stream
+- Publicado: 26/11/2026 03:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 60
+- Vistas reportadas por YouTube: 84.286
+- Puntaje heurístico de interés: 6
+- Enlace directo: https://www.youtube.com/watch?v=al1S2G8wdzk
+
+### 🎤🔥 ¡WESTCOL LOS DESTROZÓ CON ESTA RIMA! 🤯😂
+- Categoria: Clip de terceros
+- Creador/canal detectado: Westcol
+- Canal que publico: Master Streamers Oficial
+- Publicado: 26/11/2026 10:00 PM
+- Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 1
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=P2jPd6A938w
+- Enlace directo: https://www.youtube.com/watch?v=fheXkaDfQ88
 
 ### MR STIVEN REACCIONANDO A LA FINCA DE JH
 - Categoria: Cuenta de clips
@@ -37,7 +38,7 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 25/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 42.423
+- Vistas reportadas por YouTube: 55.464
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=g4zLC8iTsS4
 
@@ -48,63 +49,9 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 26/11/2026 12:00 AM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 15.459
+- Vistas reportadas por YouTube: 23.079
 - Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=x86g2jRlji4
-
-### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Thereydelacity_clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Thereydelacity_clips
-- Publicado: 24/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 7.606
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=YNXCeM_6Orw
-
-### DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Clipero
-- Canal que publico: El Clipero
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=o5xwAZxhPXk
-
-### WestCOL habla sin filtro sobre sus directos más extremos
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: momentoswestcolhd
-- Creador relacionado en el título: Westcol
-- Canal que publico: momentoswestcolhd
-- Publicado: 26/11/2026 03:24 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 0
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=bSVoSMLzhkA
-
-### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Reydelacityclips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Reydelacityclips
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 151
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=p8DEf6Vc4Z4
-
-### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MILICA CLIPS
-- Creador relacionado en el título: Chanty
-- Canal que publico: MILICA CLIPS
-- Publicado: 24/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 5
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=gx7l7qnXTp8
 
 ### CLIPS DE LA GANGA pt.107 🤣 *yo pongo la cara*
 - Categoria: Emergente por verificar
@@ -112,33 +59,33 @@ Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 7, Emergente
 - Canal que publico: basuquito
 - Publicado: 26/11/2026 12:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 489
-- Puntaje heurístico de interés: 2
+- Vistas reportadas por YouTube: 1.287
+- Puntaje heurístico de interés: 4
 - Enlace directo: https://www.youtube.com/watch?v=v4plJixMTSc
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
 
-### ¡GTA 6 incluye insultos colombianos! Reacción a los videos más virales | El Gallo
-- **Gancho A:** ¿Ya habías visto este momento de Series y eventos de streamers? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Series y eventos de streamers.
-- **Título sugerido:** ¡GTA 6 incluye insultos colombianos! Reacción a los videos más virales | El Gallo
-- **Texto en pantalla:** ¡GTA 6 incluye insultos colombianos! Reacción a los videos más virales
-- **Descripción:** Fragmento relacionado con Series y eventos de streamers. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=o__-fOfc8fY
-
-### SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
+### Me MULTARON con $54 MILLONES por la MANSIÓN en GUATAPÉ | WESTCOL
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
-- **Texto en pantalla:** SE TERMINÓ TODO Entre Westcol y Luisa Castro... Esto Pasó
+- **Título sugerido:** Me MULTARON con $54 MILLONES por la MANSIÓN en GUATAPÉ | WESTCOL
+- **Texto en pantalla:** Me MULTARON con $54 MILLONES por la MANSIÓN en GUATAPÉ | WESTCOL
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=P2jPd6A938w
+- **Fuente original:** https://www.youtube.com/watch?v=al1S2G8wdzk
+
+### 🎤🔥 ¡WESTCOL LOS DESTROZÓ CON ESTA RIMA! 🤯😂
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** 🎤🔥 ¡WESTCOL LOS DESTROZÓ CON ESTA RIMA! 🤯😂
+- **Texto en pantalla:** 🎤🔥 ¡WESTCOL LOS DESTROZÓ CON ESTA RIMA! 🤯😂
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=fheXkaDfQ88
 
 ### MR STIVEN REACCIONANDO A LA FINCA DE JH
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -159,56 +106,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x86g2jRlji4
-
-### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- **Texto en pantalla:** REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YNXCeM_6Orw
-
-### DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: El Clipero? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: El Clipero.
-- **Título sugerido:** DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
-- **Texto en pantalla:** DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA V
-- **Descripción:** Fragmento relacionado con Cuenta de clips: El Clipero. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=o5xwAZxhPXk
-
-### WestCOL habla sin filtro sobre sus directos más extremos
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WestCOL habla sin filtro sobre sus directos más extremos
-- **Texto en pantalla:** WestCOL habla sin filtro sobre sus directos más extremos
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bSVoSMLzhkA
-
-### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
-- **Texto en pantalla:** GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=p8DEf6Vc4Z4
-
-### CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- **Texto en pantalla:** CHANTY LANZAMIENTO DE LOS NUEVOS CHEETOS EN COLOMBIA
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=gx7l7qnXTp8
 
 ### CLIPS DE LA GANGA pt.107 🤣 *yo pongo la cara*
 - **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
