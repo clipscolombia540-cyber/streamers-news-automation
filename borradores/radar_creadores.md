@@ -1,35 +1,15 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 27/11/2026 08:44 AM (hora de Colombia)
+Actualizado: 27/11/2026 05:35 PM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 10.
+Clips incluidos: 6.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente por verificar: 1.
+Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
-
-### Rocket.Chat Alternatives - MirrorFly, TroopMessenger, Chanty, Apphitect, Slack
-- Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: kathrin Infanta
-- Publicado: 27/11/2026 08:30 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=Em-0AJojzn4
-
-### WESTCOL Y SAMULX REPRESENTARON A COLOMBIA FRENTE A PEREIRA Y SUS AMIGOS
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Info Stream COL
-- Publicado: 27/11/2026 01:00 AM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 758
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=jkqqhHieSjI
 
 ### 😂 ¡EL ROBOT LE DIO UNA PATADA A WESTCOL! 🤖💥 #Shorts
 - Categoria: Clip de terceros
@@ -41,24 +21,23 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=OPiNus7jCRA
 
-### DROPPING BOMBS WITH LEANDRO REYDELACITY AND CHANTY
+### WestCOL habla sin filtro sobre sus directos más extremos
 - Categoria: Clip de terceros
-- Creador/canal detectado: Chanty
-- Canal que publico: Solo Parche TV
+- Creador/canal detectado: Westcol
+- Canal que publico: Canal no identificado
 - Publicado: 26/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 430
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=uBb1pRia-gM
+- Enlace directo: https://www.youtube.com/watch?v=bSVoSMLzhkA
 
 ### MR STIVEN REACCIONANDO A LA FINCA DE JH
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
 - Creador relacionado en el título: MrStivenTC
 - Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 26/11/2026 07:00 PM
+- Publicado: 25/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 64.589
+- Vistas reportadas por YouTube: 74.287
 - Puntaje heurístico de interés: 7
 - Enlace directo: https://www.youtube.com/watch?v=g4zLC8iTsS4
 
@@ -69,28 +48,17 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: MRSTIVEN TC CLIPSS
 - Publicado: 26/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 30.688
+- Vistas reportadas por YouTube: 40.693
 - Puntaje heurístico de interés: 6
 - Enlace directo: https://www.youtube.com/watch?v=x86g2jRlji4
-
-### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Thereydelacity_clips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Thereydelacity_clips
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 8.259
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=YNXCeM_6Orw
 
 ### DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
 - Categoria: Cuenta de clips
 - Creador/canal detectado: Cuenta de clips: El Clipero
 - Canal que publico: El Clipero
-- Publicado: 26/11/2026 07:00 PM
+- Publicado: 25/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 3
+- Vistas reportadas por YouTube: 4
 - Puntaje heurístico de interés: 3
 - Enlace directo: https://www.youtube.com/watch?v=o5xwAZxhPXk
 
@@ -101,43 +69,13 @@ Distribución por categoría: Clip de terceros: 4, Cuenta de clips: 5, Emergente
 - Canal que publico: Reydelacityclips
 - Publicado: 25/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 163
+- Vistas reportadas por YouTube: 176
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=p8DEf6Vc4Z4
-
-### CLIPS DE LA GANGA pt.107 🤣 *yo pongo la cara*
-- Categoria: Emergente por verificar
-- Creador/canal detectado: Emergente: basuquito
-- Canal que publico: basuquito
-- Publicado: 26/11/2026 01:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1.859
-- Puntaje heurístico de interés: 4
-- Enlace directo: https://www.youtube.com/watch?v=v4plJixMTSc
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
-
-### Rocket.Chat Alternatives - MirrorFly, TroopMessenger, Chanty, Apphitect, Slack
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** Rocket.Chat Alternatives - MirrorFly, TroopMessenger, Chanty, Apphitect, Slack
-- **Texto en pantalla:** Rocket.Chat Alternatives - MirrorFly, TroopMessenger, Chanty, Apphitec
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=Em-0AJojzn4
-
-### WESTCOL Y SAMULX REPRESENTARON A COLOMBIA FRENTE A PEREIRA Y SUS AMIGOS
-- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WESTCOL Y SAMULX REPRESENTARON A COLOMBIA FRENTE A PEREIRA Y SUS AMIGOS
-- **Texto en pantalla:** WESTCOL Y SAMULX REPRESENTARON A COLOMBIA FRENTE A PEREIRA Y SUS AMIGO
-- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=jkqqhHieSjI
 
 ### 😂 ¡EL ROBOT LE DIO UNA PATADA A WESTCOL! 🤖💥 #Shorts
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -149,15 +87,15 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=OPiNus7jCRA
 
-### DROPPING BOMBS WITH LEANDRO REYDELACITY AND CHANTY
-- **Gancho A:** ¿Ya habías visto este momento de Chanty? 👀
+### WestCOL habla sin filtro sobre sus directos más extremos
+- **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Chanty.
-- **Título sugerido:** DROPPING BOMBS WITH LEANDRO REYDELACITY AND CHANTY
-- **Texto en pantalla:** DROPPING BOMBS WITH LEANDRO REYDELACITY AND CHANTY
-- **Descripción:** Fragmento relacionado con Chanty. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Gancho C:** Un momento para revisar del contenido de Westcol.
+- **Título sugerido:** WestCOL habla sin filtro sobre sus directos más extremos
+- **Texto en pantalla:** WestCOL habla sin filtro sobre sus directos más extremos
+- **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=uBb1pRia-gM
+- **Fuente original:** https://www.youtube.com/watch?v=bSVoSMLzhkA
 
 ### MR STIVEN REACCIONANDO A LA FINCA DE JH
 - **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
@@ -179,16 +117,6 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=x86g2jRlji4
 
-### REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- **Texto en pantalla:** REYDELACITY AND ASHLEY BUYING MCDONALDS AT 1AM…. IT GOES WELL
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=YNXCeM_6Orw
-
 ### DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
 - **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: El Clipero? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
@@ -209,24 +137,14 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=p8DEf6Vc4Z4
 
-### CLIPS DE LA GANGA pt.107 🤣 *yo pongo la cara*
-- **Gancho A:** ¿Ya habías visto este momento de Emergente: basuquito? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Emergente: basuquito.
-- **Título sugerido:** CLIPS DE LA GANGA pt.107 🤣 *yo pongo la cara*
-- **Texto en pantalla:** CLIPS DE LA GANGA pt.107 🤣 *yo pongo la cara*
-- **Descripción:** Fragmento relacionado con Emergente: basuquito. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamerEmergente #StreamersColombia #ClipsColombia #GamingColombia
-- **Fuente original:** https://www.youtube.com/watch?v=v4plJixMTSc
-
 ## Noticias y contexto
 
+- **[Creadores] Tulio Recomienda celebró el éxito e impacto social de la primera edición de Pollo Week: “Fue algo sorprendente” - Revista Semana** — 27/11/2026 04:20 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRVFqajdNUlNZblU4RUw3ZkpTWC1oYklkT3R3dlpzZmRrR21zMHRsS1BWVGVsQ2JvWGY4NWJtTHEzWUR5YXMtNklqZjZ2SUNNcXN0cmFBLTBMZ3pkVUhPSXNwM2VQTEs3MHJJVXdQTFplQnFsNDNmYUVvRkl5Y3VpM1M1d0gzVWl2cS1YSFp6dFlib0RwY0IwT3ZsOGpVSTJXQ1p4SVZyVEdaM3Y1TkwzaTRTRUpLcXZ2QjRrc3R6OHBUV2JoeE5HdE5xcE1NVGlyVlVfWmt2YmI2U2ZXeklhRjhSZXNkTnBXUkdKMkdWQdIB7wFBVV95cUxPRVFqajdNUlNZblU4RUw3ZkpTWC1oYklkT3R3dlpzZmRrR21zMHRsS1BWVGVsQ2JvWGY4NWJtTHEzWUR5YXMtNklqZjZ2SUNNcXN0cmFBLTBMZ3pkVUhPSXNwM2VQTEs3MHJJVXdQTFplQnFsNDNmYUVvRkl5Y3VpM1M1d0gzVWl2cS1YSFp6dFlib0RwY0IwT3ZsOGpVSTJXQ1p4SVZyVEdaM3Y1TkwzaTRTRUpLcXZ2QjRrc3R6OHBUV2JoeE5HdE5xcE1NVGlyVlVfWmt2YmI2U2ZXeklhRjhSZXNkTnBXUkdKMkdWQQ?oc=5)
+- **[Creadores] Laura Acuña comparte emotiva imagen junto a sus hijos; Yeferson Cossio le dejó un mensaje - La Kalle** — 27/11/2026 12:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMG84WW5YV1JBaGRxdnpfcGpSLVhXTVB5dUtyTWYtV21zWEs0aTZuS2VVUWtYWEF0RFVKZzJHMS0yeS1nRTZzN2xELS1yVGpmZWR5LTUteDFObTdLVmdrY3Y3N3BtWm1vUF9jX01NZ3VPNHlsWS13Sm5wTjhYRThVY01QUHNtWjJLbDBiNEJ5MTlCRlB1WHRBRVo2TEx0UEpFeERtUlJDckJOR0hKc3pMZlhsYjFDcUFVaWNTSExSWVppOFBsWF8tbGNDdEFzYVMxS0dic2VaVXQ3YkhHT2YtMU1NUHhoODBqdkhnU1oxQdIB7wFBVV95cUxNMG84WW5YV1JBaGRxdnpfcGpSLVhXTVB5dUtyTWYtV21zWEs0aTZuS2VVUWtYWEF0RFVKZzJHMS0yeS1nRTZzN2xELS1yVGpmZWR5LTUteDFObTdLVmdrY3Y3N3BtWm1vUF9jX01NZ3VPNHlsWS13Sm5wTjhYRThVY01QUHNtWjJLbDBiNEJ5MTlCRlB1WHRBRVo2TEx0UEpFeERtUlJDckJOR0hKc3pMZlhsYjFDcUFVaWNTSExSWVppOFBsWF8tbGNDdEFzYVMxS0dic2VaVXQ3YkhHT2YtMU1NUHhoODBqdkhnU1oxQQ?oc=5)
+- **[Creadores] Laura Acuña comparte emotiva imagen junto a sus hijos; Yeferson Cossio le dejó un mensaje - La Kalle** — 27/11/2026 12:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa25CUkR5aThUaEFKcU5BdE1tZHNsZXBkOENhTjFqellRYlNBWXhjY04zSUNmR3RBWTBzMlVpZFBBbEtJczlIbXVnNlVzSDJWRVhOa1lBelVWekI5a3ZkS3lteHBPTUdSVnlOVEFSZkF3RHFlanZsTG93RzB5Sk9DaFRNaGhZYlBXaVF1V19iY2lOQjcxYUVBd2FmVkM2M1Q4NWw0b2VMcTJ4ODZDS01UY0QzcmVsdlhyV0lCVC10Q1ZVa0hyM3VtU0NLbFRob0pIU1d3V1FpVGVDNUd1dlFwVUFB0gHvAUFVX3lxTE0wbzhZblhXUkFoZHF2el9walItWFdNUHl1S3JNZi1XbXNYSzRpNm5LZVVRa1hYQXREVUpnMkcxLTJ5LWdFNnM3bEQtLXJUamZlZHktNS14MU5tN0tWZ2tjdjc3cG1abW9QX2NfTU1ndU80eWxZLXdKbnBOOFhFOFVjTVBQc21aMktsMGI0QnkxOUJGUHVYdEFFWjZMTHRQSkV4RG1SUkNyQk5HSEpzekxmWGxiMUNxQVVpY1NITFJZWmk4UGxYXy1sY0N0QXNhUzFLR2JzZVpVdDdiSEdPZi0xTU1QeGg4MGp2SGdTWjFB?oc=5)
 - **[Creadores] Westcol en el Congreso: su visita por los 100 años del Capitolio desató polémica - Canal TRO** — 26/11/2026 06:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMicEFVX3lxTFBHZlJmS0Vnck9xZUt1M1k2akdKOWNxN2RRNXduN2FadHVZNHB5X2h5NWtUdURKWkpSV0IwUzEzeVBzcmFGRWVlRnlnNUlNbmdQTExHUjNWaGxLcHFJMkd6Qm5aVnFaRURXS1NEQlJPUGc?oc=5)
-- **[Creadores] Yina Calderón reaccionó sorprendida a la ruptura de Yeferson Cossio y Carolina Gómez - HSB Noticias** — 26/11/2026 02:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVHNKdDRXU3IxSUpOakk5UUh0N3FIM3A1X0MyQ0ppSWx2bHhwRkprdFBNTTRuTHc1clk2ZFVLZzNrLTBjNnRBZVFJN2hFMXM4UFB1RlJjcWlPRjdsOGwwWm1Eak5SZzhVWHJIa3h4c0gwX0JiVktFSkpLUE5wc2ZGVGxkNlNUTUUwREVmOFBtT1NGUUZuZmNub24yWm9PLTdSdE8xaGJfUERTcjI3TnZmalBLd1BkWDAyNmJ2MHRJd3FscURiUmluWXlMR0JncmtmTXhwQms3Q3Ewb3FlT013alBHQ0EzR2RzdWJUTy1ucjJNMndIY2h1UlUyME92SDdzZEVkZ2hVaHdMZGhtTUcwVkowbjgwNVM1?oc=5)
-- **[Creadores] Carolina Gómez reapareció tras ruptura con Yeferson Cossio, ¿lanzó indirecta? - La Kalle** — 26/11/2026 01:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbERxa2U3N3dTVkl2R1lzNkJrRWd1Z2djRnJ6VWliMklpTW1pWEctWHJLYWpCWkZzWDlVa1RWOUxDc1ZHcE5fUVRubV9XWnVQSGJ1RVItVEFtLW82Mm9GRHd3aGdFVW45enI5ZGlST0s5bTJodzY2VzdTNjBjay1GakhWcGNIOEF6RnhMSlYwWjVDWm1Mazd6OWxibG5vRXhxNEVWRW83Y0dpendDZHlLUDRHQWFoQW5DWnNsSmN6UTNWVjNESW9jTmJTeml5Yjh6OE1ESFlLZXBnSHRG0gHcAUFVX3lxTFBsRHFrZTc3d1NWSXZHWXM2QmtFZ3VnZ2NGcnpVaWIySWlNbWlYRy1YckthakJaRnNYOVVrVFY5TENzVkdwTl9RVG5tX1dadVBIYnVFUi1UQW0tbzYyb0ZEd3doZ0VVbjl6cjlkaVJPSzltMmh3NjZXN1M2MGNrLUZqSFZwY0g4QXpGeExKVjBaNUNabUxrN3o5bGJsbm9FeHE0RVZFbzdjR2l6d0NkeUtQNEdBYWhBbkNac2xKY3pRM1ZWM0RJb2NOYlN6aXliOHo4TURIWUtlcGdIdEY?oc=5)
-- **[Creadores] Westcol llamó a Álvaro Uribe desde el Congreso: ¿Qué pasó? - Eluniversal.com.co** — 26/11/2026 12:12 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk11YVhTcEdWSHRTMmhuU2NiWkFHdEhYVmJKTFVOb1dLMlZyS0V1eEN1TFJmT2ZLbDV5R0NBa242R3dva0hmbC1JUGEtVTlYM016dmZyS1JSS0NhNlpIekxmVzloMnRGWjVNUDNtaGpac25IdVFlZFVSUEFMMnRyaFhHS3IxTHlWWGJ1QVlSSUNRUGZ4MjZ2aTlqWGVqZjJ1bHJfQVdBM1l3ZkxJ?oc=5)
+- **[Creadores] Así fue la llamada de Westcol a Álvaro Uribe desde el Congreso - La Opinión Cúcuta** — 26/11/2026 12:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxPZEtXYkVXRlRlNTJObUlSbXlnSTVRYzFBUXdRZnpTWHZXTWozOUFrMktIajE5bEloLWRYbUtTUG4wY0g0RXFfX1p5TVlxbWc4Q1R4RGVfN3pjZ1hjVW9yOHBqdG1NYUc1STN1X2NlN3hMM2QwN0hzT0pvZVo3MkNINmFyY2ZINVc4bm02ZXZnbHE2eHdRbzFva3IyYXZJZw?oc=5)
 - **[Creadores] Ignacio Baladán habló de su matrimonio con La Segura - La Revista Actual** — 25/11/2026 08:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNl8yZlY2YmZFTVhMYWY3RUw2czM0WkZJYmR2QzhVXzdtZ2RCYUlxWEJLTXNneElOa0Vja0g5LTQtSTVneVFfRkl5eVExNUtXQnE4OHYtcUNfQ2lOdlZhQThTQUR4Wi1yV3BtczdQOVgzS0o0QWNFdnN0LTVLUFZ2ZndJN0R0dWJTdS00Sk93?oc=5)
-- **[Creadores] Ignacio Baladán habló de su relación con La Segura en medio de sus problemas de salud - Diario del Cauca** — 25/11/2026 04:20 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQZHlpNTEtSWxYVkMtaUhudnJyaG9nSkd5SzdKSEFKSE9kZjdEb0pVWHRQaHY1V2NrMkJuN1JhSm1WSEI5US1EcmxPNWRoWGpKTVNKbGl1ZW5qYWJVcFE1SFAyOTV5OU4tM2NTb010dUp3ZHBIRTBKWVlfN2MwMjE2VzI4bkw1aEk1SEtVSEJ2Ym1DcV9FdmtUWXl5Wl9ER1JkNlVMS1pMV2YzTHpOWGsydzBfWEUxODV5VlZDaGVRSmt3bkstUW5ObHlWeWhlQ0lkbENWbEtabFFNTVB4OUtsalVtRUxwcmNnQkJRRXZkY3J5SGtpaDZxWnpoLWd0ZEZsNXRNb0xqRGJ0dlFHUjlubTlFV09VSlpMVEx2WDlZbjJGSkpaUVRBR2dGeDZYOU5paV9SOFY3WG56M2lvdG5tZHVIYw?oc=5)
 
 ## Creadores principales vigilados
 
