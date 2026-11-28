@@ -1,81 +1,78 @@
 # Radar automatico de creadores y clips
 
-Actualizado: 27/11/2026 05:35 PM (hora de Colombia)
+Actualizado: 28/11/2026 02:07 AM (hora de Colombia)
 
 Ventana objetivo: ultimas 48 horas.
-Clips incluidos: 6.
+Clips incluidos: 4.
 Noticias recientes: 6.
-Distribución por categoría: Clip de terceros: 2, Cuenta de clips: 4.
+Distribución por categoría: Clip de terceros: 3, Cuenta de clips: 1.
 
 > Radar basado en metadatos publicos. Verifica cada enlace y los derechos antes de publicar.
 
 ## Clips y Shorts candidatos de YouTube
 
+### REACTING TO THE ICEBERG OF EVENTS THAT HAPPENED ON STREAM 😰 - Pelicanger Extra
+- Categoria: Clip de terceros
+- Creador/canal detectado: Pelicanger
+- Canal que publico: Canal no identificado
+- Publicado: 27/11/2026 01:00 PM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=qMTGzH-BvR8
+
+### 🥵WE BUILT THE WORST SQUAD OF NOOBS WITH CARE HUEVO😂|Mrstiven
+- Categoria: Clip de terceros
+- Creador/canal detectado: MrStivenTC
+- Canal que publico: Canal no identificado
+- Publicado: 27/11/2026 11:00 AM
+- Fuente: YouTube / yt-dlp
+- Puntaje heurístico de interés: 0
+- Enlace directo: https://www.youtube.com/watch?v=vPiOpo9S14U
+
 ### 😂 ¡EL ROBOT LE DIO UNA PATADA A WESTCOL! 🤖💥 #Shorts
 - Categoria: Clip de terceros
 - Creador/canal detectado: Westcol
 - Canal que publico: EL ESPACIO DEL STREAMING 🎮🔥
-- Publicado: 26/11/2026 09:00 PM
+- Publicado: 26/11/2026 07:00 PM
 - Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 1
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
 - Enlace directo: https://www.youtube.com/watch?v=OPiNus7jCRA
 
-### WestCOL habla sin filtro sobre sus directos más extremos
-- Categoria: Clip de terceros
-- Creador/canal detectado: Westcol
-- Canal que publico: Canal no identificado
-- Publicado: 26/11/2026 07:00 PM
+### WESTCOL COMPRÓ EL ROBOT MÁS RANDOM DEL MUNDO 💀
+- Categoria: Cuenta de clips
+- Creador/canal detectado: Cuenta de clips: ClipBajo TV
+- Creador relacionado en el título: Westcol
+- Canal que publico: ClipBajo TV
+- Publicado: 27/11/2026 06:00 AM
 - Fuente: YouTube / yt-dlp
+- Vistas reportadas por YouTube: 2
 - Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=bSVoSMLzhkA
-
-### MR STIVEN REACCIONANDO A LA FINCA DE JH
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 74.287
-- Puntaje heurístico de interés: 7
-- Enlace directo: https://www.youtube.com/watch?v=g4zLC8iTsS4
-
-### MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH SPECIAL GUEST
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: MRSTIVEN TC CLIPSS
-- Creador relacionado en el título: MrStivenTC
-- Canal que publico: MRSTIVEN TC CLIPSS
-- Publicado: 26/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 40.693
-- Puntaje heurístico de interés: 6
-- Enlace directo: https://www.youtube.com/watch?v=x86g2jRlji4
-
-### DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: El Clipero
-- Canal que publico: El Clipero
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 4
-- Puntaje heurístico de interés: 3
-- Enlace directo: https://www.youtube.com/watch?v=o5xwAZxhPXk
-
-### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
-- Categoria: Cuenta de clips
-- Creador/canal detectado: Cuenta de clips: Reydelacityclips
-- Creador relacionado en el título: Rey de la City
-- Canal que publico: Reydelacityclips
-- Publicado: 25/11/2026 07:00 PM
-- Fuente: YouTube / yt-dlp
-- Vistas reportadas por YouTube: 176
-- Puntaje heurístico de interés: 0
-- Enlace directo: https://www.youtube.com/watch?v=p8DEf6Vc4Z4
+- Enlace directo: https://www.youtube.com/watch?v=6nIeK0BpgKY
 
 ## Borradores de copy para clips (revisar antes de publicar)
 
 Los textos son propuestas iniciales basadas solo en el título y los metadatos. Verifica el contenido real, evita sacar frases de contexto y publica únicamente con derechos o permiso.
+
+### REACTING TO THE ICEBERG OF EVENTS THAT HAPPENED ON STREAM 😰 - Pelicanger Extra
+- **Gancho A:** ¿Ya habías visto este momento de Pelicanger? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de Pelicanger.
+- **Título sugerido:** REACTING TO THE ICEBERG OF EVENTS THAT HAPPENED ON STREAM 😰 - Pelicanger Extra
+- **Texto en pantalla:** REACTING TO THE ICEBERG OF EVENTS THAT HAPPENED ON STREAM 😰 - Pelicang
+- **Descripción:** Fragmento relacionado con Pelicanger. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=qMTGzH-BvR8
+
+### 🥵WE BUILT THE WORST SQUAD OF NOOBS WITH CARE HUEVO😂|Mrstiven
+- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
+- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
+- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
+- **Título sugerido:** 🥵WE BUILT THE WORST SQUAD OF NOOBS WITH CARE HUEVO😂|Mrstiven
+- **Texto en pantalla:** 🥵WE BUILT THE WORST SQUAD OF NOOBS WITH CARE HUEVO😂|Mrstiven
+- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
+- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
+- **Fuente original:** https://www.youtube.com/watch?v=vPiOpo9S14U
 
 ### 😂 ¡EL ROBOT LE DIO UNA PATADA A WESTCOL! 🤖💥 #Shorts
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
@@ -87,64 +84,24 @@ Los textos son propuestas iniciales basadas solo en el título y los metadatos. 
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
 - **Fuente original:** https://www.youtube.com/watch?v=OPiNus7jCRA
 
-### WestCOL habla sin filtro sobre sus directos más extremos
+### WESTCOL COMPRÓ EL ROBOT MÁS RANDOM DEL MUNDO 💀
 - **Gancho A:** ¿Ya habías visto este momento de Westcol? 👀
 - **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
 - **Gancho C:** Un momento para revisar del contenido de Westcol.
-- **Título sugerido:** WestCOL habla sin filtro sobre sus directos más extremos
-- **Texto en pantalla:** WestCOL habla sin filtro sobre sus directos más extremos
+- **Título sugerido:** WESTCOL COMPRÓ EL ROBOT MÁS RANDOM DEL MUNDO 💀
+- **Texto en pantalla:** WESTCOL COMPRÓ EL ROBOT MÁS RANDOM DEL MUNDO 💀
 - **Descripción:** Fragmento relacionado con Westcol. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
 - **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=bSVoSMLzhkA
-
-### MR STIVEN REACCIONANDO A LA FINCA DE JH
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN REACCIONANDO A LA FINCA DE JH
-- **Texto en pantalla:** MR STIVEN REACCIONANDO A LA FINCA DE JH
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=g4zLC8iTsS4
-
-### MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH SPECIAL GUEST
-- **Gancho A:** ¿Ya habías visto este momento de MrStivenTC? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de MrStivenTC.
-- **Título sugerido:** MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH SPECIAL GUEST
-- **Texto en pantalla:** MR STIVEN AND MARIA JULISSA AT PARQUE DEL CAFÉ FOR THE FIRST TIME | JH
-- **Descripción:** Fragmento relacionado con MrStivenTC. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=x86g2jRlji4
-
-### DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
-- **Gancho A:** ¿Ya habías visto este momento de Cuenta de clips: El Clipero? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Cuenta de clips: El Clipero.
-- **Título sugerido:** DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA VI)
-- **Texto en pantalla:** DAVOO XENEIZE: LOS 16 MEJORES MOMENTOS DE LA SEMANA 🔥 (Colombia, GTA V
-- **Descripción:** Fragmento relacionado con Cuenta de clips: El Clipero. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=o5xwAZxhPXk
-
-### GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
-- **Gancho A:** ¿Ya habías visto este momento de Rey de la City? 👀
-- **Gancho B:** Mira este fragmento y cuéntanos qué opinas 👇
-- **Gancho C:** Un momento para revisar del contenido de Rey de la City.
-- **Título sugerido:** GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO LLEGA*| REY DE LA CITY
-- **Texto en pantalla:** GTA VI ¿NO ERA LO QUE DECIAN?🤔, *MI NOVIA LA SIRVIENTA Y LA MOCHILA NO
-- **Descripción:** Fragmento relacionado con Rey de la City. Revisa el contexto completo en la fuente original y deja tu opinión con respeto. Publicar solo si tienes permiso o autorización para usar el material.
-- **Hashtags:** #StreamersColombia #ClipsColombia #CreadoresColombianos #EnDirecto
-- **Fuente original:** https://www.youtube.com/watch?v=p8DEf6Vc4Z4
+- **Fuente original:** https://www.youtube.com/watch?v=6nIeK0BpgKY
 
 ## Noticias y contexto
 
+- **[Creadores] La Segura preocupó al revelar el problema de salud que enfrenta su bebé Lucca - Eluniversal.com.co** — 27/11/2026 07:10 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMiygFBVV95cUxOa19xOFItQnRXdW80djlmSmF2a0s0UlJNNW5zbkQzZDZFT1ctWFJ0QVpmYmVtQWpOb3k3cjF2S3Y2alhaaWttWTVlLXphR3FaaWY5OXJNR21sdDVXMVE1T0NJYjlZazVvNnN1OVBIM1E3ZG9uTHNudHV6UEs3MFo2Z3hKS3U4RUpzUHJQVC0tcUxEMzBaTmhTN0tGMzBPQzM0VG95TU1SUjk4R2R2V0R2WjVNX2FOMGFKeXlnM2dmb3o0bWZBZkJjQ2pR?oc=5)
+- **[Creadores] "Eso es por estar viendo GTA": Westcol sobre toma de rehenes en Cartagena - Telemedellín** — 27/11/2026 06:00 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMic0FVX3lxTE4yZ1V5YzV0VnRMU2dxNl93OTV4eXRWYWVPVnQ1Q1hDX2NZbnd6Q0I1RlFMYmJQV3ZCT2VMcFo3M05BRm91dnhrOWxTZXFyTGpyOEg0Z1RYSEZicERCb0NEZVpYQzJ5UGUwME96UVpnU3ZvVUk?oc=5)
 - **[Creadores] Tulio Recomienda celebró el éxito e impacto social de la primera edición de Pollo Week: “Fue algo sorprendente” - Revista Semana** — 27/11/2026 04:20 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRVFqajdNUlNZblU4RUw3ZkpTWC1oYklkT3R3dlpzZmRrR21zMHRsS1BWVGVsQ2JvWGY4NWJtTHEzWUR5YXMtNklqZjZ2SUNNcXN0cmFBLTBMZ3pkVUhPSXNwM2VQTEs3MHJJVXdQTFplQnFsNDNmYUVvRkl5Y3VpM1M1d0gzVWl2cS1YSFp6dFlib0RwY0IwT3ZsOGpVSTJXQ1p4SVZyVEdaM3Y1TkwzaTRTRUpLcXZ2QjRrc3R6OHBUV2JoeE5HdE5xcE1NVGlyVlVfWmt2YmI2U2ZXeklhRjhSZXNkTnBXUkdKMkdWQdIB7wFBVV95cUxPRVFqajdNUlNZblU4RUw3ZkpTWC1oYklkT3R3dlpzZmRrR21zMHRsS1BWVGVsQ2JvWGY4NWJtTHEzWUR5YXMtNklqZjZ2SUNNcXN0cmFBLTBMZ3pkVUhPSXNwM2VQTEs3MHJJVXdQTFplQnFsNDNmYUVvRkl5Y3VpM1M1d0gzVWl2cS1YSFp6dFlib0RwY0IwT3ZsOGpVSTJXQ1p4SVZyVEdaM3Y1TkwzaTRTRUpLcXZ2QjRrc3R6OHBUV2JoeE5HdE5xcE1NVGlyVlVfWmt2YmI2U2ZXeklhRjhSZXNkTnBXUkdKMkdWQQ?oc=5)
-- **[Creadores] Laura Acuña comparte emotiva imagen junto a sus hijos; Yeferson Cossio le dejó un mensaje - La Kalle** — 27/11/2026 12:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMG84WW5YV1JBaGRxdnpfcGpSLVhXTVB5dUtyTWYtV21zWEs0aTZuS2VVUWtYWEF0RFVKZzJHMS0yeS1nRTZzN2xELS1yVGpmZWR5LTUteDFObTdLVmdrY3Y3N3BtWm1vUF9jX01NZ3VPNHlsWS13Sm5wTjhYRThVY01QUHNtWjJLbDBiNEJ5MTlCRlB1WHRBRVo2TEx0UEpFeERtUlJDckJOR0hKc3pMZlhsYjFDcUFVaWNTSExSWVppOFBsWF8tbGNDdEFzYVMxS0dic2VaVXQ3YkhHT2YtMU1NUHhoODBqdkhnU1oxQdIB7wFBVV95cUxNMG84WW5YV1JBaGRxdnpfcGpSLVhXTVB5dUtyTWYtV21zWEs0aTZuS2VVUWtYWEF0RFVKZzJHMS0yeS1nRTZzN2xELS1yVGpmZWR5LTUteDFObTdLVmdrY3Y3N3BtWm1vUF9jX01NZ3VPNHlsWS13Sm5wTjhYRThVY01QUHNtWjJLbDBiNEJ5MTlCRlB1WHRBRVo2TEx0UEpFeERtUlJDckJOR0hKc3pMZlhsYjFDcUFVaWNTSExSWVppOFBsWF8tbGNDdEFzYVMxS0dic2VaVXQ3YkhHT2YtMU1NUHhoODBqdkhnU1oxQQ?oc=5)
 - **[Creadores] Laura Acuña comparte emotiva imagen junto a sus hijos; Yeferson Cossio le dejó un mensaje - La Kalle** — 27/11/2026 12:57 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa25CUkR5aThUaEFKcU5BdE1tZHNsZXBkOENhTjFqellRYlNBWXhjY04zSUNmR3RBWTBzMlVpZFBBbEtJczlIbXVnNlVzSDJWRVhOa1lBelVWekI5a3ZkS3lteHBPTUdSVnlOVEFSZkF3RHFlanZsTG93RzB5Sk9DaFRNaGhZYlBXaVF1V19iY2lOQjcxYUVBd2FmVkM2M1Q4NWw0b2VMcTJ4ODZDS01UY0QzcmVsdlhyV0lCVC10Q1ZVa0hyM3VtU0NLbFRob0pIU1d3V1FpVGVDNUd1dlFwVUFB0gHvAUFVX3lxTE0wbzhZblhXUkFoZHF2el9walItWFdNUHl1S3JNZi1XbXNYSzRpNm5LZVVRa1hYQXREVUpnMkcxLTJ5LWdFNnM3bEQtLXJUamZlZHktNS14MU5tN0tWZ2tjdjc3cG1abW9QX2NfTU1ndU80eWxZLXdKbnBOOFhFOFVjTVBQc21aMktsMGI0QnkxOUJGUHVYdEFFWjZMTHRQSkV4RG1SUkNyQk5HSEpzekxmWGxiMUNxQVVpY1NITFJZWmk4UGxYXy1sY0N0QXNhUzFLR2JzZVpVdDdiSEdPZi0xTU1QeGg4MGp2SGdTWjFB?oc=5)
 - **[Creadores] Westcol en el Congreso: su visita por los 100 años del Capitolio desató polémica - Canal TRO** — 26/11/2026 06:22 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMicEFVX3lxTFBHZlJmS0Vnck9xZUt1M1k2akdKOWNxN2RRNXduN2FadHVZNHB5X2h5NWtUdURKWkpSV0IwUzEzeVBzcmFGRWVlRnlnNUlNbmdQTExHUjNWaGxLcHFJMkd6Qm5aVnFaRURXS1NEQlJPUGc?oc=5)
-- **[Creadores] Así fue la llamada de Westcol a Álvaro Uribe desde el Congreso - La Opinión Cúcuta** — 26/11/2026 12:52 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxPZEtXYkVXRlRlNTJObUlSbXlnSTVRYzFBUXdRZnpTWHZXTWozOUFrMktIajE5bEloLWRYbUtTUG4wY0g0RXFfX1p5TVlxbWc4Q1R4RGVfN3pjZ1hjVW9yOHBqdG1NYUc1STN1X2NlN3hMM2QwN0hzT0pvZVo3MkNINmFyY2ZINVc4bm02ZXZnbHE2eHdRbzFva3IyYXZJZw?oc=5)
-- **[Creadores] Ignacio Baladán habló de su matrimonio con La Segura - La Revista Actual** — 25/11/2026 08:08 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNl8yZlY2YmZFTVhMYWY3RUw2czM0WkZJYmR2QzhVXzdtZ2RCYUlxWEJLTXNneElOa0Vja0g5LTQtSTVneVFfRkl5eVExNUtXQnE4OHYtcUNfQ2lOdlZhQThTQUR4Wi1yV3BtczdQOVgzS0o0QWNFdnN0LTVLUFZ2ZndJN0R0dWJTdS00Sk93?oc=5)
+- **[Creadores] Yina Calderón reaccionó sorprendida a la ruptura de Yeferson Cossio y Carolina Gómez - HSB Noticias** — 26/11/2026 02:07 PM — [Abrir fuente](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVHNKdDRXU3IxSUpOakk5UUh0N3FIM3A1X0MyQ0ppSWx2bHhwRkprdFBNTTRuTHc1clk2ZFVLZzNrLTBjNnRBZVFJN2hFMXM4UFB1RlJjcWlPRjdsOGwwWm1Eak5SZzhVWHJIa3h4c0gwX0JiVktFSkpLUE5wc2ZGVGxkNlNUTUUwREVmOFBtT1NGUUZuZmNub24yWm9PLTdSdE8xaGJfUERTcjI3TnZmalBLd1BkWDAyNmJ2MHRJd3FscURiUmluWXlMR0JncmtmTXhwQms3Q3Ewb3FlT013alBHQ0EzR2RzdWJUTy1ucjJNMndIY2h1UlUyME92SDdzZEVkZ2hVaHdMZGhtTUcwVkowbjgwNVM1?oc=5)
 
 ## Creadores principales vigilados
 
